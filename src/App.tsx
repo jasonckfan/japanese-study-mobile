@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { useVocab } from './hooks/useVocab';
 import { initialScenarios } from './data/vocab';
 import './styles/App.css';
@@ -58,12 +58,24 @@ const Flashcard: React.FC<{
   );
 };
 
-const ActionButtons: React.FC<{ onReview: (mastered: boolean) => void; disabled?: boolean }> = ({ onReview, disabled }) => (
+const ActionButtons: React.FC<{
+  onReview: (mastered: boolean) => void;
+  disabled?: boolean;
+  feedback?: 'mastered' | 'review' | null;
+}> = ({ onReview, disabled, feedback }) => (
   <div className="action-buttons">
-    <button className="action-btn review" onClick={() => onReview(false)} disabled={disabled}>
+    <button
+      className={`action-btn review ${feedback === 'review' ? 'feedback-pulse' : ''}`}
+      onClick={() => onReview(false)}
+      disabled={disabled}
+    >
       再学習
     </button>
-    <button className="action-btn mastered" onClick={() => onReview(true)} disabled={disabled}>
+    <button
+      className={`action-btn mastered ${feedback === 'mastered' ? 'feedback-pulse' : ''}`}
+      onClick={() => onReview(true)}
+      disabled={disabled}
+    >
       已掌握
     </button>
   </div>
@@ -71,8 +83,30 @@ const ActionButtons: React.FC<{ onReview: (mastered: boolean) => void; disabled?
 
 const VocabularyView: React.FC = () => {
   const { currentCard, isFlipped, setIsFlipped, handleReview, progress } = useVocab();
+  const [feedback, setFeedback] = useState<'mastered' | 'review' | null>(null);
+  const feedbackTimeoutRef = useRef<number | null>(null);
+
+  useEffect(() => {
+    return () => {
+      if (feedbackTimeoutRef.current !== null) {
+        window.clearTimeout(feedbackTimeoutRef.current);
+      }
+    };
+  }, []);
 
   const onActionReview = (mastered: boolean) => {
+    if (typeof navigator !== 'undefined' && 'vibrate' in navigator) {
+      navigator.vibrate(mastered ? [24] : [10, 28, 10]);
+    }
+
+    setFeedback(mastered ? 'mastered' : 'review');
+    if (feedbackTimeoutRef.current !== null) {
+      window.clearTimeout(feedbackTimeoutRef.current);
+    }
+    feedbackTimeoutRef.current = window.setTimeout(() => {
+      setFeedback(null);
+    }, 320);
+
     handleReview(mastered);
   };
   
@@ -95,7 +129,12 @@ const VocabularyView: React.FC = () => {
             onFlip={() => setIsFlipped(!isFlipped)}
           />
           {!isFlipped && <div className="action-hint">可先翻卡查看答案，再選擇下方按鈕</div>}
-          <ActionButtons onReview={onActionReview} />
+          <ActionButtons onReview={onActionReview} feedback={feedback} />
+          {feedback && (
+            <div className={`action-feedback ${feedback}`}>
+              {feedback === 'mastered' ? '✓ 已記錄：已掌握' : '↺ 已記錄：再學習'}
+            </div>
+          )}
         </>
       )}
     </div>
