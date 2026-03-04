@@ -58,13 +58,14 @@ export function useVocab() {
     const currentCard = updatedCards[currentIndex];
 
     if (mastered) {
-      const newInterval = Math.min(currentCard.interval === 0 ? 1 : currentCard.interval * 2, 30);
+      const intervalSteps = [1, 3, 7, 14, 30];
+      const newInterval = intervalSteps.find((step) => step > currentCard.interval) ?? 30;
       updatedCards[currentIndex] = {
         ...currentCard,
         interval: newInterval,
         nextReview: now + newInterval * dayMs,
         reviewCount: currentCard.reviewCount + 1,
-        mastered: newInterval >= 7,
+        mastered: true,
       };
     } else {
       updatedCards[currentIndex] = {

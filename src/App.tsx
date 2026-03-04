@@ -73,11 +73,6 @@ const VocabularyView: React.FC = () => {
   const { currentCard, isFlipped, setIsFlipped, handleReview, progress } = useVocab();
 
   const onActionReview = (mastered: boolean) => {
-    // 手機上常見誤觸：若未翻卡先翻面，第二次點擊才記錄學習結果
-    if (!isFlipped) {
-      setIsFlipped(true);
-      return;
-    }
     handleReview(mastered);
   };
   
@@ -99,7 +94,7 @@ const VocabularyView: React.FC = () => {
             isFlipped={isFlipped} 
             onFlip={() => setIsFlipped(!isFlipped)}
           />
-          {!isFlipped && <div className="action-hint">先按卡片（或直接按下方按鈕）查看答案</div>}
+          {!isFlipped && <div className="action-hint">可先翻卡查看答案，再選擇下方按鈕</div>}
           <ActionButtons onReview={onActionReview} />
         </>
       )}
