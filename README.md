@@ -1,76 +1,132 @@
 # 日本語道場 (Nihongo Dojo)
 
-A mobile-first Japanese learning web app with vocabulary flashcards and conversation practice.
+![Deploy to GitHub Pages](https://github.com/jasonckfan/japanese-study-mobile/actions/workflows/deploy-pages.yml/badge.svg)
 
-## Features
+一個以 **手機優先（Mobile-first）** 設計的日語學習 Web App，集中在：
+- 單字記憶（翻卡 + 間隔複習）
+- 情景會話練習（角色對話 + 片語庫）
+- 學習進度追蹤（總數 / 已掌握 / 待複習）
 
-### 📚 Vocabulary Memory Training
-- Flashcards with furigana, Chinese meanings, and example sentences
-- Spaced repetition scheduling (再學習 / 已掌握)
-- Progress tracking with mastery levels (N5/N4)
-- LocalStorage persistence
+## 🌐 線上版本
 
-### 💬 Conversation Practice
-- 6 situational scenarios: Restaurant, Office, Travel, Shopping, Train, Hospital
-- Role-play chat practice with phrase banks
-- Character role indicators
+> GitHub Pages（部署完成後）：
+>
+> https://jasonckfan.github.io/japanese-study-mobile/
 
-## Tech Stack
+---
 
-- React 18
+## ✨ 主要功能
+
+### 1) 單字訓練（Vocabulary）
+- 日文單字 + 振假名（furigana）
+- 中文詞義 + 例句
+- 翻卡查看答案
+- 「再學習 / 已掌握」兩段式操作，降低誤觸
+- 以 `localStorage` 儲存學習狀態
+
+### 2) 情景會話（Conversation）
+- 6 個常見情景：餐廳、辦公室、旅行、購物、電車、醫院
+- 角色對話氣泡
+- 片語 bank 快速練習
+
+### 3) 進度統計（Progress）
+- 總單字數 / 習得済み / 復習必要
+- 習得率視覺化
+- 一鍵重置進度
+
+---
+
+## 📱 功能截圖
+
+### 單字訓練
+![Vocabulary Tab](docs/screenshots/vocab-tab.png)
+
+### 會話情景
+![Conversation Tab](docs/screenshots/conversation-tab.png)
+
+### 學習進度
+![Progress Tab](docs/screenshots/progress-tab.png)
+
+---
+
+## 🧰 技術棧
+
+- React 19
 - TypeScript
 - Vite
-- CSS (custom styles, mobile-first)
-- localStorage for data persistence
+- 純 CSS（客製化 Mobile-first 版面）
+- localStorage（前端本地資料持久化）
 
-## Getting Started
+---
 
-### Prerequisites
-- Node.js 18+ 
+## 🚀 本機開發
+
+### 環境需求
+- Node.js 18+
 - npm
 
-### Installation
-
+### 安裝依賴
 ```bash
 npm install
 ```
 
-### Development
-
+### 啟動開發模式
 ```bash
 npm run dev
 ```
 
-### Build
-
+### 打包建置
 ```bash
 npm run build
 ```
 
-## Project Structure
-
+### 本機預覽建置結果
+```bash
+npm run preview
 ```
+
+---
+
+## 📦 專案結構
+
+```text
 src/
-├── components/       # React components
-├── data/            # Sample vocab and scenarios
-├── hooks/           # Custom hooks (useVocab, useStats)
-├── styles/          # CSS styles
-├── types/           # TypeScript interfaces
-└── App.tsx          # Main app component
+├── components/      # React 元件
+├── data/            # 單字與情景資料
+├── hooks/           # 自訂 hooks（useVocab 等）
+├── styles/          # 全域與頁面樣式
+├── types/           # TypeScript 型別
+└── App.tsx          # 主入口頁
+
+.github/workflows/
+└── deploy-pages.yml # GitHub Pages 自動部署
+
+docs/screenshots/
+└── *.png            # README 截圖資產
 ```
 
-## Sample Data
+---
 
-- **25 vocabulary words** (N5/N4 level)
-- **6 conversation scenarios**
+## 🤖 GitHub Pages 自動部署
 
-## Mobile-First Design
+此專案已設定 GitHub Actions 自動部署：
 
-The app is designed with a mobile-first approach:
-- Dark navy hero section with large Japanese typography
-- Bottom tab navigation
-- Rounded card panels
-- Touch-friendly interactions with micro-animations
+- 觸發條件：`push` 到 `main`
+- 流程：Install → Build → Upload Artifact → Deploy to Pages
+- 部署目標：GitHub Pages
+
+若要手動觸發，可到 Actions 執行 `Deploy Vite site to GitHub Pages` workflow。
+
+---
+
+## 🗺️ 後續可擴充
+
+- 使用者自訂單字集（匯入 CSV / JSON）
+- 真實 SRS 演算法（SM-2 等）
+- PWA 離線學習能力
+- 單字發音（TTS）
+
+---
 
 ## License
 
