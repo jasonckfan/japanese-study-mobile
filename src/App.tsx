@@ -1,9 +1,10 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { useVocab } from './hooks/useVocab';
 import { initialScenarios } from './data/vocab';
+import { sigureResources } from './data/sigure';
 import './styles/App.css';
 
-type TabType = 'vocab' | 'conversation' | 'progress';
+type TabType = 'vocab' | 'conversation' | 'materials' | 'progress';
 
 const HeroSection: React.FC = () => (
   <div className="hero-section">
@@ -228,6 +229,41 @@ const ConversationView: React.FC = () => {
   );
 };
 
+const MaterialsView: React.FC = () => {
+  return (
+    <div className="fade-in">
+      <HeroSection />
+
+      <div className="stats-card">
+        <div className="stats-card-title">學習素材（參考：時雨の町）</div>
+        <p style={{ color: 'var(--text-secondary)', fontSize: '0.85rem', lineHeight: 1.6 }}>
+          已把時雨網站常用學習路徑整合成可直達素材。建議流程：
+          <br />① 先在本站做題 → ② 回本 App 複習錯題詞彙/句型 → ③ 再進入會話情境實戰。
+        </p>
+      </div>
+
+      {sigureResources.map((item) => (
+        <div key={item.id} className="stats-card" style={{ marginBottom: 12 }}>
+          <div style={{ display: 'flex', justifyContent: 'space-between', gap: 12, alignItems: 'center' }}>
+            <strong>{item.title}</strong>
+            <span className={`flashcard-level ${item.level}`} style={{ position: 'static' }}>{item.level}</span>
+          </div>
+          <p style={{ marginTop: 8, color: 'var(--text-secondary)', fontSize: '0.85rem' }}>{item.description}</p>
+          <p style={{ marginTop: 8, fontSize: '0.8rem', color: 'var(--accent-gold)' }}>重點：{item.focus}</p>
+          <a
+            href={item.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ display: 'inline-block', marginTop: 10, color: 'var(--success-green)', fontSize: '0.82rem' }}
+          >
+            前往素材 ↗
+          </a>
+        </div>
+      ))}
+    </div>
+  );
+};
+
 const ProgressView: React.FC = () => {
   const { progress, resetProgress } = useVocab();
   
@@ -269,6 +305,7 @@ const TabBar: React.FC<{ activeTab: TabType; onTabChange: (tab: TabType) => void
   const tabs: { id: TabType; icon: string; label: string }[] = [
     { id: 'vocab', icon: '📚', label: '単語' },
     { id: 'conversation', icon: '💬', label: '会話' },
+    { id: 'materials', icon: '🧭', label: '素材' },
     { id: 'progress', icon: '📊', label: '進捗' },
   ];
   
@@ -300,6 +337,7 @@ const App: React.FC = () => {
       <main className="main-content">
         {activeTab === 'vocab' && <VocabularyView />}
         {activeTab === 'conversation' && <ConversationView />}
+        {activeTab === 'materials' && <MaterialsView />}
         {activeTab === 'progress' && <ProgressView />}
       </main>
       
