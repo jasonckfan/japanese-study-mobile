@@ -186,9 +186,6 @@ const ChatPractice: React.FC<{ scenario: typeof initialScenarios[0]; onBack: () 
   const { supported, speak } = useSpeech();
   const lastSpeakTsRef = useRef(0);
 
-  const dialogueTextSet = new Set(messages.map((item) => item.text.trim()));
-  const practicePhrases = scenario.phrases.filter((phrase) => !dialogueTextSet.has(phrase.text.trim()));
-
   const replayStarter = () => {
     const starter = messages.slice(0, 2);
     starter.forEach((item, i) => {
@@ -241,7 +238,7 @@ const ChatPractice: React.FC<{ scenario: typeof initialScenarios[0]; onBack: () 
         </div>
 
         <div className="phrase-bank">
-          <div className="phrase-bank-title">播放設定與延伸練習</div>
+          <div className="phrase-bank-title">播放設定</div>
           {!supported && <div className="speech-warning" style={{ marginBottom: 10 }}>⚠️ 瀏覽器不支援發音</div>}
           {supported && (
             <div className="speech-controls" style={{ marginBottom: 10 }}>
@@ -250,20 +247,6 @@ const ChatPractice: React.FC<{ scenario: typeof initialScenarios[0]; onBack: () 
               <button className={`chip ${speechRate === 0.9 ? 'active' : ''}`} onClick={() => setSpeechRate(0.9)}>正常</button>
               <button className={`chip ${speechRate === 1 ? 'active' : ''}`} onClick={() => setSpeechRate(1)}>偏快</button>
               <button className="chip" onClick={replayStarter}>A/B 重播</button>
-            </div>
-          )}
-          {practicePhrases.length > 0 && (
-            <div className="phrase-chips">
-              {practicePhrases.map((phrase, idx) => (
-                <button
-                  key={idx}
-                  className="phrase-chip"
-                  onClick={() => speak(phrase.text, { rate: speechRate })}
-                  title={phrase.meaning}
-                >
-                  {phrase.text}
-                </button>
-              ))}
             </div>
           )}
         </div>
