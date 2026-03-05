@@ -90,13 +90,14 @@ const ActionButtons: React.FC<{
 type LevelFilter = 'all' | 'N5' | 'N4' | 'N3' | 'N2' | 'N1';
 
 const VocabularyView: React.FC = () => {
-  const { cards, currentCard, currentIndex, setCurrentIndex, isFlipped, setIsFlipped, handleReview, progress } = useVocab();
+  const { cards, currentCard, currentIndex, setCurrentIndex, isFlipped, setIsFlipped, handleReview, syncWithLatestData, progress } = useVocab();
   const { supported, speak, stop } = useSpeech();
   const [speechRate, setSpeechRate] = useState(0.9);
   const [autoPlay, setAutoPlay] = useState(true);
   const [levelFilter, setLevelFilter] = useState<LevelFilter>('all');
   const [jumpInput, setJumpInput] = useState('');
   const [feedback, setFeedback] = useState<'mastered' | 'review' | null>(null);
+  const [syncNotice, setSyncNotice] = useState('');
   const feedbackTimeoutRef = useRef<number | null>(null);
   const pendingAutoSpeakCardIdRef = useRef<string | null>(null);
   const lastSpokenIndexRef = useRef<number | null>(null);
@@ -221,6 +222,12 @@ const VocabularyView: React.FC = () => {
     handleReview(mastered, nextIndex);
   };
 
+  const onManualSync = () => {
+    const total = syncWithLatestData();
+    setSyncNotice(`已同步最新詞庫（${total} 詞）`);
+    window.setTimeout(() => setSyncNotice(''), 1500);
+  };
+
   return (
     <div className="fade-in">
       <HeroSection />
@@ -266,6 +273,11 @@ const VocabularyView: React.FC = () => {
             />
             <button className="chip jump-btn" onClick={onJumpToIndex}>前往</button>
           </div>
+        </div>
+
+        <div className="jump-row">
+          <button className="chip jump-btn" onClick={onManualSync}>手動同步最新詞庫</button>
+          {syncNotice && <span className="position-indicator">{syncNotice}</span>}
         </div>
       </div>
 

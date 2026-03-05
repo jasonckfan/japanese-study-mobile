@@ -26,36 +26,7 @@ export function useVocab() {
     if (stored) {
       try {
         const parsed: VocabCard[] = JSON.parse(stored);
-        const latestMap = new Map(initialVocabData.map((card) => [card.id, card]));
-
-        // 合併最新詞庫內容（讀音/例句等）與既有學習進度，避免舊 localStorage 卡住舊資料
-        const mergedCards: VocabCard[] = parsed.map((oldCard) => {
-          const latest = latestMap.get(oldCard.id);
-          if (!latest) return oldCard;
-          return {
-            ...oldCard,
-            word: latest.word,
-            furigana: latest.furigana,
-            meaning: latest.meaning,
-            example: latest.example,
-            exampleMeaning: latest.exampleMeaning,
-            level: latest.level,
-          };
-        });
-
-        // 若詞庫新增詞條，補進去（進度設為初始）
-        const existingIds = new Set(mergedCards.map((card) => card.id));
-        const appended = initialVocabData
-          .filter((card) => !existingIds.has(card.id))
-          .map((card) => ({
-            ...card,
-            nextReview: Date.now(),
-            interval: 0,
-            reviewCount: 0,
-            mastered: false,
-          }));
-
-        const finalCards = [...mergedCards, ...appended];
+        const finalCards = mergeWithLatestCards(parsed);
         setCards(finalCards);
         localStorage.setItem(STORAGE_KEYS.VOCAB, JSON.stringify(finalCards));
       } catch {
@@ -85,6 +56,37 @@ export function useVocab() {
   const saveCards = useCallback((newCards: VocabCard[]) => {
     localStorage.setItem(STORAGE_KEYS.VOCAB, JSON.stringify(newCards));
     setCards(newCards);
+  }, []);
+
+  const mergeWithLatestCards = useCallback((baseCards: VocabCard[]) => {
+    const latestMap = new Map(initialVocabData.map((card) => [card.id, card]));
+
+    const mergedCards: VocabCard[] = baseCards.map((oldCard) => {
+      const latest = latestMap.get(oldCard.id);
+      if (!latest) return oldCard;
+      return {
+        ...oldCard,
+        word: latest.word,
+        furigana: latest.furigana,
+        meaning: latest.meaning,
+        example: latest.example,
+        exampleMeaning: latest.exampleMeaning,
+        level: latest.level,
+      };
+    });
+
+    const existingIds = new Set(mergedCards.map((card) => card.id));
+    const appended = initialVocabData
+      .filter((card) => !existingIds.has(card.id))
+      .map((card) => ({
+        ...card,
+        nextReview: Date.now(),
+        interval: 0,
+        reviewCount: 0,
+        mastered: false,
+      }));
+
+    return [...mergedCards, ...appended];
   }, []);
 
   const getDueCards = useCallback(() => {
@@ -147,6 +149,25 @@ export function useVocab() {
     setIsFlipped(false);
   }, [saveCards]);
 
+  const syncWithLatestData = useCallback(() => {
+    const baseCards = cards.length > 0
+      ? cards
+      : initialVocabData.map((card) => ({
+          ...card,
+          nextReview: Date.now(),
+          interval: 0,
+          reviewCount: 0,
+          mastered: false,
+        }));
+
+    const syncedCards = mergeWithLatestCards(baseCards);
+    localStorage.setItem(STORAGE_KEYS.VOCAB, JSON.stringify(syncedCards));
+    setCards(syncedCards);
+    setCurrentIndex((prev) => (syncedCards.length === 0 ? 0 : Math.min(prev, syncedCards.length - 1)));
+    setIsFlipped(false);
+    return syncedCards.length;
+  }, [cards, mergeWithLatestCards]);
+
   return {
     cards,
     currentCard: cards[currentIndex],
@@ -157,6 +178,7 @@ export function useVocab() {
     setIsFlipped,
     handleReview,
     resetProgress,
+    syncWithLatestData,
     progress: {
       total: cards.length,
       mastered: cards.filter((c) => c.mastered).length,
