@@ -226,7 +226,6 @@ const ChatPractice: React.FC<{ scenario: typeof initialScenarios[0]; onBack: () 
                 type="button"
                 className={`chat-bubble ${isFirstRole ? 'customer' : 'staff'}`}
                 onClick={() => triggerBubbleSpeech(msg.text)}
-                onPointerUp={() => triggerBubbleSpeech(msg.text)}
                 aria-label={`播放：${speechText}`}
                 title="點擊對話框播放發音"
               >

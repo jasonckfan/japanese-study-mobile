@@ -10,6 +10,7 @@ export function useSpeech() {
   const [supported, setSupported] = useState(false);
   const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([]);
   const [isSpeaking, setIsSpeaking] = useState(false);
+  const speakingRef = useRef(false);
   const lastSpeakRef = useRef<{ text: string; ts: number }>({ text: '', ts: 0 });
   const speakTimerRef = useRef<number | null>(null);
 
@@ -55,6 +56,7 @@ export function useSpeech() {
       speakTimerRef.current = null;
     }
     window.speechSynthesis.cancel();
+    speakingRef.current = false;
     setIsSpeaking(false);
   }, [supported]);
 
@@ -62,11 +64,11 @@ export function useSpeech() {
     (text: string, options?: SpeakOptions) => {
       if (!supported || !text?.trim()) return;
 
-      const normalized = text.trim();
+      const normalized = text.replace(/\s+/g, ' ').trim();
       const now = Date.now();
 
-      // 防止 iOS Safari 在極短時間重入造成開頭字重複
-      if (lastSpeakRef.current.text === normalized && now - lastSpeakRef.current.ts < 320) {
+      // 防止 Safari 在極短時間重入造成首字重複
+      if (lastSpeakRef.current.text === normalized && now - lastSpeakRef.current.ts < 450) {
         return;
       }
       lastSpeakRef.current = { text: normalized, ts: now };
@@ -76,9 +78,11 @@ export function useSpeech() {
         speakTimerRef.current = null;
       }
 
-      window.speechSynthesis.cancel();
+      // 僅在真的播放中才 cancel，避免每次 cancel 導致頭字重複
+      if (speakingRef.current || window.speechSynthesis.speaking || window.speechSynthesis.pending) {
+        window.speechSynthesis.cancel();
+      }
 
-      // 讓 cancel 先落地，再 speak，避免部分瀏覽器頭字重複/咬字
       speakTimerRef.current = window.setTimeout(() => {
         const utterance = new SpeechSynthesisUtterance(normalized);
         utterance.lang = preferredVoice?.lang || 'ja-JP';
@@ -87,12 +91,21 @@ export function useSpeech() {
         utterance.pitch = options?.pitch ?? 1;
         utterance.volume = options?.volume ?? 1;
 
-        utterance.onstart = () => setIsSpeaking(true);
-        utterance.onend = () => setIsSpeaking(false);
-        utterance.onerror = () => setIsSpeaking(false);
+        utterance.onstart = () => {
+          speakingRef.current = true;
+          setIsSpeaking(true);
+        };
+        utterance.onend = () => {
+          speakingRef.current = false;
+          setIsSpeaking(false);
+        };
+        utterance.onerror = () => {
+          speakingRef.current = false;
+          setIsSpeaking(false);
+        };
 
         window.speechSynthesis.speak(utterance);
-      }, 80);
+      }, 120);
     },
     [preferredVoice, supported],
   );
