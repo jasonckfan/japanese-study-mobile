@@ -327,6 +327,53 @@ html, body, #root {
   color: var(--accent-gold);
 }
 
+.vocab-controls {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.difficulty-row,
+.jump-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+.difficulty-label,
+.position-indicator {
+  font-size: 0.76rem;
+  color: var(--text-secondary);
+  min-width: 48px;
+}
+
+.jump-row {
+  justify-content: space-between;
+}
+
+.jump-input-wrap {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+.jump-input {
+  width: 88px;
+  padding: 6px 8px;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text-primary);
+  font-size: 0.78rem;
+}
+
+.jump-btn {
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
 .flashcard-meaning {
   font-size: 1.5rem;
   font-weight: 600;

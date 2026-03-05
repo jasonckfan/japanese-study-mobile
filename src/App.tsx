@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { useVocab } from './hooks/useVocab';
 import { useSpeech } from './hooks/useSpeech';
 import { initialScenarios } from './data/vocab';
@@ -87,17 +87,50 @@ const ActionButtons: React.FC<{
   </div>
 );
 
+type DifficultyFilter = 'all' | 'easy' | 'medium' | 'hard';
+
 const VocabularyView: React.FC = () => {
-  const { cards, currentCard, currentIndex, isFlipped, setIsFlipped, handleReview, progress } = useVocab();
+  const { cards, currentCard, currentIndex, setCurrentIndex, isFlipped, setIsFlipped, handleReview, progress } = useVocab();
   const { supported, speak, stop } = useSpeech();
   const [speechRate, setSpeechRate] = useState(0.9);
   const [autoPlay, setAutoPlay] = useState(true);
+  const [difficultyFilter, setDifficultyFilter] = useState<DifficultyFilter>('all');
+  const [jumpInput, setJumpInput] = useState('');
   const [feedback, setFeedback] = useState<'mastered' | 'review' | null>(null);
   const feedbackTimeoutRef = useRef<number | null>(null);
   const pendingAutoSpeakCardIdRef = useRef<string | null>(null);
   const lastSpokenIndexRef = useRef<number | null>(null);
   const autoSpeakTimerRef = useRef<number | null>(null);
   const targetSpeakCardIdRef = useRef<string | null>(null);
+
+  const getDifficulty = useCallback((card: (typeof cards)[number]): Exclude<DifficultyFilter, 'all'> => {
+    // 實務分級（兼容資料欄位缺省）：
+    // 易：已掌握或長間隔/高複習次數；中：已有一定練習；難：新詞或低熟悉度。
+    const reviewCount = card.reviewCount ?? 0;
+    const interval = card.interval ?? 0;
+
+    if (card.mastered || interval >= 7 || reviewCount >= 8) return 'easy';
+    if (reviewCount >= 3 || interval >= 3) return 'medium';
+    return 'hard';
+  }, []);
+
+  const filteredIndices = useMemo(() => {
+    return cards
+      .map((card, index) => ({ card, index }))
+      .filter(({ card }) => difficultyFilter === 'all' || getDifficulty(card) === difficultyFilter)
+      .map(({ index }) => index);
+  }, [cards, difficultyFilter, getDifficulty]);
+
+  const filteredCurrentPosition = filteredIndices.indexOf(currentIndex);
+  const activeCard = filteredCurrentPosition >= 0 ? cards[currentIndex] : undefined;
+
+  useEffect(() => {
+    if (filteredIndices.length === 0) return;
+    if (filteredCurrentPosition === -1) {
+      setCurrentIndex(filteredIndices[0]);
+      setIsFlipped(false);
+    }
+  }, [filteredIndices, filteredCurrentPosition, setCurrentIndex, setIsFlipped]);
 
   useEffect(() => {
     return () => {
@@ -123,7 +156,6 @@ const VocabularyView: React.FC = () => {
     }
     if (!supported || !currentCard) return;
 
-    // 初次載入：播放一次
     if (lastSpokenIndexRef.current === null) {
       lastSpokenIndexRef.current = currentIndex;
       if (autoSpeakTimerRef.current !== null) {
@@ -139,7 +171,6 @@ const VocabularyView: React.FC = () => {
       return;
     }
 
-    // 只在 review 後切到「預期下一張卡」時自動播，避免播到前一張
     const pendingCardId = pendingAutoSpeakCardIdRef.current;
     if (
       pendingCardId &&
@@ -161,15 +192,30 @@ const VocabularyView: React.FC = () => {
     }
   }, [supported, autoPlay, currentCard, currentIndex, speechRate, speak, stop]);
 
+  const onJumpToIndex = () => {
+    if (filteredIndices.length === 0) return;
+    const parsed = Number.parseInt(jumpInput, 10);
+    if (!Number.isFinite(parsed)) return;
+    const normalized = Math.max(1, Math.min(parsed, filteredIndices.length));
+    setCurrentIndex(filteredIndices[normalized - 1]);
+    setIsFlipped(false);
+    setJumpInput(String(normalized));
+  };
+
   const onActionReview = (mastered: boolean) => {
     if (typeof navigator !== 'undefined' && 'vibrate' in navigator) {
       navigator.vibrate(mastered ? [24] : [10, 28, 10]);
     }
 
-    if (autoPlay && cards.length > 0) {
-      const nextIndex = (currentIndex + 1) % cards.length;
+    const currentPos = filteredIndices.indexOf(currentIndex);
+    const hasFilteredCards = filteredIndices.length > 0;
+    const nextPos = hasFilteredCards
+      ? ((currentPos >= 0 ? currentPos : 0) + 1) % filteredIndices.length
+      : 0;
+    const nextIndex = hasFilteredCards ? filteredIndices[nextPos] : undefined;
+
+    if (autoPlay && typeof nextIndex === 'number') {
       pendingAutoSpeakCardIdRef.current = cards[nextIndex]?.id ?? null;
-      // 先中止目前卡片（包含背面例句）的語音，避免誤聽成下一張
       stop();
     } else {
       pendingAutoSpeakCardIdRef.current = null;
@@ -183,9 +229,9 @@ const VocabularyView: React.FC = () => {
       setFeedback(null);
     }, 320);
 
-    handleReview(mastered);
+    handleReview(mastered, nextIndex);
   };
-  
+
   return (
     <div className="fade-in">
       <HeroSection />
@@ -202,21 +248,56 @@ const VocabularyView: React.FC = () => {
           <button className={`chip ${autoPlay ? 'active' : ''}`} onClick={() => setAutoPlay((v) => !v)}>{autoPlay ? '自動播放: 開' : '自動播放: 關'}</button>
         </div>
       )}
-      
+
+      <div className="vocab-controls">
+        <div className="difficulty-row">
+          <span className="difficulty-label">難度</span>
+          <button className={`chip ${difficultyFilter === 'all' ? 'active' : ''}`} onClick={() => setDifficultyFilter('all')}>全部</button>
+          <button className={`chip ${difficultyFilter === 'easy' ? 'active' : ''}`} onClick={() => setDifficultyFilter('easy')}>易</button>
+          <button className={`chip ${difficultyFilter === 'medium' ? 'active' : ''}`} onClick={() => setDifficultyFilter('medium')}>中</button>
+          <button className={`chip ${difficultyFilter === 'hard' ? 'active' : ''}`} onClick={() => setDifficultyFilter('hard')}>難</button>
+        </div>
+
+        <div className="jump-row">
+          <span className="position-indicator">
+            位置 {filteredIndices.length === 0 || filteredCurrentPosition < 0 ? 0 : filteredCurrentPosition + 1}/{filteredIndices.length}
+          </span>
+          <div className="jump-input-wrap">
+            <input
+              type="number"
+              inputMode="numeric"
+              min={1}
+              max={Math.max(filteredIndices.length, 1)}
+              value={jumpInput}
+              onChange={(e) => setJumpInput(e.target.value)}
+              placeholder="跳到 #"
+              className="jump-input"
+            />
+            <button className="chip jump-btn" onClick={onJumpToIndex}>前往</button>
+          </div>
+        </div>
+      </div>
+
       {progress.total === 0 ? (
         <div className="empty-state">
           <div className="empty-icon">📚</div>
           <div className="empty-title">単語がありません</div>
           <div className="empty-text">データを読み込み中...</div>
         </div>
+      ) : filteredIndices.length === 0 || !activeCard ? (
+        <div className="empty-state">
+          <div className="empty-icon">🧭</div>
+          <div className="empty-title">此難度暫無單字</div>
+          <div className="empty-text">請切換至其他難度</div>
+        </div>
       ) : (
         <>
-          <Flashcard 
-            card={currentCard} 
-            isFlipped={isFlipped} 
+          <Flashcard
+            card={activeCard}
+            isFlipped={isFlipped}
             onFlip={() => setIsFlipped(!isFlipped)}
-            onSpeakWord={() => currentCard && speak(currentCard.word, { rate: speechRate })}
-            onSpeakExample={() => currentCard && speak(currentCard.example, { rate: speechRate })}
+            onSpeakWord={() => activeCard && speak(activeCard.word, { rate: speechRate })}
+            onSpeakExample={() => activeCard && speak(activeCard.example, { rate: speechRate })}
           />
           {!isFlipped && <div className="action-hint">可先翻卡查看答案，再選擇下方按鈕</div>}
           <ActionButtons onReview={onActionReview} feedback={feedback} />

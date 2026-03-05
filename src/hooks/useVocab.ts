@@ -48,7 +48,7 @@ export function useVocab() {
     return cards.filter((card) => card.nextReview <= now || card.reviewCount === 0);
   }, [cards]);
 
-  const handleReview = useCallback((mastered: boolean) => {
+  const handleReview = useCallback((mastered: boolean, nextIndex?: number) => {
     if (cards.length === 0) return;
 
     const now = Date.now();
@@ -81,7 +81,12 @@ export function useVocab() {
     
     setIsFlipped(false);
     setTimeout(() => {
-      setCurrentIndex((prev) => (prev + 1) % cards.length);
+      if (typeof nextIndex === 'number' && Number.isFinite(nextIndex)) {
+        const bounded = ((Math.floor(nextIndex) % cards.length) + cards.length) % cards.length;
+        setCurrentIndex(bounded);
+      } else {
+        setCurrentIndex((prev) => (prev + 1) % cards.length);
+      }
     }, 300);
   }, [cards, currentIndex, saveCards]);
 
@@ -102,6 +107,7 @@ export function useVocab() {
     cards,
     currentCard: cards[currentIndex],
     currentIndex,
+    setCurrentIndex,
     isFlipped,
     dueCards: getDueCards(),
     setIsFlipped,
