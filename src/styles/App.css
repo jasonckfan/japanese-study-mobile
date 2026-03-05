@@ -371,6 +371,21 @@ html, body, #root {
   color: var(--primary-dark);
 }
 
+.flashcard-level.N3 {
+  background: #60a5fa;
+  color: var(--primary-dark);
+}
+
+.flashcard-level.N2 {
+  background: #a78bfa;
+  color: #fff;
+}
+
+.flashcard-level.N1 {
+  background: #f43f5e;
+  color: #fff;
+}
+
 .action-hint {
   font-size: 0.78rem;
   color: var(--text-secondary);

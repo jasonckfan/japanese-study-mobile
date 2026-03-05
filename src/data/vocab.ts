@@ -1,32 +1,7 @@
 import type { VocabCard } from '../types';
+import rawJlptVocab from './jlpt-vocab.json';
 
-export const initialVocabData: Omit<VocabCard, 'nextReview' | 'interval' | 'reviewCount' | 'mastered'>[] = [
-  { id: '1', word: '食べる', furigana: 'たべる', meaning: '吃', example: '寿司を食べる。', exampleMeaning: '吃寿司。', level: 'N5' },
-  { id: '2', word: '飲む', furigana: 'のむ', meaning: '喝', example: 'お茶を飲む。', exampleMeaning: '喝茶。', level: 'N5' },
-  { id: '3', word: '行く', furigana: 'いく', meaning: '去', example: '学校に行く。', exampleMeaning: '去学校。', level: 'N5' },
-  { id: '4', word: '来る', furigana: 'くる', meaning: '來', example: '友達が来る。', exampleMeaning: '朋友要來。', level: 'N5' },
-  { id: '5', word: '見る', furigana: 'みる', meaning: '看', example: '映画を見る。', exampleMeaning: '看電影。', level: 'N5' },
-  { id: '6', word: '聞く', furigana: 'きく', meaning: '聽/問', example: '音楽を聞く。', exampleMeaning: '聽音樂。', level: 'N5' },
-  { id: '7', word: '書く', furigana: 'かく', meaning: '寫', example: '手紙を書く。', exampleMeaning: '寫信。', level: 'N5' },
-  { id: '8', word: '読む', furigana: 'よむ', meaning: '讀', example: '本を読む。', exampleMeaning: '讀書。', level: 'N5' },
-  { id: '9', word: '話す', furigana: 'はなす', meaning: '說', example: '日本語を話す。', exampleMeaning: '說日語。', level: 'N5' },
-  { id: '10', word: '買う', furigana: 'かう', meaning: '買', example: '服を買う。', exampleMeaning: '買衣服。', level: 'N5' },
-  { id: '11', word: '売る', furigana: 'うる', meaning: '賣', example: '車を売る。', exampleMeaning: '賣車。', level: 'N5' },
-  { id: '12', word: '美しい', furigana: 'うつくしい', meaning: '美麗的', example: 'この花は美しい。', exampleMeaning: '這朵花很美。', level: 'N5' },
-  { id: '13', word: '面白い', furigana: 'おもしろい', meaning: '有趣的', example: 'この本は面白い。', exampleMeaning: '這本書很有趣。', level: 'N5' },
-  { id: '14', word: '近い', furigana: 'ちかい', meaning: '近的', example: '駅は近い。', exampleMeaning: '車站很近。', level: 'N5' },
-  { id: '15', word: '遠い', furigana: 'とおい', meaning: '遠的', example: '会社は遠い。', exampleMeaning: '公司很遠。', level: 'N5' },
-  { id: '16', word: '大きい', furigana: 'おおきい', meaning: '大的', example: 'この犬は大きい。', exampleMeaning: '這隻狗很大。', level: 'N5' },
-  { id: '17', word: '小さい', furigana: 'ちいさい', meaning: '小的', example: 'この子は小さい。', exampleMeaning: '這孩子很小。', level: 'N5' },
-  { id: '18', word: '新しい', furigana: 'あたらしい', meaning: '新的', example: '新しい靴を買った。', exampleMeaning: '買了新鞋子。', level: 'N5' },
-  { id: '19', word: '古い', furigana: 'ふるい', meaning: '舊的', example: 'この家は古い。', exampleMeaning: '這房子很舊。', level: 'N5' },
-  { id: '20', word: '必要がある', furigana: 'ひつようがある', meaning: '有必要...', example: '日本語を勉強する必要がある。', exampleMeaning: '有必要學習日語。', level: 'N4' },
-  { id: '21', word: 'ようになる', furigana: 'ようになる', meaning: '變得會...', example: '日本語を話せるようになった。', exampleMeaning: '變得會說日語了。', level: 'N4' },
-  { id: '22', word: 'ために', furigana: 'ために', meaning: '為了', example: '日本語を勉強するために、日本に行った。', exampleMeaning: '為了學習日語，去了日本。', level: 'N4' },
-  { id: '23', word: 'しかし', furigana: 'しかし', meaning: '但是', example: '彼は優しい。しかし、お金がない。', exampleMeaning: '他很溫柔。但是沒有錢。', level: 'N4' },
-  { id: '24', word: 'だから', furigana: 'だから', meaning: '所以', example: '雨が降っている。だから、傘を持って行こう。', exampleMeaning: '在下雨。所以帶傘去吧。', level: 'N4' },
-  { id: '25', word: 'ようです', furigana: 'ようです', meaning: '似乎...', example: '彼は学生ようです。', exampleMeaning: '他似乎是學生。', level: 'N4' },
-];
+export const initialVocabData: Omit<VocabCard, 'nextReview' | 'interval' | 'reviewCount' | 'mastered'>[] = rawJlptVocab as Omit<VocabCard, 'nextReview' | 'interval' | 'reviewCount' | 'mastered'>[];
 
 export const initialScenarios = [
   {

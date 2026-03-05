@@ -5,7 +5,7 @@ export interface VocabCard {
   meaning: string;
   example: string;
   exampleMeaning: string;
-  level: 'N5' | 'N4';
+  level: 'N5' | 'N4' | 'N3' | 'N2' | 'N1';
   nextReview: number;
   interval: number;
   reviewCount: number;
