@@ -56,10 +56,10 @@
   {
     "id": "7",
     "word": "あびる",
-    "furigana": "（讀音補全中）",
+    "furigana": "あびる",
     "meaning": "（中文解釋補全中）",
-    "example": "あびる。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "朝にシャワーをあびます",
+    "exampleMeaning": "早上會沖澡",
     "level": "N5"
   },
   {
@@ -137,19 +137,19 @@
   {
     "id": "16",
     "word": "いす",
-    "furigana": "（讀音補全中）",
+    "furigana": "いす",
     "meaning": "（中文解釋補全中）",
-    "example": "いす。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "このいすに座ってください",
+    "exampleMeaning": "請坐這張椅子",
     "level": "N5"
   },
   {
     "id": "17",
     "word": "いちばん",
-    "furigana": "（讀音補全中）",
+    "furigana": "いちばん",
     "meaning": "（中文解釋補全中）",
-    "example": "いちばん。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "クラスでわたしがいちばん背が高いです",
+    "exampleMeaning": "我在班上最高",
     "level": "N5"
   },
   {
@@ -218,19 +218,19 @@
   {
     "id": "25",
     "word": "おまわりさん",
-    "furigana": "（讀音補全中）",
+    "furigana": "おまわりさん",
     "meaning": "（中文解釋補全中）",
-    "example": "おまわりさん。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "道に迷ったのでおまわりさんに聞きました",
+    "exampleMeaning": "我迷路了，所以問了警察",
     "level": "N5"
   },
   {
     "id": "26",
     "word": "おもしろい",
-    "furigana": "（讀音補全中）",
+    "furigana": "おもしろい",
     "meaning": "（中文解釋補全中）",
-    "example": "おもしろい。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "この本はとてもおもしろいです",
+    "exampleMeaning": "這本書很有趣",
     "level": "N5"
   },
   {
@@ -254,19 +254,19 @@
   {
     "id": "29",
     "word": "お弁当",
-    "furigana": "（讀音補全中）",
+    "furigana": "おべんとう",
     "meaning": "（中文解釋補全中）",
-    "example": "お弁当。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "毎日おべんとうを学校へ持って行きます",
+    "exampleMeaning": "每天都帶便當去學校",
     "level": "N5"
   },
   {
     "id": "30",
     "word": "お手洗い",
-    "furigana": "（讀音補全中）",
+    "furigana": "おてあらい",
     "meaning": "（中文解釋補全中）",
-    "example": "お手洗い。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "おてあらいはあちらです",
+    "exampleMeaning": "洗手間在那邊",
     "level": "N5"
   },
   {
@@ -290,10 +290,10 @@
   {
     "id": "33",
     "word": "お皿",
-    "furigana": "（讀音補全中）",
+    "furigana": "おさら",
     "meaning": "（中文解釋補全中）",
-    "example": "お皿。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "おさらを二枚持ってきてください",
+    "exampleMeaning": "請拿兩個盤子過來",
     "level": "N5"
   },
   {
@@ -308,64 +308,64 @@
   {
     "id": "35",
     "word": "お菓子",
-    "furigana": "（讀音補全中）",
+    "furigana": "おかし",
     "meaning": "（中文解釋補全中）",
-    "example": "お菓子。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "子どもにおかしを買いました",
+    "exampleMeaning": "我給小孩買了點心",
     "level": "N5"
   },
   {
     "id": "36",
     "word": "お酒",
-    "furigana": "（讀音補全中）",
+    "furigana": "おさけ",
     "meaning": "（中文解釋補全中）",
-    "example": "お酒。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "父はおさけをあまり飲みません",
+    "exampleMeaning": "我爸爸不太喝酒",
     "level": "N5"
   },
   {
     "id": "37",
     "word": "お金",
-    "furigana": "（讀音補全中）",
+    "furigana": "おかね",
     "meaning": "（中文解釋補全中）",
-    "example": "お金。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "今日はおかねを持っていません",
+    "exampleMeaning": "我今天沒帶錢",
     "level": "N5"
   },
   {
     "id": "38",
     "word": "お風呂",
-    "furigana": "（讀音補全中）",
+    "furigana": "おふろ",
     "meaning": "（中文解釋補全中）",
-    "example": "お風呂。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "毎晩おふろに入ります",
+    "exampleMeaning": "每晚都會泡澡",
     "level": "N5"
   },
   {
     "id": "39",
     "word": "かかる",
-    "furigana": "（讀音補全中）",
+    "furigana": "かかる",
     "meaning": "（中文解釋補全中）",
-    "example": "かかる。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "駅まで三十分かかります",
+    "exampleMeaning": "到車站要花三十分鐘",
     "level": "N5"
   },
   {
     "id": "40",
     "word": "かぎ",
-    "furigana": "（讀音補全中）",
+    "furigana": "かぎ",
     "meaning": "（中文解釋補全中）",
-    "example": "かぎ。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "家のかぎを忘れました",
+    "exampleMeaning": "我忘記帶家裡的鑰匙了",
     "level": "N5"
   },
   {
     "id": "41",
     "word": "かける",
-    "furigana": "（讀音補全中）",
+    "furigana": "かける",
     "meaning": "（中文解釋補全中）",
-    "example": "かける。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "あとで母に電話をかけます",
+    "exampleMeaning": "等一下會打電話給媽媽",
     "level": "N5"
   },
   {
@@ -398,10 +398,10 @@
   {
     "id": "45",
     "word": "ください",
-    "furigana": "（讀音補全中）",
+    "furigana": "ください",
     "meaning": "（中文解釋補全中）",
-    "example": "ください。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "その青いペンをください",
+    "exampleMeaning": "請給我那支藍色的筆",
     "level": "N5"
   },
   {
@@ -470,10 +470,10 @@
   {
     "id": "53",
     "word": "さ来年",
-    "furigana": "（讀音補全中）",
+    "furigana": "さらいねん",
     "meaning": "（中文解釋補全中）",
-    "example": "さ来年。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "さらいねん日本へ留学したいです",
+    "exampleMeaning": "我想後年去日本留學",
     "level": "N5"
   },
   {
@@ -506,19 +506,19 @@
   {
     "id": "57",
     "word": "じゃあ",
-    "furigana": "（讀音補全中）",
+    "furigana": "じゃあ",
     "meaning": "（中文解釋補全中）",
-    "example": "じゃあ。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "じゃあ、また明日会いましょう",
+    "exampleMeaning": "那麼，明天再見吧",
     "level": "N5"
   },
   {
     "id": "58",
     "word": "すぐに",
-    "furigana": "（讀音補全中）",
+    "furigana": "すぐに",
     "meaning": "（中文解釋補全中）",
-    "example": "すぐに。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "すぐに行きますから待ってください",
+    "exampleMeaning": "我馬上去，請等一下",
     "level": "N5"
   },
   {
@@ -533,19 +533,19 @@
   {
     "id": "60",
     "word": "せっけん",
-    "furigana": "（讀音補全中）",
+    "furigana": "せっけん",
     "meaning": "（中文解釋補全中）",
-    "example": "せっけん。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "せっけんで手を洗ってください",
+    "exampleMeaning": "請用肥皂洗手",
     "level": "N5"
   },
   {
     "id": "61",
     "word": "そうして",
-    "furigana": "（讀音補全中）",
+    "furigana": "そうして",
     "meaning": "（中文解釋補全中）",
-    "example": "そうして。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "朝ごはんを食べました。そうして学校へ行きました",
+    "exampleMeaning": "吃完早餐，然後去學校了",
     "level": "N5"
   },
   {
@@ -632,10 +632,10 @@
   {
     "id": "71",
     "word": "たいへん",
-    "furigana": "（讀音補全中）",
+    "furigana": "たいへん",
     "meaning": "（中文解釋補全中）",
-    "example": "たいへん。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "この宿題はたいへんですね",
+    "exampleMeaning": "這份作業很辛苦呢",
     "level": "N5"
   },
   {
@@ -650,19 +650,19 @@
   {
     "id": "73",
     "word": "たて",
-    "furigana": "（讀音補全中）",
+    "furigana": "たて",
     "meaning": "（中文解釋補全中）",
-    "example": "たて。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "たてに名前を書いてください",
+    "exampleMeaning": "請把名字直著寫",
     "level": "N5"
   },
   {
     "id": "74",
     "word": "たばこ",
-    "furigana": "（讀音補全中）",
+    "furigana": "たばこ",
     "meaning": "（中文解釋補全中）",
-    "example": "たばこ。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "ここでたばこを吸わないでください",
+    "exampleMeaning": "請不要在這裡抽菸",
     "level": "N5"
   },
   {
@@ -686,10 +686,10 @@
   {
     "id": "77",
     "word": "ちゃわん",
-    "furigana": "（讀音補全中）",
+    "furigana": "ちゃわん",
     "meaning": "（中文解釋補全中）",
-    "example": "ちゃわん。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "新しいちゃわんを買いました",
+    "exampleMeaning": "買了新的飯碗",
     "level": "N5"
   },
   {
@@ -713,10 +713,10 @@
   {
     "id": "80",
     "word": "つける",
-    "furigana": "（讀音補全中）",
+    "furigana": "つける",
     "meaning": "（中文解釋補全中）",
-    "example": "つける。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "部屋が暗いので電気をつけます",
+    "exampleMeaning": "房間很暗，所以我開燈",
     "level": "N5"
   },
   {
@@ -767,10 +767,10 @@
   {
     "id": "86",
     "word": "とり肉",
-    "furigana": "（讀音補全中）",
+    "furigana": "とりにく",
     "meaning": "（中文解釋補全中）",
-    "example": "とり肉。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "晩ごはんにとりにくを焼きました",
+    "exampleMeaning": "晚餐烤了雞肉",
     "level": "N5"
   },
   {
@@ -911,28 +911,28 @@
   {
     "id": "102",
     "word": "はし",
-    "furigana": "（讀音補全中）",
+    "furigana": "はし",
     "meaning": "（中文解釋補全中）",
-    "example": "はし。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "はしでご飯を食べます",
+    "exampleMeaning": "用筷子吃飯",
     "level": "N5"
   },
   {
     "id": "103",
     "word": "ふろ",
-    "furigana": "（讀音補全中）",
+    "furigana": "ふろ",
     "meaning": "（中文解釋補全中）",
-    "example": "ふろ。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "寒い日はふろが気持ちいいです",
+    "exampleMeaning": "天冷的日子泡澡很舒服",
     "level": "N5"
   },
   {
     "id": "104",
     "word": "ほう",
-    "furigana": "（讀音補全中）",
+    "furigana": "ほう",
     "meaning": "（中文解釋補全中）",
-    "example": "ほう。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "駅へ行くほうを教えてください",
+    "exampleMeaning": "請告訴我去車站的方向",
     "level": "N5"
   },
   {
@@ -947,10 +947,10 @@
   {
     "id": "106",
     "word": "ほんとう",
-    "furigana": "（讀音補全中）",
+    "furigana": "ほんとう",
     "meaning": "（中文解釋補全中）",
-    "example": "ほんとう。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "それはほんとうですか",
+    "exampleMeaning": "那是真的嗎",
     "level": "N5"
   },
   {
@@ -1010,10 +1010,10 @@
   {
     "id": "113",
     "word": "もう一度",
-    "furigana": "（讀音補全中）",
+    "furigana": "もういちど",
     "meaning": "（中文解釋補全中）",
-    "example": "もう一度。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "もういちど言ってください",
+    "exampleMeaning": "請再說一次",
     "level": "N5"
   },
   {
@@ -1046,10 +1046,10 @@
   {
     "id": "117",
     "word": "よい",
-    "furigana": "（讀音補全中）",
+    "furigana": "よい",
     "meaning": "（中文解釋補全中）",
-    "example": "よい。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "今日は天気がよいですね",
+    "exampleMeaning": "今天天氣很好呢",
     "level": "N5"
   },
   {
@@ -1073,10 +1073,10 @@
   {
     "id": "120",
     "word": "りっぱ",
-    "furigana": "（讀音補全中）",
+    "furigana": "りっぱ",
     "meaning": "（中文解釋補全中）",
-    "example": "りっぱ。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "りっぱな建物ですね",
+    "exampleMeaning": "真是氣派的建築呢",
     "level": "N5"
   },
   {
@@ -1118,10 +1118,10 @@
   {
     "id": "125",
     "word": "カレンダー",
-    "furigana": "（讀音補全中）",
+    "furigana": "カレンダー",
     "meaning": "（中文解釋補全中）",
-    "example": "カレンダー。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "カレンダーに予定を書きました",
+    "exampleMeaning": "我把行程寫在月曆上",
     "level": "N5"
   },
   {
@@ -1136,28 +1136,28 @@
   {
     "id": "127",
     "word": "キロ",
-    "furigana": "（讀音補全中）",
+    "furigana": "キロ",
     "meaning": "（中文解釋補全中）",
-    "example": "キロ。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "この荷物は五キロあります",
+    "exampleMeaning": "這件行李有五公斤",
     "level": "N5"
   },
   {
     "id": "128",
     "word": "キログラム",
-    "furigana": "（讀音補全中）",
+    "furigana": "キログラム",
     "meaning": "（中文解釋補全中）",
-    "example": "キログラム。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "りんごを一キログラム買いました",
+    "exampleMeaning": "我買了一公斤蘋果",
     "level": "N5"
   },
   {
     "id": "129",
     "word": "キロメートル",
-    "furigana": "（讀音補全中）",
+    "furigana": "キロメートル",
     "meaning": "（中文解釋補全中）",
-    "example": "キロメートル。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "学校まで三キロメートル歩きました",
+    "exampleMeaning": "走了三公里到學校",
     "level": "N5"
   },
   {
@@ -1262,10 +1262,10 @@
   {
     "id": "141",
     "word": "スプーン",
-    "furigana": "（讀音補全中）",
+    "furigana": "スプーン",
     "meaning": "（中文解釋補全中）",
-    "example": "スプーン。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "スプーンでスープを飲みます",
+    "exampleMeaning": "用湯匙喝湯",
     "level": "N5"
   },
   {
@@ -1352,19 +1352,19 @@
   {
     "id": "151",
     "word": "テープ",
-    "furigana": "（讀音補全中）",
+    "furigana": "テープ",
     "meaning": "（中文解釋補全中）",
-    "example": "テープ。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "このテープを箱にはってください",
+    "exampleMeaning": "請把這個膠帶貼在箱子上",
     "level": "N5"
   },
   {
     "id": "152",
     "word": "テープレコーダー",
-    "furigana": "（讀音補全中）",
+    "furigana": "テープレコーダー",
     "meaning": "（中文解釋補全中）",
-    "example": "テープレコーダー。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "テープレコーダーで日本語を録音しました",
+    "exampleMeaning": "我用錄音機錄了日文",
     "level": "N5"
   },
   {
@@ -1451,10 +1451,10 @@
   {
     "id": "162",
     "word": "バター",
-    "furigana": "（讀音補全中）",
+    "furigana": "バター",
     "meaning": "（中文解釋補全中）",
-    "example": "バター。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "パンにバターをぬりました",
+    "exampleMeaning": "我在麵包上塗了奶油",
     "level": "N5"
   },
   {
@@ -1478,19 +1478,19 @@
   {
     "id": "165",
     "word": "フィルム",
-    "furigana": "（讀音補全中）",
+    "furigana": "フィルム",
     "meaning": "（中文解釋補全中）",
-    "example": "フィルム。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "このカメラはフィルムが必要です",
+    "exampleMeaning": "這台相機需要底片",
     "level": "N5"
   },
   {
     "id": "166",
     "word": "フォーク",
-    "furigana": "（讀音補全中）",
+    "furigana": "フォーク",
     "meaning": "（中文解釋補全中）",
-    "example": "フォーク。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "フォークでパスタを食べます",
+    "exampleMeaning": "用叉子吃義大利麵",
     "level": "N5"
   },
   {
@@ -1568,10 +1568,10 @@
   {
     "id": "175",
     "word": "ポケット",
-    "furigana": "（讀音補全中）",
+    "furigana": "ポケット",
     "meaning": "（中文解釋補全中）",
-    "example": "ポケット。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "ポケットに小銭があります",
+    "exampleMeaning": "口袋裡有零錢",
     "level": "N5"
   },
   {
@@ -1586,10 +1586,10 @@
   {
     "id": "177",
     "word": "マッチ",
-    "furigana": "（讀音補全中）",
+    "furigana": "マッチ",
     "meaning": "（中文解釋補全中）",
-    "example": "マッチ。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "マッチでろうそくに火をつけました",
+    "exampleMeaning": "我用火柴點了蠟燭",
     "level": "N5"
   },
   {
@@ -1613,28 +1613,28 @@
   {
     "id": "180",
     "word": "ラジオカセット",
-    "furigana": "（讀音補全中）",
+    "furigana": "ラジオカセット",
     "meaning": "（中文解釋補全中）",
-    "example": "ラジオカセット。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "父はラジオカセットで音楽を聞いています",
+    "exampleMeaning": "爸爸正在用收錄音機聽音樂",
     "level": "N5"
   },
   {
     "id": "181",
     "word": "ラジカセ",
-    "furigana": "（讀音補全中）",
+    "furigana": "ラジカセ",
     "meaning": "（中文解釋補全中）",
-    "example": "ラジカセ。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "古いラジカセがまだ使えます",
+    "exampleMeaning": "舊的卡式收錄音機還能用",
     "level": "N5"
   },
   {
     "id": "182",
     "word": "レコード",
-    "furigana": "（讀音補全中）",
+    "furigana": "レコード",
     "meaning": "（中文解釋補全中）",
-    "example": "レコード。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "祖父はレコードをたくさん持っています",
+    "exampleMeaning": "爺爺有很多黑膠唱片",
     "level": "N5"
   },
   {
@@ -1694,19 +1694,19 @@
   {
     "id": "189",
     "word": "一昨年",
-    "furigana": "（讀音補全中）",
+    "furigana": "おととし",
     "meaning": "（中文解釋補全中）",
-    "example": "一昨年。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "おととし東京へ行きました",
+    "exampleMeaning": "我前年去過東京",
     "level": "N5"
   },
   {
     "id": "190",
     "word": "一昨日",
-    "furigana": "（讀音補全中）",
+    "furigana": "おととい",
     "meaning": "（中文解釋補全中）",
-    "example": "一昨日。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "おととい友だちと映画を見ました",
+    "exampleMeaning": "我前天和朋友看了電影",
     "level": "N5"
   },
   {
@@ -1766,19 +1766,19 @@
   {
     "id": "197",
     "word": "万年筆",
-    "furigana": "（讀音補全中）",
+    "furigana": "まんねんひつ",
     "meaning": "（中文解釋補全中）",
-    "example": "万年筆。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "父にまんねんひつをもらいました",
+    "exampleMeaning": "我收到了爸爸送的鋼筆",
     "level": "N5"
   },
   {
     "id": "198",
     "word": "丈夫",
-    "furigana": "（讀音補全中）",
+    "furigana": "じょうぶ",
     "meaning": "（中文解釋補全中）",
-    "example": "丈夫。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "このかばんはじょうぶです",
+    "exampleMeaning": "這個包包很耐用",
     "level": "N5"
   },
   {
@@ -1982,10 +1982,10 @@
   {
     "id": "221",
     "word": "二十歳",
-    "furigana": "（讀音補全中）",
+    "furigana": "はたち",
     "meaning": "（中文解釋補全中）",
-    "example": "二十歳。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "姉は今年はたちになりました",
+    "exampleMeaning": "姐姐今年滿二十歲了",
     "level": "N5"
   },
   {
@@ -2162,19 +2162,19 @@
   {
     "id": "241",
     "word": "伯母さん",
-    "furigana": "（讀音補全中）",
+    "furigana": "おばさん",
     "meaning": "（中文解釋補全中）",
-    "example": "伯母さん。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "伯母さんは料理が上手です",
+    "exampleMeaning": "伯母很會做菜",
     "level": "N5"
   },
   {
     "id": "242",
     "word": "伯父",
-    "furigana": "（讀音補全中）",
+    "furigana": "おじ",
     "meaning": "（中文解釋補全中）",
-    "example": "伯父。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "伯父は銀行で働いています",
+    "exampleMeaning": "伯父在銀行工作",
     "level": "N5"
   },
   {
@@ -2360,10 +2360,10 @@
   {
     "id": "263",
     "word": "入口",
-    "furigana": "（讀音補全中）",
+    "furigana": "いりぐち",
     "meaning": "（中文解釋補全中）",
-    "example": "入口。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "入口は右側にあります",
+    "exampleMeaning": "入口在右邊",
     "level": "N5"
   },
   {
@@ -2450,10 +2450,10 @@
   {
     "id": "273",
     "word": "円い",
-    "furigana": "（讀音補全中）",
+    "furigana": "まるい",
     "meaning": "（中文解釋補全中）",
-    "example": "円い。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "このテーブルはまるいです",
+    "exampleMeaning": "這張桌子是圓的",
     "level": "N5"
   },
   {
@@ -2612,10 +2612,10 @@
   {
     "id": "291",
     "word": "勤める",
-    "furigana": "（讀音補全中）",
+    "furigana": "つとめる",
     "meaning": "（中文解釋補全中）",
-    "example": "勤める。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "兄は大きい会社に勤めています",
+    "exampleMeaning": "哥哥在大公司上班",
     "level": "N5"
   },
   {
@@ -2756,19 +2756,19 @@
   {
     "id": "307",
     "word": "叔母さん",
-    "furigana": "（讀音補全中）",
+    "furigana": "おばさん",
     "meaning": "（中文解釋補全中）",
-    "example": "叔母さん。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "叔母さんといっしょに買い物に行きました",
+    "exampleMeaning": "我和阿姨一起去買東西",
     "level": "N5"
   },
   {
     "id": "308",
     "word": "叔父",
-    "furigana": "（讀音補全中）",
+    "furigana": "おじ",
     "meaning": "（中文解釋補全中）",
-    "example": "叔父。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "叔父は毎朝ジョギングをします",
+    "exampleMeaning": "叔叔每天早上慢跑",
     "level": "N5"
   },
   {
@@ -2873,10 +2873,10 @@
   {
     "id": "320",
     "word": "咲く",
-    "furigana": "（讀音補全中）",
+    "furigana": "さく",
     "meaning": "（中文解釋補全中）",
-    "example": "咲く。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "春になると桜が咲きます",
+    "exampleMeaning": "一到春天櫻花就會開",
     "level": "N5"
   },
   {
@@ -3035,10 +3035,10 @@
   {
     "id": "338",
     "word": "夕飯",
-    "furigana": "（讀音補全中）",
+    "furigana": "ゆうはん",
     "meaning": "（中文解釋補全中）",
-    "example": "夕飯。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "今日は家族と夕飯を食べます",
+    "exampleMeaning": "今天會和家人一起吃晚飯",
     "level": "N5"
   },
   {
@@ -3251,10 +3251,10 @@
   {
     "id": "362",
     "word": "始め",
-    "furigana": "（讀音補全中）",
+    "furigana": "はじめ",
     "meaning": "（中文解釋補全中）",
-    "example": "始め。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "はじめは日本語がむずかしかったです",
+    "exampleMeaning": "一開始日文很難",
     "level": "N5"
   },
   {
@@ -3287,10 +3287,10 @@
   {
     "id": "366",
     "word": "字引",
-    "furigana": "（讀音補全中）",
+    "furigana": "じびき",
     "meaning": "（中文解釋補全中）",
-    "example": "字引。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "わからないことばは字引で調べます",
+    "exampleMeaning": "不懂的單字會用字典查",
     "level": "N5"
   },
   {
@@ -3332,10 +3332,10 @@
   {
     "id": "371",
     "word": "家庭",
-    "furigana": "（讀音補全中）",
+    "furigana": "かてい",
     "meaning": "（中文解釋補全中）",
-    "example": "家庭。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "うちは四人家庭です",
+    "exampleMeaning": "我們家是四口之家",
     "level": "N5"
   },
   {
@@ -3422,10 +3422,10 @@
   {
     "id": "381",
     "word": "居る",
-    "furigana": "（讀音補全中）",
+    "furigana": "いる",
     "meaning": "（中文解釋補全中）",
-    "example": "居る。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "教室に先生が居ます",
+    "exampleMeaning": "教室裡有老師",
     "level": "N5"
   },
   {
@@ -3620,10 +3620,10 @@
   {
     "id": "403",
     "word": "御飯",
-    "furigana": "（讀音補全中）",
+    "furigana": "ごはん",
     "meaning": "（中文解釋補全中）",
-    "example": "御飯。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "朝はご飯を食べます",
+    "exampleMeaning": "早上會吃飯",
     "level": "N5"
   },
   {
@@ -3665,10 +3665,10 @@
   {
     "id": "408",
     "word": "戸",
-    "furigana": "（讀音補全中）",
+    "furigana": "と",
     "meaning": "（中文解釋補全中）",
-    "example": "戸。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "この戸は少しかたいです",
+    "exampleMeaning": "這扇門有點緊",
     "level": "N5"
   },
   {
@@ -3845,10 +3845,10 @@
   {
     "id": "428",
     "word": "明い",
-    "furigana": "（讀音補全中）",
+    "furigana": "あかるい",
     "meaning": "（中文解釋補全中）",
-    "example": "明い。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "この部屋は明るいです",
+    "exampleMeaning": "這個房間很明亮",
     "level": "N5"
   },
   {
@@ -3899,10 +3899,10 @@
   {
     "id": "434",
     "word": "昨夜",
-    "furigana": "（讀音補全中）",
+    "furigana": "ゆうべ",
     "meaning": "（中文解釋補全中）",
-    "example": "昨夜。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "昨夜は早く寝ました",
+    "exampleMeaning": "昨晚很早就睡了",
     "level": "N5"
   },
   {
@@ -3926,10 +3926,10 @@
   {
     "id": "437",
     "word": "昼御飯",
-    "furigana": "（讀音補全中）",
+    "furigana": "ひるごはん",
     "meaning": "（中文解釋補全中）",
-    "example": "昼御飯。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "昼御飯はうどんを食べました",
+    "exampleMeaning": "午餐吃了烏龍麵",
     "level": "N5"
   },
   {
@@ -3971,10 +3971,10 @@
   {
     "id": "442",
     "word": "晩御飯",
-    "furigana": "（讀音補全中）",
+    "furigana": "ばんごはん",
     "meaning": "（中文解釋補全中）",
-    "example": "晩御飯。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "晩御飯のあとで散歩しました",
+    "exampleMeaning": "晚飯後去散步了",
     "level": "N5"
   },
   {
@@ -4052,10 +4052,10 @@
   {
     "id": "451",
     "word": "曲る",
-    "furigana": "（讀音補全中）",
+    "furigana": "まがる",
     "meaning": "（中文解釋補全中）",
-    "example": "曲る。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "次の角を右に曲がってください",
+    "exampleMeaning": "請在下一個轉角右轉",
     "level": "N5"
   },
   {
@@ -4106,10 +4106,10 @@
   {
     "id": "457",
     "word": "朝御飯",
-    "furigana": "（讀音補全中）",
+    "furigana": "あさごはん",
     "meaning": "（中文解釋補全中）",
-    "example": "朝御飯。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "朝御飯を食べないで出かけました",
+    "exampleMeaning": "沒吃早餐就出門了",
     "level": "N5"
   },
   {
@@ -4412,10 +4412,10 @@
   {
     "id": "491",
     "word": "河",
-    "furigana": "（讀音補全中）",
+    "furigana": "かわ",
     "meaning": "（中文解釋補全中）",
-    "example": "河。",
-    "exampleMeaning": "（中文例句補全中）",
+    "example": "この河は水がきれいです",
+    "exampleMeaning": "這條河的水很乾淨",
     "level": "N5"
   },
   {
