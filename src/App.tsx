@@ -232,6 +232,7 @@ const ChatPractice: React.FC<{ scenario: typeof initialScenarios[0]; onBack: () 
               >
                 <div className="chat-role">{roleLabel}</div>
                 <span>{msg.text}</span>
+                {msg.textCn && <div className="chat-translation">{msg.textCn}</div>}
               </button>
             );
           })}

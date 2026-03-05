@@ -548,6 +548,13 @@ html, body, #root {
   margin-bottom: 4px;
 }
 
+.chat-translation {
+  margin-top: 6px;
+  font-size: 0.76rem;
+  line-height: 1.45;
+  opacity: 0.9;
+}
+
 .chat-bubble.staff .chat-role {
   color: rgba(10, 22, 40, 0.6);
   text-align: right;
