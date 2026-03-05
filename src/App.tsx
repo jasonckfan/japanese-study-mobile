@@ -1,5 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { useVocab } from './hooks/useVocab';
+import { useSpeech } from './hooks/useSpeech';
 import { initialScenarios } from './data/vocab';
 import { sigureResources } from './data/sigure';
 import './styles/App.css';
@@ -34,7 +35,9 @@ const Flashcard: React.FC<{
   card: ReturnType<typeof useVocab>['currentCard'];
   isFlipped: boolean;
   onFlip: () => void;
-}> = ({ card, isFlipped, onFlip }) => {
+  onSpeakWord: () => void;
+  onSpeakExample: () => void;
+}> = ({ card, isFlipped, onFlip, onSpeakWord, onSpeakExample }) => {
   if (!card) return null;
   
   return (
@@ -44,6 +47,7 @@ const Flashcard: React.FC<{
           <span className={`flashcard-level ${card.level}`}>{card.level}</span>
           <div className="flashcard-word">{card.word}</div>
           <div className="flashcard-furigana">{card.furigana}</div>
+          <button className="speak-btn" onClick={(e) => { e.stopPropagation(); onSpeakWord(); }}>🔊 發音</button>
           <div className="flashcard-hint">タップして答えを見る</div>
         </div>
         <div className="flashcard-face flashcard-back">
@@ -52,6 +56,7 @@ const Flashcard: React.FC<{
           <div className="flashcard-example">
             <div className="flashcard-example-jp">{card.example}</div>
             <div className="flashcard-example-cn">{card.exampleMeaning}</div>
+            <button className="speak-btn secondary" onClick={(e) => { e.stopPropagation(); onSpeakExample(); }}>🔊 例句發音</button>
           </div>
         </div>
       </div>
@@ -84,6 +89,7 @@ const ActionButtons: React.FC<{
 
 const VocabularyView: React.FC = () => {
   const { currentCard, isFlipped, setIsFlipped, handleReview, progress } = useVocab();
+  const { supported, speak } = useSpeech();
   const [feedback, setFeedback] = useState<'mastered' | 'review' | null>(null);
   const feedbackTimeoutRef = useRef<number | null>(null);
 
@@ -115,6 +121,9 @@ const VocabularyView: React.FC = () => {
     <div className="fade-in">
       <HeroSection />
       <ProgressBar {...progress} />
+      {!supported && (
+        <div className="speech-warning">⚠️ 你的瀏覽器未開啟語音合成（SpeechSynthesis），暫時無法播放發音。</div>
+      )}
       
       {progress.total === 0 ? (
         <div className="empty-state">
@@ -128,6 +137,8 @@ const VocabularyView: React.FC = () => {
             card={currentCard} 
             isFlipped={isFlipped} 
             onFlip={() => setIsFlipped(!isFlipped)}
+            onSpeakWord={() => currentCard && speak(currentCard.word)}
+            onSpeakExample={() => currentCard && speak(currentCard.example, { rate: 0.9 })}
           />
           {!isFlipped && <div className="action-hint">可先翻卡查看答案，再選擇下方按鈕</div>}
           <ActionButtons onReview={onActionReview} feedback={feedback} />
@@ -156,9 +167,11 @@ const ScenarioCard: React.FC<{
 const ChatPractice: React.FC<{ scenario: typeof initialScenarios[0]; onBack: () => void }> = ({ scenario, onBack }) => {
   const [messages] = useState(scenario.dialogues);
   const [_inputText, setInputText] = useState('');
+  const { supported, speak } = useSpeech();
   
   const handlePhraseClick = (text: string) => {
     setInputText(text);
+    speak(text, { rate: 0.92 });
   };
   
   return (
@@ -176,7 +189,12 @@ const ChatPractice: React.FC<{ scenario: typeof initialScenarios[0]; onBack: () 
         
         <div className="chat-messages">
           {messages.map((msg, idx) => (
-            <div key={idx} className={`chat-bubble ${msg.role === 'customer' ? 'customer' : 'staff'}`}>
+            <div
+              key={idx}
+              className={`chat-bubble ${msg.role === 'customer' ? 'customer' : 'staff'}`}
+              onClick={() => speak(msg.text, { rate: 0.9 })}
+              title="點擊播放發音"
+            >
               <div className="chat-role">
                 {msg.role === 'customer' ? scenario.roles[0].nameCn : scenario.roles[1].nameCn}
               </div>
@@ -187,6 +205,7 @@ const ChatPractice: React.FC<{ scenario: typeof initialScenarios[0]; onBack: () 
         
         <div className="phrase-bank">
           <div className="phrase-bank-title">フレーズ bank</div>
+          {!supported && <div className="speech-warning" style={{ marginBottom: 10 }}>⚠️ 瀏覽器不支援發音</div>}
           <div className="phrase-chips">
             {scenario.phrases.map((phrase, idx) => (
               <button 

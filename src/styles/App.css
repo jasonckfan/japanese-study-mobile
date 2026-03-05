@@ -276,6 +276,31 @@ html, body, #root {
   color: var(--text-secondary);
 }
 
+.speak-btn {
+  margin: 8px 0 6px;
+  padding: 6px 10px;
+  border: 1px solid rgba(245, 200, 66, 0.55);
+  border-radius: 999px;
+  background: rgba(245, 200, 66, 0.18);
+  color: var(--accent-gold);
+  font-size: 0.72rem;
+  cursor: pointer;
+}
+
+.speak-btn.secondary {
+  margin-top: 10px;
+}
+
+.speech-warning {
+  margin-bottom: 12px;
+  padding: 10px 12px;
+  border-radius: 10px;
+  background: rgba(251, 146, 60, 0.12);
+  border: 1px solid rgba(251, 146, 60, 0.35);
+  color: #ffd6ba;
+  font-size: 0.78rem;
+}
+
 .flashcard-meaning {
   font-size: 1.5rem;
   font-weight: 600;
@@ -457,6 +482,7 @@ html, body, #root {
   border-radius: var(--border-radius);
   font-size: 0.9rem;
   line-height: 1.5;
+  cursor: pointer;
 }
 
 .chat-bubble.customer {
