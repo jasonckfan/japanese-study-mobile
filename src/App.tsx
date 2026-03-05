@@ -88,7 +88,7 @@ const ActionButtons: React.FC<{
 );
 
 const VocabularyView: React.FC = () => {
-  const { currentCard, isFlipped, setIsFlipped, handleReview, progress } = useVocab();
+  const { currentCard, currentIndex, isFlipped, setIsFlipped, handleReview, progress } = useVocab();
   const { supported, speak } = useSpeech();
   const [speechRate, setSpeechRate] = useState(0.9);
   const [autoPlay, setAutoPlay] = useState(true);
@@ -103,10 +103,20 @@ const VocabularyView: React.FC = () => {
     };
   }, []);
 
+  const lastAutoPlayRef = useRef<{ index: number; ts: number }>({ index: -1, ts: 0 });
+
   useEffect(() => {
     if (!supported || !autoPlay || !currentCard) return;
+
+    // 只在「卡片索引切換」時自動播放，避免 review 更新同一張卡資料時重播
+    const now = Date.now();
+    if (lastAutoPlayRef.current.index === currentIndex && now - lastAutoPlayRef.current.ts < 800) {
+      return;
+    }
+    lastAutoPlayRef.current = { index: currentIndex, ts: now };
+
     speak(currentCard.word, { rate: speechRate });
-  }, [supported, autoPlay, currentCard, speak, speechRate]);
+  }, [supported, autoPlay, currentIndex, currentCard, speak, speechRate]);
 
   const onActionReview = (mastered: boolean) => {
     if (typeof navigator !== 'undefined' && 'vibrate' in navigator) {
