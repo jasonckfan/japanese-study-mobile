@@ -90,6 +90,8 @@ const ActionButtons: React.FC<{
 const VocabularyView: React.FC = () => {
   const { currentCard, isFlipped, setIsFlipped, handleReview, progress } = useVocab();
   const { supported, speak } = useSpeech();
+  const [speechRate, setSpeechRate] = useState(0.9);
+  const [autoPlay, setAutoPlay] = useState(true);
   const [feedback, setFeedback] = useState<'mastered' | 'review' | null>(null);
   const feedbackTimeoutRef = useRef<number | null>(null);
 
@@ -100,6 +102,11 @@ const VocabularyView: React.FC = () => {
       }
     };
   }, []);
+
+  useEffect(() => {
+    if (!supported || !autoPlay || !currentCard) return;
+    speak(currentCard.word, { rate: speechRate });
+  }, [supported, autoPlay, currentCard, speak, speechRate]);
 
   const onActionReview = (mastered: boolean) => {
     if (typeof navigator !== 'undefined' && 'vibrate' in navigator) {
@@ -124,6 +131,15 @@ const VocabularyView: React.FC = () => {
       {!supported && (
         <div className="speech-warning">⚠️ 你的瀏覽器未開啟語音合成（SpeechSynthesis），暫時無法播放發音。</div>
       )}
+      {supported && (
+        <div className="speech-controls">
+          <span>語速</span>
+          <button className={`chip ${speechRate === 0.75 ? 'active' : ''}`} onClick={() => setSpeechRate(0.75)}>慢速</button>
+          <button className={`chip ${speechRate === 0.9 ? 'active' : ''}`} onClick={() => setSpeechRate(0.9)}>正常</button>
+          <button className={`chip ${speechRate === 1 ? 'active' : ''}`} onClick={() => setSpeechRate(1)}>偏快</button>
+          <button className={`chip ${autoPlay ? 'active' : ''}`} onClick={() => setAutoPlay((v) => !v)}>{autoPlay ? '自動播放: 開' : '自動播放: 關'}</button>
+        </div>
+      )}
       
       {progress.total === 0 ? (
         <div className="empty-state">
@@ -137,8 +153,8 @@ const VocabularyView: React.FC = () => {
             card={currentCard} 
             isFlipped={isFlipped} 
             onFlip={() => setIsFlipped(!isFlipped)}
-            onSpeakWord={() => currentCard && speak(currentCard.word)}
-            onSpeakExample={() => currentCard && speak(currentCard.example, { rate: 0.9 })}
+            onSpeakWord={() => currentCard && speak(currentCard.word, { rate: speechRate })}
+            onSpeakExample={() => currentCard && speak(currentCard.example, { rate: speechRate })}
           />
           {!isFlipped && <div className="action-hint">可先翻卡查看答案，再選擇下方按鈕</div>}
           <ActionButtons onReview={onActionReview} feedback={feedback} />
@@ -167,11 +183,19 @@ const ScenarioCard: React.FC<{
 const ChatPractice: React.FC<{ scenario: typeof initialScenarios[0]; onBack: () => void }> = ({ scenario, onBack }) => {
   const [messages] = useState(scenario.dialogues);
   const [_inputText, setInputText] = useState('');
+  const [speechRate, setSpeechRate] = useState(0.9);
   const { supported, speak } = useSpeech();
   
   const handlePhraseClick = (text: string) => {
     setInputText(text);
-    speak(text, { rate: 0.92 });
+    speak(text, { rate: speechRate });
+  };
+
+  const replayStarter = () => {
+    const starter = messages.slice(0, 2);
+    starter.forEach((item, i) => {
+      window.setTimeout(() => speak(item.text, { rate: speechRate }), i * 1800);
+    });
   };
   
   return (
@@ -192,7 +216,7 @@ const ChatPractice: React.FC<{ scenario: typeof initialScenarios[0]; onBack: () 
             <div
               key={idx}
               className={`chat-bubble ${msg.role === 'customer' ? 'customer' : 'staff'}`}
-              onClick={() => speak(msg.text, { rate: 0.9 })}
+              onClick={() => speak(msg.text, { rate: speechRate })}
               title="點擊播放發音"
             >
               <div className="chat-role">
@@ -206,6 +230,15 @@ const ChatPractice: React.FC<{ scenario: typeof initialScenarios[0]; onBack: () 
         <div className="phrase-bank">
           <div className="phrase-bank-title">フレーズ bank</div>
           {!supported && <div className="speech-warning" style={{ marginBottom: 10 }}>⚠️ 瀏覽器不支援發音</div>}
+          {supported && (
+            <div className="speech-controls" style={{ marginBottom: 10 }}>
+              <span>語速</span>
+              <button className={`chip ${speechRate === 0.8 ? 'active' : ''}`} onClick={() => setSpeechRate(0.8)}>慢速</button>
+              <button className={`chip ${speechRate === 0.9 ? 'active' : ''}`} onClick={() => setSpeechRate(0.9)}>正常</button>
+              <button className={`chip ${speechRate === 1 ? 'active' : ''}`} onClick={() => setSpeechRate(1)}>偏快</button>
+              <button className="chip" onClick={replayStarter}>A/B 重播</button>
+            </div>
+          )}
           <div className="phrase-chips">
             {scenario.phrases.map((phrase, idx) => (
               <button 
