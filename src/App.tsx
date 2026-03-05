@@ -182,20 +182,25 @@ const ScenarioCard: React.FC<{
 
 const ChatPractice: React.FC<{ scenario: typeof initialScenarios[0]; onBack: () => void }> = ({ scenario, onBack }) => {
   const [messages] = useState(scenario.dialogues);
-  const [_inputText, setInputText] = useState('');
   const [speechRate, setSpeechRate] = useState(0.9);
   const { supported, speak } = useSpeech();
-  
-  const handlePhraseClick = (text: string) => {
-    setInputText(text);
-    speak(text, { rate: speechRate });
-  };
+  const lastSpeakTsRef = useRef(0);
+
+  const dialogueTextSet = new Set(messages.map((item) => item.text.trim()));
+  const practicePhrases = scenario.phrases.filter((phrase) => !dialogueTextSet.has(phrase.text.trim()));
 
   const replayStarter = () => {
     const starter = messages.slice(0, 2);
     starter.forEach((item, i) => {
       window.setTimeout(() => speak(item.text, { rate: speechRate }), i * 1800);
     });
+  };
+
+  const triggerBubbleSpeech = (text: string) => {
+    const now = Date.now();
+    if (now - lastSpeakTsRef.current < 240) return;
+    lastSpeakTsRef.current = now;
+    speak(text, { rate: speechRate });
   };
   
   return (
@@ -211,28 +216,32 @@ const ChatPractice: React.FC<{ scenario: typeof initialScenarios[0]; onBack: () 
           </div>
         </div>
         
-        <div className="chat-tap-hint">👆 點擊上方對話框可直接播放發音</div>
+        <div className="chat-tap-hint">👆 直接點對話氣泡即可發音（整個氣泡都可點）</div>
         <div className="chat-messages">
           {messages.map((msg, idx) => {
             const isFirstRole = msg.role === scenario.roles[0].id;
             const roleLabel = isFirstRole ? scenario.roles[0].nameCn : scenario.roles[1].nameCn;
+            const speechText = `${roleLabel}：${msg.text}`;
 
             return (
-              <div
+              <button
                 key={idx}
+                type="button"
                 className={`chat-bubble ${isFirstRole ? 'customer' : 'staff'}`}
-                onClick={() => speak(msg.text, { rate: speechRate })}
+                onClick={() => triggerBubbleSpeech(msg.text)}
+                onPointerUp={() => triggerBubbleSpeech(msg.text)}
+                aria-label={`播放：${speechText}`}
                 title="點擊對話框播放發音"
               >
                 <div className="chat-role">{roleLabel}</div>
-                {msg.text}
-              </div>
+                <span>{msg.text}</span>
+              </button>
             );
           })}
         </div>
-        
+
         <div className="phrase-bank">
-          <div className="phrase-bank-title">フレーズ bank</div>
+          <div className="phrase-bank-title">播放設定與延伸練習</div>
           {!supported && <div className="speech-warning" style={{ marginBottom: 10 }}>⚠️ 瀏覽器不支援發音</div>}
           {supported && (
             <div className="speech-controls" style={{ marginBottom: 10 }}>
@@ -243,18 +252,20 @@ const ChatPractice: React.FC<{ scenario: typeof initialScenarios[0]; onBack: () 
               <button className="chip" onClick={replayStarter}>A/B 重播</button>
             </div>
           )}
-          <div className="phrase-chips">
-            {scenario.phrases.map((phrase, idx) => (
-              <button 
-                key={idx} 
-                className="phrase-chip"
-                onClick={() => handlePhraseClick(phrase.text)}
-                title={phrase.meaning}
-              >
-                {phrase.text}
-              </button>
-            ))}
-          </div>
+          {practicePhrases.length > 0 && (
+            <div className="phrase-chips">
+              {practicePhrases.map((phrase, idx) => (
+                <button
+                  key={idx}
+                  className="phrase-chip"
+                  onClick={() => speak(phrase.text, { rate: speechRate })}
+                  title={phrase.meaning}
+                >
+                  {phrase.text}
+                </button>
+              ))}
+            </div>
+          )}
         </div>
       </div>
     </div>
