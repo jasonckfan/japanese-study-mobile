@@ -493,6 +493,12 @@ html, body, #root {
   color: var(--text-secondary);
 }
 
+.chat-tap-hint {
+  font-size: 0.72rem;
+  color: var(--text-secondary);
+  margin: 2px 2px 8px;
+}
+
 .chat-messages {
   flex: 1;
   overflow-y: auto;

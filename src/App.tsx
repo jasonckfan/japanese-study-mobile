@@ -211,20 +211,24 @@ const ChatPractice: React.FC<{ scenario: typeof initialScenarios[0]; onBack: () 
           </div>
         </div>
         
+        <div className="chat-tap-hint">👆 點擊上方對話框可直接播放發音</div>
         <div className="chat-messages">
-          {messages.map((msg, idx) => (
-            <div
-              key={idx}
-              className={`chat-bubble ${msg.role === 'customer' ? 'customer' : 'staff'}`}
-              onClick={() => speak(msg.text, { rate: speechRate })}
-              title="點擊播放發音"
-            >
-              <div className="chat-role">
-                {msg.role === 'customer' ? scenario.roles[0].nameCn : scenario.roles[1].nameCn}
+          {messages.map((msg, idx) => {
+            const isFirstRole = msg.role === scenario.roles[0].id;
+            const roleLabel = isFirstRole ? scenario.roles[0].nameCn : scenario.roles[1].nameCn;
+
+            return (
+              <div
+                key={idx}
+                className={`chat-bubble ${isFirstRole ? 'customer' : 'staff'}`}
+                onClick={() => speak(msg.text, { rate: speechRate })}
+                title="點擊對話框播放發音"
+              >
+                <div className="chat-role">{roleLabel}</div>
+                {msg.text}
               </div>
-              {msg.text}
-            </div>
-          ))}
+            );
+          })}
         </div>
         
         <div className="phrase-bank">
