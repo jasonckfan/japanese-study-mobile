@@ -94,10 +94,10 @@ const VocabularyView: React.FC = () => {
   const [autoPlay, setAutoPlay] = useState(true);
   const [feedback, setFeedback] = useState<'mastered' | 'review' | null>(null);
   const feedbackTimeoutRef = useRef<number | null>(null);
-  const pendingAutoSpeakRef = useRef(false);
+  const pendingAutoSpeakCardIdRef = useRef<string | null>(null);
   const lastSpokenIndexRef = useRef<number | null>(null);
   const autoSpeakTimerRef = useRef<number | null>(null);
-  const targetSpeakIndexRef = useRef<number | null>(null);
+  const targetSpeakCardIdRef = useRef<string | null>(null);
 
   useEffect(() => {
     return () => {
@@ -107,14 +107,14 @@ const VocabularyView: React.FC = () => {
       if (autoSpeakTimerRef.current !== null) {
         window.clearTimeout(autoSpeakTimerRef.current);
       }
-      targetSpeakIndexRef.current = null;
+      targetSpeakCardIdRef.current = null;
     };
   }, []);
 
   useEffect(() => {
     if (!autoPlay) {
-      pendingAutoSpeakRef.current = false;
-      targetSpeakIndexRef.current = null;
+      pendingAutoSpeakCardIdRef.current = null;
+      targetSpeakCardIdRef.current = null;
       if (autoSpeakTimerRef.current !== null) {
         window.clearTimeout(autoSpeakTimerRef.current);
         autoSpeakTimerRef.current = null;
@@ -129,44 +129,50 @@ const VocabularyView: React.FC = () => {
       if (autoSpeakTimerRef.current !== null) {
         window.clearTimeout(autoSpeakTimerRef.current);
       }
-      targetSpeakIndexRef.current = currentIndex;
+      targetSpeakCardIdRef.current = currentCard.id;
       autoSpeakTimerRef.current = window.setTimeout(() => {
-        const idx = targetSpeakIndexRef.current;
-        if (idx === null) return;
-        const cardToSpeak = cards[idx];
-        if (!cardToSpeak) return;
+        const targetId = targetSpeakCardIdRef.current;
+        if (!targetId || currentCard.id !== targetId) return;
         stop();
-        speak(cardToSpeak.word, { rate: speechRate });
+        speak(currentCard.word, { rate: speechRate });
       }, 220);
       return;
     }
 
-    // 只在 review 後切到下一張卡時自動播，模擬「跳卡後按發音鍵」
-    if (pendingAutoSpeakRef.current && lastSpokenIndexRef.current !== currentIndex) {
-      pendingAutoSpeakRef.current = false;
+    // 只在 review 後切到「預期下一張卡」時自動播，避免播到前一張
+    const pendingCardId = pendingAutoSpeakCardIdRef.current;
+    if (
+      pendingCardId &&
+      currentCard.id === pendingCardId &&
+      lastSpokenIndexRef.current !== currentIndex
+    ) {
+      pendingAutoSpeakCardIdRef.current = null;
       lastSpokenIndexRef.current = currentIndex;
       if (autoSpeakTimerRef.current !== null) {
         window.clearTimeout(autoSpeakTimerRef.current);
       }
-      targetSpeakIndexRef.current = currentIndex;
+      targetSpeakCardIdRef.current = currentCard.id;
       autoSpeakTimerRef.current = window.setTimeout(() => {
-        const idx = targetSpeakIndexRef.current;
-        if (idx === null) return;
-        const cardToSpeak = cards[idx];
-        if (!cardToSpeak) return;
+        const targetId = targetSpeakCardIdRef.current;
+        if (!targetId || currentCard.id !== targetId) return;
         stop();
-        speak(cardToSpeak.word, { rate: speechRate });
+        speak(currentCard.word, { rate: speechRate });
       }, 220);
     }
-  }, [supported, autoPlay, currentCard, currentIndex, cards, speechRate, speak, stop]);
+  }, [supported, autoPlay, currentCard, currentIndex, speechRate, speak, stop]);
 
   const onActionReview = (mastered: boolean) => {
     if (typeof navigator !== 'undefined' && 'vibrate' in navigator) {
       navigator.vibrate(mastered ? [24] : [10, 28, 10]);
     }
 
-    if (autoPlay) {
-      pendingAutoSpeakRef.current = true;
+    if (autoPlay && cards.length > 0) {
+      const nextIndex = (currentIndex + 1) % cards.length;
+      pendingAutoSpeakCardIdRef.current = cards[nextIndex]?.id ?? null;
+      // 先中止目前卡片（包含背面例句）的語音，避免誤聽成下一張
+      stop();
+    } else {
+      pendingAutoSpeakCardIdRef.current = null;
     }
 
     setFeedback(mastered ? 'mastered' : 'review');
