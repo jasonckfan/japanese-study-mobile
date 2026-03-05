@@ -1,4 +1,4 @@
-import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react';
+import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { useVocab } from './hooks/useVocab';
 import { useSpeech } from './hooks/useSpeech';
 import { initialScenarios } from './data/vocab';
@@ -87,14 +87,14 @@ const ActionButtons: React.FC<{
   </div>
 );
 
-type DifficultyFilter = 'all' | 'easy' | 'medium' | 'hard';
+type LevelFilter = 'all' | 'N5' | 'N4' | 'N3' | 'N2' | 'N1';
 
 const VocabularyView: React.FC = () => {
   const { cards, currentCard, currentIndex, setCurrentIndex, isFlipped, setIsFlipped, handleReview, progress } = useVocab();
   const { supported, speak, stop } = useSpeech();
   const [speechRate, setSpeechRate] = useState(0.9);
   const [autoPlay, setAutoPlay] = useState(true);
-  const [difficultyFilter, setDifficultyFilter] = useState<DifficultyFilter>('all');
+  const [levelFilter, setLevelFilter] = useState<LevelFilter>('all');
   const [jumpInput, setJumpInput] = useState('');
   const [feedback, setFeedback] = useState<'mastered' | 'review' | null>(null);
   const feedbackTimeoutRef = useRef<number | null>(null);
@@ -103,23 +103,12 @@ const VocabularyView: React.FC = () => {
   const autoSpeakTimerRef = useRef<number | null>(null);
   const targetSpeakCardIdRef = useRef<string | null>(null);
 
-  const getDifficulty = useCallback((card: (typeof cards)[number]): Exclude<DifficultyFilter, 'all'> => {
-    // 實務分級（兼容資料欄位缺省）：
-    // 易：已掌握或長間隔/高複習次數；中：已有一定練習；難：新詞或低熟悉度。
-    const reviewCount = card.reviewCount ?? 0;
-    const interval = card.interval ?? 0;
-
-    if (card.mastered || interval >= 7 || reviewCount >= 8) return 'easy';
-    if (reviewCount >= 3 || interval >= 3) return 'medium';
-    return 'hard';
-  }, []);
-
   const filteredIndices = useMemo(() => {
     return cards
       .map((card, index) => ({ card, index }))
-      .filter(({ card }) => difficultyFilter === 'all' || getDifficulty(card) === difficultyFilter)
+      .filter(({ card }) => levelFilter === 'all' || card.level === levelFilter)
       .map(({ index }) => index);
-  }, [cards, difficultyFilter, getDifficulty]);
+  }, [cards, levelFilter]);
 
   const filteredCurrentPosition = filteredIndices.indexOf(currentIndex);
   const activeCard = filteredCurrentPosition >= 0 ? cards[currentIndex] : undefined;
@@ -251,11 +240,13 @@ const VocabularyView: React.FC = () => {
 
       <div className="vocab-controls">
         <div className="difficulty-row">
-          <span className="difficulty-label">難度</span>
-          <button className={`chip ${difficultyFilter === 'all' ? 'active' : ''}`} onClick={() => setDifficultyFilter('all')}>全部</button>
-          <button className={`chip ${difficultyFilter === 'easy' ? 'active' : ''}`} onClick={() => setDifficultyFilter('easy')}>易</button>
-          <button className={`chip ${difficultyFilter === 'medium' ? 'active' : ''}`} onClick={() => setDifficultyFilter('medium')}>中</button>
-          <button className={`chip ${difficultyFilter === 'hard' ? 'active' : ''}`} onClick={() => setDifficultyFilter('hard')}>難</button>
+          <span className="difficulty-label">級別</span>
+          <button className={`chip ${levelFilter === 'all' ? 'active' : ''}`} onClick={() => setLevelFilter('all')}>全部</button>
+          <button className={`chip ${levelFilter === 'N5' ? 'active' : ''}`} onClick={() => setLevelFilter('N5')}>N5</button>
+          <button className={`chip ${levelFilter === 'N4' ? 'active' : ''}`} onClick={() => setLevelFilter('N4')}>N4</button>
+          <button className={`chip ${levelFilter === 'N3' ? 'active' : ''}`} onClick={() => setLevelFilter('N3')}>N3</button>
+          <button className={`chip ${levelFilter === 'N2' ? 'active' : ''}`} onClick={() => setLevelFilter('N2')}>N2</button>
+          <button className={`chip ${levelFilter === 'N1' ? 'active' : ''}`} onClick={() => setLevelFilter('N1')}>N1</button>
         </div>
 
         <div className="jump-row">
@@ -287,8 +278,8 @@ const VocabularyView: React.FC = () => {
       ) : filteredIndices.length === 0 || !activeCard ? (
         <div className="empty-state">
           <div className="empty-icon">🧭</div>
-          <div className="empty-title">此難度暫無單字</div>
-          <div className="empty-text">請切換至其他難度</div>
+          <div className="empty-title">此級別暫無單字</div>
+          <div className="empty-text">請切換至其他級別</div>
         </div>
       ) : (
         <>
