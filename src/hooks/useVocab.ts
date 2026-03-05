@@ -24,7 +24,51 @@ export function useVocab() {
   useEffect(() => {
     const stored = localStorage.getItem(STORAGE_KEYS.VOCAB);
     if (stored) {
-      setCards(JSON.parse(stored));
+      try {
+        const parsed: VocabCard[] = JSON.parse(stored);
+        const latestMap = new Map(initialVocabData.map((card) => [card.id, card]));
+
+        // 合併最新詞庫內容（讀音/例句等）與既有學習進度，避免舊 localStorage 卡住舊資料
+        const mergedCards: VocabCard[] = parsed.map((oldCard) => {
+          const latest = latestMap.get(oldCard.id);
+          if (!latest) return oldCard;
+          return {
+            ...oldCard,
+            word: latest.word,
+            furigana: latest.furigana,
+            meaning: latest.meaning,
+            example: latest.example,
+            exampleMeaning: latest.exampleMeaning,
+            level: latest.level,
+          };
+        });
+
+        // 若詞庫新增詞條，補進去（進度設為初始）
+        const existingIds = new Set(mergedCards.map((card) => card.id));
+        const appended = initialVocabData
+          .filter((card) => !existingIds.has(card.id))
+          .map((card) => ({
+            ...card,
+            nextReview: Date.now(),
+            interval: 0,
+            reviewCount: 0,
+            mastered: false,
+          }));
+
+        const finalCards = [...mergedCards, ...appended];
+        setCards(finalCards);
+        localStorage.setItem(STORAGE_KEYS.VOCAB, JSON.stringify(finalCards));
+      } catch {
+        const initialCards: VocabCard[] = initialVocabData.map((card) => ({
+          ...card,
+          nextReview: Date.now(),
+          interval: 0,
+          reviewCount: 0,
+          mastered: false,
+        }));
+        setCards(initialCards);
+        localStorage.setItem(STORAGE_KEYS.VOCAB, JSON.stringify(initialCards));
+      }
     } else {
       const initialCards: VocabCard[] = initialVocabData.map((card) => ({
         ...card,
