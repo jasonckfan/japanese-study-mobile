@@ -88,7 +88,7 @@ const ActionButtons: React.FC<{
 );
 
 const VocabularyView: React.FC = () => {
-  const { currentCard, currentIndex, isFlipped, setIsFlipped, handleReview, progress } = useVocab();
+  const { cards, currentCard, currentIndex, isFlipped, setIsFlipped, handleReview, progress } = useVocab();
   const { supported, speak, stop } = useSpeech();
   const [speechRate, setSpeechRate] = useState(0.9);
   const [autoPlay, setAutoPlay] = useState(true);
@@ -97,6 +97,7 @@ const VocabularyView: React.FC = () => {
   const pendingAutoSpeakRef = useRef(false);
   const lastSpokenIndexRef = useRef<number | null>(null);
   const autoSpeakTimerRef = useRef<number | null>(null);
+  const targetSpeakIndexRef = useRef<number | null>(null);
 
   useEffect(() => {
     return () => {
@@ -106,12 +107,18 @@ const VocabularyView: React.FC = () => {
       if (autoSpeakTimerRef.current !== null) {
         window.clearTimeout(autoSpeakTimerRef.current);
       }
+      targetSpeakIndexRef.current = null;
     };
   }, []);
 
   useEffect(() => {
     if (!autoPlay) {
       pendingAutoSpeakRef.current = false;
+      targetSpeakIndexRef.current = null;
+      if (autoSpeakTimerRef.current !== null) {
+        window.clearTimeout(autoSpeakTimerRef.current);
+        autoSpeakTimerRef.current = null;
+      }
       return;
     }
     if (!supported || !currentCard) return;
@@ -122,9 +129,14 @@ const VocabularyView: React.FC = () => {
       if (autoSpeakTimerRef.current !== null) {
         window.clearTimeout(autoSpeakTimerRef.current);
       }
+      targetSpeakIndexRef.current = currentIndex;
       autoSpeakTimerRef.current = window.setTimeout(() => {
+        const idx = targetSpeakIndexRef.current;
+        if (idx === null) return;
+        const cardToSpeak = cards[idx];
+        if (!cardToSpeak) return;
         stop();
-        speak(currentCard.word, { rate: speechRate });
+        speak(cardToSpeak.word, { rate: speechRate });
       }, 220);
       return;
     }
@@ -136,12 +148,17 @@ const VocabularyView: React.FC = () => {
       if (autoSpeakTimerRef.current !== null) {
         window.clearTimeout(autoSpeakTimerRef.current);
       }
+      targetSpeakIndexRef.current = currentIndex;
       autoSpeakTimerRef.current = window.setTimeout(() => {
+        const idx = targetSpeakIndexRef.current;
+        if (idx === null) return;
+        const cardToSpeak = cards[idx];
+        if (!cardToSpeak) return;
         stop();
-        speak(currentCard.word, { rate: speechRate });
+        speak(cardToSpeak.word, { rate: speechRate });
       }, 220);
     }
-  }, [supported, autoPlay, currentCard, currentIndex, speechRate, speak, stop]);
+  }, [supported, autoPlay, currentCard, currentIndex, cards, speechRate, speak, stop]);
 
   const onActionReview = (mastered: boolean) => {
     if (typeof navigator !== 'undefined' && 'vibrate' in navigator) {
