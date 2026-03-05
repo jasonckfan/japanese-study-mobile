@@ -89,38 +89,67 @@ const ActionButtons: React.FC<{
 
 const VocabularyView: React.FC = () => {
   const { currentCard, currentIndex, isFlipped, setIsFlipped, handleReview, progress } = useVocab();
-  const { supported, speak } = useSpeech();
+  const { supported, speak, stop } = useSpeech();
   const [speechRate, setSpeechRate] = useState(0.9);
   const [autoPlay, setAutoPlay] = useState(true);
   const [feedback, setFeedback] = useState<'mastered' | 'review' | null>(null);
   const feedbackTimeoutRef = useRef<number | null>(null);
+  const pendingAutoSpeakRef = useRef(false);
+  const lastSpokenIndexRef = useRef<number | null>(null);
+  const autoSpeakTimerRef = useRef<number | null>(null);
 
   useEffect(() => {
     return () => {
       if (feedbackTimeoutRef.current !== null) {
         window.clearTimeout(feedbackTimeoutRef.current);
       }
+      if (autoSpeakTimerRef.current !== null) {
+        window.clearTimeout(autoSpeakTimerRef.current);
+      }
     };
   }, []);
 
-  const lastAutoPlayRef = useRef<{ index: number; ts: number }>({ index: -1, ts: 0 });
-
   useEffect(() => {
-    if (!supported || !autoPlay || !currentCard) return;
-
-    // 只在「卡片索引切換」時自動播放，避免 review 更新同一張卡資料時重播
-    const now = Date.now();
-    if (lastAutoPlayRef.current.index === currentIndex && now - lastAutoPlayRef.current.ts < 800) {
+    if (!autoPlay) {
+      pendingAutoSpeakRef.current = false;
       return;
     }
-    lastAutoPlayRef.current = { index: currentIndex, ts: now };
+    if (!supported || !currentCard) return;
 
-    speak(currentCard.word, { rate: speechRate });
-  }, [supported, autoPlay, currentIndex, currentCard, speak, speechRate]);
+    // 初次載入：播放一次
+    if (lastSpokenIndexRef.current === null) {
+      lastSpokenIndexRef.current = currentIndex;
+      if (autoSpeakTimerRef.current !== null) {
+        window.clearTimeout(autoSpeakTimerRef.current);
+      }
+      autoSpeakTimerRef.current = window.setTimeout(() => {
+        stop();
+        speak(currentCard.word, { rate: speechRate });
+      }, 220);
+      return;
+    }
+
+    // 只在 review 後切到下一張卡時自動播，模擬「跳卡後按發音鍵」
+    if (pendingAutoSpeakRef.current && lastSpokenIndexRef.current !== currentIndex) {
+      pendingAutoSpeakRef.current = false;
+      lastSpokenIndexRef.current = currentIndex;
+      if (autoSpeakTimerRef.current !== null) {
+        window.clearTimeout(autoSpeakTimerRef.current);
+      }
+      autoSpeakTimerRef.current = window.setTimeout(() => {
+        stop();
+        speak(currentCard.word, { rate: speechRate });
+      }, 220);
+    }
+  }, [supported, autoPlay, currentCard, currentIndex, speechRate, speak, stop]);
 
   const onActionReview = (mastered: boolean) => {
     if (typeof navigator !== 'undefined' && 'vibrate' in navigator) {
       navigator.vibrate(mastered ? [24] : [10, 28, 10]);
+    }
+
+    if (autoPlay) {
+      pendingAutoSpeakRef.current = true;
     }
 
     setFeedback(mastered ? 'mastered' : 'review');
