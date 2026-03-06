@@ -31,6 +31,33 @@ const ProgressBar: React.FC<{ total: number; mastered: number; due: number }> = 
   );
 };
 
+const buildGrammarNotes = (example: string) => {
+  const notes: Array<{ key: string; label: string; detail: string }> = [];
+  if (example.includes('ですか')) {
+    notes.push({ key: 'desuka', label: '疑問句：ですか', detail: '以「〜ですか」結尾，用於禮貌詢問。' });
+  }
+  if (example.includes('ください')) {
+    notes.push({ key: 'kudasai', label: '請求句：〜ください', detail: '表示請求或請對方做某事。' });
+  }
+  if (example.includes('ません')) {
+    notes.push({ key: 'masen', label: '否定形：〜ません', detail: '動詞敬體否定，表「不…」。' });
+  }
+  if (example.includes('は')) {
+    notes.push({ key: 'wa', label: '主題助詞：は', detail: '標記句子主題，突出「關於…」。' });
+  }
+  if (example.includes('を')) {
+    notes.push({ key: 'wo', label: '受詞助詞：を', detail: '標記動作直接作用的對象。' });
+  }
+  if (example.includes('に')) {
+    notes.push({ key: 'ni', label: '方向/時間助詞：に', detail: '常用於時間點、目的地或對象。' });
+  }
+  if (example.includes('で')) {
+    notes.push({ key: 'de', label: '場所/手段助詞：で', detail: '表示動作發生場所或手段。' });
+  }
+
+  return notes.slice(0, 3);
+};
+
 const Flashcard: React.FC<{
   card: ReturnType<typeof useVocab>['currentCard'];
   isFlipped: boolean;
@@ -39,7 +66,8 @@ const Flashcard: React.FC<{
   onSpeakExample: () => void;
 }> = ({ card, isFlipped, onFlip, onSpeakWord, onSpeakExample }) => {
   if (!card) return null;
-  
+  const grammarNotes = buildGrammarNotes(card.example);
+
   return (
     <div className="flashcard-container">
       <div className={`flashcard ${isFlipped ? 'flipped' : ''}`} onClick={onFlip}>
@@ -57,6 +85,19 @@ const Flashcard: React.FC<{
             <div className="flashcard-example-cn">{card.exampleMeaning}</div>
             <button className="speak-btn secondary" onClick={(e) => { e.stopPropagation(); onSpeakExample(); }}>🔊 例句發音</button>
           </div>
+          {grammarNotes.length > 0 && (
+            <div className="grammar-notes" onClick={(e) => e.stopPropagation()}>
+              <div className="grammar-notes-title">文法應用</div>
+              <div className="grammar-notes-list">
+                {grammarNotes.map((note) => (
+                  <div key={note.key} className="grammar-note-item">
+                    <div className="grammar-note-label">{note.label}</div>
+                    <div className="grammar-note-detail">{note.detail}</div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
         </div>
       </div>
     </div>
@@ -239,6 +280,20 @@ const VocabularyView: React.FC = () => {
           位置 {filteredIndices.length === 0 || filteredCurrentPosition < 0 ? 0 : filteredCurrentPosition + 1}/{filteredIndices.length}
         </div>
 
+        <div className="quick-jump-row">
+          <input
+            type="number"
+            inputMode="numeric"
+            min={1}
+            max={Math.max(filteredIndices.length, 1)}
+            value={jumpInput}
+            onChange={(e) => setJumpInput(e.target.value)}
+            placeholder="#"
+            className="jump-input"
+          />
+          <button className="chip jump-btn" onClick={onJumpToIndex}>跳轉</button>
+        </div>
+
         <details className="vocab-controls-panel corner">
           <summary aria-label="開啟學習設定">⚙️</summary>
           <div className="vocab-controls">
@@ -260,23 +315,6 @@ const VocabularyView: React.FC = () => {
               <button className={`chip ${levelFilter === 'N3' ? 'active' : ''}`} onClick={() => setLevelFilter('N3')}>N3</button>
               <button className={`chip ${levelFilter === 'N2' ? 'active' : ''}`} onClick={() => setLevelFilter('N2')}>N2</button>
               <button className={`chip ${levelFilter === 'N1' ? 'active' : ''}`} onClick={() => setLevelFilter('N1')}>N1</button>
-            </div>
-
-            <div className="jump-row">
-              <span className="position-indicator">跳轉</span>
-              <div className="jump-input-wrap">
-                <input
-                  type="number"
-                  inputMode="numeric"
-                  min={1}
-                  max={Math.max(filteredIndices.length, 1)}
-                  value={jumpInput}
-                  onChange={(e) => setJumpInput(e.target.value)}
-                  placeholder="跳到 #"
-                  className="jump-input"
-                />
-                <button className="chip jump-btn" onClick={onJumpToIndex}>前往</button>
-              </div>
             </div>
 
             <div className="jump-row">

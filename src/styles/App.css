@@ -362,10 +362,16 @@ html, body, #root {
 .vocab-top-row {
   position: relative;
   display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
+  align-items: center;
   gap: 8px;
   margin-bottom: 8px;
+}
+
+.quick-jump-row {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-left: auto;
 }
 
 .position-chip {
@@ -403,7 +409,6 @@ html, body, #root {
 .vocab-controls-panel.corner {
   position: relative;
   margin: 0;
-  margin-left: auto;
   width: fit-content;
   padding: 0;
   border-radius: 999px;
@@ -480,6 +485,17 @@ html, body, #root {
   font-size: 0.82rem;
 }
 
+.quick-jump-row .jump-input {
+  width: 64px;
+  min-height: 38px;
+  padding: 6px 8px;
+}
+
+.quick-jump-row .jump-btn {
+  min-height: 38px;
+  padding: 8px 12px;
+}
+
 .jump-btn {
   padding-left: 12px;
   padding-right: 12px;
@@ -507,6 +523,47 @@ html, body, #root {
 .flashcard-example-cn {
   font-size: 0.8rem;
   color: var(--text-secondary);
+}
+
+.grammar-notes {
+  width: 100%;
+  margin-top: 10px;
+  padding: 10px 12px;
+  border-radius: 12px;
+  background: rgba(6, 12, 28, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.grammar-notes-title {
+  font-size: 0.76rem;
+  color: var(--accent-gold);
+  margin-bottom: 8px;
+  font-weight: 700;
+}
+
+.grammar-notes-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.grammar-note-item {
+  padding: 7px 8px;
+  border-radius: 9px;
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.grammar-note-label {
+  font-size: 0.75rem;
+  color: #f2f6ff;
+  font-weight: 600;
+}
+
+.grammar-note-detail {
+  margin-top: 2px;
+  font-size: 0.7rem;
+  color: var(--text-secondary);
+  line-height: 1.35;
 }
 
 .flashcard-level {
