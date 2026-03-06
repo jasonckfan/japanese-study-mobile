@@ -612,9 +612,8 @@ html, body, #root {
   display: flex;
   gap: 12px;
   margin-top: 16px;
-  position: sticky;
-  bottom: calc(var(--safe-bottom) + 2px);
-  z-index: 15;
+  margin-bottom: 8px;
+  position: static;
 }
 
 .action-btn {
