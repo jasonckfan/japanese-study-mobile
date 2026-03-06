@@ -277,7 +277,7 @@
     "example": "昨日、あなたのお姉さんに会ったよ",
     "exampleMeaning": "昨天我見到你姊姊了",
     "level": "N5",
-    "exampleFurigana": "昨日、あなたのお姉(ねえ)さんに会ったよ"
+    "exampleFurigana": "昨日(きのう)、あなたのお姉(ねえ)さんに会ったよ"
   },
   {
     "id": "29",
@@ -317,7 +317,7 @@
     "example": "お父さんは会社員です",
     "exampleMeaning": "爸爸是公司職員",
     "level": "N5",
-    "exampleFurigana": "お父(とう)さんは会社員です"
+    "exampleFurigana": "お父(とう)さんは会社(かいしゃ)員です"
   },
   {
     "id": "33",
@@ -567,7 +567,7 @@
     "example": "じゃあ、また明日会いましょう",
     "exampleMeaning": "那麼，明天再見吧",
     "level": "N5",
-    "exampleFurigana": "じゃあ、また明日会いましょう"
+    "exampleFurigana": "じゃあ、また明日(あした)会いましょう"
   },
   {
     "id": "58",
@@ -1857,7 +1857,7 @@
     "example": "一つ・二つ・三つ・四つ・五つ・六つ・七つ・八つ・九つ・十",
     "exampleMeaning": "1〜10個的說法",
     "level": "N5",
-    "exampleFurigana": "一(ひと)つ・二つ・三つ・四つ・五つ・六つ・七つ・八つ・九つ・十"
+    "exampleFurigana": "一(ひと)つ・二つ(ふたつ)・三つ(みっつ)・四つ(よっつ)・五つ(いつつ)・六つ(むっつ)・七つ(ななつ)・八つ(やっつ)・九つ(ここのつ)・十"
   },
   {
     "id": "187",
@@ -1937,7 +1937,7 @@
     "example": "一つ・二つ・三つ・四つ・五つ・六つ・七つ・八つ・九つ・十",
     "exampleMeaning": "1〜10個的說法",
     "level": "N5",
-    "exampleFurigana": "一つ・二つ・三つ・四つ・五つ・六つ・七(なな)つ・八つ・九つ・十"
+    "exampleFurigana": "一つ(ひとつ)・二つ(ふたつ)・三つ(みっつ)・四つ(よっつ)・五つ(いつつ)・六つ(むっつ)・七(なな)つ・八つ(やっつ)・九つ(ここのつ)・十"
   },
   {
     "id": "195",
@@ -1947,7 +1947,7 @@
     "example": "一日・二日・三日・四日・五日・六日・七日・八日・九日・十日",
     "exampleMeaning": "1〜10日的叫法",
     "level": "N5",
-    "exampleFurigana": "一日・二日・三日・四日・五日・六日・七日(なのか)・八日・九日・十日"
+    "exampleFurigana": "一日(いちにち)・二日(ふつか)・三日(みっか)・四日(よっか)・五日(いつか)・六日(むいか)・七日(なのか)・八日(ようか)・九日(ここのか)・十日(とおか)"
   },
   {
     "id": "196",
@@ -1997,7 +1997,7 @@
     "example": "一つ・二つ・三つ・四つ・五つ・六つ・七つ・八つ・九つ・十",
     "exampleMeaning": "1〜10個的說法",
     "level": "N5",
-    "exampleFurigana": "一つ・二つ・三(みっ)つ・四つ・五つ・六つ・七つ・八つ・九つ・十"
+    "exampleFurigana": "一つ(ひとつ)・二つ(ふたつ)・三(みっ)つ・四つ(よっつ)・五つ(いつつ)・六つ(むっつ)・七つ(ななつ)・八つ(やっつ)・九つ(ここのつ)・十"
   },
   {
     "id": "201",
@@ -2007,7 +2007,7 @@
     "example": "一日・二日・三日・四日・五日・六日・七日・八日・九日・十日",
     "exampleMeaning": "1〜10日的叫法",
     "level": "N5",
-    "exampleFurigana": "一日・二日・三日(みっか)・四日・五日・六日・七日・八日・九日・十日"
+    "exampleFurigana": "一日(いちにち)・二日(ふつか)・三日(みっか)・四日(よっか)・五日(いつか)・六日(むいか)・七日(なのか)・八日(ようか)・九日(ここのか)・十日(とおか)"
   },
   {
     "id": "202",
@@ -2147,7 +2147,7 @@
     "example": "一つ・二つ・三つ・四つ・五つ・六つ・七つ・八つ・九つ・十",
     "exampleMeaning": "1〜10個的說法",
     "level": "N5",
-    "exampleFurigana": "一つ・二つ・三つ・四つ・五つ・六つ・七つ・八つ・九(ここの)つ・十"
+    "exampleFurigana": "一つ(ひとつ)・二つ(ふたつ)・三つ(みっつ)・四つ(よっつ)・五つ(いつつ)・六つ(むっつ)・七つ(ななつ)・八つ(やっつ)・九(ここの)つ・十"
   },
   {
     "id": "216",
@@ -2157,7 +2157,7 @@
     "example": "一日・二日・三日・四日・五日・六日・七日・八日・九日・十日",
     "exampleMeaning": "1〜10日的叫法",
     "level": "N5",
-    "exampleFurigana": "一日・二日・三日・四日・五日・六日・七日・八日・九日(ここのか)・十日"
+    "exampleFurigana": "一日(いちにち)・二日(ふつか)・三日(みっか)・四日(よっか)・五日(いつか)・六日(むいか)・七日(なのか)・八日(ようか)・九日(ここのか)・十日(とおか)"
   },
   {
     "id": "217",
@@ -2177,7 +2177,7 @@
     "example": "一つ・二つ・三つ・四つ・五つ・六つ・七つ・八つ・九つ・十",
     "exampleMeaning": "1〜10個的說法",
     "level": "N5",
-    "exampleFurigana": "一つ・二(ふた)つ・三つ・四つ・五つ・六つ・七つ・八つ・九つ・十"
+    "exampleFurigana": "一つ(ひとつ)・二(ふた)つ・三つ(みっつ)・四つ(よっつ)・五つ(いつつ)・六つ(むっつ)・七つ(ななつ)・八つ(やっつ)・九つ(ここのつ)・十"
   },
   {
     "id": "219",
@@ -2187,7 +2187,7 @@
     "example": "今日は妻と二人で食事をします",
     "exampleMeaning": "今天和妻子兩個人一起吃飯",
     "level": "N5",
-    "exampleFurigana": "今日は妻と二人(ふたり)で食事をします"
+    "exampleFurigana": "今日(きょう)は妻と二人(ふたり)で食事をします"
   },
   {
     "id": "220",
@@ -2197,7 +2197,7 @@
     "example": "来月の二十日は弟の誕生日です",
     "exampleMeaning": "下個月二十日是我弟弟的生日",
     "level": "N5",
-    "exampleFurigana": "来月の二十日(はつか)は弟の誕生日です"
+    "exampleFurigana": "来月(らいげつ)の二十日(はつか)は弟の誕生日です"
   },
   {
     "id": "221",
@@ -2217,7 +2217,7 @@
     "example": "一日・二日・三日・四日・五日・六日・七日・八日・九日・十日",
     "exampleMeaning": "1〜10日的叫法",
     "level": "N5",
-    "exampleFurigana": "一日・二日(ふつか)・三日・四日・五日・六日・七日・八日・九日・十日"
+    "exampleFurigana": "一日(いちにち)・二日(ふつか)・三日(みっか)・四日(よっか)・五日(いつか)・六日(むいか)・七日(なのか)・八日(ようか)・九日(ここのか)・十日(とおか)"
   },
   {
     "id": "223",
@@ -2237,7 +2237,7 @@
     "example": "一つ・二つ・三つ・四つ・五つ・六つ・七つ・八つ・九つ・十",
     "exampleMeaning": "1〜10個的說法",
     "level": "N5",
-    "exampleFurigana": "一つ・二つ・三つ・四つ・五(いつ)つ・六つ・七つ・八つ・九つ・十"
+    "exampleFurigana": "一つ(ひとつ)・二つ(ふたつ)・三つ(みっつ)・四つ(よっつ)・五(いつ)つ・六つ(むっつ)・七つ(ななつ)・八つ(やっつ)・九つ(ここのつ)・十"
   },
   {
     "id": "225",
@@ -2247,7 +2247,7 @@
     "example": "一日・二日・三日・四日・五日・六日・七日・八日・九日・十日",
     "exampleMeaning": "1〜10日的叫法",
     "level": "N5",
-    "exampleFurigana": "一日・二日・三日・四日・五日(いつか)・六日・七日・八日・九日・十日"
+    "exampleFurigana": "一日(いちにち)・二日(ふつか)・三日(みっか)・四日(よっか)・五日(いつか)・六日(むいか)・七日(なのか)・八日(ようか)・九日(ここのか)・十日(とおか)"
   },
   {
     "id": "226",
@@ -2287,7 +2287,7 @@
     "example": "彼は今、勉強しています",
     "exampleMeaning": "他現在在學習",
     "level": "N5",
-    "exampleFurigana": "彼は今(いま)、勉強しています"
+    "exampleFurigana": "彼は今(いま)、勉強(べんきょう)しています"
   },
   {
     "id": "230",
@@ -2297,7 +2297,7 @@
     "example": "今年はイタリアに旅行したい",
     "exampleMeaning": "今年想去義大利旅行",
     "level": "N5",
-    "exampleFurigana": "今年(ことし)はイタリアに旅行したい"
+    "exampleFurigana": "今年(ことし)はイタリアに旅行(りょこう)したい"
   },
   {
     "id": "231",
@@ -2307,7 +2307,7 @@
     "example": "今日は仕事がありません",
     "exampleMeaning": "今天沒有工作",
     "level": "N5",
-    "exampleFurigana": "今日(きょう)は仕事がありません"
+    "exampleFurigana": "今日(きょう)は仕事(しごと)がありません"
   },
   {
     "id": "232",
@@ -2327,7 +2327,7 @@
     "example": "今月はとても忙しい",
     "exampleMeaning": "這個月非常忙碌",
     "level": "N5",
-    "exampleFurigana": "今月(こんげつ)はとても忙しい"
+    "exampleFurigana": "今月(こんげつ)はとても忙しい(いそがしい)"
   },
   {
     "id": "234",
@@ -2357,7 +2357,7 @@
     "example": "3月は仕事が忙しい",
     "exampleMeaning": "三月工作很忙",
     "level": "N5",
-    "exampleFurigana": "3月は仕事(しごと)が忙しい"
+    "exampleFurigana": "3月は仕事(しごと)が忙しい(いそがしい)"
   },
   {
     "id": "237",
@@ -2367,7 +2367,7 @@
     "example": "休み時間になる",
     "exampleMeaning": "到了休息時間",
     "level": "N5",
-    "exampleFurigana": "休(やす)み時間になる"
+    "exampleFurigana": "休(やす)み時間(じかん)になる"
   },
   {
     "id": "238",
@@ -2397,7 +2397,7 @@
     "example": "彼は小さな会社に勤めています",
     "exampleMeaning": "他在一間小公司上班",
     "level": "N5",
-    "exampleFurigana": "彼は小さな会社(かいしゃ)に勤めています"
+    "exampleFurigana": "彼は小さな(ちいさな)会社(かいしゃ)に勤めています"
   },
   {
     "id": "241",
@@ -2407,7 +2407,7 @@
     "example": "伯母さんは料理が上手です",
     "exampleMeaning": "伯母很會做菜",
     "level": "N5",
-    "exampleFurigana": "伯母(おば)さんは料理が上手です"
+    "exampleFurigana": "伯母(おば)さんは料理(りょうり)が上手(じょうず)です"
   },
   {
     "id": "242",
@@ -2657,7 +2657,7 @@
     "example": "一つ・二つ・三つ・四つ・五つ・六つ・七つ・八つ・九つ・十",
     "exampleMeaning": "1〜10個的說法",
     "level": "N5",
-    "exampleFurigana": "一つ・二つ・三つ・四つ・五つ・六つ・七つ・八(やっ)つ・九つ・十"
+    "exampleFurigana": "一つ(ひとつ)・二つ(ふたつ)・三つ(みっつ)・四つ(よっつ)・五つ(いつつ)・六つ(むっつ)・七つ(ななつ)・八(やっ)つ・九つ(ここのつ)・十"
   },
   {
     "id": "267",
@@ -2667,7 +2667,7 @@
     "example": "一日・二日・三日・四日・五日・六日・七日・八日・九日・十日",
     "exampleMeaning": "1〜10日的叫法",
     "level": "N5",
-    "exampleFurigana": "一日・二日・三日・四日・五日・六日・七日・八日(ようか)・九日・十日"
+    "exampleFurigana": "一日(いちにち)・二日(ふつか)・三日(みっか)・四日(よっか)・五日(いつか)・六日(むいか)・七日(なのか)・八日(ようか)・九日(ここのか)・十日(とおか)"
   },
   {
     "id": "268",
@@ -2687,7 +2687,7 @@
     "example": "公園に小さな池があります",
     "exampleMeaning": "公園裡有一個小池塘",
     "level": "N5",
-    "exampleFurigana": "公園(こうえん)に小さな池があります"
+    "exampleFurigana": "公園(こうえん)に小さな(ちいさな)池があります"
   },
   {
     "id": "270",
@@ -2707,7 +2707,7 @@
     "example": "一つ・二つ・三つ・四つ・五つ・六つ・七つ・八つ・九つ・十",
     "exampleMeaning": "1〜10個的說法",
     "level": "N5",
-    "exampleFurigana": "一つ・二つ・三つ・四つ・五つ・六(むっ)つ・七つ・八つ・九つ・十"
+    "exampleFurigana": "一つ(ひとつ)・二つ(ふたつ)・三つ(みっつ)・四つ(よっつ)・五つ(いつつ)・六(むっ)つ・七つ(ななつ)・八つ(やっつ)・九つ(ここのつ)・十"
   },
   {
     "id": "272",
@@ -2717,7 +2717,7 @@
     "example": "一日・二日・三日・四日・五日・六日・七日・八日・九日・十日",
     "exampleMeaning": "1〜10日的叫法",
     "level": "N5",
-    "exampleFurigana": "一日・二日・三日・四日・五日・六日(むいか)・七日・八日・九日・十日"
+    "exampleFurigana": "一日(いちにち)・二日(ふつか)・三日(みっか)・四日(よっか)・五日(いつか)・六日(むいか)・七日(なのか)・八日(ようか)・九日(ここのか)・十日(とおか)"
   },
   {
     "id": "273",
@@ -2737,7 +2737,7 @@
     "example": "写真を撮る",
     "exampleMeaning": "照相",
     "level": "N5",
-    "exampleFurigana": "写真(しゃしん)を撮る"
+    "exampleFurigana": "写真(しゃしん)を撮る(とる)"
   },
   {
     "id": "275",
@@ -2747,7 +2747,7 @@
     "example": "カナダの冬はとても寒いです",
     "exampleMeaning": "加拿大的冬天非常寒冷",
     "level": "N5",
-    "exampleFurigana": "カナダの冬(ふゆ)はとても寒いです"
+    "exampleFurigana": "カナダの冬(ふゆ)はとても寒い(さむい)です"
   },
   {
     "id": "276",
@@ -2777,7 +2777,7 @@
     "example": "散歩に出かける",
     "exampleMeaning": "出去散步",
     "level": "N5",
-    "exampleFurigana": "散歩に出(で)かける"
+    "exampleFurigana": "散歩(さんぽ)に出(で)かける"
   },
   {
     "id": "279",
@@ -2867,7 +2867,7 @@
     "example": "東京に来るのは初めてです",
     "exampleMeaning": "我是第一次來東京",
     "level": "N5",
-    "exampleFurigana": "東京に来るのは初(はじ)めてです"
+    "exampleFurigana": "東京に来る(くる)のは初(はじ)めてです"
   },
   {
     "id": "288",
@@ -2947,7 +2947,7 @@
     "example": "一日・二日・三日・四日・五日・六日・七日・八日・九日・十日",
     "exampleMeaning": "1〜10日的叫法",
     "level": "N5",
-    "exampleFurigana": "一日・二日・三日・四日・五日・六日・七日・八日・九日・十日(とおか)"
+    "exampleFurigana": "一日(いちにち)・二日(ふつか)・三日(みっか)・四日(よっか)・五日(いつか)・六日(むいか)・七日(なのか)・八日(ようか)・九日(ここのか)・十日(とおか)"
   },
   {
     "id": "296",
@@ -2977,7 +2977,7 @@
     "example": "明日の午後、お客様が来る",
     "exampleMeaning": "明天下午有客人要來",
     "level": "N5",
-    "exampleFurigana": "明日の午後(ごご)、お客様が来る"
+    "exampleFurigana": "明日(あした)の午後(ごご)、お客様が来る(くる)"
   },
   {
     "id": "299",
@@ -2987,7 +2987,7 @@
     "example": "1時間半",
     "exampleMeaning": "一個半小時",
     "level": "N5",
-    "exampleFurigana": "1時間半(はん)"
+    "exampleFurigana": "1時間(じかん)半(はん)"
   },
   {
     "id": "300",
@@ -2997,7 +2997,7 @@
     "example": "お菓子を友達に半分あげた",
     "exampleMeaning": "把點心分一半給朋友",
     "level": "N5",
-    "exampleFurigana": "お菓子を友達に半分(はんぶん)あげた"
+    "exampleFurigana": "お菓子(おかし)を友達(ともだち)に半分(はんぶん)あげた"
   },
   {
     "id": "301",
@@ -3077,7 +3077,7 @@
     "example": "叔父は毎朝ジョギングをします",
     "exampleMeaning": "叔叔每天早上慢跑",
     "level": "N5",
-    "exampleFurigana": "叔父(おじ)は毎朝ジョギングをします"
+    "exampleFurigana": "叔父(おじ)は毎朝(まいあさ)ジョギングをします"
   },
   {
     "id": "309",
@@ -3107,7 +3107,7 @@
     "example": "私は古い車が好きです",
     "exampleMeaning": "我喜歡舊車",
     "level": "N5",
-    "exampleFurigana": "私は古(ふる)い車が好きです"
+    "exampleFurigana": "私は古(ふる)い車が好き(すき)です"
   },
   {
     "id": "312",
@@ -3117,7 +3117,7 @@
     "example": "お母さんは台所にいます",
     "exampleMeaning": "媽媽在廚房",
     "level": "N5",
-    "exampleFurigana": "お母さんは台所(だいどころ)にいます"
+    "exampleFurigana": "お母さん(おかあさん)は台所(だいどころ)にいます"
   },
   {
     "id": "313",
@@ -3157,7 +3157,7 @@
     "example": "友達は向こうにいます",
     "exampleMeaning": "朋友在對面",
     "level": "N5",
-    "exampleFurigana": "友達は向(む)こうにいます"
+    "exampleFurigana": "友達(ともだち)は向(む)こうにいます"
   },
   {
     "id": "317",
@@ -3237,7 +3237,7 @@
     "example": "一つ・二つ・三つ・四つ・五つ・六つ・七つ・八つ・九つ・十",
     "exampleMeaning": "1〜10個的說法",
     "level": "N5",
-    "exampleFurigana": "一つ・二つ・三つ・四(よっ)つ・五つ・六つ・七つ・八つ・九つ・十"
+    "exampleFurigana": "一つ(ひとつ)・二つ(ふたつ)・三つ(みっつ)・四(よっ)つ・五つ(いつつ)・六つ(むっつ)・七つ(ななつ)・八つ(やっつ)・九つ(ここのつ)・十"
   },
   {
     "id": "325",
@@ -3247,7 +3247,7 @@
     "example": "一日・二日・三日・四日・五日・六日・七日・八日・九日・十日",
     "exampleMeaning": "1〜10日的叫法",
     "level": "N5",
-    "exampleFurigana": "一日・二日・三日・四日(よっか)・五日・六日・七日・八日・九日・十日"
+    "exampleFurigana": "一日(いちにち)・二日(ふつか)・三日(みっか)・四日(よっか)・五日(いつか)・六日(むいか)・七日(なのか)・八日(ようか)・九日(ここのか)・十日(とおか)"
   },
   {
     "id": "326",
@@ -3267,7 +3267,7 @@
     "example": "図書館で料理の本を借りた",
     "exampleMeaning": "在圖書館借了烹飪的書",
     "level": "N5",
-    "exampleFurigana": "図書館(としょかん)で料理の本を借りた"
+    "exampleFurigana": "図書館(としょかん)で料理(りょうり)の本を借りた"
   },
   {
     "id": "328",
@@ -3287,7 +3287,7 @@
     "example": "月曜日・火曜日・水曜日・木曜日・金曜日・土曜日・日曜日",
     "exampleMeaning": "週一到週日的叫法",
     "level": "N5",
-    "exampleFurigana": "月曜日・火曜日・水曜日・木曜日・金曜日・土曜日(どようび)・日曜日"
+    "exampleFurigana": "月曜日(げつようび)・火曜日・水曜日(すいようび)・木曜日(もくようび)・金曜日・土曜日(どようび)・日曜日(にちようび)"
   },
   {
     "id": "330",
@@ -3327,7 +3327,7 @@
     "example": "彼は大きな声で話した",
     "exampleMeaning": "他大聲說話",
     "level": "N5",
-    "exampleFurigana": "彼は大きな声(こえ)で話した"
+    "exampleFurigana": "彼は大きな(おおきな)声(こえ)で話した"
   },
   {
     "id": "334",
@@ -3347,7 +3347,7 @@
     "example": "夏が来る",
     "exampleMeaning": "夏天來了",
     "level": "N5",
-    "exampleFurigana": "夏(なつ)が来る"
+    "exampleFurigana": "夏(なつ)が来る(くる)"
   },
   {
     "id": "336",
@@ -3377,7 +3377,7 @@
     "example": "今日は家族と夕飯を食べます",
     "exampleMeaning": "今天會和家人一起吃晚飯",
     "level": "N5",
-    "exampleFurigana": "今日は家族と夕飯(ゆうはん)を食べます"
+    "exampleFurigana": "今日(きょう)は家族(かぞく)と夕飯(ゆうはん)を食べます"
   },
   {
     "id": "339",
@@ -3387,7 +3387,7 @@
     "example": "外は暑いよ",
     "exampleMeaning": "外面很熱哦",
     "level": "N5",
-    "exampleFurigana": "外(そと)は暑いよ"
+    "exampleFurigana": "外(そと)は暑い(あつい)よ"
   },
   {
     "id": "340",
@@ -3407,7 +3407,7 @@
     "example": "日本に住む外国人が増えています",
     "exampleMeaning": "住在日本的外國人正在增多",
     "level": "N5",
-    "exampleFurigana": "日本に住む外国人(がいこくじん)が増えています"
+    "exampleFurigana": "日本に住む(すむ)外国(がいこく)人(がいこくじん)が増えています"
   },
   {
     "id": "342",
@@ -3427,7 +3427,7 @@
     "example": "昨日の夜は家にいました",
     "exampleMeaning": "昨晚在家",
     "level": "N5",
-    "exampleFurigana": "昨日の夜(よる)は家にいました"
+    "exampleFurigana": "昨日(きのう)の夜(よる)は家にいました"
   },
   {
     "id": "344",
@@ -3437,7 +3437,7 @@
     "example": "あの大きい建物は何ですか",
     "exampleMeaning": "那棟大建築物是什麼？",
     "level": "N5",
-    "exampleFurigana": "あの大(おお)きい建物は何ですか"
+    "exampleFurigana": "あの大(おお)きい建物(たてもの)は何ですか"
   },
   {
     "id": "345",
@@ -3527,7 +3527,7 @@
     "example": "今日はいい天気ですね",
     "exampleMeaning": "今天天氣真好",
     "level": "N5",
-    "exampleFurigana": "今日はいい天気(てんき)ですね"
+    "exampleFurigana": "今日(きょう)はいい天気(てんき)ですね"
   },
   {
     "id": "354",
@@ -3547,7 +3547,7 @@
     "example": "昨日、君の奥さんに会ったよ",
     "exampleMeaning": "昨天我見到你太太了",
     "level": "N5",
-    "exampleFurigana": "昨日、君の奥(おく)さんに会ったよ"
+    "exampleFurigana": "昨日(きのう)、君の奥(おく)さんに会ったよ"
   },
   {
     "id": "356",
@@ -3587,7 +3587,7 @@
     "example": "私の妹は小学生です",
     "exampleMeaning": "我的妹妹是國小生",
     "level": "N5",
-    "exampleFurigana": "私の妹(いもうと)は小学生です"
+    "exampleFurigana": "私の妹(いもうと)は小学生(がくせい)です"
   },
   {
     "id": "360",
@@ -3597,7 +3597,7 @@
     "example": "姉は大学生です",
     "exampleMeaning": "姊姊是大學生",
     "level": "N5",
-    "exampleFurigana": "姉(あね)は大学生です"
+    "exampleFurigana": "姉(あね)は大学(だいがく)生です"
   },
   {
     "id": "361",
@@ -3607,7 +3607,7 @@
     "example": "授業は9時に始まる",
     "exampleMeaning": "九點鐘開始上課",
     "level": "N5",
-    "exampleFurigana": "授業は9時に始(はじ)まる"
+    "exampleFurigana": "授業(じゅぎょう)は9時に始(はじ)まる"
   },
   {
     "id": "362",
@@ -3667,7 +3667,7 @@
     "example": "来年学校を卒業する",
     "exampleMeaning": "明年從學校畢業",
     "level": "N5",
-    "exampleFurigana": "来年学校(がっこう)を卒業する"
+    "exampleFurigana": "来年(らいねん)学校(がっこう)を卒業する"
   },
   {
     "id": "368",
@@ -3677,7 +3677,7 @@
     "example": "文学部は女子学生が男子学生よりも多い",
     "exampleMeaning": "文學系女生比男生多",
     "level": "N5",
-    "exampleFurigana": "文学部は女子学生(がくせい)が男子学生(がくせい)よりも多い"
+    "exampleFurigana": "文学部は女子学生(がくせい)が男子学生(がくせい)よりも多い(おおい)"
   },
   {
     "id": "369",
@@ -3727,7 +3727,7 @@
     "example": "夏休みの宿題",
     "exampleMeaning": "暑假作業",
     "level": "N5",
-    "exampleFurigana": "夏休みの宿題(しゅくだい)"
+    "exampleFurigana": "夏休み(なつやすみ)の宿題(しゅくだい)"
   },
   {
     "id": "374",
@@ -3737,7 +3737,7 @@
     "example": "今日はちょっと寒いね",
     "exampleMeaning": "今天有點冷呢",
     "level": "N5",
-    "exampleFurigana": "今日はちょっと寒(さむ)いね"
+    "exampleFurigana": "今日(きょう)はちょっと寒(さむ)いね"
   },
   {
     "id": "375",
@@ -3757,7 +3757,7 @@
     "example": "手紙を封筒に入れた",
     "exampleMeaning": "把信裝進信封",
     "level": "N5",
-    "exampleFurigana": "手紙を封筒(ふうとう)に入れた"
+    "exampleFurigana": "手紙(てがみ)を封筒(ふうとう)に入れた"
   },
   {
     "id": "377",
@@ -3907,7 +3907,7 @@
     "example": "公園のベンチに座る",
     "exampleMeaning": "坐在公園的長椅上",
     "level": "N5",
-    "exampleFurigana": "公園のベンチに座(すわ)る"
+    "exampleFurigana": "公園(こうえん)のベンチに座(すわ)る"
   },
   {
     "id": "392",
@@ -3927,7 +3927,7 @@
     "example": "廊下を歩く",
     "exampleMeaning": "通過走廊；走過走廊",
     "level": "N5",
-    "exampleFurigana": "廊下(ろうか)を歩く"
+    "exampleFurigana": "廊下(ろうか)を歩く(あるく)"
   },
   {
     "id": "394",
@@ -3937,7 +3937,7 @@
     "example": "これは日本一古い建物です",
     "exampleMeaning": "這是日本最古老的建築物",
     "level": "N5",
-    "exampleFurigana": "これは日本一古い建物(たてもの)です"
+    "exampleFurigana": "これは日本一古い(ふるい)建物(たてもの)です"
   },
   {
     "id": "395",
@@ -3957,7 +3957,7 @@
     "example": "弟は野球が好きです",
     "exampleMeaning": "弟弟喜歡棒球",
     "level": "N5",
-    "exampleFurigana": "弟(おとうと)は野球が好きです"
+    "exampleFurigana": "弟(おとうと)は野球が好き(すき)です"
   },
   {
     "id": "397",
@@ -4077,7 +4077,7 @@
     "example": "この戸は少しかたいです",
     "exampleMeaning": "這扇門有點緊",
     "level": "N5",
-    "exampleFurigana": "この戸(と)は少しかたいです"
+    "exampleFurigana": "この戸(と)は少し(すこし)かたいです"
   },
   {
     "id": "409",
@@ -4087,7 +4087,7 @@
     "example": "座る所がない",
     "exampleMeaning": "沒有地方坐",
     "level": "N5",
-    "exampleFurigana": "座る所(ところ)がない"
+    "exampleFurigana": "座る(すわる)所(ところ)がない"
   },
   {
     "id": "410",
@@ -4107,7 +4107,7 @@
     "example": "手紙を出す",
     "exampleMeaning": "寄信",
     "level": "N5",
-    "exampleFurigana": "手紙(てがみ)を出す"
+    "exampleFurigana": "手紙(てがみ)を出す(だす)"
   },
   {
     "id": "412",
@@ -4157,7 +4157,7 @@
     "example": "写真を撮る",
     "exampleMeaning": "照相",
     "level": "N5",
-    "exampleFurigana": "写真を撮(と)る"
+    "exampleFurigana": "写真(しゃしん)を撮(と)る"
   },
   {
     "id": "417",
@@ -4177,7 +4177,7 @@
     "example": "教室で授業する",
     "exampleMeaning": "在教室上課",
     "level": "N5",
-    "exampleFurigana": "教室(きょうしつ)で授業する"
+    "exampleFurigana": "教室(きょうしつ)で授業(じゅぎょう)する"
   },
   {
     "id": "419",
@@ -4187,7 +4187,7 @@
     "example": "犬と毎朝、散歩する",
     "exampleMeaning": "每天早上和狗一起散步",
     "level": "N5",
-    "exampleFurigana": "犬と毎朝、散歩(さんぽ)する"
+    "exampleFurigana": "犬と毎朝(まいあさ)、散歩(さんぽ)する"
   },
   {
     "id": "420",
@@ -4197,7 +4197,7 @@
     "example": "文章を書く",
     "exampleMeaning": "寫文章",
     "level": "N5",
-    "exampleFurigana": "文章(ぶんしょう)を書く"
+    "exampleFurigana": "文章(ぶんしょう)を書く(かく)"
   },
   {
     "id": "421",
@@ -4217,7 +4217,7 @@
     "example": "大学に入って新しい友達ができた",
     "exampleMeaning": "上大學後交到了新朋友",
     "level": "N5",
-    "exampleFurigana": "大学に入って新(あたら)しい友達ができた"
+    "exampleFurigana": "大学(だいがく)に入って新(あたら)しい友達(ともだち)ができた"
   },
   {
     "id": "423",
@@ -4257,7 +4257,7 @@
     "example": "月曜日・火曜日・水曜日・木曜日・金曜日・土曜日・日曜日",
     "exampleMeaning": "週一到週日的叫法",
     "level": "N5",
-    "exampleFurigana": "月曜日・火曜日・水曜日・木曜日・金曜日・土曜日・日曜日(にちようび)"
+    "exampleFurigana": "月曜日(げつようび)・火曜日・水曜日(すいようび)・木曜日(もくようび)・金曜日・土曜日(どようび)・日曜日(にちようび)"
   },
   {
     "id": "427",
@@ -4287,7 +4287,7 @@
     "example": "明日は晴れるだろう",
     "exampleMeaning": "明天是晴天吧",
     "level": "N5",
-    "exampleFurigana": "明日(あした)は晴れるだろう"
+    "exampleFurigana": "明日(あした)は晴れ(はれ)る(はれる)だろう"
   },
   {
     "id": "430",
@@ -4297,7 +4297,7 @@
     "example": "この問題はかなり易しいです",
     "exampleMeaning": "這個問題相當簡單",
     "level": "N5",
-    "exampleFurigana": "この問題はかなり易(やさ)しいです"
+    "exampleFurigana": "この問題(もんだい)はかなり易(やさ)しいです"
   },
   {
     "id": "431",
@@ -4317,7 +4317,7 @@
     "example": "彼と近くの映画館に行きました",
     "exampleMeaning": "和他去了附近的電影院",
     "level": "N5",
-    "exampleFurigana": "彼と近くの映画館(えいがかん)に行きました"
+    "exampleFurigana": "彼と近くの映画(えいが)館(えいがかん)に行きました"
   },
   {
     "id": "433",
@@ -4327,7 +4327,7 @@
     "example": "春になると花が咲く",
     "exampleMeaning": "一到春天，花就開了",
     "level": "N5",
-    "exampleFurigana": "春(はる)になると花が咲く"
+    "exampleFurigana": "春(はる)になると花が咲く(さく)"
   },
   {
     "id": "434",
@@ -4417,7 +4417,7 @@
     "example": "晩御飯のあとで散歩しました",
     "exampleMeaning": "晚飯後去散步了",
     "level": "N5",
-    "exampleFurigana": "晩御飯(ばんごはん)のあとで散歩しました"
+    "exampleFurigana": "晩御飯(ばんごはん)のあとで散歩(さんぽ)しました"
   },
   {
     "id": "443",
@@ -4427,7 +4427,7 @@
     "example": "明日の天気は晴れです",
     "exampleMeaning": "明天是晴天",
     "level": "N5",
-    "exampleFurigana": "明日の天気は晴(は)れです"
+    "exampleFurigana": "明日(あした)の天気(てんき)は晴(は)れです"
   },
   {
     "id": "444",
@@ -4527,7 +4527,7 @@
     "example": "月曜日・火曜日・水曜日・木曜日・金曜日・土曜日・日曜日",
     "exampleMeaning": "週一到週日的叫法",
     "level": "N5",
-    "exampleFurigana": "月曜日(げつようび)・火曜日・水曜日・木曜日・金曜日・土曜日・日曜日"
+    "exampleFurigana": "月曜日(げつようび)・火曜日・水曜日(すいようび)・木曜日(もくようび)・金曜日・土曜日(どようび)・日曜日(にちようび)"
   },
   {
     "id": "454",
@@ -4537,7 +4537,7 @@
     "example": "静岡はお茶で有名だ",
     "exampleMeaning": "靜岡以產茶而聞名",
     "level": "N5",
-    "exampleFurigana": "静岡はお茶で有名(ゆうめい)だ"
+    "exampleFurigana": "静岡はお茶(おちゃ)で有名(ゆうめい)だ"
   },
   {
     "id": "455",
@@ -4557,7 +4557,7 @@
     "example": "朝早くから夜遅くまで働く",
     "exampleMeaning": "起早貪黑地工作",
     "level": "N5",
-    "exampleFurigana": "朝(あさ)早くから夜遅くまで働く"
+    "exampleFurigana": "朝(あさ)早くから夜遅くまで働く(はたらく)"
   },
   {
     "id": "457",
@@ -4587,7 +4587,7 @@
     "example": "月曜日・火曜日・水曜日・木曜日・金曜日・土曜日・日曜日",
     "exampleMeaning": "週一到週日的叫法",
     "level": "N5",
-    "exampleFurigana": "月曜日・火曜日・水曜日・木曜日(もくようび)・金曜日・土曜日・日曜日"
+    "exampleFurigana": "月曜日(げつようび)・火曜日・水曜日(すいようび)・木曜日(もくようび)・金曜日・土曜日(どようび)・日曜日(にちようび)"
   },
   {
     "id": "460",
@@ -4607,7 +4607,7 @@
     "example": "本棚から辞書を取り出す",
     "exampleMeaning": "從書架上取出詞典",
     "level": "N5",
-    "exampleFurigana": "本棚(ほんだな)から辞書を取り出す"
+    "exampleFurigana": "本棚(ほんだな)から辞書を取り出す(だす)"
   },
   {
     "id": "462",
@@ -4617,7 +4617,7 @@
     "example": "勉強机",
     "exampleMeaning": "書桌",
     "level": "N5",
-    "exampleFurigana": "勉強机(つくえ)"
+    "exampleFurigana": "勉強(べんきょう)机(つくえ)"
   },
   {
     "id": "463",
@@ -4627,7 +4627,7 @@
     "example": "山の小さな村",
     "exampleMeaning": "山間小村莊",
     "level": "N5",
-    "exampleFurigana": "山の小さな村(むら)"
+    "exampleFurigana": "山の小さな(ちいさな)村(むら)"
   },
   {
     "id": "464",
@@ -4657,7 +4657,7 @@
     "example": "来月から大学生になります",
     "exampleMeaning": "下個月開始就是大學生了",
     "level": "N5",
-    "exampleFurigana": "来月(らいげつ)から大学生になります"
+    "exampleFurigana": "来月(らいげつ)から大学(だいがく)生になります"
   },
   {
     "id": "467",
@@ -4667,7 +4667,7 @@
     "example": "来週の日曜日",
     "exampleMeaning": "下週日",
     "level": "N5",
-    "exampleFurigana": "来週(らいしゅう)の日曜日"
+    "exampleFurigana": "来週(らいしゅう)の日曜日(にちようび)"
   },
   {
     "id": "468",
@@ -4677,7 +4677,7 @@
     "example": "東に向かって歩く",
     "exampleMeaning": "朝東走",
     "level": "N5",
-    "exampleFurigana": "東(ひがし)に向かって歩く"
+    "exampleFurigana": "東(ひがし)に向かって歩く(あるく)"
   },
   {
     "id": "469",
@@ -4707,7 +4707,7 @@
     "example": "横に歩く",
     "exampleMeaning": "橫著走",
     "level": "N5",
-    "exampleFurigana": "横(よこ)に歩く"
+    "exampleFurigana": "横(よこ)に歩く(あるく)"
   },
   {
     "id": "472",
@@ -4757,7 +4757,7 @@
     "example": "私はカラオケで歌うのが大好きです",
     "exampleMeaning": "我很喜歡唱卡拉OK",
     "level": "N5",
-    "exampleFurigana": "私はカラオケで歌(うた)うのが大好きです"
+    "exampleFurigana": "私はカラオケで歌(うた)うのが大好き(だいすき)です"
   },
   {
     "id": "477",
@@ -4807,7 +4807,7 @@
     "example": "毎年冬になると風邪を引く",
     "exampleMeaning": "每年一到冬天就感冒",
     "level": "N5",
-    "exampleFurigana": "毎年(まいとし)冬になると風邪を引く"
+    "exampleFurigana": "毎年(まいとし)冬になると風邪を引く(ひく)"
   },
   {
     "id": "482",
@@ -4817,7 +4817,7 @@
     "example": "私たちは毎日散歩をします",
     "exampleMeaning": "我們每天都會去散步",
     "level": "N5",
-    "exampleFurigana": "私たちは毎日(まいにち)散歩をします"
+    "exampleFurigana": "私たちは毎日(まいにち)散歩(さんぽ)をします"
   },
   {
     "id": "483",
@@ -4827,7 +4827,7 @@
     "example": "毎晩九時に寝る",
     "exampleMeaning": "每天晚上九點睡覺",
     "level": "N5",
-    "exampleFurigana": "毎晩(まいばん)九時に寝る"
+    "exampleFurigana": "毎晩(まいばん)九時に寝る(ねる)"
   },
   {
     "id": "484",
@@ -4877,7 +4877,7 @@
     "example": "月曜日・火曜日・水曜日・木曜日・金曜日・土曜日・日曜日",
     "exampleMeaning": "週一到週日的叫法",
     "level": "N5",
-    "exampleFurigana": "月曜日・火曜日・水曜日(すいようび)・木曜日・金曜日・土曜日・日曜日"
+    "exampleFurigana": "月曜日(げつようび)・火曜日・水曜日(すいようび)・木曜日(もくようび)・金曜日・土曜日(どようび)・日曜日(にちようび)"
   },
   {
     "id": "489",
@@ -4927,7 +4927,7 @@
     "example": "今日は洋服を買いに行きます",
     "exampleMeaning": "今天要去買衣服",
     "level": "N5",
-    "exampleFurigana": "今日は洋服(ようふく)を買いに行きます"
+    "exampleFurigana": "今日(きょう)は洋服(ようふく)を買いに行きます"
   },
   {
     "id": "494",
@@ -4987,7 +4987,7 @@
     "example": "今日は昨日より涼しい",
     "exampleMeaning": "今天比昨天涼快",
     "level": "N5",
-    "exampleFurigana": "今日は昨日より涼(すず)しい"
+    "exampleFurigana": "今日(きょう)は昨日(きのう)より涼(すず)しい"
   },
   {
     "id": "500",
@@ -4997,7 +4997,7 @@
     "example": "手紙を渡す",
     "exampleMeaning": "轉交信",
     "level": "N5",
-    "exampleFurigana": "手紙を渡(わた)す"
+    "exampleFurigana": "手紙(てがみ)を渡(わた)す"
   },
   {
     "id": "501",
@@ -5227,7 +5227,7 @@
     "example": "京都で家族にお土産を買った。",
     "exampleMeaning": "我在京都買了伴手禮給家人。",
     "level": "N4",
-    "exampleFurigana": "京都で家族にお土産(みやげ)を買った。"
+    "exampleFurigana": "京都で家族(かぞく)にお土産(みやげ)を買った。"
   },
   {
     "id": "524",
@@ -5237,7 +5237,7 @@
     "example": "あのお嬢さんはピアノが上手だ。",
     "exampleMeaning": "那位小姐鋼琴彈得很好。",
     "level": "N4",
-    "exampleFurigana": "あのお嬢(じょう)さんはピアノが上手だ。"
+    "exampleFurigana": "あのお嬢(じょう)さんはピアノが上手(じょうず)だ。"
   },
   {
     "id": "525",
@@ -5247,7 +5247,7 @@
     "example": "来週、お宅に伺ってもよろしいですか。",
     "exampleMeaning": "下週我可以去您府上拜訪嗎？",
     "level": "N4",
-    "exampleFurigana": "来週、お宅(たく)に伺ってもよろしいですか。"
+    "exampleFurigana": "来週(らいしゅう)、お宅(たく)に伺ってもよろしいですか。"
   },
   {
     "id": "526",
@@ -5307,7 +5307,7 @@
     "example": "仕事中は私にかまわないでください。",
     "exampleMeaning": "工作中請不要來打擾我。",
     "level": "N4",
-    "exampleFurigana": "仕事中は私にかまわないでください。"
+    "exampleFurigana": "仕事(しごと)中は私にかまわないでください。"
   },
   {
     "id": "532",
@@ -5397,7 +5397,7 @@
     "example": "毎日日本語を読むことにしている。",
     "exampleMeaning": "我決定每天都讀日文。",
     "level": "N4",
-    "exampleFurigana": "毎日日本語を読むことにしている。"
+    "exampleFurigana": "毎日(まいにち)日本語を読むことにしている。"
   },
   {
     "id": "541",
@@ -5487,7 +5487,7 @@
     "example": "さ来月から新しい仕事が始まる。",
     "exampleMeaning": "從下下個月開始新工作。",
     "level": "N4",
-    "exampleFurigana": "さ来月(らいげつ)から新しい仕事が始まる。"
+    "exampleFurigana": "さ来月(らいげつ)から新しい(あたらしい)仕事(しごと)が始まる(はじまる)。"
   },
   {
     "id": "550",
@@ -5497,7 +5497,7 @@
     "example": "さ来週、家族で旅行に行く予定だ。",
     "exampleMeaning": "我們預計下下週全家去旅行。",
     "level": "N4",
-    "exampleFurigana": "さ来週(らいしゅう)、家族で旅行に行く予定だ。"
+    "exampleFurigana": "さ来週(らいしゅう)、家族(かぞく)で旅行(りょこう)に行く予定だ。"
   },
   {
     "id": "551",
@@ -7267,7 +7267,7 @@
     "example": "動物園。",
     "exampleMeaning": "（例句待補充）",
     "level": "N4",
-    "exampleFurigana": "動物園(-)。"
+    "exampleFurigana": "動物(どうぶつ)園(-)。"
   },
   {
     "id": "728",
@@ -7737,7 +7737,7 @@
     "example": "大学生。",
     "exampleMeaning": "（例句待補充）",
     "level": "N4",
-    "exampleFurigana": "大学生(-)。"
+    "exampleFurigana": "大学(だいがく)生(-)。"
   },
   {
     "id": "775",
@@ -7747,7 +7747,7 @@
     "example": "天気予報。",
     "exampleMeaning": "（例句待補充）",
     "level": "N4",
-    "exampleFurigana": "天気予報(-)。"
+    "exampleFurigana": "天気(てんき)予報(-)。"
   },
   {
     "id": "776",
@@ -8717,7 +8717,7 @@
     "example": "新聞社。",
     "exampleMeaning": "（例句待補充）",
     "level": "N4",
-    "exampleFurigana": "新聞社(-)。"
+    "exampleFurigana": "新聞(しんぶん)社(-)。"
   },
   {
     "id": "873",
@@ -18327,7 +18327,7 @@
     "example": "三日月。",
     "exampleMeaning": "（例句待補充）",
     "level": "N2",
-    "exampleFurigana": "三日月(-)。"
+    "exampleFurigana": "三日(みっか)月(-)。"
   },
   {
     "id": "1834",
