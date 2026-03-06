@@ -5,6 +5,7 @@ import { initialVocabData } from '../data/vocab';
 const STORAGE_KEYS = {
   VOCAB: 'nihongo-vocab',
   STATS: 'nihongo-stats',
+  CURRENT_INDEX: 'nihongo-current-index',
 };
 
 const getInitialStats = (): StudyStats => ({
@@ -22,12 +23,21 @@ export function useVocab() {
   const [isFlipped, setIsFlipped] = useState(false);
 
   useEffect(() => {
+    const getStoredIndex = (length: number) => {
+      const rawIndex = localStorage.getItem(STORAGE_KEYS.CURRENT_INDEX);
+      const parsedIndex = rawIndex ? Number.parseInt(rawIndex, 10) : 0;
+      if (!Number.isFinite(parsedIndex) || parsedIndex < 0) return 0;
+      if (length === 0) return 0;
+      return Math.min(parsedIndex, length - 1);
+    };
+
     const stored = localStorage.getItem(STORAGE_KEYS.VOCAB);
     if (stored) {
       try {
         const parsed: VocabCard[] = JSON.parse(stored);
         const finalCards = mergeWithLatestCards(parsed);
         setCards(finalCards);
+        setCurrentIndex(getStoredIndex(finalCards.length));
         localStorage.setItem(STORAGE_KEYS.VOCAB, JSON.stringify(finalCards));
       } catch {
         const initialCards: VocabCard[] = initialVocabData.map((card) => ({
@@ -38,6 +48,7 @@ export function useVocab() {
           mastered: false,
         }));
         setCards(initialCards);
+        setCurrentIndex(getStoredIndex(initialCards.length));
         localStorage.setItem(STORAGE_KEYS.VOCAB, JSON.stringify(initialCards));
       }
     } else {
@@ -49,6 +60,7 @@ export function useVocab() {
         mastered: false,
       }));
       setCards(initialCards);
+      setCurrentIndex(getStoredIndex(initialCards.length));
       localStorage.setItem(STORAGE_KEYS.VOCAB, JSON.stringify(initialCards));
     }
   }, []);
@@ -57,6 +69,10 @@ export function useVocab() {
     localStorage.setItem(STORAGE_KEYS.VOCAB, JSON.stringify(newCards));
     setCards(newCards);
   }, []);
+
+  useEffect(() => {
+    localStorage.setItem(STORAGE_KEYS.CURRENT_INDEX, String(currentIndex));
+  }, [currentIndex]);
 
   const mergeWithLatestCards = useCallback((baseCards: VocabCard[]) => {
     const latestMap = new Map(initialVocabData.map((card) => [card.id, card]));
