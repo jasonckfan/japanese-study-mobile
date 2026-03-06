@@ -162,7 +162,7 @@ type LevelFilter = 'all' | 'N5' | 'N4' | 'N3' | 'N2' | 'N1';
 
 const VocabularyView: React.FC = () => {
   const { cards, currentCard, currentIndex, setCurrentIndex, isFlipped, setIsFlipped, handleReview, syncWithLatestData, progress } = useVocab();
-  const { supported, japaneseVoices, allVoices, selectedVoiceURI, setSelectedVoiceURI, refreshVoices, speak, stop } = useSpeech();
+  const { supported, japaneseVoices, selectedVoiceURI, setSelectedVoiceURI, refreshVoices, speak, stop } = useSpeech();
   const [speechRate, setSpeechRate] = useState(0.9);
   const [autoPlay, setAutoPlay] = useState(true);
   const [levelFilter, setLevelFilter] = useState<LevelFilter>('all');
@@ -184,13 +184,11 @@ const VocabularyView: React.FC = () => {
 
   const filteredCurrentPosition = filteredIndices.indexOf(currentIndex);
   const activeCard = filteredCurrentPosition >= 0 ? cards[currentIndex] : undefined;
-  const availableVoices = japaneseVoices.length > 1 ? japaneseVoices : allVoices;
-  const showingFallbackVoicePool = japaneseVoices.length <= 1 && allVoices.length > japaneseVoices.length;
   const iosHighQualityVoices = useMemo(() => {
     const qualityHint = /(premium|enhanced|siri|natural|neural|高品質|高质)/i;
-    return availableVoices.filter((voice) => /^ja(-|_)/i.test(voice.lang) && qualityHint.test(voice.name));
-  }, [availableVoices]);
-  const voiceOptions = iosHighQualityVoices.length > 0 ? iosHighQualityVoices : availableVoices;
+    return japaneseVoices.filter((voice) => qualityHint.test(voice.name));
+  }, [japaneseVoices]);
+  const voiceOptions = iosHighQualityVoices.length > 0 ? iosHighQualityVoices : japaneseVoices;
 
   useEffect(() => {
     if (filteredIndices.length === 0) return;
@@ -372,8 +370,8 @@ const VocabularyView: React.FC = () => {
                   {iosHighQualityVoices.length === 0 && (
                     <div className="position-indicator">目前未偵測到「高品質」標記語音，暫時顯示一般系統語音。</div>
                   )}
-                  {showingFallbackVoicePool && (
-                    <div className="position-indicator">目前日語音色只有 1 種，已暫時開放全部系統語音供你測試。</div>
+                  {japaneseVoices.length <= 1 && (
+                    <div className="position-indicator">目前系統只回傳 1 種日語語音（Kyoko）。這通常是 iOS Web Speech 的限制，不是篩選錯誤。</div>
                   )}
                 </div>
               </>

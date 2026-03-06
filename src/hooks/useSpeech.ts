@@ -94,9 +94,9 @@ export function useSpeech() {
   }, [japaneseVoices, voices]);
 
   const selectedVoice = useMemo(() => {
-    if (!selectedVoiceURI || !voices.length) return null;
-    return voices.find((voice) => voice.voiceURI === selectedVoiceURI) || null;
-  }, [voices, selectedVoiceURI]);
+    if (!selectedVoiceURI || !japaneseVoices.length) return null;
+    return japaneseVoices.find((voice) => voice.voiceURI === selectedVoiceURI) || null;
+  }, [japaneseVoices, selectedVoiceURI]);
 
   const activeVoice = selectedVoice || defaultVoice;
 
