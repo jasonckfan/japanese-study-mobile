@@ -70,6 +70,7 @@ export function useVocab() {
         furigana: latest.furigana,
         meaning: latest.meaning,
         example: latest.example,
+        exampleFurigana: latest.exampleFurigana,
         exampleMeaning: latest.exampleMeaning,
         level: latest.level,
       };

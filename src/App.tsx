@@ -31,6 +31,37 @@ const ProgressBar: React.FC<{ total: number; mastered: number; due: number }> = 
   );
 };
 
+const renderRubyText = (text: string) => {
+  const rubyPattern = /([一-龯々]+)\(([^)]+)\)/g;
+  const nodes: React.ReactNode[] = [];
+  let lastIndex = 0;
+  let match: RegExpExecArray | null;
+
+  while ((match = rubyPattern.exec(text)) !== null) {
+    const [full, kanji, reading] = match;
+    const start = match.index;
+
+    if (start > lastIndex) {
+      nodes.push(text.slice(lastIndex, start));
+    }
+
+    nodes.push(
+      <ruby key={`${kanji}-${reading}-${start}`}>
+        {kanji}
+        <rt>{reading}</rt>
+      </ruby>
+    );
+
+    lastIndex = start + full.length;
+  }
+
+  if (lastIndex < text.length) {
+    nodes.push(text.slice(lastIndex));
+  }
+
+  return nodes;
+};
+
 const buildGrammarNotes = (example: string) => {
   const notes: Array<{ key: string; label: string; detail: string }> = [];
   if (example.includes('ですか')) {
@@ -81,7 +112,7 @@ const Flashcard: React.FC<{
           <span className={`flashcard-level ${card.level}`}>{card.level}</span>
           <div className="flashcard-meaning">{card.meaning}</div>
           <div className="flashcard-example">
-            <div className="flashcard-example-jp">{card.example}</div>
+            <div className="flashcard-example-jp">{renderRubyText(card.exampleFurigana || card.example)}</div>
             <div className="flashcard-example-cn">{card.exampleMeaning}</div>
             <button className="speak-btn secondary" onClick={(e) => { e.stopPropagation(); onSpeakExample(); }}>🔊 例句發音</button>
           </div>

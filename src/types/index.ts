@@ -4,6 +4,7 @@ export interface VocabCard {
   furigana: string;
   meaning: string;
   example: string;
+  exampleFurigana?: string;
   exampleMeaning: string;
   level: 'N5' | 'N4' | 'N3' | 'N2' | 'N1';
   nextReview: number;
