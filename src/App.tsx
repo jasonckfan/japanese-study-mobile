@@ -271,7 +271,6 @@ const VocabularyView: React.FC = () => {
             onSpeakWord={() => activeCard && speak(activeCard.word, { rate: speechRate })}
             onSpeakExample={() => activeCard && speak(activeCard.example, { rate: speechRate })}
           />
-          {!isFlipped && <div className="action-hint">可先翻卡查看答案，再選擇下方按鈕</div>}
           <ActionButtons onReview={onActionReview} feedback={feedback} />
           {feedback && (
             <div className={`action-feedback ${feedback}`}>
