@@ -7,7 +7,7 @@
     "example": "あさっては日曜日だ",
     "exampleMeaning": "後天是星期日",
     "level": "N5",
-    "exampleFurigana": "あさっては日曜日だ"
+    "exampleFurigana": "あさっては日曜日(にちようび)だ"
   },
   {
     "id": "2",
@@ -107,7 +107,7 @@
     "example": "いい天気",
     "exampleMeaning": "晴朗的天氣",
     "level": "N5",
-    "exampleFurigana": "いい天気"
+    "exampleFurigana": "いい天気(てんき)"
   },
   {
     "id": "12",
@@ -117,7 +117,7 @@
     "example": "お好きですか——いいえ、嫌いです",
     "exampleMeaning": "您喜歡嗎？——不，不喜歡",
     "level": "N5",
-    "exampleFurigana": "お好きですか——いいえ、嫌いです"
+    "exampleFurigana": "お好(す)きですか——いいえ、嫌(きら)いです"
   },
   {
     "id": "13",
@@ -187,7 +187,7 @@
     "example": "彼女はいつも元気だ",
     "exampleMeaning": "她總是很有精神",
     "level": "N5",
-    "exampleFurigana": "彼女はいつも元気だ"
+    "exampleFurigana": "彼女はいつも元気(げんき)だ"
   },
   {
     "id": "20",
@@ -237,7 +237,7 @@
     "example": "あなたのおばあさんはお元気ですか",
     "exampleMeaning": "您的祖母身體好嗎？",
     "level": "N5",
-    "exampleFurigana": "あなたのおばあさんはお元気ですか"
+    "exampleFurigana": "あなたのおばあさんはお元気(げんき)ですか"
   },
   {
     "id": "25",
@@ -287,7 +287,7 @@
     "example": "毎日おべんとうを学校へ持って行きます",
     "exampleMeaning": "每天都帶便當去學校",
     "level": "N5",
-    "exampleFurigana": "毎日おべんとうを学校へ持って行きます"
+    "exampleFurigana": "毎日(まいにち)おべんとうを学校(がっこう)へ持って行きます"
   },
   {
     "id": "30",
@@ -367,7 +367,7 @@
     "example": "今日はおかねを持っていません",
     "exampleMeaning": "我今天沒帶錢",
     "level": "N5",
-    "exampleFurigana": "今日はおかねを持っていません"
+    "exampleFurigana": "今日(きょう)はおかねを持っていません"
   },
   {
     "id": "38",
@@ -377,7 +377,7 @@
     "example": "毎晩おふろに入ります",
     "exampleMeaning": "每晚都會泡澡",
     "level": "N5",
-    "exampleFurigana": "毎晩おふろに入ります"
+    "exampleFurigana": "毎晩(まいばん)おふろに入ります"
   },
   {
     "id": "39",
@@ -507,7 +507,7 @@
     "example": "こんなに面白い本は初めて読んだ",
     "exampleMeaning": "我第一次讀到這麼有趣的書",
     "level": "N5",
-    "exampleFurigana": "こんなに面白い本は初めて読んだ"
+    "exampleFurigana": "こんなに面白い本は初(はじ)めて読んだ"
   },
   {
     "id": "52",
@@ -517,7 +517,7 @@
     "example": "さあ、始めよう",
     "exampleMeaning": "來啊，開始吧",
     "level": "N5",
-    "exampleFurigana": "さあ、始めよう"
+    "exampleFurigana": "さあ、始(はじ)めよう"
   },
   {
     "id": "53",
@@ -557,7 +557,7 @@
     "example": "じゃ、また明日",
     "exampleMeaning": "那麼，明天見",
     "level": "N5",
-    "exampleFurigana": "じゃ、また明日"
+    "exampleFurigana": "じゃ、また明日(あした)"
   },
   {
     "id": "57",
@@ -587,7 +587,7 @@
     "example": "友達と一緒に宿題をした",
     "exampleMeaning": "和朋友一起寫作業",
     "level": "N5",
-    "exampleFurigana": "友達と一緒に宿題をした"
+    "exampleFurigana": "友達(ともだち)と一緒(いっしょ)に宿題(しゅくだい)をした"
   },
   {
     "id": "60",
@@ -607,7 +607,7 @@
     "example": "朝ごはんを食べました。そうして学校へ行きました",
     "exampleMeaning": "吃完早餐，然後去學校了",
     "level": "N5",
-    "exampleFurigana": "朝ごはんを食べました。そうして学校へ行きました"
+    "exampleFurigana": "朝ごはんを食べました。そうして学校(がっこう)へ行きました"
   },
   {
     "id": "62",
@@ -637,7 +637,7 @@
     "example": "夕方そちらに着きます",
     "exampleMeaning": "傍晚會抵達那邊",
     "level": "N5",
-    "exampleFurigana": "夕方そちらに着きます"
+    "exampleFurigana": "夕方(ゆうがた)そちらに着きます"
   },
   {
     "id": "65",
@@ -707,7 +707,7 @@
     "example": "この宿題はたいへんですね",
     "exampleMeaning": "這份作業很辛苦呢",
     "level": "N5",
-    "exampleFurigana": "この宿題はたいへんですね"
+    "exampleFurigana": "この宿題(しゅくだい)はたいへんですね"
   },
   {
     "id": "72",
@@ -717,7 +717,7 @@
     "example": "昨日はたくさん泳ぎました",
     "exampleMeaning": "昨天游了很多泳",
     "level": "N5",
-    "exampleFurigana": "昨日はたくさん泳ぎました"
+    "exampleFurigana": "昨日(きのう)はたくさん泳ぎました"
   },
   {
     "id": "73",
@@ -727,7 +727,7 @@
     "example": "たてに名前を書いてください",
     "exampleMeaning": "請把名字直著寫",
     "level": "N5",
-    "exampleFurigana": "たてに名前を書いてください"
+    "exampleFurigana": "たてに名前(なまえ)を書いてください"
   },
   {
     "id": "74",
@@ -757,7 +757,7 @@
     "example": "だんだん仕事が楽しくなってきました",
     "exampleMeaning": "工作越來越有趣了",
     "level": "N5",
-    "exampleFurigana": "だんだん仕事が楽しくなってきました"
+    "exampleFurigana": "だんだん仕事(しごと)が楽しくなってきました"
   },
   {
     "id": "77",
@@ -767,7 +767,7 @@
     "example": "新しいちゃわんを買いました",
     "exampleMeaning": "買了新的飯碗",
     "level": "N5",
-    "exampleFurigana": "新しいちゃわんを買いました"
+    "exampleFurigana": "新(あたら)しいちゃわんを買いました"
   },
   {
     "id": "78",
@@ -797,7 +797,7 @@
     "example": "部屋が暗いので電気をつけます",
     "exampleMeaning": "房間很暗，所以我開燈",
     "level": "N5",
-    "exampleFurigana": "部屋が暗いので電気をつけます"
+    "exampleFurigana": "部屋が暗(くら)いので電気をつけます"
   },
   {
     "id": "81",
@@ -947,7 +947,7 @@
     "example": "どの花が好きですか",
     "exampleMeaning": "你喜歡哪朵花？",
     "level": "N5",
-    "exampleFurigana": "どの花が好きですか"
+    "exampleFurigana": "どの花が好(す)きですか"
   },
   {
     "id": "96",
@@ -957,7 +957,7 @@
     "example": "この中でどれが好きですか",
     "exampleMeaning": "這裡面你最喜歡哪個？",
     "level": "N5",
-    "exampleFurigana": "この中でどれが好きですか"
+    "exampleFurigana": "この中でどれが好(す)きですか"
   },
   {
     "id": "97",
@@ -977,7 +977,7 @@
     "example": "お茶などいかがですか",
     "exampleMeaning": "要來點茶之類的嗎？",
     "level": "N5",
-    "exampleFurigana": "お茶などいかがですか"
+    "exampleFurigana": "お茶(ちゃ)などいかがですか"
   },
   {
     "id": "99",
@@ -1027,7 +1027,7 @@
     "example": "寒い日はふろが気持ちいいです",
     "exampleMeaning": "天冷的日子泡澡很舒服",
     "level": "N5",
-    "exampleFurigana": "寒い日はふろが気持ちいいです"
+    "exampleFurigana": "寒(さむ)い日はふろが気持ちいいです"
   },
   {
     "id": "104",
@@ -1067,7 +1067,7 @@
     "example": "ここの料理はまずい",
     "exampleMeaning": "這裡的料理很難吃",
     "level": "N5",
-    "exampleFurigana": "ここの料理はまずい"
+    "exampleFurigana": "ここの料理(りょうり)はまずい"
   },
   {
     "id": "108",
@@ -1077,7 +1077,7 @@
     "example": "明日、また来ます",
     "exampleMeaning": "明天再來",
     "level": "N5",
-    "exampleFurigana": "明日、また来ます"
+    "exampleFurigana": "明日(あした)、また来ます"
   },
   {
     "id": "109",
@@ -1087,7 +1087,7 @@
     "example": "宿題はまだ終わっていません",
     "exampleMeaning": "作業還沒寫完",
     "level": "N5",
-    "exampleFurigana": "宿題はまだ終わっていません"
+    "exampleFurigana": "宿題(しゅくだい)はまだ終わっていません"
   },
   {
     "id": "110",
@@ -1107,7 +1107,7 @@
     "example": "みんなにお菓子をあげましょう",
     "exampleMeaning": "把點心分給大家吧",
     "level": "N5",
-    "exampleFurigana": "みんなにお菓子をあげましょう"
+    "exampleFurigana": "みんなにお菓子(かし)をあげましょう"
   },
   {
     "id": "112",
@@ -1147,7 +1147,7 @@
     "example": "一緒に宿題をやろう",
     "exampleMeaning": "一起寫作業吧",
     "level": "N5",
-    "exampleFurigana": "一緒に宿題をやろう"
+    "exampleFurigana": "一緒(いっしょ)に宿題(しゅくだい)をやろう"
   },
   {
     "id": "116",
@@ -1167,7 +1167,7 @@
     "example": "今日は天気がよいですね",
     "exampleMeaning": "今天天氣很好呢",
     "level": "N5",
-    "exampleFurigana": "今日は天気がよいですね"
+    "exampleFurigana": "今日(きょう)は天気(てんき)がよいですね"
   },
   {
     "id": "118",
@@ -1187,7 +1187,7 @@
     "example": "今年は去年より暑い",
     "exampleMeaning": "今年比去年熱",
     "level": "N5",
-    "exampleFurigana": "今年は去年より暑い"
+    "exampleFurigana": "今年(ことし)は去年(きょねん)より暑(あつ)い"
   },
   {
     "id": "120",
@@ -1197,7 +1197,7 @@
     "example": "りっぱな建物ですね",
     "exampleMeaning": "真是氣派的建築呢",
     "level": "N5",
-    "exampleFurigana": "りっぱな建物ですね"
+    "exampleFurigana": "りっぱな建物(たてもの)ですね"
   },
   {
     "id": "121",
@@ -1237,7 +1237,7 @@
     "example": "カメラで写真を撮る",
     "exampleMeaning": "用照相機照相",
     "level": "N5",
-    "exampleFurigana": "カメラで写真を撮る"
+    "exampleFurigana": "カメラで写真(しゃしん)を撮(と)る"
   },
   {
     "id": "125",
@@ -1287,7 +1287,7 @@
     "example": "学校まで三キロメートル歩きました",
     "exampleMeaning": "走了三公里到學校",
     "level": "N5",
-    "exampleFurigana": "学校まで三キロメートル歩きました"
+    "exampleFurigana": "学校(がっこう)まで三キロメートル歩きました"
   },
   {
     "id": "130",
@@ -1297,7 +1297,7 @@
     "example": "ギターを弾く",
     "exampleMeaning": "彈吉他",
     "level": "N5",
-    "exampleFurigana": "ギターを弾く"
+    "exampleFurigana": "ギターを弾(ひ)く"
   },
   {
     "id": "131",
@@ -1307,7 +1307,7 @@
     "example": "この学校は1クラス30人です",
     "exampleMeaning": "這間學校一個班級有三十個人",
     "level": "N5",
-    "exampleFurigana": "この学校は1クラス30人です"
+    "exampleFurigana": "この学校(がっこう)は1クラス30人です"
   },
   {
     "id": "132",
@@ -1357,7 +1357,7 @@
     "example": "私は毎朝コーヒーを飲みます",
     "exampleMeaning": "我每天早上都喝咖啡",
     "level": "N5",
-    "exampleFurigana": "私は毎朝コーヒーを飲みます"
+    "exampleFurigana": "私は毎朝(まいあさ)コーヒーを飲みます"
   },
   {
     "id": "137",
@@ -1417,7 +1417,7 @@
     "example": "どんなスポーツが好きですか",
     "exampleMeaning": "你喜歡什麼體育運動？",
     "level": "N5",
-    "exampleFurigana": "どんなスポーツが好きですか"
+    "exampleFurigana": "どんなスポーツが好(す)きですか"
   },
   {
     "id": "143",
@@ -1457,7 +1457,7 @@
     "example": "今日の交通事故はゼロです",
     "exampleMeaning": "今天的交通事故為零",
     "level": "N5",
-    "exampleFurigana": "今日の交通事故はゼロです"
+    "exampleFurigana": "今日(きょう)の交通事故はゼロです"
   },
   {
     "id": "147",
@@ -1557,7 +1557,7 @@
     "example": "ナイフで肉を切る",
     "exampleMeaning": "用刀切肉",
     "level": "N5",
-    "exampleFurigana": "ナイフで肉を切る"
+    "exampleFurigana": "ナイフで肉を切(き)る"
   },
   {
     "id": "157",
@@ -1637,7 +1637,7 @@
     "example": "明日、うちでパーティーを開きます",
     "exampleMeaning": "明天我要在家裡開派對",
     "level": "N5",
-    "exampleFurigana": "明日、うちでパーティーを開きます"
+    "exampleFurigana": "明日(あした)、うちでパーティーを開きます"
   },
   {
     "id": "165",
@@ -1667,7 +1667,7 @@
     "example": "プールで泳ぐ",
     "exampleMeaning": "在游泳池游泳",
     "level": "N5",
-    "exampleFurigana": "プールで泳ぐ"
+    "exampleFurigana": "プールで泳(およ)ぐ"
   },
   {
     "id": "168",
@@ -1677,7 +1677,7 @@
     "example": "ベッドで寝る",
     "exampleMeaning": "在床上睡覺",
     "level": "N5",
-    "exampleFurigana": "ベッドで寝る"
+    "exampleFurigana": "ベッドで寝(ね)る"
   },
   {
     "id": "169",
@@ -1737,7 +1737,7 @@
     "example": "ボールペンで名前を書いてください",
     "exampleMeaning": "請用原子筆寫下名字",
     "level": "N5",
-    "exampleFurigana": "ボールペンで名前を書いてください"
+    "exampleFurigana": "ボールペンで名前(なまえ)を書いてください"
   },
   {
     "id": "175",
@@ -1757,7 +1757,7 @@
     "example": "手紙をポストに入れました",
     "exampleMeaning": "把信投入郵筒裡",
     "level": "N5",
-    "exampleFurigana": "手紙をポストに入れました"
+    "exampleFurigana": "手紙(てがみ)をポストに入れました"
   },
   {
     "id": "177",
@@ -1807,7 +1807,7 @@
     "example": "古いラジカセがまだ使えます",
     "exampleMeaning": "舊的卡式收錄音機還能用",
     "level": "N5",
-    "exampleFurigana": "古いラジカセがまだ使えます"
+    "exampleFurigana": "古(ふる)いラジカセがまだ使えます"
   },
   {
     "id": "182",
@@ -1827,7 +1827,7 @@
     "example": "レストランでインド料理を食べました",
     "exampleMeaning": "我在餐廳吃了印度料理",
     "level": "N5",
-    "exampleFurigana": "レストランでインド料理を食べました"
+    "exampleFurigana": "レストランでインド料理(りょうり)を食べました"
   },
   {
     "id": "184",
@@ -1897,7 +1897,7 @@
     "example": "おととい友だちと映画を見ました",
     "exampleMeaning": "我前天和朋友看了電影",
     "level": "N5",
-    "exampleFurigana": "おととい友だちと映画を見ました"
+    "exampleFurigana": "おととい友だちと映画(えいが)を見ました"
   },
   {
     "id": "191",
@@ -2097,7 +2097,7 @@
     "example": "肩を並べて歩く",
     "exampleMeaning": "並肩走",
     "level": "N5",
-    "exampleFurigana": "肩を並べて歩く"
+    "exampleFurigana": "肩を並べて歩(ある)く"
   },
   {
     "id": "211",
@@ -2207,7 +2207,7 @@
     "example": "姉は今年はたちになりました",
     "exampleMeaning": "姐姐今年滿二十歲了",
     "level": "N5",
-    "exampleFurigana": "姉は今年はたちになりました"
+    "exampleFurigana": "姉は今年(ことし)はたちになりました"
   },
   {
     "id": "222",
@@ -2437,7 +2437,7 @@
     "example": "彼は会社の近くに住んでいる",
     "exampleMeaning": "他住在公司附近",
     "level": "N5",
-    "exampleFurigana": "彼は会社の近くに住んでいる"
+    "exampleFurigana": "彼は会社(かいしゃ)の近くに住んでいる"
   },
   {
     "id": "245",
@@ -2607,7 +2607,7 @@
     "example": "寒いので中に入ってください",
     "exampleMeaning": "天氣冷，請進來",
     "level": "N5",
-    "exampleFurigana": "寒いので中に入ってください"
+    "exampleFurigana": "寒(さむ)いので中に入ってください"
   },
   {
     "id": "262",
@@ -2797,7 +2797,7 @@
     "example": "今朝は早く家を出ました",
     "exampleMeaning": "今天早上很早就出門了",
     "level": "N5",
-    "exampleFurigana": "今朝は早く家を出ました"
+    "exampleFurigana": "今朝(けさ)は早く家を出ました"
   },
   {
     "id": "281",
@@ -2817,7 +2817,7 @@
     "example": "質問の意味はわかりましたか",
     "exampleMeaning": "明白問題的意思了嗎？",
     "level": "N5",
-    "exampleFurigana": "質問の意味はわかりましたか"
+    "exampleFurigana": "質問の意味(いみ)はわかりましたか"
   },
   {
     "id": "283",
@@ -2907,7 +2907,7 @@
     "example": "兄は大きい会社に勤めています",
     "exampleMeaning": "哥哥在大公司上班",
     "level": "N5",
-    "exampleFurigana": "兄は大きい会社に勤めています"
+    "exampleFurigana": "兄は大(おお)きい会社(かいしゃ)に勤めています"
   },
   {
     "id": "292",
@@ -3177,7 +3177,7 @@
     "example": "今日は北風が吹いている",
     "exampleMeaning": "今天颳著北風",
     "level": "N5",
-    "exampleFurigana": "今日は北風が吹いている"
+    "exampleFurigana": "今日(きょう)は北風が吹いている"
   },
   {
     "id": "319",
@@ -3807,7 +3807,7 @@
     "example": "教室に先生が居ます",
     "exampleMeaning": "教室裡有老師",
     "level": "N5",
-    "exampleFurigana": "教室に先生が居ます"
+    "exampleFurigana": "教室(きょうしつ)に先生(せんせい)が居ます"
   },
   {
     "id": "382",
@@ -5027,7 +5027,7 @@
     "example": "毎朝、先生にあいさつをします。",
     "exampleMeaning": "每天早上我都向老師打招呼。",
     "level": "N4",
-    "exampleFurigana": "毎朝、先生にあいさつをします。"
+    "exampleFurigana": "毎朝(まいあさ)、先生(せんせい)にあいさつをします。"
   },
   {
     "id": "504",
@@ -5057,7 +5057,7 @@
     "example": "あんな大きい犬は初めて見た。",
     "exampleMeaning": "我第一次看到那麼大的狗。",
     "level": "N4",
-    "exampleFurigana": "あんな大きい犬は初めて見た。"
+    "exampleFurigana": "あんな大(おお)きい犬は初(はじ)めて見た。"
   },
   {
     "id": "507",
@@ -5067,7 +5067,7 @@
     "example": "弱い人をいじめてはいけません。",
     "exampleMeaning": "不可以欺負弱小的人。",
     "level": "N4",
-    "exampleFurigana": "弱い人をいじめてはいけません。"
+    "exampleFurigana": "弱(よわ)い人をいじめてはいけません。"
   },
   {
     "id": "508",
@@ -5077,7 +5077,7 @@
     "example": "先生から本をいただきました。",
     "exampleMeaning": "我從老師那裡收到了一本書。",
     "level": "N4",
-    "exampleFurigana": "先生から本をいただきました。"
+    "exampleFurigana": "先生(せんせい)から本をいただきました。"
   },
   {
     "id": "509",
@@ -5097,7 +5097,7 @@
     "example": "社長はもう会社にいらっしゃいます。",
     "exampleMeaning": "社長已經在公司了。",
     "level": "N4",
-    "exampleFurigana": "社長はもう会社にいらっしゃいます。"
+    "exampleFurigana": "社長はもう会社(かいしゃ)にいらっしゃいます。"
   },
   {
     "id": "511",
@@ -5107,7 +5107,7 @@
     "example": "明日、三時にお宅へうかがいます。",
     "exampleMeaning": "明天三點我會去您府上拜訪。",
     "level": "N4",
-    "exampleFurigana": "明日、三時にお宅へうかがいます。"
+    "exampleFurigana": "明日(あした)、三時にお宅(たく)へうかがいます。"
   },
   {
     "id": "512",
@@ -5127,7 +5127,7 @@
     "example": "今日はうちでゆっくり休みます。",
     "exampleMeaning": "今天我在家裡好好休息。",
     "level": "N4",
-    "exampleFurigana": "今日はうちでゆっくり休みます。"
+    "exampleFurigana": "今日(きょう)はうちでゆっくり休(やす)みます。"
   },
   {
     "id": "514",
@@ -5167,7 +5167,7 @@
     "example": "先生は午後に研究室へおいでになります。",
     "exampleMeaning": "老師下午會到研究室來。",
     "level": "N4",
-    "exampleFurigana": "先生は午後に研究室へおいでになります。"
+    "exampleFurigana": "先生(せんせい)は午後(ごご)に研究室へおいでになります。"
   },
   {
     "id": "518",
@@ -5217,7 +5217,7 @@
     "example": "弟は新しいおもちゃで遊んでいる。",
     "exampleMeaning": "弟弟正在玩新的玩具。",
     "level": "N4",
-    "exampleFurigana": "弟は新しいおもちゃで遊んでいる。"
+    "exampleFurigana": "弟は新(あたら)しいおもちゃで遊んでいる。"
   },
   {
     "id": "523",
@@ -5297,7 +5297,7 @@
     "example": "今日はかっこうを気にして、きれいな服を着た。",
     "exampleMeaning": "今天我在意打扮，穿了漂亮的衣服。",
     "level": "N4",
-    "exampleFurigana": "今日はかっこうを気にして、きれいな服を着た。"
+    "exampleFurigana": "今日(きょう)はかっこうを気にして、きれいな服を着た。"
   },
   {
     "id": "531",
@@ -5327,7 +5327,7 @@
     "example": "先生がアドバイスをくださいました。",
     "exampleMeaning": "老師給了我建議。",
     "level": "N4",
-    "exampleFurigana": "先生がアドバイスをくださいました。"
+    "exampleFurigana": "先生(せんせい)がアドバイスをくださいました。"
   },
   {
     "id": "534",
@@ -5337,7 +5337,7 @@
     "example": "姉が誕生日に時計をくれた。",
     "exampleMeaning": "姊姊在我生日那天送了我手錶。",
     "level": "N4",
-    "exampleFurigana": "姉が誕生日に時計をくれた。"
+    "exampleFurigana": "姉が誕生日に時計(とけい)をくれた。"
   },
   {
     "id": "535",
@@ -5357,7 +5357,7 @@
     "example": "行きたいけれど、今日は時間がない。",
     "exampleMeaning": "雖然想去，但今天沒時間。",
     "level": "N4",
-    "exampleFurigana": "行きたいけれど、今日は時間がない。"
+    "exampleFurigana": "行きたいけれど、今日(きょう)は時間(じかん)がない。"
   },
   {
     "id": "537",
@@ -5387,7 +5387,7 @@
     "example": "この問題はこう考えると分かりやすい。",
     "exampleMeaning": "這個問題像這樣思考會比較容易懂。",
     "level": "N4",
-    "exampleFurigana": "この問題はこう考えると分かりやすい。"
+    "exampleFurigana": "この問題(もんだい)はこう考えると分かりやすい。"
   },
   {
     "id": "540",
@@ -5437,7 +5437,7 @@
     "example": "昨日は友だちにごちそうになった。",
     "exampleMeaning": "昨天朋友請我吃了一頓大餐。",
     "level": "N4",
-    "exampleFurigana": "昨日は友だちにごちそうになった。"
+    "exampleFurigana": "昨日(きのう)は友だちにごちそうになった。"
   },
   {
     "id": "545",
@@ -5457,7 +5457,7 @@
     "example": "この写真をごらんになりますか。",
     "exampleMeaning": "您要不要看看這張照片？",
     "level": "N4",
-    "exampleFurigana": "この写真をごらんになりますか。"
+    "exampleFurigana": "この写真(しゃしん)をごらんになりますか。"
   },
   {
     "id": "547",
@@ -7807,7 +7807,7 @@
     "example": "始める。",
     "exampleMeaning": "（例句待補充）",
     "level": "N4",
-    "exampleFurigana": "始める(-)。"
+    "exampleFurigana": "始(はじ)める(-)。"
   },
   {
     "id": "782",
@@ -14207,7 +14207,7 @@
     "example": "出来るだけ。",
     "exampleMeaning": "（例句待補充）",
     "level": "N3",
-    "exampleFurigana": "出来るだけ(-)。"
+    "exampleFurigana": "出来(く)るだけ(-)。"
   },
   {
     "id": "1422",
@@ -19117,7 +19117,7 @@
     "example": "伯父さん。",
     "exampleMeaning": "（例句待補充）",
     "level": "N2",
-    "exampleFurigana": "伯父さん(-)。"
+    "exampleFurigana": "伯父(おじ)さん(-)。"
   },
   {
     "id": "1913",
@@ -23297,7 +23297,7 @@
     "example": "一人でに。",
     "exampleMeaning": "（例句待補充）",
     "level": "N1",
-    "exampleFurigana": "一人でに(-)。"
+    "exampleFurigana": "一人(ひとり)でに(-)。"
   },
   {
     "id": "2331",
@@ -24837,7 +24837,7 @@
     "example": "今日は。",
     "exampleMeaning": "（例句待補充）",
     "level": "N1",
-    "exampleFurigana": "今日は(-)。"
+    "exampleFurigana": "今日(きょう)は(-)。"
   },
   {
     "id": "2485",
@@ -24847,7 +24847,7 @@
     "example": "今晩は。",
     "exampleMeaning": "（例句待補充）",
     "level": "N1",
-    "exampleFurigana": "今晩は(-)。"
+    "exampleFurigana": "今晩(こんばん)は(-)。"
   },
   {
     "id": "2486",
