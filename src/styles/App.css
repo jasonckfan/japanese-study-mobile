@@ -359,12 +359,20 @@ html, body, #root {
   color: var(--accent-gold);
 }
 
+.vocab-top-row {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
 .position-chip {
   display: inline-flex;
   align-items: center;
   min-height: 32px;
   padding: 4px 10px;
-  margin-bottom: 8px;
   border-radius: 999px;
   background: rgba(255, 255, 255, 0.08);
   color: var(--text-secondary);
@@ -372,7 +380,6 @@ html, body, #root {
 }
 
 .vocab-controls-panel {
-  margin-top: 12px;
   background: rgba(26, 39, 68, 0.55);
   border: 1px solid rgba(255, 255, 255, 0.08);
   border-radius: 12px;
@@ -391,6 +398,42 @@ html, body, #root {
 
 .vocab-controls-panel summary::-webkit-details-marker {
   display: none;
+}
+
+.vocab-controls-panel.corner {
+  position: relative;
+  margin: 0;
+  margin-left: auto;
+  width: fit-content;
+  padding: 0;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.vocab-controls-panel.corner summary {
+  min-height: 36px;
+  min-width: 36px;
+  justify-content: center;
+  font-size: 1rem;
+  padding: 0 8px;
+}
+
+.vocab-controls-panel.corner[open] {
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 25;
+  width: min(92vw, 360px);
+  border-radius: 12px;
+  padding: 8px;
+  background: rgba(16, 28, 52, 0.98);
+}
+
+.vocab-controls-panel.corner[open] summary {
+  justify-content: flex-end;
+  min-height: 28px;
+  margin-bottom: 4px;
 }
 
 .vocab-controls {
