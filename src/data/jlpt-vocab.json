@@ -67,7 +67,7 @@
     "example": "朝にシャワーをあびます",
     "exampleMeaning": "早上會沖澡",
     "level": "N5",
-    "exampleFurigana": "朝にシャワーをあびます"
+    "exampleFurigana": "朝(あさ)にシャワーをあびます"
   },
   {
     "id": "8",
@@ -97,7 +97,7 @@
     "example": "あれは何ですか",
     "exampleMeaning": "那是什麼？",
     "level": "N5",
-    "exampleFurigana": "あれは何ですか"
+    "exampleFurigana": "あれは何(なに)ですか"
   },
   {
     "id": "11",
@@ -127,7 +127,7 @@
     "example": "ご気分はいかがですか",
     "exampleMeaning": "您覺得身體怎麼樣？",
     "level": "N5",
-    "exampleFurigana": "ご気分はいかがですか"
+    "exampleFurigana": "ご気分(-)はいかがですか"
   },
   {
     "id": "14",
@@ -157,7 +157,7 @@
     "example": "このいすに座ってください",
     "exampleMeaning": "請坐這張椅子",
     "level": "N5",
-    "exampleFurigana": "このいすに座ってください"
+    "exampleFurigana": "このいすに座(すわ)ってください"
   },
   {
     "id": "17",
@@ -177,7 +177,7 @@
     "example": "彼女はいつ来ますか",
     "exampleMeaning": "她什麼時候會來呢？",
     "level": "N5",
-    "exampleFurigana": "彼女はいつ来ますか"
+    "exampleFurigana": "彼女(-)はいつ来(く)ますか"
   },
   {
     "id": "19",
@@ -257,7 +257,7 @@
     "example": "この本はとてもおもしろいです",
     "exampleMeaning": "這本書很有趣",
     "level": "N5",
-    "exampleFurigana": "この本はとてもおもしろいです"
+    "exampleFurigana": "この本(ほん)はとてもおもしろいです"
   },
   {
     "id": "27",
@@ -397,7 +397,7 @@
     "example": "家のかぎを忘れました",
     "exampleMeaning": "我忘記帶家裡的鑰匙了",
     "level": "N5",
-    "exampleFurigana": "家のかぎを忘れました"
+    "exampleFurigana": "家(いえ)のかぎを忘(わす)れました"
   },
   {
     "id": "41",
@@ -437,7 +437,7 @@
     "example": "彼女はとてもきれいだ",
     "exampleMeaning": "她非常漂亮",
     "level": "N5",
-    "exampleFurigana": "彼女はとてもきれいだ"
+    "exampleFurigana": "彼女(-)はとてもきれいだ"
   },
   {
     "id": "45",
@@ -457,7 +457,7 @@
     "example": "ここに本があります",
     "exampleMeaning": "這裡有本書",
     "level": "N5",
-    "exampleFurigana": "ここに本があります"
+    "exampleFurigana": "ここに本(ほん)があります"
   },
   {
     "id": "47",
@@ -467,7 +467,7 @@
     "example": "受付はこちらです",
     "exampleMeaning": "接待處在這裡",
     "level": "N5",
-    "exampleFurigana": "受付はこちらです"
+    "exampleFurigana": "受付(-)はこちらです"
   },
   {
     "id": "48",
@@ -477,7 +477,7 @@
     "example": "こっちに来てください",
     "exampleMeaning": "請到這邊來",
     "level": "N5",
-    "exampleFurigana": "こっちに来てください"
+    "exampleFurigana": "こっちに来(く)てください"
   },
   {
     "id": "49",
@@ -547,7 +547,7 @@
     "example": "しょうゆ差し",
     "exampleMeaning": "醬油瓶",
     "level": "N5",
-    "exampleFurigana": "しょうゆ差し"
+    "exampleFurigana": "しょうゆ差(さ)し"
   },
   {
     "id": "56",
@@ -617,7 +617,7 @@
     "example": "そこに座ってください",
     "exampleMeaning": "請坐在那裡",
     "level": "N5",
-    "exampleFurigana": "そこに座ってください"
+    "exampleFurigana": "そこに座(すわ)ってください"
   },
   {
     "id": "63",
@@ -737,7 +737,7 @@
     "example": "ここでたばこを吸わないでください",
     "exampleMeaning": "請不要在這裡抽菸",
     "level": "N5",
-    "exampleFurigana": "ここでたばこを吸わないでください"
+    "exampleFurigana": "ここでたばこを吸(す)わないでください"
   },
   {
     "id": "75",
@@ -827,7 +827,7 @@
     "example": "では、お先に",
     "exampleMeaning": "那麼，我先走了",
     "level": "N5",
-    "exampleFurigana": "では、お先に"
+    "exampleFurigana": "では、お先(さき)に"
   },
   {
     "id": "84",
@@ -847,7 +847,7 @@
     "example": "この本はとてもおもしろい",
     "exampleMeaning": "這本書非常有趣",
     "level": "N5",
-    "exampleFurigana": "この本はとてもおもしろい"
+    "exampleFurigana": "この本(ほん)はとてもおもしろい"
   },
   {
     "id": "86",
@@ -917,7 +917,7 @@
     "example": "どちらへ行きましたか",
     "exampleMeaning": "往哪邊去了？",
     "level": "N5",
-    "exampleFurigana": "どちらへ行きましたか"
+    "exampleFurigana": "どちらへ行(い)きましたか"
   },
   {
     "id": "93",
@@ -967,7 +967,7 @@
     "example": "なぜ来なかったの",
     "exampleMeaning": "你為什麼沒來？",
     "level": "N5",
-    "exampleFurigana": "なぜ来なかったの"
+    "exampleFurigana": "なぜ来(く)なかったの"
   },
   {
     "id": "98",
@@ -1117,7 +1117,7 @@
     "example": "彼はもう帰りました",
     "exampleMeaning": "他已經回去了",
     "level": "N5",
-    "exampleFurigana": "彼はもう帰りました"
+    "exampleFurigana": "彼(-)はもう帰(かえ)りました"
   },
   {
     "id": "113",
@@ -1247,7 +1247,7 @@
     "example": "カレンダーに予定を書きました",
     "exampleMeaning": "我把行程寫在月曆上",
     "level": "N5",
-    "exampleFurigana": "カレンダーに予定を書きました"
+    "exampleFurigana": "カレンダーに予定(-)を書(か)きました"
   },
   {
     "id": "126",
@@ -1367,7 +1367,7 @@
     "example": "このシャツはアイロンが必要だ",
     "exampleMeaning": "這件襯衫需要熨燙",
     "level": "N5",
-    "exampleFurigana": "このシャツはアイロンが必要だ"
+    "exampleFurigana": "このシャツはアイロンが必要(-)だ"
   },
   {
     "id": "138",
@@ -1537,7 +1537,7 @@
     "example": "トイレに行く",
     "exampleMeaning": "上廁所；上洗手間",
     "level": "N5",
-    "exampleFurigana": "トイレに行く"
+    "exampleFurigana": "トイレに行(い)く"
   },
   {
     "id": "155",
@@ -1587,7 +1587,7 @@
     "example": "研究ノート",
     "exampleMeaning": "研究筆記",
     "level": "N5",
-    "exampleFurigana": "研究ノート"
+    "exampleFurigana": "研究(-)ノート"
   },
   {
     "id": "160",
@@ -1647,7 +1647,7 @@
     "example": "このカメラはフィルムが必要です",
     "exampleMeaning": "這台相機需要底片",
     "level": "N5",
-    "exampleFurigana": "このカメラはフィルムが必要です"
+    "exampleFurigana": "このカメラはフィルムが必要(-)です"
   },
   {
     "id": "166",
@@ -1767,7 +1767,7 @@
     "example": "マッチでろうそくに火をつけました",
     "exampleMeaning": "我用火柴點了蠟燭",
     "level": "N5",
-    "exampleFurigana": "マッチでろうそくに火をつけました"
+    "exampleFurigana": "マッチでろうそくに火(-)をつけました"
   },
   {
     "id": "178",
@@ -1817,7 +1817,7 @@
     "example": "祖父はレコードをたくさん持っています",
     "exampleMeaning": "爺爺有很多黑膠唱片",
     "level": "N5",
-    "exampleFurigana": "祖父はレコードをたくさん持っています"
+    "exampleFurigana": "祖父(-)はレコードをたくさん持(も)っています"
   },
   {
     "id": "183",
@@ -1967,7 +1967,7 @@
     "example": "父にまんねんひつをもらいました",
     "exampleMeaning": "我收到了爸爸送的鋼筆",
     "level": "N5",
-    "exampleFurigana": "父にまんねんひつをもらいました"
+    "exampleFurigana": "父(とう)にまんねんひつをもらいました"
   },
   {
     "id": "198",
@@ -2387,7 +2387,7 @@
     "example": "また会いましょう",
     "exampleMeaning": "下次見",
     "level": "N5",
-    "exampleFurigana": "また会いましょう"
+    "exampleFurigana": "また会(-)いましょう"
   },
   {
     "id": "240",
@@ -5087,7 +5087,7 @@
     "example": "コップに水がいっぱい入っている。",
     "exampleMeaning": "杯子裡裝滿了水。",
     "level": "N4",
-    "exampleFurigana": "コップに水がいっぱい入っている。"
+    "exampleFurigana": "コップに水(みず)がいっぱい入(い)っている。"
   },
   {
     "id": "510",
@@ -5417,7 +5417,7 @@
     "example": "このごろ夜が涼しくなってきた。",
     "exampleMeaning": "最近晚上的天氣開始變涼了。",
     "level": "N4",
-    "exampleFurigana": "このごろ夜が涼しくなってきた。"
+    "exampleFurigana": "このごろ夜(よる)が涼(すず)しくなってきた。"
   },
   {
     "id": "543",
@@ -5427,7 +5427,7 @@
     "example": "これから会議が始まります。",
     "exampleMeaning": "接下來會議要開始了。",
     "level": "N4",
-    "exampleFurigana": "これから会議が始まります。"
+    "exampleFurigana": "これから会議(-)が始(はじ)まります。"
   },
   {
     "id": "544",
@@ -5504,500 +5504,500 @@
     "word": "しかる",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "しかる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "子どもが悪いことをしたので、父親がしかった。",
+    "exampleMeaning": "孩子做了壞事，所以被爸爸責備了。",
     "level": "N4",
-    "exampleFurigana": "しかる。"
+    "exampleFurigana": "子どもが悪(わる)いことをしたので、父親(ちちおや)がしかった。"
   },
   {
     "id": "552",
     "word": "しっかり",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "しっかり。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "発表の前に、もう一度しっかりれんしゅうした。",
+    "exampleMeaning": "發表前又好好練習了一次。",
     "level": "N4",
-    "exampleFurigana": "しっかり。"
+    "exampleFurigana": "発表(はっぴょう)の前(まえ)に、もう一度(いちど)しっかりれんしゅうした。"
   },
   {
     "id": "553",
     "word": "しばらく",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "しばらく。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "しばらくここでお待ちください。",
+    "exampleMeaning": "請在這裡稍等一下。",
     "level": "N4",
-    "exampleFurigana": "しばらく。"
+    "exampleFurigana": "しばらくここでお待(ま)ちください。"
   },
   {
     "id": "554",
     "word": "じゃま",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "じゃま。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "入口の前に自転車を止めると、じゃまになります。",
+    "exampleMeaning": "把腳踏車停在入口前會妨礙通行。",
     "level": "N4",
-    "exampleFurigana": "じゃま。"
+    "exampleFurigana": "入口(いりぐち)の前(まえ)に自転車(じてんしゃ)を止(と)めると、じゃまになります。"
   },
   {
     "id": "555",
     "word": "すく",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "すく。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "電車がすいていたので、すぐに座れた。",
+    "exampleMeaning": "因為電車很空，所以馬上就有位子坐。",
     "level": "N4",
-    "exampleFurigana": "すく。"
+    "exampleFurigana": "電車(でんしゃ)がすいていたので、すぐに座(すわ)れた。"
   },
   {
     "id": "556",
     "word": "すっかり",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "すっかり。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "雨が上がって、道がすっかりかわいた。",
+    "exampleMeaning": "雨停了，路面完全乾了。",
     "level": "N4",
-    "exampleFurigana": "すっかり。"
+    "exampleFurigana": "雨(あめ)が上(あ)がって、道(みち)がすっかりかわいた。"
   },
   {
     "id": "557",
     "word": "すっと",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "すっと。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "ドアがすっと開いた。",
+    "exampleMeaning": "門一下子就打開了。",
     "level": "N4",
-    "exampleFurigana": "すっと。"
+    "exampleFurigana": "ドアがすっと開(あ)いた。"
   },
   {
     "id": "558",
     "word": "すばらしい",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "すばらしい。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "あなたの考えはすばらしいと思います。",
+    "exampleMeaning": "我覺得你的想法很棒。",
     "level": "N4",
-    "exampleFurigana": "すばらしい。"
+    "exampleFurigana": "あなたの考(かんが)えはすばらしいと思(おも)います。"
   },
   {
     "id": "559",
     "word": "すり",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "すり。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "駅でさいふをぬまれたので、すぐに警察へ行った。",
+    "exampleMeaning": "在車站被扒手偷了錢包，所以立刻去警察局。",
     "level": "N4",
-    "exampleFurigana": "すり。"
+    "exampleFurigana": "駅(えき)でさいふをぬまれたので、すぐに警察(けいさつ)へ行(い)った。"
   },
   {
     "id": "560",
     "word": "すると",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "すると。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "ボタンを押した。すると、ベルが鳴った。",
+    "exampleMeaning": "我按下按鈕，接著鈴聲就響了。",
     "level": "N4",
-    "exampleFurigana": "すると。"
+    "exampleFurigana": "ボタンを押(お)した。すると、ベルが鳴(な)った。"
   },
   {
     "id": "561",
     "word": "ずいぶん",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "ずいぶん。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "今日はずいぶん寒いですね。",
+    "exampleMeaning": "今天真是相當冷呢。",
     "level": "N4",
-    "exampleFurigana": "ずいぶん。"
+    "exampleFurigana": "今日(きょう)はずいぶん寒(さむ)いですね。"
   },
   {
     "id": "562",
     "word": "ぜひ",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "ぜひ。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "京都に来たら、ぜひこの店に寄ってください。",
+    "exampleMeaning": "來京都的話，請務必來這家店。",
     "level": "N4",
-    "exampleFurigana": "ぜひ。"
+    "exampleFurigana": "京都(きょうと)に来(き)たら、ぜひこの店(みせ)に寄(よ)ってください。"
   },
   {
     "id": "563",
     "word": "ぜんぜん",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "ぜんぜん。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "きのうはぜんぜんねむれなかった。",
+    "exampleMeaning": "昨天完全睡不著。",
     "level": "N4",
-    "exampleFurigana": "ぜんぜん。"
+    "exampleFurigana": "きのうはぜんぜんねむれなかった。"
   },
   {
     "id": "564",
     "word": "そう",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "そう。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "その話はそう思います。",
+    "exampleMeaning": "那件事我也是那樣想的。",
     "level": "N4",
-    "exampleFurigana": "そう。"
+    "exampleFurigana": "その話(はなし)はそう思(おも)います。"
   },
   {
     "id": "565",
     "word": "それで",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "それで。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "道がこんでいた。それで、会議に少し遅れた。",
+    "exampleMeaning": "路上很塞，所以開會晚到了。",
     "level": "N4",
-    "exampleFurigana": "それで。"
+    "exampleFurigana": "道(みち)がこんでいた。それで、会議(かいぎ)に少(すこ)し遅(おく)れた。"
   },
   {
     "id": "566",
     "word": "それに",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "それに。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "この店は安いし、それにおいしい。",
+    "exampleMeaning": "這家店又便宜，而且好吃。",
     "level": "N4",
-    "exampleFurigana": "それに。"
+    "exampleFurigana": "この店(みせ)は安(やす)いし、それにおいしい。"
   },
   {
     "id": "567",
     "word": "それほど",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "それほど。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "今日はそれほど暑くない。",
+    "exampleMeaning": "今天沒有那麼熱。",
     "level": "N4",
-    "exampleFurigana": "それほど。"
+    "exampleFurigana": "今日(きょう)はそれほど暑(あつ)くない。"
   },
   {
     "id": "568",
     "word": "そろそろ",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "そろそろ。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "そろそろ出かけましょう。",
+    "exampleMeaning": "差不多該出門了。",
     "level": "N4",
-    "exampleFurigana": "そろそろ。"
+    "exampleFurigana": "そろそろ出(で)かけましょう。"
   },
   {
     "id": "569",
     "word": "そんな",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "そんな。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "そんな言い方をしないでください。",
+    "exampleMeaning": "請不要那樣說話。",
     "level": "N4",
-    "exampleFurigana": "そんな。"
+    "exampleFurigana": "そんな言(い)い方(かた)をしないでください。"
   },
   {
     "id": "570",
     "word": "そんなに",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "そんなに。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "このかばんはそんなに高くない。",
+    "exampleMeaning": "這個包包沒有那麼貴。",
     "level": "N4",
-    "exampleFurigana": "そんなに。"
+    "exampleFurigana": "このかばんはそんなに高(たか)くない。"
   },
   {
     "id": "571",
     "word": "たいてい",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "たいてい。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "朝ごはんはたいていパンを食べます。",
+    "exampleMeaning": "早餐通常吃麵包。",
     "level": "N4",
-    "exampleFurigana": "たいてい。"
+    "exampleFurigana": "朝(あさ)ごはんはたいていパンを食(た)べます。"
   },
   {
     "id": "572",
     "word": "たまに",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "たまに。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "忙しいので、映画はたまにしか見ない。",
+    "exampleMeaning": "因為很忙，所以電影只偶爾看。",
     "level": "N4",
-    "exampleFurigana": "たまに。"
+    "exampleFurigana": "忙(いそが)しいので、映画(えいが)はたまにしか見(み)ない。"
   },
   {
     "id": "573",
     "word": "だから",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "だから。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "今日は休みだ。だから、少し遅く起きた。",
+    "exampleMeaning": "今天放假，所以晚一點起床。",
     "level": "N4",
-    "exampleFurigana": "だから。"
+    "exampleFurigana": "今日(きょう)は休(やす)みだ。だから、少(すこ)し遅(おそ)く起(お)きた。"
   },
   {
     "id": "574",
     "word": "だめ",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "だめ。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "ここでたばこをすってはだめです。",
+    "exampleMeaning": "這裡不能抽菸。",
     "level": "N4",
-    "exampleFurigana": "だめ。"
+    "exampleFurigana": "ここでたばこをすってはだめです。"
   },
   {
     "id": "575",
     "word": "ちっとも",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "ちっとも。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "薬を飲んだのに、ちっともよくならない。",
+    "exampleMeaning": "明明吃了藥，卻一點都沒好轉。",
     "level": "N4",
-    "exampleFurigana": "ちっとも。"
+    "exampleFurigana": "薬(くすり)を飲(の)んだのに、ちっともよくならない。"
   },
   {
     "id": "576",
     "word": "ちゃん",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "ちゃん。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "田中ちゃんは今年で五さいです。",
+    "exampleMeaning": "田中小妹妹今年五歲。",
     "level": "N4",
-    "exampleFurigana": "ちゃん。"
+    "exampleFurigana": "田中(たなか)ちゃんは今年(ことし)で五(ご)さいです。"
   },
   {
     "id": "577",
     "word": "つき",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "つき。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "きょうはつきがとてもきれいだ。",
+    "exampleMeaning": "今天的月亮非常漂亮。",
     "level": "N4",
-    "exampleFurigana": "つき。"
+    "exampleFurigana": "きょうはつきがとてもきれいだ。"
   },
   {
     "id": "578",
     "word": "つもり",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "つもり。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "来年、日本へ留学するつもりです。",
+    "exampleMeaning": "我打算明年去日本留學。",
     "level": "N4",
-    "exampleFurigana": "つもり。"
+    "exampleFurigana": "来年(らいねん)、日本(にほん)へ留学(りゅうがく)するつもりです。"
   },
   {
     "id": "579",
     "word": "できるだけ",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "できるだけ。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "できるだけ毎日漢字を勉強します。",
+    "exampleMeaning": "我會盡可能每天學漢字。",
     "level": "N4",
-    "exampleFurigana": "できるだけ。"
+    "exampleFurigana": "できるだけ毎日(まいにち)漢字(かんじ)を勉強(べんきょう)します。"
   },
   {
     "id": "580",
     "word": "とうとう",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "とうとう。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "とうとうスマホを新しく買いかえた。",
+    "exampleMeaning": "我終於把手機換新了。",
     "level": "N4",
-    "exampleFurigana": "とうとう。"
+    "exampleFurigana": "とうとうスマホを新(あたら)しく買(か)いかえた。"
   },
   {
     "id": "581",
     "word": "とこや",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "とこや。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "父は月に一度、とこやへ行きます。",
+    "exampleMeaning": "爸爸每個月去一次理髮店。",
     "level": "N4",
-    "exampleFurigana": "とこや。"
+    "exampleFurigana": "父(ちち)は月(つき)に一度(いちど)、とこやへ行(い)きます。"
   },
   {
     "id": "582",
     "word": "どんどん",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "どんどん。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "新しい店が駅前にどんどんできている。",
+    "exampleMeaning": "車站前一直不斷有新店開張。",
     "level": "N4",
-    "exampleFurigana": "どんどん。"
+    "exampleFurigana": "新(あたら)しい店(みせ)が駅前(えきまえ)にどんどんできている。"
   },
   {
     "id": "583",
     "word": "なさる",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "なさる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "社長は週末も会社で仕事をなさいます。",
+    "exampleMeaning": "社長週末也會在公司工作。",
     "level": "N4",
-    "exampleFurigana": "なさる。"
+    "exampleFurigana": "社長(しゃちょう)は週末(しゅうまつ)も会社(かいしゃ)で仕事(しごと)をなさいます。"
   },
   {
     "id": "584",
     "word": "なるべく",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "なるべく。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "時間がないので、なるべく急いでください。",
+    "exampleMeaning": "因為沒時間了，請盡量快一點。",
     "level": "N4",
-    "exampleFurigana": "なるべく。"
+    "exampleFurigana": "時間(じかん)がないので、なるべく急(いそ)いでください。"
   },
   {
     "id": "585",
     "word": "なるほど",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "なるほど。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "なるほど、それはいい考えですね。",
+    "exampleMeaning": "原來如此，那真是個好主意。",
     "level": "N4",
-    "exampleFurigana": "なるほど。"
+    "exampleFurigana": "なるほど、それはいい考(かんが)えですね。"
   },
   {
     "id": "586",
     "word": "におい",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "におい。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "この花はいいにおいがします。",
+    "exampleMeaning": "這朵花聞起來很香。",
     "level": "N4",
-    "exampleFurigana": "におい。"
+    "exampleFurigana": "この花(はな)はいいにおいがします。"
   },
   {
     "id": "587",
     "word": "ぬれる",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "ぬれる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "雨でくつがぬれてしまった。",
+    "exampleMeaning": "鞋子被雨淋濕了。",
     "level": "N4",
-    "exampleFurigana": "ぬれる。"
+    "exampleFurigana": "雨(あめ)でくつがぬれてしまった。"
   },
   {
     "id": "588",
     "word": "ねだん",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "ねだん。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "このシャツのねだんはいくらですか。",
+    "exampleMeaning": "這件襯衫多少錢？",
     "level": "N4",
-    "exampleFurigana": "ねだん。"
+    "exampleFurigana": "このシャツのねだんはいくらですか。"
   },
   {
     "id": "589",
     "word": "ねっしん",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "ねっしん。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "彼は日本語の勉強にとてもねっしんだ。",
+    "exampleMeaning": "他對學日文非常熱心。",
     "level": "N4",
-    "exampleFurigana": "ねっしん。"
+    "exampleFurigana": "彼(かれ)は日本語(にほんご)の勉強(べんきょう)にとてもねっしんだ。"
   },
   {
     "id": "590",
     "word": "のど",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "のど。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "かぜでのどがいたい。",
+    "exampleMeaning": "因為感冒喉嚨痛。",
     "level": "N4",
-    "exampleFurigana": "のど。"
+    "exampleFurigana": "かぜでのどがいたい。"
   },
   {
     "id": "591",
     "word": "はず",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "はず。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "田中さんはもう来るはずです。",
+    "exampleMeaning": "田中應該已經要到了。",
     "level": "N4",
-    "exampleFurigana": "はず。"
+    "exampleFurigana": "田中(たなか)さんはもう来(く)るはずです。"
   },
   {
     "id": "592",
     "word": "はっきり",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "はっきり。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "名前をはっきり言ってください。",
+    "exampleMeaning": "請把名字說清楚。",
     "level": "N4",
-    "exampleFurigana": "はっきり。"
+    "exampleFurigana": "名前(なまえ)をはっきり言(い)ってください。"
   },
   {
     "id": "593",
     "word": "ひげ",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "ひげ。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "父は毎朝ひげをそります。",
+    "exampleMeaning": "爸爸每天早上刮鬍子。",
     "level": "N4",
-    "exampleFurigana": "ひげ。"
+    "exampleFurigana": "父(ちち)は毎朝(まいあさ)ひげをそります。"
   },
   {
     "id": "594",
     "word": "ひどい",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "ひどい。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "昨日の頭痛はひどかった。",
+    "exampleMeaning": "昨天的頭痛很嚴重。",
     "level": "N4",
-    "exampleFurigana": "ひどい。"
+    "exampleFurigana": "昨日(きのう)の頭痛(ずつう)はひどかった。"
   },
   {
     "id": "595",
     "word": "びっくり",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "びっくり。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "大きな音がして、びっくりした。",
+    "exampleMeaning": "突然有很大的聲音，把我嚇了一跳。",
     "level": "N4",
-    "exampleFurigana": "びっくり。"
+    "exampleFurigana": "大(おお)きな音(おと)がして、びっくりした。"
   },
   {
     "id": "596",
     "word": "ぶどう",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "ぶどう。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "秋になると、ぶどうがおいしくなる。",
+    "exampleMeaning": "到了秋天，葡萄會變得很好吃。",
     "level": "N4",
-    "exampleFurigana": "ぶどう。"
+    "exampleFurigana": "秋(あき)になると、ぶどうがおいしくなる。"
   },
   {
     "id": "597",
     "word": "ほとんど",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "ほとんど。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "宿題はほとんど終わりました。",
+    "exampleMeaning": "作業幾乎做完了。",
     "level": "N4",
-    "exampleFurigana": "ほとんど。"
+    "exampleFurigana": "宿題(しゅくだい)はほとんど終(お)わりました。"
   },
   {
     "id": "598",
     "word": "ほど",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "ほど。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "駅まで歩いて十分ほどかかります。",
+    "exampleMeaning": "走到車站大約要十分鐘。",
     "level": "N4",
-    "exampleFurigana": "ほど。"
+    "exampleFurigana": "駅(えき)まで歩(ある)いて十分(じゅっぷん)ほどかかります。"
   },
   {
     "id": "599",
     "word": "ほめる",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "ほめる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生が作文をほめてくれた。",
+    "exampleMeaning": "老師稱讚了我的作文。",
     "level": "N4",
-    "exampleFurigana": "ほめる。"
+    "exampleFurigana": "先生(せんせい)が作文(さくぶん)をほめてくれた。"
   },
   {
     "id": "600",
     "word": "まじめ",
     "furigana": "-",
     "meaning": "（待補充）",
-    "example": "まじめ。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "彼はまじめに毎日れんしゅうしている。",
+    "exampleMeaning": "他每天都認真練習。",
     "level": "N4",
-    "exampleFurigana": "まじめ。"
+    "exampleFurigana": "彼(かれ)はまじめに毎日(まいにち)れんしゅうしている。"
   },
   {
     "id": "601",
