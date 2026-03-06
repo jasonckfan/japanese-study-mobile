@@ -12,6 +12,9 @@
   --card-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
   --border-radius: 16px;
   --border-radius-lg: 24px;
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-top: env(safe-area-inset-top, 0px);
+  --tabbar-height: 80px;
 }
 
 * {
@@ -21,6 +24,7 @@
 }
 
 html, body, #root {
+  min-height: 100%;
   height: 100%;
   font-family: 'Noto Sans JP', sans-serif;
   background: var(--primary-dark);
@@ -31,24 +35,26 @@ html, body, #root {
 .app-container {
   display: flex;
   flex-direction: column;
-  height: 100%;
+  min-height: 100svh;
+  min-height: 100dvh;
   max-width: 100%;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 .header {
-  padding: 16px;
+  padding: calc(8px + var(--safe-top)) 14px 8px;
   text-align: center;
-  background: linear-gradient(180deg, var(--primary-dark) 0%, transparent 100%);
-  position: relative;
-  z-index: 10;
+  background: linear-gradient(180deg, rgba(10, 22, 40, 0.96) 0%, rgba(10, 22, 40, 0.7) 100%);
+  position: sticky;
+  top: 0;
+  z-index: 20;
 }
 
 .header h1 {
   font-family: 'Noto Serif JP', serif;
-  font-size: 1.75rem;
+  font-size: 1rem;
   font-weight: 700;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.06em;
   background: linear-gradient(135deg, var(--text-primary) 0%, var(--accent-gold) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -64,8 +70,8 @@ html, body, #root {
 .main-content {
   flex: 1;
   overflow-y: auto;
-  padding: 16px;
-  padding-bottom: 100px;
+  padding: 12px;
+  padding-bottom: calc(var(--tabbar-height) + var(--safe-bottom) + 16px);
 }
 
 .tab-bar {
@@ -75,7 +81,8 @@ html, body, #root {
   right: 0;
   display: flex;
   justify-content: space-around;
-  padding: 12px 16px 24px;
+  padding: 8px 12px calc(8px + var(--safe-bottom));
+  min-height: calc(var(--tabbar-height) + var(--safe-bottom));
   background: rgba(26, 39, 68, 0.95);
   backdrop-filter: blur(10px);
   border-top: 1px solid rgba(255, 255, 255, 0.1);
@@ -86,13 +93,17 @@ html, body, #root {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   gap: 4px;
   background: none;
   border: none;
   color: var(--text-secondary);
   cursor: pointer;
   transition: all 0.2s ease;
-  padding: 8px 16px;
+  padding: 8px 14px;
+  min-height: 44px;
+  min-width: 64px;
+  border-radius: 12px;
 }
 
 .tab-item:active {
@@ -114,10 +125,16 @@ html, body, #root {
 
 .hero-section {
   position: relative;
-  padding: 32px 24px;
-  margin: -16px -16px 24px;
+  padding: 20px 16px;
+  margin: -12px -12px 12px;
   background: linear-gradient(135deg, var(--primary-dark) 0%, var(--secondary-dark) 100%);
+  border-radius: 0 0 14px 14px;
   overflow: hidden;
+}
+
+.hero-section.compact {
+  padding: 12px 14px;
+  margin-bottom: 10px;
 }
 
 .hero-section::before {
@@ -126,7 +143,7 @@ html, body, #root {
   top: -20px;
   right: -20px;
   font-family: 'Noto Serif JP', serif;
-  font-size: 8rem;
+  font-size: 5.2rem;
   opacity: 0.03;
   writing-mode: vertical-rl;
 }
@@ -134,33 +151,42 @@ html, body, #root {
 .hero-section::after {
   content: '学習';
   position: absolute;
-  bottom: -30px;
-  left: -30px;
+  bottom: -28px;
+  left: -26px;
   font-family: 'Noto Serif JP', serif;
-  font-size: 6rem;
+  font-size: 4.4rem;
   opacity: 0.03;
   writing-mode: vertical-rl;
 }
 
 .hero-title {
   font-family: 'Noto Serif JP', serif;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   font-weight: 700;
   text-align: center;
-  margin-bottom: 8px;
+  margin-bottom: 4px;
+}
+
+.hero-section.compact .hero-title {
+  font-size: 1.1rem;
+  margin-bottom: 2px;
 }
 
 .hero-subtitle {
-  font-size: 1rem;
+  font-size: 0.84rem;
   color: var(--text-secondary);
   text-align: center;
+}
+
+.hero-section.compact .hero-subtitle {
+  font-size: 0.74rem;
 }
 
 .progress-bar {
   display: flex;
   align-items: center;
-  gap: 12px;
-  margin-bottom: 24px;
+  gap: 10px;
+  margin-bottom: 10px;
 }
 
 .progress-info {
@@ -217,13 +243,13 @@ html, body, #root {
 
 .flashcard-container {
   perspective: 1000px;
-  margin-bottom: 24px;
+  margin-bottom: 10px;
 }
 
 .flashcard {
   position: relative;
   width: 100%;
-  min-height: 280px;
+  min-height: clamp(220px, 36vh, 280px);
   cursor: pointer;
   transform-style: preserve-3d;
   transition: transform 0.6s ease;
@@ -236,10 +262,10 @@ html, body, #root {
 .flashcard-face {
   position: absolute;
   width: 100%;
-  min-height: 280px;
+  min-height: clamp(220px, 36vh, 280px);
   backface-visibility: hidden;
   border-radius: var(--border-radius-lg);
-  padding: 32px 24px;
+  padding: 22px 18px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -259,9 +285,9 @@ html, body, #root {
 
 .flashcard-word {
   font-family: 'Noto Serif JP', serif;
-  font-size: 3rem;
+  font-size: clamp(2rem, 9vw, 2.6rem);
   font-weight: 700;
-  margin-bottom: 8px;
+  margin-bottom: 6px;
   text-align: center;
 }
 
@@ -278,12 +304,13 @@ html, body, #root {
 
 .speak-btn {
   margin: 8px 0 6px;
-  padding: 6px 10px;
+  padding: 10px 14px;
+  min-height: 44px;
   border: 1px solid rgba(245, 200, 66, 0.55);
   border-radius: 999px;
   background: rgba(245, 200, 66, 0.18);
   color: var(--accent-gold);
-  font-size: 0.72rem;
+  font-size: 0.8rem;
   cursor: pointer;
 }
 
@@ -306,18 +333,23 @@ html, body, #root {
   flex-wrap: wrap;
   gap: 8px;
   align-items: center;
-  margin-bottom: 12px;
+  margin-bottom: 10px;
   font-size: 0.78rem;
   color: var(--text-secondary);
 }
 
+.speech-controls.compact {
+  margin-bottom: 8px;
+}
+
 .chip {
-  padding: 6px 10px;
+  padding: 10px 12px;
+  min-height: 44px;
   border-radius: 999px;
   border: 1px solid rgba(255, 255, 255, 0.2);
   background: rgba(255, 255, 255, 0.05);
   color: var(--text-primary);
-  font-size: 0.72rem;
+  font-size: 0.78rem;
   cursor: pointer;
 }
 
@@ -327,8 +359,43 @@ html, body, #root {
   color: var(--accent-gold);
 }
 
+.position-chip {
+  display: inline-flex;
+  align-items: center;
+  min-height: 32px;
+  padding: 4px 10px;
+  margin-bottom: 8px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--text-secondary);
+  font-size: 0.74rem;
+}
+
+.vocab-controls-panel {
+  margin-top: 12px;
+  background: rgba(26, 39, 68, 0.55);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  padding: 8px 10px;
+}
+
+.vocab-controls-panel summary {
+  list-style: none;
+  cursor: pointer;
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  min-height: 36px;
+  display: flex;
+  align-items: center;
+}
+
+.vocab-controls-panel summary::-webkit-details-marker {
+  display: none;
+}
+
 .vocab-controls {
-  margin-bottom: 12px;
+  margin-top: 6px;
+  margin-bottom: 6px;
   display: flex;
   flex-direction: column;
   gap: 10px;
@@ -360,13 +427,14 @@ html, body, #root {
 }
 
 .jump-input {
-  width: 88px;
-  padding: 6px 8px;
-  border-radius: 8px;
+  width: 92px;
+  min-height: 44px;
+  padding: 10px 10px;
+  border-radius: 10px;
   border: 1px solid rgba(255, 255, 255, 0.2);
   background: rgba(255, 255, 255, 0.05);
   color: var(--text-primary);
-  font-size: 0.78rem;
+  font-size: 0.82rem;
 }
 
 .jump-btn {
@@ -443,11 +511,15 @@ html, body, #root {
 .action-buttons {
   display: flex;
   gap: 12px;
+  position: sticky;
+  bottom: calc(var(--tabbar-height) + var(--safe-bottom) + 8px);
+  z-index: 15;
 }
 
 .action-btn {
   flex: 1;
-  padding: 16px;
+  min-height: 48px;
+  padding: 14px 12px;
   border: none;
   border-radius: var(--border-radius);
   font-size: 1rem;
@@ -497,7 +569,8 @@ html, body, #root {
 }
 
 .scenario-card {
-  padding: 20px;
+  padding: 16px;
+  min-height: 96px;
   background: var(--secondary-dark);
   border-radius: var(--border-radius);
   box-shadow: var(--card-shadow);
@@ -528,7 +601,8 @@ html, body, #root {
 .chat-container {
   display: flex;
   flex-direction: column;
-  height: calc(100vh - 180px);
+  min-height: clamp(360px, calc(100dvh - 220px), 780px);
+  min-height: clamp(360px, calc(100svh - 220px), 780px);
 }
 
 .chat-header {
@@ -573,6 +647,7 @@ html, body, #root {
 .chat-bubble {
   max-width: 80%;
   width: fit-content;
+  min-height: 44px;
   padding: 12px 16px;
   border-radius: var(--border-radius);
   font-size: 0.9rem;
@@ -681,6 +756,7 @@ html, body, #root {
   display: flex;
   align-items: center;
   gap: 8px;
+  min-height: 44px;
   padding: 12px 16px;
   background: var(--secondary-dark);
   border: none;
@@ -688,7 +764,7 @@ html, body, #root {
   color: var(--text-primary);
   font-size: 0.9rem;
   cursor: pointer;
-  margin-bottom: 16px;
+  margin-bottom: 12px;
   transition: all 0.2s ease;
 }
 

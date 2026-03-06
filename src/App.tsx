@@ -7,8 +7,8 @@ import './styles/App.css';
 
 type TabType = 'vocab' | 'conversation' | 'materials' | 'progress';
 
-const HeroSection: React.FC = () => (
-  <div className="hero-section">
+const HeroSection: React.FC<{ compact?: boolean }> = ({ compact = false }) => (
+  <div className={`hero-section ${compact ? 'compact' : ''}`}>
     <h1 className="hero-title">日本語道場</h1>
     <p className="hero-subtitle">Master Japanese through practice</p>
   </div>
@@ -230,13 +230,18 @@ const VocabularyView: React.FC = () => {
 
   return (
     <div className="fade-in">
-      <HeroSection />
+      <HeroSection compact />
       <ProgressBar {...progress} />
       {!supported && (
         <div className="speech-warning">⚠️ 你的瀏覽器未開啟語音合成（SpeechSynthesis），暫時無法播放發音。</div>
       )}
+
+      <div className="position-chip">
+        位置 {filteredIndices.length === 0 || filteredCurrentPosition < 0 ? 0 : filteredCurrentPosition + 1}/{filteredIndices.length}
+      </div>
+
       {supported && (
-        <div className="speech-controls">
+        <div className="speech-controls compact">
           <span>語速</span>
           <button className={`chip ${speechRate === 0.75 ? 'active' : ''}`} onClick={() => setSpeechRate(0.75)}>慢速</button>
           <button className={`chip ${speechRate === 0.9 ? 'active' : ''}`} onClick={() => setSpeechRate(0.9)}>正常</button>
@@ -244,42 +249,6 @@ const VocabularyView: React.FC = () => {
           <button className={`chip ${autoPlay ? 'active' : ''}`} onClick={() => setAutoPlay((v) => !v)}>{autoPlay ? '自動播放: 開' : '自動播放: 關'}</button>
         </div>
       )}
-
-      <div className="vocab-controls">
-        <div className="difficulty-row">
-          <span className="difficulty-label">級別</span>
-          <button className={`chip ${levelFilter === 'all' ? 'active' : ''}`} onClick={() => setLevelFilter('all')}>全部</button>
-          <button className={`chip ${levelFilter === 'N5' ? 'active' : ''}`} onClick={() => setLevelFilter('N5')}>N5</button>
-          <button className={`chip ${levelFilter === 'N4' ? 'active' : ''}`} onClick={() => setLevelFilter('N4')}>N4</button>
-          <button className={`chip ${levelFilter === 'N3' ? 'active' : ''}`} onClick={() => setLevelFilter('N3')}>N3</button>
-          <button className={`chip ${levelFilter === 'N2' ? 'active' : ''}`} onClick={() => setLevelFilter('N2')}>N2</button>
-          <button className={`chip ${levelFilter === 'N1' ? 'active' : ''}`} onClick={() => setLevelFilter('N1')}>N1</button>
-        </div>
-
-        <div className="jump-row">
-          <span className="position-indicator">
-            位置 {filteredIndices.length === 0 || filteredCurrentPosition < 0 ? 0 : filteredCurrentPosition + 1}/{filteredIndices.length}
-          </span>
-          <div className="jump-input-wrap">
-            <input
-              type="number"
-              inputMode="numeric"
-              min={1}
-              max={Math.max(filteredIndices.length, 1)}
-              value={jumpInput}
-              onChange={(e) => setJumpInput(e.target.value)}
-              placeholder="跳到 #"
-              className="jump-input"
-            />
-            <button className="chip jump-btn" onClick={onJumpToIndex}>前往</button>
-          </div>
-        </div>
-
-        <div className="jump-row">
-          <button className="chip jump-btn" onClick={onManualSync}>手動同步最新詞庫</button>
-          {syncNotice && <span className="position-indicator">{syncNotice}</span>}
-        </div>
-      </div>
 
       {progress.total === 0 ? (
         <div className="empty-state">
@@ -309,6 +278,43 @@ const VocabularyView: React.FC = () => {
               {feedback === 'mastered' ? '✓ 已記錄：已掌握' : '↺ 已記錄：再學習'}
             </div>
           )}
+
+          <details className="vocab-controls-panel">
+            <summary>學習設定與工具</summary>
+            <div className="vocab-controls">
+              <div className="difficulty-row">
+                <span className="difficulty-label">級別</span>
+                <button className={`chip ${levelFilter === 'all' ? 'active' : ''}`} onClick={() => setLevelFilter('all')}>全部</button>
+                <button className={`chip ${levelFilter === 'N5' ? 'active' : ''}`} onClick={() => setLevelFilter('N5')}>N5</button>
+                <button className={`chip ${levelFilter === 'N4' ? 'active' : ''}`} onClick={() => setLevelFilter('N4')}>N4</button>
+                <button className={`chip ${levelFilter === 'N3' ? 'active' : ''}`} onClick={() => setLevelFilter('N3')}>N3</button>
+                <button className={`chip ${levelFilter === 'N2' ? 'active' : ''}`} onClick={() => setLevelFilter('N2')}>N2</button>
+                <button className={`chip ${levelFilter === 'N1' ? 'active' : ''}`} onClick={() => setLevelFilter('N1')}>N1</button>
+              </div>
+
+              <div className="jump-row">
+                <span className="position-indicator">跳轉</span>
+                <div className="jump-input-wrap">
+                  <input
+                    type="number"
+                    inputMode="numeric"
+                    min={1}
+                    max={Math.max(filteredIndices.length, 1)}
+                    value={jumpInput}
+                    onChange={(e) => setJumpInput(e.target.value)}
+                    placeholder="跳到 #"
+                    className="jump-input"
+                  />
+                  <button className="chip jump-btn" onClick={onJumpToIndex}>前往</button>
+                </div>
+              </div>
+
+              <div className="jump-row">
+                <button className="chip jump-btn" onClick={onManualSync}>手動同步最新詞庫</button>
+                {syncNotice && <span className="position-indicator">{syncNotice}</span>}
+              </div>
+            </div>
+          </details>
         </>
       )}
     </div>
