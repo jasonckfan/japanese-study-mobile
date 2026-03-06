@@ -32,7 +32,8 @@ const ProgressBar: React.FC<{ total: number; mastered: number; due: number }> = 
 };
 
 const renderRubyText = (text: string) => {
-  const rubyPattern = /([一-龯々]+)\(([^)]+)\)/g;
+  // 支援「漢字(かな)」與「漢字かな(かな)」等標記，統一轉成 ruby-only 顯示
+  const rubyPattern = /([ぁ-ゖァ-ヺ一-龯々〆ヵヶー]+)\(([^()]+)\)/g;
   const nodes: React.ReactNode[] = [];
   let lastIndex = 0;
   let match: RegExpExecArray | null;
