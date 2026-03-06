@@ -343,6 +343,30 @@ html, body, #root {
   margin-bottom: 8px;
 }
 
+.voice-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.voice-label {
+  font-size: 0.78rem;
+  color: var(--text-secondary);
+}
+
+.voice-select {
+  flex: 1 1 180px;
+  min-height: 44px;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text-primary);
+  padding: 10px 12px;
+  font-size: 0.78rem;
+}
+
 .chip {
   padding: 10px 12px;
   min-height: 44px;

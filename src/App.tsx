@@ -162,7 +162,7 @@ type LevelFilter = 'all' | 'N5' | 'N4' | 'N3' | 'N2' | 'N1';
 
 const VocabularyView: React.FC = () => {
   const { cards, currentCard, currentIndex, setCurrentIndex, isFlipped, setIsFlipped, handleReview, syncWithLatestData, progress } = useVocab();
-  const { supported, speak, stop } = useSpeech();
+  const { supported, japaneseVoices, selectedVoiceURI, setSelectedVoiceURI, speak, stop } = useSpeech();
   const [speechRate, setSpeechRate] = useState(0.9);
   const [autoPlay, setAutoPlay] = useState(true);
   const [levelFilter, setLevelFilter] = useState<LevelFilter>('all');
@@ -329,13 +329,38 @@ const VocabularyView: React.FC = () => {
           <summary aria-label="開啟學習設定">⚙️</summary>
           <div className="vocab-controls">
             {supported && (
-              <div className="speech-controls compact">
-                <span>語速</span>
-                <button className={`chip ${speechRate === 0.75 ? 'active' : ''}`} onClick={() => setSpeechRate(0.75)}>慢速</button>
-                <button className={`chip ${speechRate === 0.9 ? 'active' : ''}`} onClick={() => setSpeechRate(0.9)}>正常</button>
-                <button className={`chip ${speechRate === 1 ? 'active' : ''}`} onClick={() => setSpeechRate(1)}>偏快</button>
-                <button className={`chip ${autoPlay ? 'active' : ''}`} onClick={() => setAutoPlay((v) => !v)}>{autoPlay ? '自動播放: 開' : '自動播放: 關'}</button>
-              </div>
+              <>
+                <div className="speech-controls compact">
+                  <span>語速</span>
+                  <button className={`chip ${speechRate === 0.75 ? 'active' : ''}`} onClick={() => setSpeechRate(0.75)}>慢速</button>
+                  <button className={`chip ${speechRate === 0.9 ? 'active' : ''}`} onClick={() => setSpeechRate(0.9)}>正常</button>
+                  <button className={`chip ${speechRate === 1 ? 'active' : ''}`} onClick={() => setSpeechRate(1)}>偏快</button>
+                  <button className={`chip ${autoPlay ? 'active' : ''}`} onClick={() => setAutoPlay((v) => !v)}>{autoPlay ? '自動播放: 開' : '自動播放: 關'}</button>
+                </div>
+                <div className="voice-controls">
+                  <label htmlFor="voice-select" className="voice-label">語音音色</label>
+                  <select
+                    id="voice-select"
+                    className="voice-select"
+                    value={selectedVoiceURI}
+                    onChange={(e) => setSelectedVoiceURI(e.target.value)}
+                  >
+                    <option value="">系統預設（日語優先）</option>
+                    {japaneseVoices.map((voice) => (
+                      <option key={voice.voiceURI} value={voice.voiceURI}>
+                        {voice.name}
+                      </option>
+                    ))}
+                  </select>
+                  <button
+                    className="chip"
+                    type="button"
+                    onClick={() => speak('こんにちは、今日も頑張りましょう。', { rate: speechRate })}
+                  >
+                    試播音色
+                  </button>
+                </div>
+              </>
             )}
 
             <div className="difficulty-row">

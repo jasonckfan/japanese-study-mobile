@@ -6,10 +6,18 @@ type SpeakOptions = {
   volume?: number;
 };
 
+const VOICE_STORAGE_KEY = 'japanese-study:selected-voice-uri';
+
+const isJapaneseVoice = (voice: SpeechSynthesisVoice) => /^ja(-|_)/i.test(voice.lang);
+
 export function useSpeech() {
   const [supported, setSupported] = useState(false);
   const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([]);
   const [isSpeaking, setIsSpeaking] = useState(false);
+  const [selectedVoiceURI, setSelectedVoiceURI] = useState<string>(() => {
+    if (typeof window === 'undefined') return '';
+    return window.localStorage.getItem(VOICE_STORAGE_KEY) || '';
+  });
   const speakingRef = useRef(false);
   const lastSpeakRef = useRef<{ text: string; ts: number }>({ text: '', ts: 0 });
   const speakTimerRef = useRef<number | null>(null);
@@ -39,15 +47,33 @@ export function useSpeech() {
     };
   }, []);
 
-  const preferredVoice = useMemo(() => {
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+    if (!selectedVoiceURI) {
+      window.localStorage.removeItem(VOICE_STORAGE_KEY);
+      return;
+    }
+    window.localStorage.setItem(VOICE_STORAGE_KEY, selectedVoiceURI);
+  }, [selectedVoiceURI]);
+
+  const japaneseVoices = useMemo(() => voices.filter(isJapaneseVoice), [voices]);
+
+  const defaultVoice = useMemo(() => {
     if (!voices.length) return null;
 
     return (
-      voices.find((v) => /^ja(-|_)/i.test(v.lang) && /kyoko|otoya|japan|ja/i.test(v.name)) ||
-      voices.find((v) => /^ja(-|_)/i.test(v.lang)) ||
+      japaneseVoices.find((v) => /kyoko|otoya|japan|ja/i.test(v.name)) ||
+      japaneseVoices[0] ||
       voices[0]
     );
-  }, [voices]);
+  }, [japaneseVoices, voices]);
+
+  const selectedJapaneseVoice = useMemo(() => {
+    if (!selectedVoiceURI || !japaneseVoices.length) return null;
+    return japaneseVoices.find((voice) => voice.voiceURI === selectedVoiceURI) || null;
+  }, [japaneseVoices, selectedVoiceURI]);
+
+  const activeVoice = selectedJapaneseVoice || defaultVoice;
 
   const stop = useCallback(() => {
     if (!supported) return;
@@ -85,8 +111,8 @@ export function useSpeech() {
 
       speakTimerRef.current = window.setTimeout(() => {
         const utterance = new SpeechSynthesisUtterance(normalized);
-        utterance.lang = preferredVoice?.lang || 'ja-JP';
-        utterance.voice = preferredVoice ?? null;
+        utterance.lang = activeVoice?.lang || 'ja-JP';
+        utterance.voice = activeVoice ?? null;
         utterance.rate = options?.rate ?? 0.95;
         utterance.pitch = options?.pitch ?? 1;
         utterance.volume = options?.volume ?? 1;
@@ -107,12 +133,15 @@ export function useSpeech() {
         window.speechSynthesis.speak(utterance);
       }, 120);
     },
-    [preferredVoice, supported],
+    [activeVoice, supported],
   );
 
   return {
     supported,
     isSpeaking,
+    japaneseVoices,
+    selectedVoiceURI,
+    setSelectedVoiceURI,
     speak,
     stop,
   };
