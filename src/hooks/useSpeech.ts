@@ -93,12 +93,12 @@ export function useSpeech() {
     );
   }, [japaneseVoices, voices]);
 
-  const selectedJapaneseVoice = useMemo(() => {
-    if (!selectedVoiceURI || !japaneseVoices.length) return null;
-    return japaneseVoices.find((voice) => voice.voiceURI === selectedVoiceURI) || null;
-  }, [japaneseVoices, selectedVoiceURI]);
+  const selectedVoice = useMemo(() => {
+    if (!selectedVoiceURI || !voices.length) return null;
+    return voices.find((voice) => voice.voiceURI === selectedVoiceURI) || null;
+  }, [voices, selectedVoiceURI]);
 
-  const activeVoice = selectedJapaneseVoice || defaultVoice;
+  const activeVoice = selectedVoice || defaultVoice;
 
   const refreshVoices = useCallback(() => {
     if (!supported || typeof window === 'undefined') return;
@@ -167,10 +167,20 @@ export function useSpeech() {
     [activeVoice, supported],
   );
 
+  const allVoices = useMemo(() => {
+    const dedup = new Map<string, SpeechSynthesisVoice>();
+    voices.forEach((voice) => {
+      const key = `${voice.voiceURI}::${voice.name}::${voice.lang}`;
+      if (!dedup.has(key)) dedup.set(key, voice);
+    });
+    return Array.from(dedup.values());
+  }, [voices]);
+
   return {
     supported,
     isSpeaking,
     japaneseVoices,
+    allVoices,
     selectedVoiceURI,
     setSelectedVoiceURI,
     refreshVoices,
