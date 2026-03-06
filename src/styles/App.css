@@ -611,8 +611,9 @@ html, body, #root {
 .action-buttons {
   display: flex;
   gap: 12px;
+  margin-top: 12px;
   position: sticky;
-  bottom: calc(var(--tabbar-height) + var(--safe-bottom) + 8px);
+  bottom: calc(var(--tabbar-height) + var(--safe-bottom) - 6px);
   z-index: 15;
 }
 
