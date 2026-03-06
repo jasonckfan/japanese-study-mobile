@@ -367,6 +367,12 @@ html, body, #root {
   font-size: 0.78rem;
 }
 
+.voice-actions-row {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
 .chip {
   padding: 10px 12px;
   min-height: 44px;

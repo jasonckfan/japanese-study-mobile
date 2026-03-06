@@ -162,7 +162,7 @@ type LevelFilter = 'all' | 'N5' | 'N4' | 'N3' | 'N2' | 'N1';
 
 const VocabularyView: React.FC = () => {
   const { cards, currentCard, currentIndex, setCurrentIndex, isFlipped, setIsFlipped, handleReview, syncWithLatestData, progress } = useVocab();
-  const { supported, japaneseVoices, selectedVoiceURI, setSelectedVoiceURI, speak, stop } = useSpeech();
+  const { supported, japaneseVoices, selectedVoiceURI, setSelectedVoiceURI, refreshVoices, speak, stop } = useSpeech();
   const [speechRate, setSpeechRate] = useState(0.9);
   const [autoPlay, setAutoPlay] = useState(true);
   const [levelFilter, setLevelFilter] = useState<LevelFilter>('all');
@@ -338,7 +338,7 @@ const VocabularyView: React.FC = () => {
                   <button className={`chip ${autoPlay ? 'active' : ''}`} onClick={() => setAutoPlay((v) => !v)}>{autoPlay ? '自動播放: 開' : '自動播放: 關'}</button>
                 </div>
                 <div className="voice-controls">
-                  <label htmlFor="voice-select" className="voice-label">語音音色</label>
+                  <label htmlFor="voice-select" className="voice-label">語音音色（{japaneseVoices.length}）</label>
                   <select
                     id="voice-select"
                     className="voice-select"
@@ -347,18 +347,24 @@ const VocabularyView: React.FC = () => {
                   >
                     <option value="">系統預設（日語優先）</option>
                     {japaneseVoices.map((voice) => (
-                      <option key={voice.voiceURI} value={voice.voiceURI}>
+                      <option key={`${voice.voiceURI}-${voice.name}`} value={voice.voiceURI}>
                         {voice.name}
                       </option>
                     ))}
                   </select>
-                  <button
-                    className="chip"
-                    type="button"
-                    onClick={() => speak('こんにちは、今日も頑張りましょう。', { rate: speechRate })}
-                  >
-                    試播音色
-                  </button>
+                  <div className="voice-actions-row">
+                    <button className="chip" type="button" onClick={refreshVoices}>重新載入音色</button>
+                    <button
+                      className="chip"
+                      type="button"
+                      onClick={() => speak('こんにちは、今日も頑張りましょう。', { rate: speechRate })}
+                    >
+                      試播音色
+                    </button>
+                  </div>
+                  {japaneseVoices.length <= 1 && (
+                    <div className="position-indicator">目前系統只偵測到 1 種日語音色，請在 iPhone 設定安裝更多語音後再按「重新載入音色」。</div>
+                  )}
                 </div>
               </>
             )}

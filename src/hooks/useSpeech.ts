@@ -38,8 +38,24 @@ export function useSpeech() {
     loadVoices();
     window.speechSynthesis.onvoiceschanged = loadVoices;
 
+    // iOS Safari 常見：voices 載入較慢，onvoiceschanged 不一定即時觸發
+    const retryTimer = window.setInterval(loadVoices, 800);
+    const stopRetryTimer = window.setTimeout(() => {
+      window.clearInterval(retryTimer);
+    }, 10000);
+
+    const onVisibility = () => {
+      if (document.visibilityState === 'visible') {
+        loadVoices();
+      }
+    };
+    document.addEventListener('visibilitychange', onVisibility);
+
     return () => {
       window.speechSynthesis.onvoiceschanged = null;
+      window.clearInterval(retryTimer);
+      window.clearTimeout(stopRetryTimer);
+      document.removeEventListener('visibilitychange', onVisibility);
       if (speakTimerRef.current !== null) {
         window.clearTimeout(speakTimerRef.current);
         speakTimerRef.current = null;
@@ -56,7 +72,16 @@ export function useSpeech() {
     window.localStorage.setItem(VOICE_STORAGE_KEY, selectedVoiceURI);
   }, [selectedVoiceURI]);
 
-  const japaneseVoices = useMemo(() => voices.filter(isJapaneseVoice), [voices]);
+  const japaneseVoices = useMemo(() => {
+    const dedup = new Map<string, SpeechSynthesisVoice>();
+    voices
+      .filter(isJapaneseVoice)
+      .forEach((voice) => {
+        const key = `${voice.voiceURI}::${voice.name}`;
+        if (!dedup.has(key)) dedup.set(key, voice);
+      });
+    return Array.from(dedup.values());
+  }, [voices]);
 
   const defaultVoice = useMemo(() => {
     if (!voices.length) return null;
@@ -74,6 +99,12 @@ export function useSpeech() {
   }, [japaneseVoices, selectedVoiceURI]);
 
   const activeVoice = selectedJapaneseVoice || defaultVoice;
+
+  const refreshVoices = useCallback(() => {
+    if (!supported || typeof window === 'undefined') return;
+    const next = window.speechSynthesis.getVoices();
+    if (next.length) setVoices(next);
+  }, [supported]);
 
   const stop = useCallback(() => {
     if (!supported) return;
@@ -142,6 +173,7 @@ export function useSpeech() {
     japaneseVoices,
     selectedVoiceURI,
     setSelectedVoiceURI,
+    refreshVoices,
     speak,
     stop,
   };
