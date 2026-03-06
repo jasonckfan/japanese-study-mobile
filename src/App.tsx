@@ -186,6 +186,11 @@ const VocabularyView: React.FC = () => {
   const activeCard = filteredCurrentPosition >= 0 ? cards[currentIndex] : undefined;
   const availableVoices = japaneseVoices.length > 1 ? japaneseVoices : allVoices;
   const showingFallbackVoicePool = japaneseVoices.length <= 1 && allVoices.length > japaneseVoices.length;
+  const iosHighQualityVoices = useMemo(() => {
+    const qualityHint = /(premium|enhanced|siri|natural|neural|高品質|高质)/i;
+    return availableVoices.filter((voice) => /^ja(-|_)/i.test(voice.lang) && qualityHint.test(voice.name));
+  }, [availableVoices]);
+  const voiceOptions = iosHighQualityVoices.length > 0 ? iosHighQualityVoices : availableVoices;
 
   useEffect(() => {
     if (filteredIndices.length === 0) return;
@@ -340,7 +345,7 @@ const VocabularyView: React.FC = () => {
                   <button className={`chip ${autoPlay ? 'active' : ''}`} onClick={() => setAutoPlay((v) => !v)}>{autoPlay ? '自動播放: 開' : '自動播放: 關'}</button>
                 </div>
                 <div className="voice-controls">
-                  <label htmlFor="voice-select" className="voice-label">語音音色（{availableVoices.length}）</label>
+                  <label htmlFor="voice-select" className="voice-label">iOS高品質語音（{voiceOptions.length}）</label>
                   <select
                     id="voice-select"
                     className="voice-select"
@@ -348,7 +353,7 @@ const VocabularyView: React.FC = () => {
                     onChange={(e) => setSelectedVoiceURI(e.target.value)}
                   >
                     <option value="">系統預設（日語優先）</option>
-                    {availableVoices.map((voice) => (
+                    {voiceOptions.map((voice) => (
                       <option key={`${voice.voiceURI}-${voice.name}-${voice.lang}`} value={voice.voiceURI}>
                         {voice.name}（{voice.lang}）
                       </option>
@@ -364,6 +369,9 @@ const VocabularyView: React.FC = () => {
                       試播音色
                     </button>
                   </div>
+                  {iosHighQualityVoices.length === 0 && (
+                    <div className="position-indicator">目前未偵測到「高品質」標記語音，暫時顯示一般系統語音。</div>
+                  )}
                   {showingFallbackVoicePool && (
                     <div className="position-indicator">目前日語音色只有 1 種，已暫時開放全部系統語音供你測試。</div>
                   )}
