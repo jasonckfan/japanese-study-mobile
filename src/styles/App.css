@@ -519,6 +519,20 @@ html, body, #root {
 .flashcard-example-jp {
   font-size: 1rem;
   margin-bottom: 8px;
+  line-height: 1.9;
+}
+
+.flashcard-example-jp ruby {
+  ruby-position: over;
+  ruby-align: center;
+}
+
+.flashcard-example-jp rt {
+  font-size: 0.62em;
+  color: var(--accent-gold);
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  opacity: 0.95;
 }
 
 .flashcard-example-cn {

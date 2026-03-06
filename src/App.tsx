@@ -112,7 +112,7 @@ const Flashcard: React.FC<{
           <span className={`flashcard-level ${card.level}`}>{card.level}</span>
           <div className="flashcard-meaning">{card.meaning}</div>
           <div className="flashcard-example">
-            <div className="flashcard-example-jp">{renderRubyText(card.exampleFurigana || card.example)}</div>
+            <div className="flashcard-example-jp">{renderRubyText((card.exampleFurigana && card.exampleFurigana.trim()) || card.example || '')}</div>
             <div className="flashcard-example-cn">{card.exampleMeaning}</div>
             <button className="speak-btn secondary" onClick={(e) => { e.stopPropagation(); onSpeakExample(); }}>🔊 例句發音</button>
           </div>
