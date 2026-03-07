@@ -5424,10 +5424,10 @@
     "word": "これから",
     "furigana": "これから",
     "meaning": "（待補充）",
-    "example": "これから会議が始まります。",
-    "exampleMeaning": "接下來會議要開始了。",
+    "example": "昨日、友だちとの会話で『これから』という言葉が出てきた。",
+    "exampleMeaning": "昨天和朋友聊天時，提到了「これから」這個詞。",
     "level": "N4",
-    "exampleFurigana": "これから会議(-)が始(はじ)まります。"
+    "exampleFurigana": "昨日(きのう)、友(とも)だちとの会話(かいわ)で『これから』という言葉(ことば)が出て(でて)きた。"
   },
   {
     "id": "544",
@@ -5502,7 +5502,7 @@
   {
     "id": "551",
     "word": "しかる",
-    "furigana": "-",
+    "furigana": "しかる",
     "meaning": "（待補充）",
     "example": "子どもが悪いことをしたので、父親がしかった。",
     "exampleMeaning": "孩子做了壞事，所以被爸爸責備了。",
@@ -5512,7 +5512,7 @@
   {
     "id": "552",
     "word": "しっかり",
-    "furigana": "-",
+    "furigana": "しっかり",
     "meaning": "（待補充）",
     "example": "発表の前に、もう一度しっかりれんしゅうした。",
     "exampleMeaning": "發表前又好好練習了一次。",
@@ -5522,7 +5522,7 @@
   {
     "id": "553",
     "word": "しばらく",
-    "furigana": "-",
+    "furigana": "しばらく",
     "meaning": "（待補充）",
     "example": "しばらくここでお待ちください。",
     "exampleMeaning": "請在這裡稍等一下。",
@@ -5532,7 +5532,7 @@
   {
     "id": "554",
     "word": "じゃま",
-    "furigana": "-",
+    "furigana": "じゃま",
     "meaning": "（待補充）",
     "example": "入口の前に自転車を止めると、じゃまになります。",
     "exampleMeaning": "把腳踏車停在入口前會妨礙通行。",
@@ -5542,7 +5542,7 @@
   {
     "id": "555",
     "word": "すく",
-    "furigana": "-",
+    "furigana": "すく",
     "meaning": "（待補充）",
     "example": "電車がすいていたので、すぐに座れた。",
     "exampleMeaning": "因為電車很空，所以馬上就有位子坐。",
@@ -5552,7 +5552,7 @@
   {
     "id": "556",
     "word": "すっかり",
-    "furigana": "-",
+    "furigana": "すっかり",
     "meaning": "（待補充）",
     "example": "雨が上がって、道がすっかりかわいた。",
     "exampleMeaning": "雨停了，路面完全乾了。",
@@ -5562,7 +5562,7 @@
   {
     "id": "557",
     "word": "すっと",
-    "furigana": "-",
+    "furigana": "すっと",
     "meaning": "（待補充）",
     "example": "ドアがすっと開いた。",
     "exampleMeaning": "門一下子就打開了。",
@@ -5572,7 +5572,7 @@
   {
     "id": "558",
     "word": "すばらしい",
-    "furigana": "-",
+    "furigana": "すばらしい",
     "meaning": "（待補充）",
     "example": "あなたの考えはすばらしいと思います。",
     "exampleMeaning": "我覺得你的想法很棒。",
@@ -5582,7 +5582,7 @@
   {
     "id": "559",
     "word": "すり",
-    "furigana": "-",
+    "furigana": "すり",
     "meaning": "（待補充）",
     "example": "駅でさいふをぬまれたので、すぐに警察へ行った。",
     "exampleMeaning": "在車站被扒手偷了錢包，所以立刻去警察局。",
@@ -5592,7 +5592,7 @@
   {
     "id": "560",
     "word": "すると",
-    "furigana": "-",
+    "furigana": "すると",
     "meaning": "（待補充）",
     "example": "ボタンを押した。すると、ベルが鳴った。",
     "exampleMeaning": "我按下按鈕，接著鈴聲就響了。",
@@ -5602,7 +5602,7 @@
   {
     "id": "561",
     "word": "ずいぶん",
-    "furigana": "-",
+    "furigana": "ずいぶん",
     "meaning": "（待補充）",
     "example": "今日はずいぶん寒いですね。",
     "exampleMeaning": "今天真是相當冷呢。",
@@ -5612,7 +5612,7 @@
   {
     "id": "562",
     "word": "ぜひ",
-    "furigana": "-",
+    "furigana": "ぜひ",
     "meaning": "（待補充）",
     "example": "京都に来たら、ぜひこの店に寄ってください。",
     "exampleMeaning": "來京都的話，請務必來這家店。",
@@ -5622,7 +5622,7 @@
   {
     "id": "563",
     "word": "ぜんぜん",
-    "furigana": "-",
+    "furigana": "ぜんぜん",
     "meaning": "（待補充）",
     "example": "きのうはぜんぜんねむれなかった。",
     "exampleMeaning": "昨天完全睡不著。",
@@ -5632,7 +5632,7 @@
   {
     "id": "564",
     "word": "そう",
-    "furigana": "-",
+    "furigana": "そう",
     "meaning": "（待補充）",
     "example": "その話はそう思います。",
     "exampleMeaning": "那件事我也是那樣想的。",
@@ -5642,7 +5642,7 @@
   {
     "id": "565",
     "word": "それで",
-    "furigana": "-",
+    "furigana": "それで",
     "meaning": "（待補充）",
     "example": "道がこんでいた。それで、会議に少し遅れた。",
     "exampleMeaning": "路上很塞，所以開會晚到了。",
@@ -5652,7 +5652,7 @@
   {
     "id": "566",
     "word": "それに",
-    "furigana": "-",
+    "furigana": "それに",
     "meaning": "（待補充）",
     "example": "この店は安いし、それにおいしい。",
     "exampleMeaning": "這家店又便宜，而且好吃。",
@@ -5662,7 +5662,7 @@
   {
     "id": "567",
     "word": "それほど",
-    "furigana": "-",
+    "furigana": "それほど",
     "meaning": "（待補充）",
     "example": "今日はそれほど暑くない。",
     "exampleMeaning": "今天沒有那麼熱。",
@@ -5672,7 +5672,7 @@
   {
     "id": "568",
     "word": "そろそろ",
-    "furigana": "-",
+    "furigana": "そろそろ",
     "meaning": "（待補充）",
     "example": "そろそろ出かけましょう。",
     "exampleMeaning": "差不多該出門了。",
@@ -5682,7 +5682,7 @@
   {
     "id": "569",
     "word": "そんな",
-    "furigana": "-",
+    "furigana": "そんな",
     "meaning": "（待補充）",
     "example": "そんな言い方をしないでください。",
     "exampleMeaning": "請不要那樣說話。",
@@ -5692,7 +5692,7 @@
   {
     "id": "570",
     "word": "そんなに",
-    "furigana": "-",
+    "furigana": "そんなに",
     "meaning": "（待補充）",
     "example": "このかばんはそんなに高くない。",
     "exampleMeaning": "這個包包沒有那麼貴。",
@@ -5702,7 +5702,7 @@
   {
     "id": "571",
     "word": "たいてい",
-    "furigana": "-",
+    "furigana": "たいてい",
     "meaning": "（待補充）",
     "example": "朝ごはんはたいていパンを食べます。",
     "exampleMeaning": "早餐通常吃麵包。",
@@ -5712,7 +5712,7 @@
   {
     "id": "572",
     "word": "たまに",
-    "furigana": "-",
+    "furigana": "たまに",
     "meaning": "（待補充）",
     "example": "忙しいので、映画はたまにしか見ない。",
     "exampleMeaning": "因為很忙，所以電影只偶爾看。",
@@ -5722,7 +5722,7 @@
   {
     "id": "573",
     "word": "だから",
-    "furigana": "-",
+    "furigana": "だから",
     "meaning": "（待補充）",
     "example": "今日は休みだ。だから、少し遅く起きた。",
     "exampleMeaning": "今天放假，所以晚一點起床。",
@@ -5732,7 +5732,7 @@
   {
     "id": "574",
     "word": "だめ",
-    "furigana": "-",
+    "furigana": "だめ",
     "meaning": "（待補充）",
     "example": "ここでたばこをすってはだめです。",
     "exampleMeaning": "這裡不能抽菸。",
@@ -5742,7 +5742,7 @@
   {
     "id": "575",
     "word": "ちっとも",
-    "furigana": "-",
+    "furigana": "ちっとも",
     "meaning": "（待補充）",
     "example": "薬を飲んだのに、ちっともよくならない。",
     "exampleMeaning": "明明吃了藥，卻一點都沒好轉。",
@@ -5752,7 +5752,7 @@
   {
     "id": "576",
     "word": "ちゃん",
-    "furigana": "-",
+    "furigana": "ちゃん",
     "meaning": "（待補充）",
     "example": "田中ちゃんは今年で五さいです。",
     "exampleMeaning": "田中小妹妹今年五歲。",
@@ -5762,7 +5762,7 @@
   {
     "id": "577",
     "word": "つき",
-    "furigana": "-",
+    "furigana": "つき",
     "meaning": "（待補充）",
     "example": "きょうはつきがとてもきれいだ。",
     "exampleMeaning": "今天的月亮非常漂亮。",
@@ -5772,7 +5772,7 @@
   {
     "id": "578",
     "word": "つもり",
-    "furigana": "-",
+    "furigana": "つもり",
     "meaning": "（待補充）",
     "example": "来年、日本へ留学するつもりです。",
     "exampleMeaning": "我打算明年去日本留學。",
@@ -5782,7 +5782,7 @@
   {
     "id": "579",
     "word": "できるだけ",
-    "furigana": "-",
+    "furigana": "できるだけ",
     "meaning": "（待補充）",
     "example": "できるだけ毎日漢字を勉強します。",
     "exampleMeaning": "我會盡可能每天學漢字。",
@@ -5792,7 +5792,7 @@
   {
     "id": "580",
     "word": "とうとう",
-    "furigana": "-",
+    "furigana": "とうとう",
     "meaning": "（待補充）",
     "example": "とうとうスマホを新しく買いかえた。",
     "exampleMeaning": "我終於把手機換新了。",
@@ -5802,7 +5802,7 @@
   {
     "id": "581",
     "word": "とこや",
-    "furigana": "-",
+    "furigana": "とこや",
     "meaning": "（待補充）",
     "example": "父は月に一度、とこやへ行きます。",
     "exampleMeaning": "爸爸每個月去一次理髮店。",
@@ -5812,7 +5812,7 @@
   {
     "id": "582",
     "word": "どんどん",
-    "furigana": "-",
+    "furigana": "どんどん",
     "meaning": "（待補充）",
     "example": "新しい店が駅前にどんどんできている。",
     "exampleMeaning": "車站前一直不斷有新店開張。",
@@ -5822,7 +5822,7 @@
   {
     "id": "583",
     "word": "なさる",
-    "furigana": "-",
+    "furigana": "なさる",
     "meaning": "（待補充）",
     "example": "社長は週末も会社で仕事をなさいます。",
     "exampleMeaning": "社長週末也會在公司工作。",
@@ -5832,7 +5832,7 @@
   {
     "id": "584",
     "word": "なるべく",
-    "furigana": "-",
+    "furigana": "なるべく",
     "meaning": "（待補充）",
     "example": "時間がないので、なるべく急いでください。",
     "exampleMeaning": "因為沒時間了，請盡量快一點。",
@@ -5842,7 +5842,7 @@
   {
     "id": "585",
     "word": "なるほど",
-    "furigana": "-",
+    "furigana": "なるほど",
     "meaning": "（待補充）",
     "example": "なるほど、それはいい考えですね。",
     "exampleMeaning": "原來如此，那真是個好主意。",
@@ -5852,7 +5852,7 @@
   {
     "id": "586",
     "word": "におい",
-    "furigana": "-",
+    "furigana": "におい",
     "meaning": "（待補充）",
     "example": "この花はいいにおいがします。",
     "exampleMeaning": "這朵花聞起來很香。",
@@ -5862,7 +5862,7 @@
   {
     "id": "587",
     "word": "ぬれる",
-    "furigana": "-",
+    "furigana": "ぬれる",
     "meaning": "（待補充）",
     "example": "雨でくつがぬれてしまった。",
     "exampleMeaning": "鞋子被雨淋濕了。",
@@ -5872,7 +5872,7 @@
   {
     "id": "588",
     "word": "ねだん",
-    "furigana": "-",
+    "furigana": "ねだん",
     "meaning": "（待補充）",
     "example": "このシャツのねだんはいくらですか。",
     "exampleMeaning": "這件襯衫多少錢？",
@@ -5882,7 +5882,7 @@
   {
     "id": "589",
     "word": "ねっしん",
-    "furigana": "-",
+    "furigana": "ねっしん",
     "meaning": "（待補充）",
     "example": "彼は日本語の勉強にとてもねっしんだ。",
     "exampleMeaning": "他對學日文非常熱心。",
@@ -5892,7 +5892,7 @@
   {
     "id": "590",
     "word": "のど",
-    "furigana": "-",
+    "furigana": "のど",
     "meaning": "（待補充）",
     "example": "かぜでのどがいたい。",
     "exampleMeaning": "因為感冒喉嚨痛。",
@@ -5902,7 +5902,7 @@
   {
     "id": "591",
     "word": "はず",
-    "furigana": "-",
+    "furigana": "はず",
     "meaning": "（待補充）",
     "example": "田中さんはもう来るはずです。",
     "exampleMeaning": "田中應該已經要到了。",
@@ -5912,7 +5912,7 @@
   {
     "id": "592",
     "word": "はっきり",
-    "furigana": "-",
+    "furigana": "はっきり",
     "meaning": "（待補充）",
     "example": "名前をはっきり言ってください。",
     "exampleMeaning": "請把名字說清楚。",
@@ -5922,7 +5922,7 @@
   {
     "id": "593",
     "word": "ひげ",
-    "furigana": "-",
+    "furigana": "ひげ",
     "meaning": "（待補充）",
     "example": "父は毎朝ひげをそります。",
     "exampleMeaning": "爸爸每天早上刮鬍子。",
@@ -5932,7 +5932,7 @@
   {
     "id": "594",
     "word": "ひどい",
-    "furigana": "-",
+    "furigana": "ひどい",
     "meaning": "（待補充）",
     "example": "昨日の頭痛はひどかった。",
     "exampleMeaning": "昨天的頭痛很嚴重。",
@@ -5942,7 +5942,7 @@
   {
     "id": "595",
     "word": "びっくり",
-    "furigana": "-",
+    "furigana": "びっくり",
     "meaning": "（待補充）",
     "example": "大きな音がして、びっくりした。",
     "exampleMeaning": "突然有很大的聲音，把我嚇了一跳。",
@@ -5952,7 +5952,7 @@
   {
     "id": "596",
     "word": "ぶどう",
-    "furigana": "-",
+    "furigana": "ぶどう",
     "meaning": "（待補充）",
     "example": "秋になると、ぶどうがおいしくなる。",
     "exampleMeaning": "到了秋天，葡萄會變得很好吃。",
@@ -5962,7 +5962,7 @@
   {
     "id": "597",
     "word": "ほとんど",
-    "furigana": "-",
+    "furigana": "ほとんど",
     "meaning": "（待補充）",
     "example": "宿題はほとんど終わりました。",
     "exampleMeaning": "作業幾乎做完了。",
@@ -5972,7 +5972,7 @@
   {
     "id": "598",
     "word": "ほど",
-    "furigana": "-",
+    "furigana": "ほど",
     "meaning": "（待補充）",
     "example": "駅まで歩いて十分ほどかかります。",
     "exampleMeaning": "走到車站大約要十分鐘。",
@@ -5982,7 +5982,7 @@
   {
     "id": "599",
     "word": "ほめる",
-    "furigana": "-",
+    "furigana": "ほめる",
     "meaning": "（待補充）",
     "example": "先生が作文をほめてくれた。",
     "exampleMeaning": "老師稱讚了我的作文。",
@@ -5992,7 +5992,7 @@
   {
     "id": "600",
     "word": "まじめ",
-    "furigana": "-",
+    "furigana": "まじめ",
     "meaning": "（待補充）",
     "example": "彼はまじめに毎日れんしゅうしている。",
     "exampleMeaning": "他每天都認真練習。",
@@ -6002,27 +6002,27 @@
   {
     "id": "601",
     "word": "まず",
-    "furigana": "-",
+    "furigana": "まず",
     "meaning": "（待補充）",
-    "example": "まず。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生は授業で『まず』の使い方を分かりやすく説明してくれた。",
+    "exampleMeaning": "老師在課堂上清楚地說明了「まず」的用法。",
     "level": "N4",
-    "exampleFurigana": "まず。"
+    "exampleFurigana": "先生(せんせい)は授業(じゅぎょう)で『まず』の使い方(つかいかた)を分か(わか)りやすく説明し(せつめいし)てくれた。"
   },
   {
     "id": "602",
     "word": "または",
-    "furigana": "-",
+    "furigana": "または",
     "meaning": "（待補充）",
-    "example": "または。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "会議のあとで、上司から『または』について確認された。",
+    "exampleMeaning": "會議後，上司向我確認了「または」這件事。",
     "level": "N4",
-    "exampleFurigana": "または。"
+    "exampleFurigana": "会議(かいぎ)のあとで、上司(じょうし)から『または』について確認さ(かくにんさ)れた。"
   },
   {
     "id": "603",
     "word": "もうすぐ",
-    "furigana": "-",
+    "furigana": "もうすぐ",
     "meaning": "（待補充）",
     "example": "もうすぐ。",
     "exampleMeaning": "（例句待補充）",
@@ -6032,17 +6032,17 @@
   {
     "id": "604",
     "word": "もし",
-    "furigana": "-",
+    "furigana": "もし",
     "meaning": "（待補充）",
-    "example": "もし。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "駅で案内を見たら、『もし』と書いてあった。",
+    "exampleMeaning": "在車站看指示時，上面寫著「もし」。",
     "level": "N4",
-    "exampleFurigana": "もし。"
+    "exampleFurigana": "駅(えき)で案内(あんない)を見た(みた)ら、『もし』と書い(かい)てあった。"
   },
   {
     "id": "605",
     "word": "もちろん",
-    "furigana": "-",
+    "furigana": "もちろん",
     "meaning": "（待補充）",
     "example": "もちろん。",
     "exampleMeaning": "（例句待補充）",
@@ -6052,7 +6052,7 @@
   {
     "id": "606",
     "word": "もっとも",
-    "furigana": "-",
+    "furigana": "もっとも",
     "meaning": "（待補充）",
     "example": "もっとも。",
     "exampleMeaning": "（例句待補充）",
@@ -6062,27 +6062,27 @@
   {
     "id": "607",
     "word": "もらう",
-    "furigana": "-",
+    "furigana": "もらう",
     "meaning": "（待補充）",
-    "example": "もらう。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "ニュースを見ていると、『もらう』という表現をよく聞く。",
+    "exampleMeaning": "看新聞時，常常會聽到「もらう」這個表達。",
     "level": "N4",
-    "exampleFurigana": "もらう。"
+    "exampleFurigana": "ニュースを見て(みて)いると、『もらう』という表現(ひょうげん)をよく聞く(きく)。"
   },
   {
     "id": "608",
     "word": "やっと",
-    "furigana": "-",
+    "furigana": "やっと",
     "meaning": "（待補充）",
-    "example": "やっと。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "この前のテストでは、『やっと』に関する問題が出た。",
+    "exampleMeaning": "上次考試出現了和「やっと」相關的題目。",
     "level": "N4",
-    "exampleFurigana": "やっと。"
+    "exampleFurigana": "この前(まえ)のテストでは、『やっと』に関す(かんす)る問題(もんだい)が出た(でた)。"
   },
   {
     "id": "609",
     "word": "やっぱり",
-    "furigana": "-",
+    "furigana": "やっぱり",
     "meaning": "（待補充）",
     "example": "やっぱり。",
     "exampleMeaning": "（例句待補充）",
@@ -6092,17 +6092,17 @@
   {
     "id": "610",
     "word": "やはり",
-    "furigana": "-",
+    "furigana": "やはり",
     "meaning": "（待補充）",
-    "example": "やはり。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "母は私に『やはり』を忘れないようにと言った。",
+    "exampleMeaning": "媽媽提醒我不要忘記「やはり」。",
     "level": "N4",
-    "exampleFurigana": "やはり。"
+    "exampleFurigana": "母(はは)は私(わたし)に『やはり』を忘れ(わすれ)ないようにと言った(いった)。"
   },
   {
     "id": "611",
     "word": "よろしい",
-    "furigana": "-",
+    "furigana": "よろしい",
     "meaning": "（待補充）",
     "example": "よろしい。",
     "exampleMeaning": "（例句待補充）",
@@ -6112,7 +6112,7 @@
   {
     "id": "612",
     "word": "アクセサリー",
-    "furigana": "-",
+    "furigana": "あくせさりー",
     "meaning": "（待補充）",
     "example": "アクセサリー。",
     "exampleMeaning": "（例句待補充）",
@@ -6122,17 +6122,17 @@
   {
     "id": "613",
     "word": "アジア",
-    "furigana": "-",
+    "furigana": "あじあ",
     "meaning": "（待補充）",
-    "example": "アジア。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "旅行の計画を立てるとき、『アジア』がとても役に立つ。",
+    "exampleMeaning": "規劃旅行時，「アジア」非常有幫助。",
     "level": "N4",
-    "exampleFurigana": "アジア。"
+    "exampleFurigana": "旅行(りょこう)の計画(けいかく)を立て(たて)るとき、『アジア』がとても役に立つ(やくにたつ)。"
   },
   {
     "id": "614",
     "word": "アナウンサー",
-    "furigana": "-",
+    "furigana": "あなうんさー",
     "meaning": "（待補充）",
     "example": "アナウンサー。",
     "exampleMeaning": "（例句待補充）",
@@ -6142,7 +6142,7 @@
   {
     "id": "615",
     "word": "アフリカ",
-    "furigana": "-",
+    "furigana": "あふりか",
     "meaning": "（待補充）",
     "example": "アフリカ。",
     "exampleMeaning": "（例句待補充）",
@@ -6152,7 +6152,7 @@
   {
     "id": "616",
     "word": "アメリカ",
-    "furigana": "-",
+    "furigana": "あめりか",
     "meaning": "（待補充）",
     "example": "アメリカ。",
     "exampleMeaning": "（例句待補充）",
@@ -6162,7 +6162,7 @@
   {
     "id": "617",
     "word": "アルコール",
-    "furigana": "-",
+    "furigana": "あるこーる",
     "meaning": "（待補充）",
     "example": "アルコール。",
     "exampleMeaning": "（例句待補充）",
@@ -6172,7 +6172,7 @@
   {
     "id": "618",
     "word": "アルバイト",
-    "furigana": "-",
+    "furigana": "あるばいと",
     "meaning": "（待補充）",
     "example": "アルバイト。",
     "exampleMeaning": "（例句待補充）",
@@ -6182,7 +6182,7 @@
   {
     "id": "619",
     "word": "エスカレーター",
-    "furigana": "-",
+    "furigana": "えすかれーたー",
     "meaning": "（待補充）",
     "example": "エスカレーター。",
     "exampleMeaning": "（例句待補充）",
@@ -6192,7 +6192,7 @@
   {
     "id": "620",
     "word": "オートバイ",
-    "furigana": "-",
+    "furigana": "おーとばい",
     "meaning": "（待補充）",
     "example": "オートバイ。",
     "exampleMeaning": "（例句待補充）",
@@ -6202,7 +6202,7 @@
   {
     "id": "621",
     "word": "カーテン",
-    "furigana": "-",
+    "furigana": "かーてん",
     "meaning": "（待補充）",
     "example": "カーテン。",
     "exampleMeaning": "（例句待補充）",
@@ -6212,17 +6212,17 @@
   {
     "id": "622",
     "word": "ガス",
-    "furigana": "-",
+    "furigana": "がす",
     "meaning": "（待補充）",
-    "example": "ガス。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "初めて聞いたときは、『ガス』の意味がよく分からなかった。",
+    "exampleMeaning": "第一次聽到時，我不太懂「ガス」的意思。",
     "level": "N4",
-    "exampleFurigana": "ガス。"
+    "exampleFurigana": "初めて(はじめて)聞い(きい)たときは、『ガス』の意味(いみ)がよく分か(わか)らなかった。"
   },
   {
     "id": "623",
     "word": "ガソリン",
-    "furigana": "-",
+    "furigana": "がそりん",
     "meaning": "（待補充）",
     "example": "ガソリン。",
     "exampleMeaning": "（例句待補充）",
@@ -6232,7 +6232,7 @@
   {
     "id": "624",
     "word": "ガソリンスタンド",
-    "furigana": "-",
+    "furigana": "がそりんすたんど",
     "meaning": "（待補充）",
     "example": "ガソリンスタンド。",
     "exampleMeaning": "（例句待補充）",
@@ -6242,27 +6242,27 @@
   {
     "id": "625",
     "word": "ガラス",
-    "furigana": "-",
+    "furigana": "がらす",
     "meaning": "（待補充）",
-    "example": "ガラス。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "同僚と相談して、『ガラス』を先に進めることにした。",
+    "exampleMeaning": "和同事討論後，我們決定先處理「ガラス」。",
     "level": "N4",
-    "exampleFurigana": "ガラス。"
+    "exampleFurigana": "同僚(どうりょう)と相談(そうだん)して、『ガラス』を先に(さきに)進め(すすめ)ることにした。"
   },
   {
     "id": "626",
     "word": "ケーキ",
-    "furigana": "-",
+    "furigana": "けーき",
     "meaning": "（待補充）",
-    "example": "ケーキ。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "店員さんに質問したら、『ケーキ』を丁寧に教えてくれた。",
+    "exampleMeaning": "我問店員後，他很仔細地告訴我「ケーキ」。",
     "level": "N4",
-    "exampleFurigana": "ケーキ。"
+    "exampleFurigana": "店員(てんいん)さんに質問(しつもん)したら、『ケーキ』を丁寧(ていねい)に教え(おしえ)てくれた。"
   },
   {
     "id": "627",
     "word": "コンサート",
-    "furigana": "-",
+    "furigana": "こんさーと",
     "meaning": "（待補充）",
     "example": "コンサート。",
     "exampleMeaning": "（例句待補充）",
@@ -6272,7 +6272,7 @@
   {
     "id": "628",
     "word": "コンピュータ",
-    "furigana": "-",
+    "furigana": "こんぴゅーた",
     "meaning": "（待補充）",
     "example": "コンピュータ。",
     "exampleMeaning": "（例句待補充）",
@@ -6282,7 +6282,7 @@
   {
     "id": "629",
     "word": "コンピューター",
-    "furigana": "-",
+    "furigana": "こんぴゅーたー",
     "meaning": "（待補充）",
     "example": "コンピューター。",
     "exampleMeaning": "（例句待補充）",
@@ -6292,17 +6292,17 @@
   {
     "id": "630",
     "word": "サラダ",
-    "furigana": "-",
+    "furigana": "さらだ",
     "meaning": "（待補充）",
-    "example": "サラダ。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "朝のラジオでは、『サラダ』について話していた。",
+    "exampleMeaning": "早上的廣播在談「サラダ」。",
     "level": "N4",
-    "exampleFurigana": "サラダ。"
+    "exampleFurigana": "朝(あさ)のラジオでは、『サラダ』について話し(はなし)ていた。"
   },
   {
     "id": "631",
     "word": "サンダル",
-    "furigana": "-",
+    "furigana": "さんだる",
     "meaning": "（待補充）",
     "example": "サンダル。",
     "exampleMeaning": "（例句待補充）",
@@ -6312,7 +6312,7 @@
   {
     "id": "632",
     "word": "サンドイッチ",
-    "furigana": "-",
+    "furigana": "さんどいっち",
     "meaning": "（待補充）",
     "example": "サンドイッチ。",
     "exampleMeaning": "（例句待補充）",
@@ -6322,17 +6322,17 @@
   {
     "id": "633",
     "word": "ジャム",
-    "furigana": "-",
+    "furigana": "じゃむ",
     "meaning": "（待補充）",
-    "example": "ジャム。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生に注意されて、『ジャム』の大切さが分かった。",
+    "exampleMeaning": "被老師提醒後，我明白了「ジャム」的重要性。",
     "level": "N4",
-    "exampleFurigana": "ジャム。"
+    "exampleFurigana": "先生(せんせい)に注意(ちゅうい)されて、『ジャム』の大切(たいせつ)さが分か(わか)った。"
   },
   {
     "id": "634",
     "word": "スクリーン",
-    "furigana": "-",
+    "furigana": "すくりーん",
     "meaning": "（待補充）",
     "example": "スクリーン。",
     "exampleMeaning": "（例句待補充）",
@@ -6342,7 +6342,7 @@
   {
     "id": "635",
     "word": "ステレオ",
-    "furigana": "-",
+    "furigana": "すてれお",
     "meaning": "（待補充）",
     "example": "ステレオ。",
     "exampleMeaning": "（例句待補充）",
@@ -6352,7 +6352,7 @@
   {
     "id": "636",
     "word": "ステーキ",
-    "furigana": "-",
+    "furigana": "すてーき",
     "meaning": "（待補充）",
     "example": "ステーキ。",
     "exampleMeaning": "（例句待補充）",
@@ -6362,17 +6362,17 @@
   {
     "id": "637",
     "word": "スーツ",
-    "furigana": "-",
+    "furigana": "すーつ",
     "meaning": "（待補充）",
-    "example": "スーツ。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "週末は家族と『スーツ』のことをゆっくり話した。",
+    "exampleMeaning": "週末我和家人慢慢聊了「スーツ」這件事。",
     "level": "N4",
-    "exampleFurigana": "スーツ。"
+    "exampleFurigana": "週末(しゅうまつ)は家族(かぞく)と『スーツ』のことをゆっくり話し(はなし)た。"
   },
   {
     "id": "638",
     "word": "スーツケース",
-    "furigana": "-",
+    "furigana": "すーつけーす",
     "meaning": "（待補充）",
     "example": "スーツケース。",
     "exampleMeaning": "（例句待補充）",
@@ -6382,27 +6382,27 @@
   {
     "id": "639",
     "word": "ソフト",
-    "furigana": "-",
+    "furigana": "そふと",
     "meaning": "（待補充）",
-    "example": "ソフト。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "このアプリには、『ソフト』を練習する機能がある。",
+    "exampleMeaning": "這個 App 有練習「ソフト」的功能。",
     "level": "N4",
-    "exampleFurigana": "ソフト。"
+    "exampleFurigana": "このアプリには、『ソフト』を練習(れんしゅう)する機能(きのう)がある。"
   },
   {
     "id": "640",
     "word": "タイプ",
-    "furigana": "-",
+    "furigana": "たいぷ",
     "meaning": "（待補充）",
-    "example": "タイプ。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "説明を読んだら、『タイプ』の違いがはっきり分かった。",
+    "exampleMeaning": "看完說明後，我清楚懂了「タイプ」的差異。",
     "level": "N4",
-    "exampleFurigana": "タイプ。"
+    "exampleFurigana": "説明(せつめい)を読んだ(よんだ)ら、『タイプ』の違い(ちがい)がはっきり分か(わか)った。"
   },
   {
     "id": "641",
     "word": "チェック",
-    "furigana": "-",
+    "furigana": "ちぇっく",
     "meaning": "（待補充）",
     "example": "チェック。",
     "exampleMeaning": "（例句待補充）",
@@ -6412,7 +6412,7 @@
   {
     "id": "642",
     "word": "テキスト",
-    "furigana": "-",
+    "furigana": "てきすと",
     "meaning": "（待補充）",
     "example": "テキスト。",
     "exampleMeaning": "（例句待補充）",
@@ -6422,17 +6422,17 @@
   {
     "id": "643",
     "word": "テニス",
-    "furigana": "-",
+    "furigana": "てにす",
     "meaning": "（待補充）",
-    "example": "テニス。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "職場では、『テニス』を正しく使うことが求められる。",
+    "exampleMeaning": "在職場上，會要求正確使用「テニス」。",
     "level": "N4",
-    "exampleFurigana": "テニス。"
+    "exampleFurigana": "職場(しょくば)では、『テニス』を正しく(ただしく)使う(つかう)ことが求め(もとめ)られる。"
   },
   {
     "id": "644",
     "word": "ハンドバッグ",
-    "furigana": "-",
+    "furigana": "はんどばっぐ",
     "meaning": "（待補充）",
     "example": "ハンドバッグ。",
     "exampleMeaning": "（例句待補充）",
@@ -6442,7 +6442,7 @@
   {
     "id": "645",
     "word": "パソコン",
-    "furigana": "-",
+    "furigana": "ぱそこん",
     "meaning": "（待補充）",
     "example": "パソコン。",
     "exampleMeaning": "（例句待補充）",
@@ -6452,37 +6452,37 @@
   {
     "id": "646",
     "word": "パート",
-    "furigana": "-",
+    "furigana": "ぱーと",
     "meaning": "（待補充）",
-    "example": "パート。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先輩の話を聞いて、『パート』への考え方が変わった。",
+    "exampleMeaning": "聽完前輩的話後，我對「パート」的看法改變了。",
     "level": "N4",
-    "exampleFurigana": "パート。"
+    "exampleFurigana": "先輩(せんぱい)の話(はなし)を聞い(きい)て、『パート』への考え方(かんがえかた)が変わ(かわ)った。"
   },
   {
     "id": "647",
     "word": "ビル",
-    "furigana": "-",
+    "furigana": "びる",
     "meaning": "（待補充）",
-    "example": "ビル。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "図書館で調べたら、『ビル』に関する本が見つかった。",
+    "exampleMeaning": "在圖書館查資料時，找到了和「ビル」有關的書。",
     "level": "N4",
-    "exampleFurigana": "ビル。"
+    "exampleFurigana": "図書館(としょかん)で調べ(しらべ)たら、『ビル』に関す(かんす)る本(ほん)が見つ(みつ)かった。"
   },
   {
     "id": "648",
     "word": "ピアノ",
-    "furigana": "-",
+    "furigana": "ぴあの",
     "meaning": "（待補充）",
-    "example": "ピアノ。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "今日の宿題は、『ピアノ』を使って文を作ることだ。",
+    "exampleMeaning": "今天的作業是用「ピアノ」造句。",
     "level": "N4",
-    "exampleFurigana": "ピアノ。"
+    "exampleFurigana": "今日(きょう)の宿題(しゅくだい)は、『ピアノ』を使って(つかって)文(ぶん)を作る(つくる)ことだ。"
   },
   {
     "id": "649",
     "word": "ファックス",
-    "furigana": "-",
+    "furigana": "ふぁっくす",
     "meaning": "（待補充）",
     "example": "ファックス。",
     "exampleMeaning": "（例句待補充）",
@@ -6492,7 +6492,7 @@
   {
     "id": "650",
     "word": "プレゼント",
-    "furigana": "-",
+    "furigana": "ぷれぜんと",
     "meaning": "（待補充）",
     "example": "プレゼント。",
     "exampleMeaning": "（例句待補充）",
@@ -6502,17 +6502,17 @@
   {
     "id": "651",
     "word": "ベル",
-    "furigana": "-",
+    "furigana": "べる",
     "meaning": "（待補充）",
-    "example": "ベル。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "昨日、友だちとの会話で『ベル』という言葉が出てきた。",
+    "exampleMeaning": "昨天和朋友聊天時，提到了「ベル」這個詞。",
     "level": "N4",
-    "exampleFurigana": "ベル。"
+    "exampleFurigana": "昨日(きのう)、友(とも)だちとの会話(かいわ)で『ベル』という言葉(ことば)が出て(でて)きた。"
   },
   {
     "id": "652",
     "word": "リポート",
-    "furigana": "-",
+    "furigana": "りぽーと",
     "meaning": "（待補充）",
     "example": "リポート。",
     "exampleMeaning": "（例句待補充）",
@@ -6522,17 +6522,17 @@
   {
     "id": "653",
     "word": "レジ",
-    "furigana": "-",
+    "furigana": "れじ",
     "meaning": "（待補充）",
-    "example": "レジ。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生は授業で『レジ』の使い方を分かりやすく説明してくれた。",
+    "exampleMeaning": "老師在課堂上清楚地說明了「レジ」的用法。",
     "level": "N4",
-    "exampleFurigana": "レジ。"
+    "exampleFurigana": "先生(せんせい)は授業(じゅぎょう)で『レジ』の使い方(つかいかた)を分か(わか)りやすく説明し(せつめいし)てくれた。"
   },
   {
     "id": "654",
     "word": "レポート",
-    "furigana": "-",
+    "furigana": "れぽーと",
     "meaning": "（待補充）",
     "example": "レポート。",
     "exampleMeaning": "（例句待補充）",
@@ -6542,7 +6542,7 @@
   {
     "id": "655",
     "word": "ワープロ",
-    "furigana": "-",
+    "furigana": "わーぷろ",
     "meaning": "（待補充）",
     "example": "ワープロ。",
     "exampleMeaning": "（例句待補充）",
@@ -6552,827 +6552,827 @@
   {
     "id": "656",
     "word": "一度",
-    "furigana": "-",
+    "furigana": "いちど",
     "meaning": "（待補充）",
-    "example": "一度。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "会議のあとで、上司から『一度』について確認された。",
+    "exampleMeaning": "會議後，上司向我確認了「一度」這件事。",
     "level": "N4",
-    "exampleFurigana": "一度(-)。"
+    "exampleFurigana": "会議(かいぎ)のあとで、上司(じょうし)から『一度(いちど)』について確認さ(かくにんさ)れた。"
   },
   {
     "id": "657",
     "word": "一生懸命",
-    "furigana": "-",
+    "furigana": "いっしょうけんめい",
     "meaning": "（待補充）",
-    "example": "一生懸命。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "駅で案内を見たら、『一生懸命』と書いてあった。",
+    "exampleMeaning": "在車站看指示時，上面寫著「一生懸命」。",
     "level": "N4",
-    "exampleFurigana": "一生懸命(-)。"
+    "exampleFurigana": "駅(えき)で案内(あんない)を見た(みた)ら、『一生懸命(いっしょうけんめい)』と書い(かい)てあった。"
   },
   {
     "id": "658",
     "word": "丁寧",
-    "furigana": "-",
+    "furigana": "ていねい",
     "meaning": "（待補充）",
-    "example": "丁寧。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "ニュースを見ていると、『丁寧』という表現をよく聞く。",
+    "exampleMeaning": "看新聞時，常常會聽到「丁寧」這個表達。",
     "level": "N4",
-    "exampleFurigana": "丁寧(-)。"
+    "exampleFurigana": "ニュースを見て(みて)いると、『丁寧(ていねい)』という表現(ひょうげん)をよく聞く(きく)。"
   },
   {
     "id": "659",
     "word": "上る",
-    "furigana": "-",
+    "furigana": "のぼる",
     "meaning": "（待補充）",
-    "example": "上る。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "この前のテストでは、『上る』に関する問題が出た。",
+    "exampleMeaning": "上次考試出現了和「上る」相關的題目。",
     "level": "N4",
-    "exampleFurigana": "上る(-)。"
+    "exampleFurigana": "この前(まえ)のテストでは、『上る(のぼる)』に関す(かんす)る問題(もんだい)が出た(でた)。"
   },
   {
     "id": "660",
     "word": "下げる",
-    "furigana": "-",
+    "furigana": "さげる",
     "meaning": "（待補充）",
-    "example": "下げる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "母は私に『下げる』を忘れないようにと言った。",
+    "exampleMeaning": "媽媽提醒我不要忘記「下げる」。",
     "level": "N4",
-    "exampleFurigana": "下げる(-)。"
+    "exampleFurigana": "母(はは)は私(わたし)に『下げ(さげ)る』を忘れ(わすれ)ないようにと言った(いった)。"
   },
   {
     "id": "661",
     "word": "下りる",
-    "furigana": "-",
+    "furigana": "おりる",
     "meaning": "（待補充）",
-    "example": "下りる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "旅行の計画を立てるとき、『下りる』がとても役に立つ。",
+    "exampleMeaning": "規劃旅行時，「下りる」非常有幫助。",
     "level": "N4",
-    "exampleFurigana": "下りる(-)。"
+    "exampleFurigana": "旅行(りょこう)の計画(けいかく)を立て(たて)るとき、『下りる(おりる)』がとても役に立つ(やくにたつ)。"
   },
   {
     "id": "662",
     "word": "下る",
-    "furigana": "-",
+    "furigana": "くだる",
     "meaning": "（待補充）",
-    "example": "下る。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "初めて聞いたときは、『下る』の意味がよく分からなかった。",
+    "exampleMeaning": "第一次聽到時，我不太懂「下る」的意思。",
     "level": "N4",
-    "exampleFurigana": "下る(-)。"
+    "exampleFurigana": "初めて(はじめて)聞い(きい)たときは、『下る(くだる)』の意味(いみ)がよく分か(わか)らなかった。"
   },
   {
     "id": "663",
     "word": "下宿",
-    "furigana": "-",
+    "furigana": "げしゅく",
     "meaning": "（待補充）",
-    "example": "下宿。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "同僚と相談して、『下宿』を先に進めることにした。",
+    "exampleMeaning": "和同事討論後，我們決定先處理「下宿」。",
     "level": "N4",
-    "exampleFurigana": "下宿(-)。"
+    "exampleFurigana": "同僚(どうりょう)と相談(そうだん)して、『下宿(げしゅく)』を先に(さきに)進め(すすめ)ることにした。"
   },
   {
     "id": "664",
     "word": "下着",
-    "furigana": "-",
+    "furigana": "したぎ",
     "meaning": "（待補充）",
-    "example": "下着。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "店員さんに質問したら、『下着』を丁寧に教えてくれた。",
+    "exampleMeaning": "我問店員後，他很仔細地告訴我「下着」。",
     "level": "N4",
-    "exampleFurigana": "下着(-)。"
+    "exampleFurigana": "店員(てんいん)さんに質問(しつもん)したら、『下着(したぎ)』を丁寧(ていねい)に教え(おしえ)てくれた。"
   },
   {
     "id": "665",
     "word": "不便",
-    "furigana": "-",
+    "furigana": "ふべん",
     "meaning": "（待補充）",
-    "example": "不便。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "朝のラジオでは、『不便』について話していた。",
+    "exampleMeaning": "早上的廣播在談「不便」。",
     "level": "N4",
-    "exampleFurigana": "不便(-)。"
+    "exampleFurigana": "朝(あさ)のラジオでは、『不便(ふべん)』について話し(はなし)ていた。"
   },
   {
     "id": "666",
     "word": "世界",
-    "furigana": "-",
+    "furigana": "せかい",
     "meaning": "（待補充）",
-    "example": "世界。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生に注意されて、『世界』の大切さが分かった。",
+    "exampleMeaning": "被老師提醒後，我明白了「世界」的重要性。",
     "level": "N4",
-    "exampleFurigana": "世界(-)。"
+    "exampleFurigana": "先生(せんせい)に注意(ちゅうい)されて、『世界(せかい)』の大切(たいせつ)さが分か(わか)った。"
   },
   {
     "id": "667",
     "word": "世話",
-    "furigana": "-",
+    "furigana": "せわ",
     "meaning": "（待補充）",
-    "example": "世話。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "週末は家族と『世話』のことをゆっくり話した。",
+    "exampleMeaning": "週末我和家人慢慢聊了「世話」這件事。",
     "level": "N4",
-    "exampleFurigana": "世話(-)。"
+    "exampleFurigana": "週末(しゅうまつ)は家族(かぞく)と『世話(せわ)』のことをゆっくり話し(はなし)た。"
   },
   {
     "id": "668",
     "word": "両方",
-    "furigana": "-",
+    "furigana": "りょうほう",
     "meaning": "（待補充）",
-    "example": "両方。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "このアプリには、『両方』を練習する機能がある。",
+    "exampleMeaning": "這個 App 有練習「両方」的功能。",
     "level": "N4",
-    "exampleFurigana": "両方(-)。"
+    "exampleFurigana": "このアプリには、『両方(りょうほう)』を練習(れんしゅう)する機能(きのう)がある。"
   },
   {
     "id": "669",
     "word": "中々",
-    "furigana": "-",
+    "furigana": "なかなか",
     "meaning": "（待補充）",
-    "example": "中々。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "説明を読んだら、『中々』の違いがはっきり分かった。",
+    "exampleMeaning": "看完說明後，我清楚懂了「中々」的差異。",
     "level": "N4",
-    "exampleFurigana": "中々(-)。"
+    "exampleFurigana": "説明(せつめい)を読んだ(よんだ)ら、『中々(なかなか)』の違い(ちがい)がはっきり分か(わか)った。"
   },
   {
     "id": "670",
     "word": "中学校",
-    "furigana": "-",
+    "furigana": "ちゅうがっこう",
     "meaning": "（待補充）",
-    "example": "中学校。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "職場では、『中学校』を正しく使うことが求められる。",
+    "exampleMeaning": "在職場上，會要求正確使用「中学校」。",
     "level": "N4",
-    "exampleFurigana": "中学校(-)。"
+    "exampleFurigana": "職場(しょくば)では、『中学校(ちゅうがっこう)』を正しく(ただしく)使う(つかう)ことが求め(もとめ)られる。"
   },
   {
     "id": "671",
     "word": "久しぶり",
-    "furigana": "-",
+    "furigana": "ひさしぶり",
     "meaning": "（待補充）",
-    "example": "久しぶり。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先輩の話を聞いて、『久しぶり』への考え方が変わった。",
+    "exampleMeaning": "聽完前輩的話後，我對「久しぶり」的看法改變了。",
     "level": "N4",
-    "exampleFurigana": "久しぶり(-)。"
+    "exampleFurigana": "先輩(せんぱい)の話(はなし)を聞い(きい)て、『久し(ひさし)ぶり』への考え方(かんがえかた)が変わ(かわ)った。"
   },
   {
     "id": "672",
     "word": "乗り換える",
-    "furigana": "-",
+    "furigana": "のりかえる",
     "meaning": "（待補充）",
-    "example": "乗り換える。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "図書館で調べたら、『乗り換える』に関する本が見つかった。",
+    "exampleMeaning": "在圖書館查資料時，找到了和「乗り換える」有關的書。",
     "level": "N4",
-    "exampleFurigana": "乗り換える(-)。"
+    "exampleFurigana": "図書館(としょかん)で調べ(しらべ)たら、『乗り換え(のりかえ)る』に関す(かんす)る本(ほん)が見つ(みつ)かった。"
   },
   {
     "id": "673",
     "word": "乗り物",
-    "furigana": "-",
+    "furigana": "のりもの",
     "meaning": "（待補充）",
-    "example": "乗り物。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "今日の宿題は、『乗り物』を使って文を作ることだ。",
+    "exampleMeaning": "今天的作業是用「乗り物」造句。",
     "level": "N4",
-    "exampleFurigana": "乗り物(-)。"
+    "exampleFurigana": "今日(きょう)の宿題(しゅくだい)は、『乗り物(のりもの)』を使って(つかって)文(ぶん)を作る(つくる)ことだ。"
   },
   {
     "id": "674",
     "word": "乾く",
-    "furigana": "-",
+    "furigana": "かわく",
     "meaning": "（待補充）",
-    "example": "乾く。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "昨日、友だちとの会話で『乾く』という言葉が出てきた。",
+    "exampleMeaning": "昨天和朋友聊天時，提到了「乾く」這個詞。",
     "level": "N4",
-    "exampleFurigana": "乾く(-)。"
+    "exampleFurigana": "昨日(きのう)、友(とも)だちとの会話(かいわ)で『乾く(かわく)』という言葉(ことば)が出て(でて)きた。"
   },
   {
     "id": "675",
     "word": "予定",
-    "furigana": "-",
+    "furigana": "よてい",
     "meaning": "（待補充）",
-    "example": "予定。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生は授業で『予定』の使い方を分かりやすく説明してくれた。",
+    "exampleMeaning": "老師在課堂上清楚地說明了「予定」的用法。",
     "level": "N4",
-    "exampleFurigana": "予定(-)。"
+    "exampleFurigana": "先生(せんせい)は授業(じゅぎょう)で『予定(よてい)』の使い方(つかいかた)を分か(わか)りやすく説明し(せつめいし)てくれた。"
   },
   {
     "id": "676",
     "word": "予約",
-    "furigana": "-",
+    "furigana": "よやく",
     "meaning": "（待補充）",
-    "example": "予約。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "会議のあとで、上司から『予約』について確認された。",
+    "exampleMeaning": "會議後，上司向我確認了「予約」這件事。",
     "level": "N4",
-    "exampleFurigana": "予約(-)。"
+    "exampleFurigana": "会議(かいぎ)のあとで、上司(じょうし)から『予約(よやく)』について確認さ(かくにんさ)れた。"
   },
   {
     "id": "677",
     "word": "予習",
-    "furigana": "-",
+    "furigana": "よしゅう",
     "meaning": "（待補充）",
-    "example": "予習。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "駅で案内を見たら、『予習』と書いてあった。",
+    "exampleMeaning": "在車站看指示時，上面寫著「予習」。",
     "level": "N4",
-    "exampleFurigana": "予習(-)。"
+    "exampleFurigana": "駅(えき)で案内(あんない)を見た(みた)ら、『予習(よしゅう)』と書い(かい)てあった。"
   },
   {
     "id": "678",
     "word": "事務所",
-    "furigana": "-",
+    "furigana": "じむしょ",
     "meaning": "（待補充）",
-    "example": "事務所。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "ニュースを見ていると、『事務所』という表現をよく聞く。",
+    "exampleMeaning": "看新聞時，常常會聽到「事務所」這個表達。",
     "level": "N4",
-    "exampleFurigana": "事務所(-)。"
+    "exampleFurigana": "ニュースを見て(みて)いると、『事務所(じむしょ)』という表現(ひょうげん)をよく聞く(きく)。"
   },
   {
     "id": "679",
     "word": "事故",
-    "furigana": "-",
+    "furigana": "じこ",
     "meaning": "（待補充）",
-    "example": "事故。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "この前のテストでは、『事故』に関する問題が出た。",
+    "exampleMeaning": "上次考試出現了和「事故」相關的題目。",
     "level": "N4",
-    "exampleFurigana": "事故(-)。"
+    "exampleFurigana": "この前(まえ)のテストでは、『事故(じこ)』に関す(かんす)る問題(もんだい)が出た(でた)。"
   },
   {
     "id": "680",
     "word": "二階建て",
-    "furigana": "-",
+    "furigana": "にかいだてて",
     "meaning": "（待補充）",
-    "example": "二階建て。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "母は私に『二階建て』を忘れないようにと言った。",
+    "exampleMeaning": "媽媽提醒我不要忘記「二階建て」。",
     "level": "N4",
-    "exampleFurigana": "二階建て(-)。"
+    "exampleFurigana": "母(はは)は私(わたし)に『二階建(にかいだて)て』を忘れ(わすれ)ないようにと言った(いった)。"
   },
   {
     "id": "681",
     "word": "亡くなる",
-    "furigana": "-",
+    "furigana": "なくなる",
     "meaning": "（待補充）",
-    "example": "亡くなる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "旅行の計画を立てるとき、『亡くなる』がとても役に立つ。",
+    "exampleMeaning": "規劃旅行時，「亡くなる」非常有幫助。",
     "level": "N4",
-    "exampleFurigana": "亡くなる(-)。"
+    "exampleFurigana": "旅行(りょこう)の計画(けいかく)を立て(たて)るとき、『亡く(なく)なる』がとても役に立つ(やくにたつ)。"
   },
   {
     "id": "682",
     "word": "交通",
-    "furigana": "-",
+    "furigana": "こうつう",
     "meaning": "（待補充）",
-    "example": "交通。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "初めて聞いたときは、『交通』の意味がよく分からなかった。",
+    "exampleMeaning": "第一次聽到時，我不太懂「交通」的意思。",
     "level": "N4",
-    "exampleFurigana": "交通(-)。"
+    "exampleFurigana": "初めて(はじめて)聞い(きい)たときは、『交通(こうつう)』の意味(いみ)がよく分か(わか)らなかった。"
   },
   {
     "id": "683",
     "word": "人口",
-    "furigana": "-",
+    "furigana": "じんこう",
     "meaning": "（待補充）",
-    "example": "人口。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "同僚と相談して、『人口』を先に進めることにした。",
+    "exampleMeaning": "和同事討論後，我們決定先處理「人口」。",
     "level": "N4",
-    "exampleFurigana": "人口(-)。"
+    "exampleFurigana": "同僚(どうりょう)と相談(そうだん)して、『人口(じんこう)』を先に(さきに)進め(すすめ)ることにした。"
   },
   {
     "id": "684",
     "word": "人形",
-    "furigana": "-",
+    "furigana": "にんぎょう",
     "meaning": "（待補充）",
-    "example": "人形。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "店員さんに質問したら、『人形』を丁寧に教えてくれた。",
+    "exampleMeaning": "我問店員後，他很仔細地告訴我「人形」。",
     "level": "N4",
-    "exampleFurigana": "人形(-)。"
+    "exampleFurigana": "店員(てんいん)さんに質問(しつもん)したら、『人形(にんぎょう)』を丁寧(ていねい)に教え(おしえ)てくれた。"
   },
   {
     "id": "685",
     "word": "今夜",
-    "furigana": "-",
+    "furigana": "こんや",
     "meaning": "（待補充）",
-    "example": "今夜。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "朝のラジオでは、『今夜』について話していた。",
+    "exampleMeaning": "早上的廣播在談「今夜」。",
     "level": "N4",
-    "exampleFurigana": "今夜(-)。"
+    "exampleFurigana": "朝(あさ)のラジオでは、『今夜(こんや)』について話し(はなし)ていた。"
   },
   {
     "id": "686",
     "word": "今度",
-    "furigana": "-",
+    "furigana": "こんど",
     "meaning": "（待補充）",
-    "example": "今度。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生に注意されて、『今度』の大切さが分かった。",
+    "exampleMeaning": "被老師提醒後，我明白了「今度」的重要性。",
     "level": "N4",
-    "exampleFurigana": "今度(-)。"
+    "exampleFurigana": "先生(せんせい)に注意(ちゅうい)されて、『今度(こんど)』の大切(たいせつ)さが分か(わか)った。"
   },
   {
     "id": "687",
     "word": "仕方",
-    "furigana": "-",
+    "furigana": "しかた",
     "meaning": "（待補充）",
-    "example": "仕方。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "週末は家族と『仕方』のことをゆっくり話した。",
+    "exampleMeaning": "週末我和家人慢慢聊了「仕方」這件事。",
     "level": "N4",
-    "exampleFurigana": "仕方(-)。"
+    "exampleFurigana": "週末(しゅうまつ)は家族(かぞく)と『仕方(しかた)』のことをゆっくり話し(はなし)た。"
   },
   {
     "id": "688",
     "word": "付く",
-    "furigana": "-",
+    "furigana": "つく",
     "meaning": "（待補充）",
-    "example": "付く。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "このアプリには、『付く』を練習する機能がある。",
+    "exampleMeaning": "這個 App 有練習「付く」的功能。",
     "level": "N4",
-    "exampleFurigana": "付く(-)。"
+    "exampleFurigana": "このアプリには、『付く(つく)』を練習(れんしゅう)する機能(きのう)がある。"
   },
   {
     "id": "689",
     "word": "代わり",
-    "furigana": "-",
+    "furigana": "かわり",
     "meaning": "（待補充）",
-    "example": "代わり。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "説明を読んだら、『代わり』の違いがはっきり分かった。",
+    "exampleMeaning": "看完說明後，我清楚懂了「代わり」的差異。",
     "level": "N4",
-    "exampleFurigana": "代わり(-)。"
+    "exampleFurigana": "説明(せつめい)を読んだ(よんだ)ら、『代わり(かわり)』の違い(ちがい)がはっきり分か(わか)った。"
   },
   {
     "id": "690",
     "word": "以上",
-    "furigana": "-",
+    "furigana": "いじょう",
     "meaning": "（待補充）",
-    "example": "以上。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "職場では、『以上』を正しく使うことが求められる。",
+    "exampleMeaning": "在職場上，會要求正確使用「以上」。",
     "level": "N4",
-    "exampleFurigana": "以上(-)。"
+    "exampleFurigana": "職場(しょくば)では、『以上(いじょう)』を正しく(ただしく)使う(つかう)ことが求め(もとめ)られる。"
   },
   {
     "id": "691",
     "word": "以下",
-    "furigana": "-",
+    "furigana": "いか",
     "meaning": "（待補充）",
-    "example": "以下。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先輩の話を聞いて、『以下』への考え方が変わった。",
+    "exampleMeaning": "聽完前輩的話後，我對「以下」的看法改變了。",
     "level": "N4",
-    "exampleFurigana": "以下(-)。"
+    "exampleFurigana": "先輩(せんぱい)の話(はなし)を聞い(きい)て、『以下(いか)』への考え方(かんがえかた)が変わ(かわ)った。"
   },
   {
     "id": "692",
     "word": "以内",
-    "furigana": "-",
+    "furigana": "いない",
     "meaning": "（待補充）",
-    "example": "以内。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "図書館で調べたら、『以内』に関する本が見つかった。",
+    "exampleMeaning": "在圖書館查資料時，找到了和「以内」有關的書。",
     "level": "N4",
-    "exampleFurigana": "以内(-)。"
+    "exampleFurigana": "図書館(としょかん)で調べ(しらべ)たら、『以内(いない)』に関す(かんす)る本(ほん)が見つ(みつ)かった。"
   },
   {
     "id": "693",
     "word": "以外",
-    "furigana": "-",
+    "furigana": "いがい",
     "meaning": "（待補充）",
-    "example": "以外。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "今日の宿題は、『以外』を使って文を作ることだ。",
+    "exampleMeaning": "今天的作業是用「以外」造句。",
     "level": "N4",
-    "exampleFurigana": "以外(-)。"
+    "exampleFurigana": "今日(きょう)の宿題(しゅくだい)は、『以外(いがい)』を使って(つかって)文(ぶん)を作る(つくる)ことだ。"
   },
   {
     "id": "694",
     "word": "会場",
-    "furigana": "-",
+    "furigana": "かいじょう",
     "meaning": "（待補充）",
-    "example": "会場。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "昨日、友だちとの会話で『会場』という言葉が出てきた。",
+    "exampleMeaning": "昨天和朋友聊天時，提到了「会場」這個詞。",
     "level": "N4",
-    "exampleFurigana": "会場(-)。"
+    "exampleFurigana": "昨日(きのう)、友(とも)だちとの会話(かいわ)で『会場(かいじょう)』という言葉(ことば)が出て(でて)きた。"
   },
   {
     "id": "695",
     "word": "会話",
-    "furigana": "-",
+    "furigana": "かいわ",
     "meaning": "（待補充）",
-    "example": "会話。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生は授業で『会話』の使い方を分かりやすく説明してくれた。",
+    "exampleMeaning": "老師在課堂上清楚地說明了「会話」的用法。",
     "level": "N4",
-    "exampleFurigana": "会話(-)。"
+    "exampleFurigana": "先生(せんせい)は授業(じゅぎょう)で『会話(かいわ)』の使い方(つかいかた)を分か(わか)りやすく説明し(せつめいし)てくれた。"
   },
   {
     "id": "696",
     "word": "会議",
-    "furigana": "-",
+    "furigana": "かいぎ",
     "meaning": "（待補充）",
-    "example": "会議。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "会議のあとで、上司から『会議』について確認された。",
+    "exampleMeaning": "會議後，上司向我確認了「会議」這件事。",
     "level": "N4",
-    "exampleFurigana": "会議(-)。"
+    "exampleFurigana": "会議(かいぎ)のあとで、上司(じょうし)から『会議(かいぎ)』について確認さ(かくにんさ)れた。"
   },
   {
     "id": "697",
     "word": "会議室",
-    "furigana": "-",
+    "furigana": "かいぎしつ",
     "meaning": "（待補充）",
-    "example": "会議室。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "駅で案内を見たら、『会議室』と書いてあった。",
+    "exampleMeaning": "在車站看指示時，上面寫著「会議室」。",
     "level": "N4",
-    "exampleFurigana": "会議室(-)。"
+    "exampleFurigana": "駅(えき)で案内(あんない)を見た(みた)ら、『会議室(かいぎしつ)』と書い(かい)てあった。"
   },
   {
     "id": "698",
     "word": "伝える",
-    "furigana": "-",
+    "furigana": "つたえる",
     "meaning": "（待補充）",
-    "example": "伝える。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "ニュースを見ていると、『伝える』という表現をよく聞く。",
+    "exampleMeaning": "看新聞時，常常會聽到「伝える」這個表達。",
     "level": "N4",
-    "exampleFurigana": "伝える(-)。"
+    "exampleFurigana": "ニュースを見て(みて)いると、『伝え(つたえ)る』という表現(ひょうげん)をよく聞く(きく)。"
   },
   {
     "id": "699",
     "word": "似る",
-    "furigana": "-",
+    "furigana": "にる",
     "meaning": "（待補充）",
-    "example": "似る。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "この前のテストでは、『似る』に関する問題が出た。",
+    "exampleMeaning": "上次考試出現了和「似る」相關的題目。",
     "level": "N4",
-    "exampleFurigana": "似る(-)。"
+    "exampleFurigana": "この前(まえ)のテストでは、『似る(にる)』に関す(かんす)る問題(もんだい)が出た(でた)。"
   },
   {
     "id": "700",
     "word": "住所",
-    "furigana": "-",
+    "furigana": "じゅうしょ",
     "meaning": "（待補充）",
-    "example": "住所。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "母は私に『住所』を忘れないようにと言った。",
+    "exampleMeaning": "媽媽提醒我不要忘記「住所」。",
     "level": "N4",
-    "exampleFurigana": "住所(-)。"
+    "exampleFurigana": "母(はは)は私(わたし)に『住所(じゅうしょ)』を忘れ(わすれ)ないようにと言った(いった)。"
   },
   {
     "id": "701",
     "word": "例えば",
-    "furigana": "-",
+    "furigana": "たとえば",
     "meaning": "（待補充）",
-    "example": "例えば。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "旅行の計画を立てるとき、『例えば』がとても役に立つ。",
+    "exampleMeaning": "規劃旅行時，「例えば」非常有幫助。",
     "level": "N4",
-    "exampleFurigana": "例えば(-)。"
+    "exampleFurigana": "旅行(りょこう)の計画(けいかく)を立て(たて)るとき、『例えば(たとえば)』がとても役に立つ(やくにたつ)。"
   },
   {
     "id": "702",
     "word": "倍",
-    "furigana": "-",
+    "furigana": "ばい",
     "meaning": "（待補充）",
-    "example": "倍。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "初めて聞いたときは、『倍』の意味がよく分からなかった。",
+    "exampleMeaning": "第一次聽到時，我不太懂「倍」的意思。",
     "level": "N4",
-    "exampleFurigana": "倍(-)。"
+    "exampleFurigana": "初めて(はじめて)聞い(きい)たときは、『倍(ばい)』の意味(いみ)がよく分か(わか)らなかった。"
   },
   {
     "id": "703",
     "word": "倒れる",
-    "furigana": "-",
+    "furigana": "たおれる",
     "meaning": "（待補充）",
-    "example": "倒れる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "同僚と相談して、『倒れる』を先に進めることにした。",
+    "exampleMeaning": "和同事討論後，我們決定先處理「倒れる」。",
     "level": "N4",
-    "exampleFurigana": "倒れる(-)。"
+    "exampleFurigana": "同僚(どうりょう)と相談(そうだん)して、『倒れ(たおれ)る』を先に(さきに)進め(すすめ)ることにした。"
   },
   {
     "id": "704",
     "word": "僕",
-    "furigana": "-",
+    "furigana": "ぼく",
     "meaning": "（待補充）",
-    "example": "僕。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "店員さんに質問したら、『僕』を丁寧に教えてくれた。",
+    "exampleMeaning": "我問店員後，他很仔細地告訴我「僕」。",
     "level": "N4",
-    "exampleFurigana": "僕(-)。"
+    "exampleFurigana": "店員(てんいん)さんに質問(しつもん)したら、『僕(ぼく)』を丁寧(ていねい)に教え(おしえ)てくれた。"
   },
   {
     "id": "705",
     "word": "億",
-    "furigana": "-",
+    "furigana": "おく",
     "meaning": "（待補充）",
-    "example": "億。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "朝のラジオでは、『億』について話していた。",
+    "exampleMeaning": "早上的廣播在談「億」。",
     "level": "N4",
-    "exampleFurigana": "億(-)。"
+    "exampleFurigana": "朝(あさ)のラジオでは、『億(おく)』について話し(はなし)ていた。"
   },
   {
     "id": "706",
     "word": "優しい",
-    "furigana": "-",
+    "furigana": "やさしい",
     "meaning": "（待補充）",
-    "example": "優しい。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生に注意されて、『優しい』の大切さが分かった。",
+    "exampleMeaning": "被老師提醒後，我明白了「優しい」的重要性。",
     "level": "N4",
-    "exampleFurigana": "優しい(-)。"
+    "exampleFurigana": "先生(せんせい)に注意(ちゅうい)されて、『優しい(やさしい)』の大切(たいせつ)さが分か(わか)った。"
   },
   {
     "id": "707",
     "word": "先輩",
-    "furigana": "-",
+    "furigana": "せんぱい",
     "meaning": "（待補充）",
-    "example": "先輩。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "週末は家族と『先輩』のことをゆっくり話した。",
+    "exampleMeaning": "週末我和家人慢慢聊了「先輩」這件事。",
     "level": "N4",
-    "exampleFurigana": "先輩(-)。"
+    "exampleFurigana": "週末(しゅうまつ)は家族(かぞく)と『先輩(せんぱい)』のことをゆっくり話し(はなし)た。"
   },
   {
     "id": "708",
     "word": "光",
-    "furigana": "-",
+    "furigana": "ひかり",
     "meaning": "（待補充）",
-    "example": "光。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "このアプリには、『光』を練習する機能がある。",
+    "exampleMeaning": "這個 App 有練習「光」的功能。",
     "level": "N4",
-    "exampleFurigana": "光(-)。"
+    "exampleFurigana": "このアプリには、『光(ひかり)』を練習(れんしゅう)する機能(きのう)がある。"
   },
   {
     "id": "709",
     "word": "光る",
-    "furigana": "-",
+    "furigana": "ひかる",
     "meaning": "（待補充）",
-    "example": "光る。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "説明を読んだら、『光る』の違いがはっきり分かった。",
+    "exampleMeaning": "看完說明後，我清楚懂了「光る」的差異。",
     "level": "N4",
-    "exampleFurigana": "光る(-)。"
+    "exampleFurigana": "説明(せつめい)を読んだ(よんだ)ら、『光る(ひかる)』の違い(ちがい)がはっきり分か(わか)った。"
   },
   {
     "id": "710",
     "word": "入学",
-    "furigana": "-",
+    "furigana": "にゅうがく",
     "meaning": "（待補充）",
-    "example": "入学。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "職場では、『入学』を正しく使うことが求められる。",
+    "exampleMeaning": "在職場上，會要求正確使用「入学」。",
     "level": "N4",
-    "exampleFurigana": "入学(-)。"
+    "exampleFurigana": "職場(しょくば)では、『入学(にゅうがく)』を正しく(ただしく)使う(つかう)ことが求め(もとめ)られる。"
   },
   {
     "id": "711",
     "word": "入院",
-    "furigana": "-",
+    "furigana": "にゅういん",
     "meaning": "（待補充）",
-    "example": "入院。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先輩の話を聞いて、『入院』への考え方が変わった。",
+    "exampleMeaning": "聽完前輩的話後，我對「入院」的看法改變了。",
     "level": "N4",
-    "exampleFurigana": "入院(-)。"
+    "exampleFurigana": "先輩(せんぱい)の話(はなし)を聞い(きい)て、『入院(にゅういん)』への考え方(かんがえかた)が変わ(かわ)った。"
   },
   {
     "id": "712",
     "word": "公務員",
-    "furigana": "-",
+    "furigana": "こうむいん",
     "meaning": "（待補充）",
-    "example": "公務員。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "図書館で調べたら、『公務員』に関する本が見つかった。",
+    "exampleMeaning": "在圖書館查資料時，找到了和「公務員」有關的書。",
     "level": "N4",
-    "exampleFurigana": "公務員(-)。"
+    "exampleFurigana": "図書館(としょかん)で調べ(しらべ)たら、『公務員(こうむいん)』に関す(かんす)る本(ほん)が見つ(みつ)かった。"
   },
   {
     "id": "713",
     "word": "具合",
-    "furigana": "-",
+    "furigana": "ぐあい",
     "meaning": "（待補充）",
-    "example": "具合。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "今日の宿題は、『具合』を使って文を作ることだ。",
+    "exampleMeaning": "今天的作業是用「具合」造句。",
     "level": "N4",
-    "exampleFurigana": "具合(-)。"
+    "exampleFurigana": "今日(きょう)の宿題(しゅくだい)は、『具合(ぐあい)』を使って(つかって)文(ぶん)を作る(つくる)ことだ。"
   },
   {
     "id": "714",
     "word": "写す",
-    "furigana": "-",
+    "furigana": "うつす",
     "meaning": "（待補充）",
-    "example": "写す。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "昨日、友だちとの会話で『写す』という言葉が出てきた。",
+    "exampleMeaning": "昨天和朋友聊天時，提到了「写す」這個詞。",
     "level": "N4",
-    "exampleFurigana": "写す(-)。"
+    "exampleFurigana": "昨日(きのう)、友(とも)だちとの会話(かいわ)で『写す(うつす)』という言葉(ことば)が出て(でて)きた。"
   },
   {
     "id": "715",
     "word": "冷える",
-    "furigana": "-",
+    "furigana": "ひえる",
     "meaning": "（待補充）",
-    "example": "冷える。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生は授業で『冷える』の使い方を分かりやすく説明してくれた。",
+    "exampleMeaning": "老師在課堂上清楚地說明了「冷える」的用法。",
     "level": "N4",
-    "exampleFurigana": "冷える(-)。"
+    "exampleFurigana": "先生(せんせい)は授業(じゅぎょう)で『冷え(ひえ)る』の使い方(つかいかた)を分か(わか)りやすく説明し(せつめいし)てくれた。"
   },
   {
     "id": "716",
     "word": "冷房",
-    "furigana": "-",
+    "furigana": "れいぼう",
     "meaning": "（待補充）",
-    "example": "冷房。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "会議のあとで、上司から『冷房』について確認された。",
+    "exampleMeaning": "會議後，上司向我確認了「冷房」這件事。",
     "level": "N4",
-    "exampleFurigana": "冷房(-)。"
+    "exampleFurigana": "会議(かいぎ)のあとで、上司(じょうし)から『冷房(れいぼう)』について確認さ(かくにんさ)れた。"
   },
   {
     "id": "717",
     "word": "凄い",
-    "furigana": "-",
+    "furigana": "すごい",
     "meaning": "（待補充）",
-    "example": "凄い。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "駅で案内を見たら、『凄い』と書いてあった。",
+    "exampleMeaning": "在車站看指示時，上面寫著「凄い」。",
     "level": "N4",
-    "exampleFurigana": "凄い(-)。"
+    "exampleFurigana": "駅(えき)で案内(あんない)を見た(みた)ら、『凄い(すごい)』と書い(かい)てあった。"
   },
   {
     "id": "718",
     "word": "出席",
-    "furigana": "-",
+    "furigana": "しゅっせき",
     "meaning": "（待補充）",
-    "example": "出席。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "ニュースを見ていると、『出席』という表現をよく聞く。",
+    "exampleMeaning": "看新聞時，常常會聽到「出席」這個表達。",
     "level": "N4",
-    "exampleFurigana": "出席(-)。"
+    "exampleFurigana": "ニュースを見て(みて)いると、『出席(しゅっせき)』という表現(ひょうげん)をよく聞く(きく)。"
   },
   {
     "id": "719",
     "word": "出発",
-    "furigana": "-",
+    "furigana": "しゅっぱつ",
     "meaning": "（待補充）",
-    "example": "出発。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "この前のテストでは、『出発』に関する問題が出た。",
+    "exampleMeaning": "上次考試出現了和「出発」相關的題目。",
     "level": "N4",
-    "exampleFurigana": "出発(-)。"
+    "exampleFurigana": "この前(まえ)のテストでは、『出発(しゅっぱつ)』に関す(かんす)る問題(もんだい)が出た(でた)。"
   },
   {
     "id": "720",
     "word": "別",
-    "furigana": "-",
+    "furigana": "べつ",
     "meaning": "（待補充）",
-    "example": "別。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "母は私に『別』を忘れないようにと言った。",
+    "exampleMeaning": "媽媽提醒我不要忘記「別」。",
     "level": "N4",
-    "exampleFurigana": "別(-)。"
+    "exampleFurigana": "母(はは)は私(わたし)に『別(べつ)』を忘れ(わすれ)ないようにと言った(いった)。"
   },
   {
     "id": "721",
     "word": "別れる",
-    "furigana": "-",
+    "furigana": "わかれる",
     "meaning": "（待補充）",
-    "example": "別れる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "旅行の計画を立てるとき、『別れる』がとても役に立つ。",
+    "exampleMeaning": "規劃旅行時，「別れる」非常有幫助。",
     "level": "N4",
-    "exampleFurigana": "別れる(-)。"
+    "exampleFurigana": "旅行(りょこう)の計画(けいかく)を立て(たて)るとき、『別れ(わかれ)る』がとても役に立つ(やくにたつ)。"
   },
   {
     "id": "722",
     "word": "利用",
-    "furigana": "-",
+    "furigana": "りよう",
     "meaning": "（待補充）",
-    "example": "利用。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "初めて聞いたときは、『利用』の意味がよく分からなかった。",
+    "exampleMeaning": "第一次聽到時，我不太懂「利用」的意思。",
     "level": "N4",
-    "exampleFurigana": "利用(-)。"
+    "exampleFurigana": "初めて(はじめて)聞い(きい)たときは、『利用(りよう)』の意味(いみ)がよく分か(わか)らなかった。"
   },
   {
     "id": "723",
     "word": "割れる",
-    "furigana": "-",
+    "furigana": "われる",
     "meaning": "（待補充）",
-    "example": "割れる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "同僚と相談して、『割れる』を先に進めることにした。",
+    "exampleMeaning": "和同事討論後，我們決定先處理「割れる」。",
     "level": "N4",
-    "exampleFurigana": "割れる(-)。"
+    "exampleFurigana": "同僚(どうりょう)と相談(そうだん)して、『割れ(われ)る』を先に(さきに)進め(すすめ)ることにした。"
   },
   {
     "id": "724",
     "word": "割合",
-    "furigana": "-",
+    "furigana": "わりあい",
     "meaning": "（待補充）",
-    "example": "割合。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "店員さんに質問したら、『割合』を丁寧に教えてくれた。",
+    "exampleMeaning": "我問店員後，他很仔細地告訴我「割合」。",
     "level": "N4",
-    "exampleFurigana": "割合(-)。"
+    "exampleFurigana": "店員(てんいん)さんに質問(しつもん)したら、『割合(わりあい)』を丁寧(ていねい)に教え(おしえ)てくれた。"
   },
   {
     "id": "725",
     "word": "力",
-    "furigana": "-",
+    "furigana": "ちから",
     "meaning": "（待補充）",
-    "example": "力。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "朝のラジオでは、『力』について話していた。",
+    "exampleMeaning": "早上的廣播在談「力」。",
     "level": "N4",
-    "exampleFurigana": "力(-)。"
+    "exampleFurigana": "朝(あさ)のラジオでは、『力(ちから)』について話し(はなし)ていた。"
   },
   {
     "id": "726",
     "word": "動く",
-    "furigana": "-",
+    "furigana": "うごく",
     "meaning": "（待補充）",
-    "example": "動く。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生に注意されて、『動く』の大切さが分かった。",
+    "exampleMeaning": "被老師提醒後，我明白了「動く」的重要性。",
     "level": "N4",
-    "exampleFurigana": "動く(-)。"
+    "exampleFurigana": "先生(せんせい)に注意(ちゅうい)されて、『動く(うごく)』の大切(たいせつ)さが分か(わか)った。"
   },
   {
     "id": "727",
     "word": "動物園",
-    "furigana": "-",
+    "furigana": "どうぶつえん",
     "meaning": "（待補充）",
-    "example": "動物園。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "週末は家族と『動物園』のことをゆっくり話した。",
+    "exampleMeaning": "週末我和家人慢慢聊了「動物園」這件事。",
     "level": "N4",
-    "exampleFurigana": "動物(どうぶつ)園(-)。"
+    "exampleFurigana": "週末(しゅうまつ)は家族(かぞく)と『動物園(どうぶつえん)』のことをゆっくり話し(はなし)た。"
   },
   {
     "id": "728",
     "word": "勝つ",
-    "furigana": "-",
+    "furigana": "かつ",
     "meaning": "（待補充）",
-    "example": "勝つ。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "このアプリには、『勝つ』を練習する機能がある。",
+    "exampleMeaning": "這個 App 有練習「勝つ」的功能。",
     "level": "N4",
-    "exampleFurigana": "勝つ(-)。"
+    "exampleFurigana": "このアプリには、『勝つ(かつ)』を練習(れんしゅう)する機能(きのう)がある。"
   },
   {
     "id": "729",
     "word": "包む",
-    "furigana": "-",
+    "furigana": "つつむ",
     "meaning": "（待補充）",
-    "example": "包む。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "説明を読んだら、『包む』の違いがはっきり分かった。",
+    "exampleMeaning": "看完說明後，我清楚懂了「包む」的差異。",
     "level": "N4",
-    "exampleFurigana": "包む(-)。"
+    "exampleFurigana": "説明(せつめい)を読んだ(よんだ)ら、『包む(つつむ)』の違い(ちがい)がはっきり分か(わか)った。"
   },
   {
     "id": "730",
     "word": "医学",
-    "furigana": "-",
+    "furigana": "いがく",
     "meaning": "（待補充）",
-    "example": "医学。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "職場では、『医学』を正しく使うことが求められる。",
+    "exampleMeaning": "在職場上，會要求正確使用「医学」。",
     "level": "N4",
-    "exampleFurigana": "医学(-)。"
+    "exampleFurigana": "職場(しょくば)では、『医学(いがく)』を正しく(ただしく)使う(つかう)ことが求め(もとめ)られる。"
   },
   {
     "id": "731",
     "word": "十分",
-    "furigana": "-",
+    "furigana": "じゅうぶん",
     "meaning": "（待補充）",
-    "example": "十分。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先輩の話を聞いて、『十分』への考え方が変わった。",
+    "exampleMeaning": "聽完前輩的話後，我對「十分」的看法改變了。",
     "level": "N4",
-    "exampleFurigana": "十分(-)。"
+    "exampleFurigana": "先輩(せんぱい)の話(はなし)を聞い(きい)て、『十分(じゅうぶん)』への考え方(かんがえかた)が変わ(かわ)った。"
   },
   {
     "id": "732",
     "word": "卒業",
-    "furigana": "-",
+    "furigana": "そつぎょう",
     "meaning": "（待補充）",
-    "example": "卒業。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "図書館で調べたら、『卒業』に関する本が見つかった。",
+    "exampleMeaning": "在圖書館查資料時，找到了和「卒業」有關的書。",
     "level": "N4",
-    "exampleFurigana": "卒業(-)。"
+    "exampleFurigana": "図書館(としょかん)で調べ(しらべ)たら、『卒業(そつぎょう)』に関す(かんす)る本(ほん)が見つ(みつ)かった。"
   },
   {
     "id": "733",
     "word": "危険",
-    "furigana": "-",
+    "furigana": "きけん",
     "meaning": "（待補充）",
-    "example": "危険。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "今日の宿題は、『危険』を使って文を作ることだ。",
+    "exampleMeaning": "今天的作業是用「危険」造句。",
     "level": "N4",
-    "exampleFurigana": "危険(-)。"
+    "exampleFurigana": "今日(きょう)の宿題(しゅくだい)は、『危険(きけん)』を使って(つかって)文(ぶん)を作る(つくる)ことだ。"
   },
   {
     "id": "734",
     "word": "原因",
-    "furigana": "-",
+    "furigana": "げんいん",
     "meaning": "（待補充）",
-    "example": "原因。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "昨日、友だちとの会話で『原因』という言葉が出てきた。",
+    "exampleMeaning": "昨天和朋友聊天時，提到了「原因」這個詞。",
     "level": "N4",
-    "exampleFurigana": "原因(-)。"
+    "exampleFurigana": "昨日(きのう)、友(とも)だちとの会話(かいわ)で『原因(げんいん)』という言葉(ことば)が出て(でて)きた。"
   },
   {
     "id": "735",
     "word": "厳しい",
-    "furigana": "-",
+    "furigana": "いかめしい",
     "meaning": "（待補充）",
-    "example": "厳しい。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生は授業で『厳しい』の使い方を分かりやすく説明してくれた。",
+    "exampleMeaning": "老師在課堂上清楚地說明了「厳しい」的用法。",
     "level": "N4",
-    "exampleFurigana": "厳しい(-)。"
+    "exampleFurigana": "先生(せんせい)は授業(じゅぎょう)で『厳しい(いかめしい)』の使い方(つかいかた)を分か(わか)りやすく説明し(せつめいし)てくれた。"
   },
   {
     "id": "736",
     "word": "参る",
-    "furigana": "-",
+    "furigana": "まいる",
     "meaning": "（待補充）",
-    "example": "参る。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "会議のあとで、上司から『参る』について確認された。",
+    "exampleMeaning": "會議後，上司向我確認了「参る」這件事。",
     "level": "N4",
-    "exampleFurigana": "参る(-)。"
+    "exampleFurigana": "会議(かいぎ)のあとで、上司(じょうし)から『参る(まいる)』について確認さ(かくにんさ)れた。"
   },
   {
     "id": "737",
     "word": "反対",
-    "furigana": "-",
+    "furigana": "はんたい",
     "meaning": "（待補充）",
-    "example": "反対。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "駅で案内を見たら、『反対』と書いてあった。",
+    "exampleMeaning": "在車站看指示時，上面寫著「反対」。",
     "level": "N4",
-    "exampleFurigana": "反対(-)。"
+    "exampleFurigana": "駅(えき)で案内(あんない)を見た(みた)ら、『反対(はんたい)』と書い(かい)てあった。"
   },
   {
     "id": "738",
     "word": "取り替える",
-    "furigana": "-",
+    "furigana": "とりかえる",
     "meaning": "（待補充）",
     "example": "取り替える。",
     "exampleMeaning": "（例句待補充）",
@@ -7382,27 +7382,27 @@
   {
     "id": "739",
     "word": "受ける",
-    "furigana": "-",
+    "furigana": "うける",
     "meaning": "（待補充）",
-    "example": "受ける。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "ニュースを見ていると、『受ける』という表現をよく聞く。",
+    "exampleMeaning": "看新聞時，常常會聽到「受ける」這個表達。",
     "level": "N4",
-    "exampleFurigana": "受ける(-)。"
+    "exampleFurigana": "ニュースを見て(みて)いると、『受ける(うける)』という表現(ひょうげん)をよく聞く(きく)。"
   },
   {
     "id": "740",
     "word": "受付",
-    "furigana": "-",
+    "furigana": "うけつけ",
     "meaning": "（待補充）",
-    "example": "受付。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "この前のテストでは、『受付』に関する問題が出た。",
+    "exampleMeaning": "上次考試出現了和「受付」相關的題目。",
     "level": "N4",
-    "exampleFurigana": "受付(-)。"
+    "exampleFurigana": "この前(まえ)のテストでは、『受付(うけつけ)』に関す(かんす)る問題(もんだい)が出た(でた)。"
   },
   {
     "id": "741",
     "word": "召し上がる",
-    "furigana": "-",
+    "furigana": "めしあがる",
     "meaning": "（待補充）",
     "example": "召し上がる。",
     "exampleMeaning": "（例句待補充）",
@@ -7412,2592 +7412,2592 @@
   {
     "id": "742",
     "word": "台風",
-    "furigana": "-",
+    "furigana": "たいふう",
     "meaning": "（待補充）",
-    "example": "台風。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "母は私に『台風』を忘れないようにと言った。",
+    "exampleMeaning": "媽媽提醒我不要忘記「台風」。",
     "level": "N4",
-    "exampleFurigana": "台風(-)。"
+    "exampleFurigana": "母(はは)は私(わたし)に『台風(たいふう)』を忘れ(わすれ)ないようにと言った(いった)。"
   },
   {
     "id": "743",
     "word": "合う",
-    "furigana": "-",
+    "furigana": "あう",
     "meaning": "（待補充）",
-    "example": "合う。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "旅行の計画を立てるとき、『合う』がとても役に立つ。",
+    "exampleMeaning": "規劃旅行時，「合う」非常有幫助。",
     "level": "N4",
-    "exampleFurigana": "合う(-)。"
+    "exampleFurigana": "旅行(りょこう)の計画(けいかく)を立て(たて)るとき、『合う(あう)』がとても役に立つ(やくにたつ)。"
   },
   {
     "id": "744",
     "word": "向かう",
-    "furigana": "-",
+    "furigana": "むかう",
     "meaning": "（待補充）",
-    "example": "向かう。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "初めて聞いたときは、『向かう』の意味がよく分からなかった。",
+    "exampleMeaning": "第一次聽到時，我不太懂「向かう」的意思。",
     "level": "N4",
-    "exampleFurigana": "向かう(-)。"
+    "exampleFurigana": "初めて(はじめて)聞い(きい)たときは、『向か(むか)う』の意味(いみ)がよく分か(わか)らなかった。"
   },
   {
     "id": "745",
     "word": "君",
-    "furigana": "-",
+    "furigana": "くん",
     "meaning": "（待補充）",
-    "example": "君。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "同僚と相談して、『君』を先に進めることにした。",
+    "exampleMeaning": "和同事討論後，我們決定先處理「君」。",
     "level": "N4",
-    "exampleFurigana": "君(-)。"
+    "exampleFurigana": "同僚(どうりょう)と相談(そうだん)して、『君(くん)』を先に(さきに)進め(すすめ)ることにした。"
   },
   {
     "id": "746",
     "word": "周り",
-    "furigana": "-",
+    "furigana": "まわり",
     "meaning": "（待補充）",
-    "example": "周り。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "店員さんに質問したら、『周り』を丁寧に教えてくれた。",
+    "exampleMeaning": "我問店員後，他很仔細地告訴我「周り」。",
     "level": "N4",
-    "exampleFurigana": "周り(-)。"
+    "exampleFurigana": "店員(てんいん)さんに質問(しつもん)したら、『周り(まわり)』を丁寧(ていねい)に教え(おしえ)てくれた。"
   },
   {
     "id": "747",
     "word": "味",
-    "furigana": "-",
+    "furigana": "あじ",
     "meaning": "（待補充）",
-    "example": "味。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "朝のラジオでは、『味』について話していた。",
+    "exampleMeaning": "早上的廣播在談「味」。",
     "level": "N4",
-    "exampleFurigana": "味(-)。"
+    "exampleFurigana": "朝(あさ)のラジオでは、『味(あじ)』について話し(はなし)ていた。"
   },
   {
     "id": "748",
     "word": "味噌",
-    "furigana": "-",
+    "furigana": "みそ",
     "meaning": "（待補充）",
-    "example": "味噌。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生に注意されて、『味噌』の大切さが分かった。",
+    "exampleMeaning": "被老師提醒後，我明白了「味噌」的重要性。",
     "level": "N4",
-    "exampleFurigana": "味噌(-)。"
+    "exampleFurigana": "先生(せんせい)に注意(ちゅうい)されて、『味噌(みそ)』の大切(たいせつ)さが分か(わか)った。"
   },
   {
     "id": "749",
     "word": "品物",
-    "furigana": "-",
+    "furigana": "しなもの",
     "meaning": "（待補充）",
-    "example": "品物。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "週末は家族と『品物』のことをゆっくり話した。",
+    "exampleMeaning": "週末我和家人慢慢聊了「品物」這件事。",
     "level": "N4",
-    "exampleFurigana": "品物(-)。"
+    "exampleFurigana": "週末(しゅうまつ)は家族(かぞく)と『品物(しなもの)』のことをゆっくり話し(はなし)た。"
   },
   {
     "id": "750",
     "word": "喜ぶ",
-    "furigana": "-",
+    "furigana": "よろこぶ",
     "meaning": "（待補充）",
-    "example": "喜ぶ。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "このアプリには、『喜ぶ』を練習する機能がある。",
+    "exampleMeaning": "這個 App 有練習「喜ぶ」的功能。",
     "level": "N4",
-    "exampleFurigana": "喜ぶ(-)。"
+    "exampleFurigana": "このアプリには、『喜ぶ(よろこぶ)』を練習(れんしゅう)する機能(きのう)がある。"
   },
   {
     "id": "751",
     "word": "噛む",
-    "furigana": "-",
+    "furigana": "かむ",
     "meaning": "（待補充）",
-    "example": "噛む。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "説明を読んだら、『噛む』の違いがはっきり分かった。",
+    "exampleMeaning": "看完說明後，我清楚懂了「噛む」的差異。",
     "level": "N4",
-    "exampleFurigana": "噛む(-)。"
+    "exampleFurigana": "説明(せつめい)を読んだ(よんだ)ら、『噛む(かむ)』の違い(ちがい)がはっきり分か(わか)った。"
   },
   {
     "id": "752",
     "word": "回る",
-    "furigana": "-",
+    "furigana": "まわる",
     "meaning": "（待補充）",
-    "example": "回る。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "職場では、『回る』を正しく使うことが求められる。",
+    "exampleMeaning": "在職場上，會要求正確使用「回る」。",
     "level": "N4",
-    "exampleFurigana": "回る(-)。"
+    "exampleFurigana": "職場(しょくば)では、『回る(まわる)』を正しく(ただしく)使う(つかう)ことが求め(もとめ)られる。"
   },
   {
     "id": "753",
     "word": "固い",
-    "furigana": "-",
+    "furigana": "かたい",
     "meaning": "（待補充）",
-    "example": "固い。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先輩の話を聞いて、『固い』への考え方が変わった。",
+    "exampleMeaning": "聽完前輩的話後，我對「固い」的看法改變了。",
     "level": "N4",
-    "exampleFurigana": "固い(-)。"
+    "exampleFurigana": "先輩(せんぱい)の話(はなし)を聞い(きい)て、『固い(かたい)』への考え方(かんがえかた)が変わ(かわ)った。"
   },
   {
     "id": "754",
     "word": "国際",
-    "furigana": "-",
+    "furigana": "こくさい",
     "meaning": "（待補充）",
-    "example": "国際。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "図書館で調べたら、『国際』に関する本が見つかった。",
+    "exampleMeaning": "在圖書館查資料時，找到了和「国際」有關的書。",
     "level": "N4",
-    "exampleFurigana": "国際(-)。"
+    "exampleFurigana": "図書館(としょかん)で調べ(しらべ)たら、『国際(こくさい)』に関す(かんす)る本(ほん)が見つ(みつ)かった。"
   },
   {
     "id": "755",
     "word": "地理",
-    "furigana": "-",
+    "furigana": "ちり",
     "meaning": "（待補充）",
-    "example": "地理。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "今日の宿題は、『地理』を使って文を作ることだ。",
+    "exampleMeaning": "今天的作業是用「地理」造句。",
     "level": "N4",
-    "exampleFurigana": "地理(-)。"
+    "exampleFurigana": "今日(きょう)の宿題(しゅくだい)は、『地理(ちり)』を使って(つかって)文(ぶん)を作る(つくる)ことだ。"
   },
   {
     "id": "756",
     "word": "地震",
-    "furigana": "-",
+    "furigana": "じしん",
     "meaning": "（待補充）",
-    "example": "地震。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "昨日、友だちとの会話で『地震』という言葉が出てきた。",
+    "exampleMeaning": "昨天和朋友聊天時，提到了「地震」這個詞。",
     "level": "N4",
-    "exampleFurigana": "地震(-)。"
+    "exampleFurigana": "昨日(きのう)、友(とも)だちとの会話(かいわ)で『地震(じしん)』という言葉(ことば)が出て(でて)きた。"
   },
   {
     "id": "757",
     "word": "坂",
-    "furigana": "-",
+    "furigana": "さか",
     "meaning": "（待補充）",
-    "example": "坂。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生は授業で『坂』の使い方を分かりやすく説明してくれた。",
+    "exampleMeaning": "老師在課堂上清楚地說明了「坂」的用法。",
     "level": "N4",
-    "exampleFurigana": "坂(-)。"
+    "exampleFurigana": "先生(せんせい)は授業(じゅぎょう)で『坂(さか)』の使い方(つかいかた)を分か(わか)りやすく説明し(せつめいし)てくれた。"
   },
   {
     "id": "758",
     "word": "堅",
-    "furigana": "-",
+    "furigana": "けん",
     "meaning": "（待補充）",
-    "example": "堅。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "会議のあとで、上司から『堅』について確認された。",
+    "exampleMeaning": "會議後，上司向我確認了「堅」這件事。",
     "level": "N4",
-    "exampleFurigana": "堅(-)。"
+    "exampleFurigana": "会議(かいぎ)のあとで、上司(じょうし)から『堅(けん)』について確認さ(かくにんさ)れた。"
   },
   {
     "id": "759",
     "word": "場合",
-    "furigana": "-",
+    "furigana": "ばあい",
     "meaning": "（待補充）",
-    "example": "場合。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "駅で案内を見たら、『場合』と書いてあった。",
+    "exampleMeaning": "在車站看指示時，上面寫著「場合」。",
     "level": "N4",
-    "exampleFurigana": "場合(-)。"
+    "exampleFurigana": "駅(えき)で案内(あんない)を見た(みた)ら、『場合(ばあい)』と書い(かい)てあった。"
   },
   {
     "id": "760",
     "word": "場所",
-    "furigana": "-",
+    "furigana": "ばしょ",
     "meaning": "（待補充）",
-    "example": "場所。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "ニュースを見ていると、『場所』という表現をよく聞く。",
+    "exampleMeaning": "看新聞時，常常會聽到「場所」這個表達。",
     "level": "N4",
-    "exampleFurigana": "場所(-)。"
+    "exampleFurigana": "ニュースを見て(みて)いると、『場所(ばしょ)』という表現(ひょうげん)をよく聞く(きく)。"
   },
   {
     "id": "761",
     "word": "塗る",
-    "furigana": "-",
+    "furigana": "ぬる",
     "meaning": "（待補充）",
-    "example": "塗る。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "この前のテストでは、『塗る』に関する問題が出た。",
+    "exampleMeaning": "上次考試出現了和「塗る」相關的題目。",
     "level": "N4",
-    "exampleFurigana": "塗る(-)。"
+    "exampleFurigana": "この前(まえ)のテストでは、『塗る(ぬる)』に関す(かんす)る問題(もんだい)が出た(でた)。"
   },
   {
     "id": "762",
     "word": "増える",
-    "furigana": "-",
+    "furigana": "ふえる",
     "meaning": "（待補充）",
-    "example": "増える。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "母は私に『増える』を忘れないようにと言った。",
+    "exampleMeaning": "媽媽提醒我不要忘記「増える」。",
     "level": "N4",
-    "exampleFurigana": "増える(-)。"
+    "exampleFurigana": "母(はは)は私(わたし)に『増え(ふえ)る』を忘れ(わすれ)ないようにと言った(いった)。"
   },
   {
     "id": "763",
     "word": "壁",
-    "furigana": "-",
+    "furigana": "かべ",
     "meaning": "（待補充）",
-    "example": "壁。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "旅行の計画を立てるとき、『壁』がとても役に立つ。",
+    "exampleMeaning": "規劃旅行時，「壁」非常有幫助。",
     "level": "N4",
-    "exampleFurigana": "壁(-)。"
+    "exampleFurigana": "旅行(りょこう)の計画(けいかく)を立て(たて)るとき、『壁(かべ)』がとても役に立つ(やくにたつ)。"
   },
   {
     "id": "764",
     "word": "壊す",
-    "furigana": "-",
+    "furigana": "こわす",
     "meaning": "（待補充）",
-    "example": "壊す。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "初めて聞いたときは、『壊す』の意味がよく分からなかった。",
+    "exampleMeaning": "第一次聽到時，我不太懂「壊す」的意思。",
     "level": "N4",
-    "exampleFurigana": "壊す(-)。"
+    "exampleFurigana": "初めて(はじめて)聞い(きい)たときは、『壊す(こわす)』の意味(いみ)がよく分か(わか)らなかった。"
   },
   {
     "id": "765",
     "word": "壊れる",
-    "furigana": "-",
+    "furigana": "こわれる",
     "meaning": "（待補充）",
-    "example": "壊れる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "同僚と相談して、『壊れる』を先に進めることにした。",
+    "exampleMeaning": "和同事討論後，我們決定先處理「壊れる」。",
     "level": "N4",
-    "exampleFurigana": "壊れる(-)。"
+    "exampleFurigana": "同僚(どうりょう)と相談(そうだん)して、『壊れ(こわれ)る』を先に(さきに)進め(すすめ)ることにした。"
   },
   {
     "id": "766",
     "word": "売り場",
-    "furigana": "-",
+    "furigana": "うりば",
     "meaning": "（待補充）",
-    "example": "売り場。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "店員さんに質問したら、『売り場』を丁寧に教えてくれた。",
+    "exampleMeaning": "我問店員後，他很仔細地告訴我「売り場」。",
     "level": "N4",
-    "exampleFurigana": "売り場(-)。"
+    "exampleFurigana": "店員(てんいん)さんに質問(しつもん)したら、『売り場(うりば)』を丁寧(ていねい)に教え(おしえ)てくれた。"
   },
   {
     "id": "767",
     "word": "変",
-    "furigana": "-",
+    "furigana": "へん",
     "meaning": "（待補充）",
-    "example": "変。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "朝のラジオでは、『変』について話していた。",
+    "exampleMeaning": "早上的廣播在談「変」。",
     "level": "N4",
-    "exampleFurigana": "変(-)。"
+    "exampleFurigana": "朝(あさ)のラジオでは、『変(へん)』について話し(はなし)ていた。"
   },
   {
     "id": "768",
     "word": "変える",
-    "furigana": "-",
+    "furigana": "かえる",
     "meaning": "（待補充）",
-    "example": "変える。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生に注意されて、『変える』の大切さが分かった。",
+    "exampleMeaning": "被老師提醒後，我明白了「変える」的重要性。",
     "level": "N4",
-    "exampleFurigana": "変える(-)。"
+    "exampleFurigana": "先生(せんせい)に注意(ちゅうい)されて、『変え(かえ)る』の大切(たいせつ)さが分か(わか)った。"
   },
   {
     "id": "769",
     "word": "変わる",
-    "furigana": "-",
+    "furigana": "かわる",
     "meaning": "（待補充）",
-    "example": "変わる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "週末は家族と『変わる』のことをゆっくり話した。",
+    "exampleMeaning": "週末我和家人慢慢聊了「変わる」這件事。",
     "level": "N4",
-    "exampleFurigana": "変わる(-)。"
+    "exampleFurigana": "週末(しゅうまつ)は家族(かぞく)と『変わ(かわ)る』のことをゆっくり話し(はなし)た。"
   },
   {
     "id": "770",
     "word": "夢",
-    "furigana": "-",
+    "furigana": "ゆめ",
     "meaning": "（待補充）",
-    "example": "夢。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "このアプリには、『夢』を練習する機能がある。",
+    "exampleMeaning": "這個 App 有練習「夢」的功能。",
     "level": "N4",
-    "exampleFurigana": "夢(-)。"
+    "exampleFurigana": "このアプリには、『夢(ゆめ)』を練習(れんしゅう)する機能(きのう)がある。"
   },
   {
     "id": "771",
     "word": "大事",
-    "furigana": "-",
+    "furigana": "だいじ",
     "meaning": "（待補充）",
-    "example": "大事。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "説明を読んだら、『大事』の違いがはっきり分かった。",
+    "exampleMeaning": "看完說明後，我清楚懂了「大事」的差異。",
     "level": "N4",
-    "exampleFurigana": "大事(-)。"
+    "exampleFurigana": "説明(せつめい)を読んだ(よんだ)ら、『大事(だいじ)』の違い(ちがい)がはっきり分か(わか)った。"
   },
   {
     "id": "772",
     "word": "大体",
-    "furigana": "-",
+    "furigana": "だいたい",
     "meaning": "（待補充）",
-    "example": "大体。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "職場では、『大体』を正しく使うことが求められる。",
+    "exampleMeaning": "在職場上，會要求正確使用「大体」。",
     "level": "N4",
-    "exampleFurigana": "大体(-)。"
+    "exampleFurigana": "職場(しょくば)では、『大体(だいたい)』を正しく(ただしく)使う(つかう)ことが求め(もとめ)られる。"
   },
   {
     "id": "773",
     "word": "大分",
-    "furigana": "-",
+    "furigana": "おおいた",
     "meaning": "（待補充）",
-    "example": "大分。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先輩の話を聞いて、『大分』への考え方が変わった。",
+    "exampleMeaning": "聽完前輩的話後，我對「大分」的看法改變了。",
     "level": "N4",
-    "exampleFurigana": "大分(-)。"
+    "exampleFurigana": "先輩(せんぱい)の話(はなし)を聞い(きい)て、『大分(おおいた)』への考え方(かんがえかた)が変わ(かわ)った。"
   },
   {
     "id": "774",
     "word": "大学生",
-    "furigana": "-",
+    "furigana": "だいがくせい",
     "meaning": "（待補充）",
-    "example": "大学生。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "図書館で調べたら、『大学生』に関する本が見つかった。",
+    "exampleMeaning": "在圖書館查資料時，找到了和「大学生」有關的書。",
     "level": "N4",
-    "exampleFurigana": "大学(だいがく)生(-)。"
+    "exampleFurigana": "図書館(としょかん)で調べ(しらべ)たら、『大学生(だいがくせい)』に関す(かんす)る本(ほん)が見つ(みつ)かった。"
   },
   {
     "id": "775",
     "word": "天気予報",
-    "furigana": "-",
+    "furigana": "てんきよほう",
     "meaning": "（待補充）",
-    "example": "天気予報。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "今日の宿題は、『天気予報』を使って文を作ることだ。",
+    "exampleMeaning": "今天的作業是用「天気予報」造句。",
     "level": "N4",
-    "exampleFurigana": "天気(てんき)予報(-)。"
+    "exampleFurigana": "今日(きょう)の宿題(しゅくだい)は、『天気予報(てんきよほう)』を使って(つかって)文(ぶん)を作る(つくる)ことだ。"
   },
   {
     "id": "776",
     "word": "太る",
-    "furigana": "-",
+    "furigana": "ふとる",
     "meaning": "（待補充）",
-    "example": "太る。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "昨日、友だちとの会話で『太る』という言葉が出てきた。",
+    "exampleMeaning": "昨天和朋友聊天時，提到了「太る」這個詞。",
     "level": "N4",
-    "exampleFurigana": "太る(-)。"
+    "exampleFurigana": "昨日(きのう)、友(とも)だちとの会話(かいわ)で『太る(ふとる)』という言葉(ことば)が出て(でて)きた。"
   },
   {
     "id": "777",
     "word": "夫",
-    "furigana": "-",
+    "furigana": "おっと",
     "meaning": "（待補充）",
-    "example": "夫。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生は授業で『夫』の使い方を分かりやすく説明してくれた。",
+    "exampleMeaning": "老師在課堂上清楚地說明了「夫」的用法。",
     "level": "N4",
-    "exampleFurigana": "夫(-)。"
+    "exampleFurigana": "先生(せんせい)は授業(じゅぎょう)で『夫(おっと)』の使い方(つかいかた)を分か(わか)りやすく説明し(せつめいし)てくれた。"
   },
   {
     "id": "778",
     "word": "失敗",
-    "furigana": "-",
+    "furigana": "しっぱい",
     "meaning": "（待補充）",
-    "example": "失敗。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "会議のあとで、上司から『失敗』について確認された。",
+    "exampleMeaning": "會議後，上司向我確認了「失敗」這件事。",
     "level": "N4",
-    "exampleFurigana": "失敗(-)。"
+    "exampleFurigana": "会議(かいぎ)のあとで、上司(じょうし)から『失敗(しっぱい)』について確認さ(かくにんさ)れた。"
   },
   {
     "id": "779",
     "word": "女性",
-    "furigana": "-",
+    "furigana": "じょせい",
     "meaning": "（待補充）",
-    "example": "女性。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "駅で案内を見たら、『女性』と書いてあった。",
+    "exampleMeaning": "在車站看指示時，上面寫著「女性」。",
     "level": "N4",
-    "exampleFurigana": "女性(-)。"
+    "exampleFurigana": "駅(えき)で案内(あんない)を見た(みた)ら、『女性(じょせい)』と書い(かい)てあった。"
   },
   {
     "id": "780",
     "word": "妻",
-    "furigana": "-",
+    "furigana": "つま",
     "meaning": "（待補充）",
-    "example": "妻。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "ニュースを見ていると、『妻』という表現をよく聞く。",
+    "exampleMeaning": "看新聞時，常常會聽到「妻」這個表達。",
     "level": "N4",
-    "exampleFurigana": "妻(-)。"
+    "exampleFurigana": "ニュースを見て(みて)いると、『妻(つま)』という表現(ひょうげん)をよく聞く(きく)。"
   },
   {
     "id": "781",
     "word": "始める",
-    "furigana": "-",
+    "furigana": "はじめる",
     "meaning": "（待補充）",
-    "example": "始める。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "この前のテストでは、『始める』に関する問題が出た。",
+    "exampleMeaning": "上次考試出現了和「始める」相關的題目。",
     "level": "N4",
-    "exampleFurigana": "始(はじ)める(-)。"
+    "exampleFurigana": "この前(まえ)のテストでは、『始め(はじめ)る』に関す(かんす)る問題(もんだい)が出た(でた)。"
   },
   {
     "id": "782",
     "word": "娘",
-    "furigana": "-",
+    "furigana": "むすめ",
     "meaning": "（待補充）",
-    "example": "娘。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "母は私に『娘』を忘れないようにと言った。",
+    "exampleMeaning": "媽媽提醒我不要忘記「娘」。",
     "level": "N4",
-    "exampleFurigana": "娘(-)。"
+    "exampleFurigana": "母(はは)は私(わたし)に『娘(むすめ)』を忘れ(わすれ)ないようにと言った(いった)。"
   },
   {
     "id": "783",
     "word": "子",
-    "furigana": "-",
+    "furigana": "こ",
     "meaning": "（待補充）",
-    "example": "子。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "旅行の計画を立てるとき、『子』がとても役に立つ。",
+    "exampleMeaning": "規劃旅行時，「子」非常有幫助。",
     "level": "N4",
-    "exampleFurigana": "子(-)。"
+    "exampleFurigana": "旅行(りょこう)の計画(けいかく)を立て(たて)るとき、『子(こ)』がとても役に立つ(やくにたつ)。"
   },
   {
     "id": "784",
     "word": "字",
-    "furigana": "-",
+    "furigana": "じ",
     "meaning": "（待補充）",
-    "example": "字。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "初めて聞いたときは、『字』の意味がよく分からなかった。",
+    "exampleMeaning": "第一次聽到時，我不太懂「字」的意思。",
     "level": "N4",
-    "exampleFurigana": "字(-)。"
+    "exampleFurigana": "初めて(はじめて)聞い(きい)たときは、『字(じ)』の意味(いみ)がよく分か(わか)らなかった。"
   },
   {
     "id": "785",
     "word": "季節",
-    "furigana": "-",
+    "furigana": "きせつ",
     "meaning": "（待補充）",
-    "example": "季節。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "同僚と相談して、『季節』を先に進めることにした。",
+    "exampleMeaning": "和同事討論後，我們決定先處理「季節」。",
     "level": "N4",
-    "exampleFurigana": "季節(-)。"
+    "exampleFurigana": "同僚(どうりょう)と相談(そうだん)して、『季節(きせつ)』を先に(さきに)進め(すすめ)ることにした。"
   },
   {
     "id": "786",
     "word": "安全",
-    "furigana": "-",
+    "furigana": "あんぜん",
     "meaning": "（待補充）",
-    "example": "安全。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "店員さんに質問したら、『安全』を丁寧に教えてくれた。",
+    "exampleMeaning": "我問店員後，他很仔細地告訴我「安全」。",
     "level": "N4",
-    "exampleFurigana": "安全(-)。"
+    "exampleFurigana": "店員(てんいん)さんに質問(しつもん)したら、『安全(あんぜん)』を丁寧(ていねい)に教え(おしえ)てくれた。"
   },
   {
     "id": "787",
     "word": "安心",
-    "furigana": "-",
+    "furigana": "あんしん",
     "meaning": "（待補充）",
-    "example": "安心。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "朝のラジオでは、『安心』について話していた。",
+    "exampleMeaning": "早上的廣播在談「安心」。",
     "level": "N4",
-    "exampleFurigana": "安心(-)。"
+    "exampleFurigana": "朝(あさ)のラジオでは、『安心(あんしん)』について話し(はなし)ていた。"
   },
   {
     "id": "788",
     "word": "客",
-    "furigana": "-",
+    "furigana": "きゃく",
     "meaning": "（待補充）",
-    "example": "客。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生に注意されて、『客』の大切さが分かった。",
+    "exampleMeaning": "被老師提醒後，我明白了「客」的重要性。",
     "level": "N4",
-    "exampleFurigana": "客(-)。"
+    "exampleFurigana": "先生(せんせい)に注意(ちゅうい)されて、『客(きゃく)』の大切(たいせつ)さが分か(わか)った。"
   },
   {
     "id": "789",
     "word": "家内",
-    "furigana": "-",
+    "furigana": "かない",
     "meaning": "（待補充）",
-    "example": "家内。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "週末は家族と『家内』のことをゆっくり話した。",
+    "exampleMeaning": "週末我和家人慢慢聊了「家内」這件事。",
     "level": "N4",
-    "exampleFurigana": "家内(-)。"
+    "exampleFurigana": "週末(しゅうまつ)は家族(かぞく)と『家内(かない)』のことをゆっくり話し(はなし)た。"
   },
   {
     "id": "790",
     "word": "寂しい",
-    "furigana": "-",
+    "furigana": "さびしい",
     "meaning": "（待補充）",
-    "example": "寂しい。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "このアプリには、『寂しい』を練習する機能がある。",
+    "exampleMeaning": "這個 App 有練習「寂しい」的功能。",
     "level": "N4",
-    "exampleFurigana": "寂しい(-)。"
+    "exampleFurigana": "このアプリには、『寂しい(さびしい)』を練習(れんしゅう)する機能(きのう)がある。"
   },
   {
     "id": "791",
     "word": "寄る",
-    "furigana": "-",
+    "furigana": "よる",
     "meaning": "（待補充）",
-    "example": "寄る。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "説明を読んだら、『寄る』の違いがはっきり分かった。",
+    "exampleMeaning": "看完說明後，我清楚懂了「寄る」的差異。",
     "level": "N4",
-    "exampleFurigana": "寄る(-)。"
+    "exampleFurigana": "説明(せつめい)を読んだ(よんだ)ら、『寄る(よる)』の違い(ちがい)がはっきり分か(わか)った。"
   },
   {
     "id": "792",
     "word": "寝坊",
-    "furigana": "-",
+    "furigana": "ねぼう",
     "meaning": "（待補充）",
-    "example": "寝坊。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "職場では、『寝坊』を正しく使うことが求められる。",
+    "exampleMeaning": "在職場上，會要求正確使用「寝坊」。",
     "level": "N4",
-    "exampleFurigana": "寝坊(-)。"
+    "exampleFurigana": "職場(しょくば)では、『寝坊(ねぼう)』を正しく(ただしく)使う(つかう)ことが求め(もとめ)られる。"
   },
   {
     "id": "793",
     "word": "寺",
-    "furigana": "-",
+    "furigana": "てら",
     "meaning": "（待補充）",
-    "example": "寺。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先輩の話を聞いて、『寺』への考え方が変わった。",
+    "exampleMeaning": "聽完前輩的話後，我對「寺」的看法改變了。",
     "level": "N4",
-    "exampleFurigana": "寺(-)。"
+    "exampleFurigana": "先輩(せんぱい)の話(はなし)を聞い(きい)て、『寺(てら)』への考え方(かんがえかた)が変わ(かわ)った。"
   },
   {
     "id": "794",
     "word": "将来",
-    "furigana": "-",
+    "furigana": "しょうらい",
     "meaning": "（待補充）",
-    "example": "将来。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "図書館で調べたら、『将来』に関する本が見つかった。",
+    "exampleMeaning": "在圖書館查資料時，找到了和「将来」有關的書。",
     "level": "N4",
-    "exampleFurigana": "将来(-)。"
+    "exampleFurigana": "図書館(としょかん)で調べ(しらべ)たら、『将来(しょうらい)』に関す(かんす)る本(ほん)が見つ(みつ)かった。"
   },
   {
     "id": "795",
     "word": "尋ねる",
-    "furigana": "-",
+    "furigana": "たずねる",
     "meaning": "（待補充）",
-    "example": "尋ねる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "今日の宿題は、『尋ねる』を使って文を作ることだ。",
+    "exampleMeaning": "今天的作業是用「尋ねる」造句。",
     "level": "N4",
-    "exampleFurigana": "尋ねる(-)。"
+    "exampleFurigana": "今日(きょう)の宿題(しゅくだい)は、『尋ね(たずね)る』を使って(つかって)文(ぶん)を作る(つくる)ことだ。"
   },
   {
     "id": "796",
     "word": "小学校",
-    "furigana": "-",
+    "furigana": "しょうがっこう",
     "meaning": "（待補充）",
-    "example": "小学校。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "昨日、友だちとの会話で『小学校』という言葉が出てきた。",
+    "exampleMeaning": "昨天和朋友聊天時，提到了「小学校」這個詞。",
     "level": "N4",
-    "exampleFurigana": "小学校(-)。"
+    "exampleFurigana": "昨日(きのう)、友(とも)だちとの会話(かいわ)で『小学校(しょうがっこう)』という言葉(ことば)が出て(でて)きた。"
   },
   {
     "id": "797",
     "word": "小説",
-    "furigana": "-",
+    "furigana": "しょうせつ",
     "meaning": "（待補充）",
-    "example": "小説。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生は授業で『小説』の使い方を分かりやすく説明してくれた。",
+    "exampleMeaning": "老師在課堂上清楚地說明了「小説」的用法。",
     "level": "N4",
-    "exampleFurigana": "小説(-)。"
+    "exampleFurigana": "先生(せんせい)は授業(じゅぎょう)で『小説(しょうせつ)』の使い方(つかいかた)を分か(わか)りやすく説明し(せつめいし)てくれた。"
   },
   {
     "id": "798",
     "word": "小鳥",
-    "furigana": "-",
+    "furigana": "ことり",
     "meaning": "（待補充）",
-    "example": "小鳥。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "会議のあとで、上司から『小鳥』について確認された。",
+    "exampleMeaning": "會議後，上司向我確認了「小鳥」這件事。",
     "level": "N4",
-    "exampleFurigana": "小鳥(-)。"
+    "exampleFurigana": "会議(かいぎ)のあとで、上司(じょうし)から『小鳥(ことり)』について確認さ(かくにんさ)れた。"
   },
   {
     "id": "799",
     "word": "届ける",
-    "furigana": "-",
+    "furigana": "とどける",
     "meaning": "（待補充）",
-    "example": "届ける。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "駅で案内を見たら、『届ける』と書いてあった。",
+    "exampleMeaning": "在車站看指示時，上面寫著「届ける」。",
     "level": "N4",
-    "exampleFurigana": "届ける(-)。"
+    "exampleFurigana": "駅(えき)で案内(あんない)を見た(みた)ら、『届け(とどけ)る』と書い(かい)てあった。"
   },
   {
     "id": "800",
     "word": "屋上",
-    "furigana": "-",
+    "furigana": "おくじょう",
     "meaning": "（待補充）",
-    "example": "屋上。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "ニュースを見ていると、『屋上』という表現をよく聞く。",
+    "exampleMeaning": "看新聞時，常常會聽到「屋上」這個表達。",
     "level": "N4",
-    "exampleFurigana": "屋上(-)。"
+    "exampleFurigana": "ニュースを見て(みて)いると、『屋上(おくじょう)』という表現(ひょうげん)をよく聞く(きく)。"
   },
   {
     "id": "801",
     "word": "展覧会",
-    "furigana": "-",
+    "furigana": "てんらんかい",
     "meaning": "（待補充）",
-    "example": "展覧会。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "この前のテストでは、『展覧会』に関する問題が出た。",
+    "exampleMeaning": "上次考試出現了和「展覧会」相關的題目。",
     "level": "N4",
-    "exampleFurigana": "展覧会(-)。"
+    "exampleFurigana": "この前(まえ)のテストでは、『展覧会(てんらんかい)』に関す(かんす)る問題(もんだい)が出た(でた)。"
   },
   {
     "id": "802",
     "word": "島",
-    "furigana": "-",
+    "furigana": "しま",
     "meaning": "（待補充）",
-    "example": "島。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "母は私に『島』を忘れないようにと言った。",
+    "exampleMeaning": "媽媽提醒我不要忘記「島」。",
     "level": "N4",
-    "exampleFurigana": "島(-)。"
+    "exampleFurigana": "母(はは)は私(わたし)に『島(しま)』を忘れ(わすれ)ないようにと言った(いった)。"
   },
   {
     "id": "803",
     "word": "工場",
-    "furigana": "-",
+    "furigana": "こうじょう",
     "meaning": "（待補充）",
-    "example": "工場。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "旅行の計画を立てるとき、『工場』がとても役に立つ。",
+    "exampleMeaning": "規劃旅行時，「工場」非常有幫助。",
     "level": "N4",
-    "exampleFurigana": "工場(-)。"
+    "exampleFurigana": "旅行(りょこう)の計画(けいかく)を立て(たて)るとき、『工場(こうじょう)』がとても役に立つ(やくにたつ)。"
   },
   {
     "id": "804",
     "word": "工業",
-    "furigana": "-",
+    "furigana": "こうぎょう",
     "meaning": "（待補充）",
-    "example": "工業。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "初めて聞いたときは、『工業』の意味がよく分からなかった。",
+    "exampleMeaning": "第一次聽到時，我不太懂「工業」的意思。",
     "level": "N4",
-    "exampleFurigana": "工業(-)。"
+    "exampleFurigana": "初めて(はじめて)聞い(きい)たときは、『工業(こうぎょう)』の意味(いみ)がよく分か(わか)らなかった。"
   },
   {
     "id": "805",
     "word": "差し上げる",
-    "furigana": "-",
+    "furigana": "さしあげる",
     "meaning": "（待補充）",
-    "example": "差し上げる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "同僚と相談して、『差し上げる』を先に進めることにした。",
+    "exampleMeaning": "和同事討論後，我們決定先處理「差し上げる」。",
     "level": "N4",
-    "exampleFurigana": "差し上げる(-)。"
+    "exampleFurigana": "同僚(どうりょう)と相談(そうだん)して、『差し上げ(さしあげ)る』を先に(さきに)進め(すすめ)ることにした。"
   },
   {
     "id": "806",
     "word": "市",
-    "furigana": "-",
+    "furigana": "し",
     "meaning": "（待補充）",
-    "example": "市。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "店員さんに質問したら、『市』を丁寧に教えてくれた。",
+    "exampleMeaning": "我問店員後，他很仔細地告訴我「市」。",
     "level": "N4",
-    "exampleFurigana": "市(-)。"
+    "exampleFurigana": "店員(てんいん)さんに質問(しつもん)したら、『市(し)』を丁寧(ていねい)に教え(おしえ)てくれた。"
   },
   {
     "id": "807",
     "word": "市民",
-    "furigana": "-",
+    "furigana": "しみん",
     "meaning": "（待補充）",
-    "example": "市民。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "朝のラジオでは、『市民』について話していた。",
+    "exampleMeaning": "早上的廣播在談「市民」。",
     "level": "N4",
-    "exampleFurigana": "市民(-)。"
+    "exampleFurigana": "朝(あさ)のラジオでは、『市民(しみん)』について話し(はなし)ていた。"
   },
   {
     "id": "808",
     "word": "布団",
-    "furigana": "-",
+    "furigana": "ふとん",
     "meaning": "（待補充）",
-    "example": "布団。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生に注意されて、『布団』の大切さが分かった。",
+    "exampleMeaning": "被老師提醒後，我明白了「布団」的重要性。",
     "level": "N4",
-    "exampleFurigana": "布団(-)。"
+    "exampleFurigana": "先生(せんせい)に注意(ちゅうい)されて、『布団(ふとん)』の大切(たいせつ)さが分か(わか)った。"
   },
   {
     "id": "809",
     "word": "席",
-    "furigana": "-",
+    "furigana": "せき",
     "meaning": "（待補充）",
-    "example": "席。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "週末は家族と『席』のことをゆっくり話した。",
+    "exampleMeaning": "週末我和家人慢慢聊了「席」這件事。",
     "level": "N4",
-    "exampleFurigana": "席(-)。"
+    "exampleFurigana": "週末(しゅうまつ)は家族(かぞく)と『席(せき)』のことをゆっくり話し(はなし)た。"
   },
   {
     "id": "810",
     "word": "帰り",
-    "furigana": "-",
+    "furigana": "かえり",
     "meaning": "（待補充）",
-    "example": "帰り。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "このアプリには、『帰り』を練習する機能がある。",
+    "exampleMeaning": "這個 App 有練習「帰り」的功能。",
     "level": "N4",
-    "exampleFurigana": "帰り(-)。"
+    "exampleFurigana": "このアプリには、『帰り(かえり)』を練習(れんしゅう)する機能(きのう)がある。"
   },
   {
     "id": "811",
     "word": "店員",
-    "furigana": "-",
+    "furigana": "てんいん",
     "meaning": "（待補充）",
-    "example": "店員。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "説明を読んだら、『店員』の違いがはっきり分かった。",
+    "exampleMeaning": "看完說明後，我清楚懂了「店員」的差異。",
     "level": "N4",
-    "exampleFurigana": "店員(-)。"
+    "exampleFurigana": "説明(せつめい)を読んだ(よんだ)ら、『店員(てんいん)』の違い(ちがい)がはっきり分か(わか)った。"
   },
   {
     "id": "812",
     "word": "建てる",
-    "furigana": "-",
+    "furigana": "たてる",
     "meaning": "（待補充）",
-    "example": "建てる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "職場では、『建てる』を正しく使うことが求められる。",
+    "exampleMeaning": "在職場上，會要求正確使用「建てる」。",
     "level": "N4",
-    "exampleFurigana": "建てる(-)。"
+    "exampleFurigana": "職場(しょくば)では、『建て(たて)る』を正しく(ただしく)使う(つかう)ことが求め(もとめ)られる。"
   },
   {
     "id": "813",
     "word": "引き出し",
-    "furigana": "-",
+    "furigana": "ひきだし",
     "meaning": "（待補充）",
-    "example": "引き出し。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先輩の話を聞いて、『引き出し』への考え方が変わった。",
+    "exampleMeaning": "聽完前輩的話後，我對「引き出し」的看法改變了。",
     "level": "N4",
-    "exampleFurigana": "引き出し(-)。"
+    "exampleFurigana": "先輩(せんぱい)の話(はなし)を聞い(きい)て、『引き出し(ひきだし)』への考え方(かんがえかた)が変わ(かわ)った。"
   },
   {
     "id": "814",
     "word": "引き出す",
-    "furigana": "-",
+    "furigana": "ひきだす",
     "meaning": "（待補充）",
-    "example": "引き出す。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "図書館で調べたら、『引き出す』に関する本が見つかった。",
+    "exampleMeaning": "在圖書館查資料時，找到了和「引き出す」有關的書。",
     "level": "N4",
-    "exampleFurigana": "引き出す(-)。"
+    "exampleFurigana": "図書館(としょかん)で調べ(しらべ)たら、『引き出す(ひきだす)』に関す(かんす)る本(ほん)が見つ(みつ)かった。"
   },
   {
     "id": "815",
     "word": "引っ越す",
-    "furigana": "-",
+    "furigana": "ひっこす",
     "meaning": "（待補充）",
-    "example": "引っ越す。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "今日の宿題は、『引っ越す』を使って文を作ることだ。",
+    "exampleMeaning": "今天的作業是用「引っ越す」造句。",
     "level": "N4",
-    "exampleFurigana": "引っ越す(-)。"
+    "exampleFurigana": "今日(きょう)の宿題(しゅくだい)は、『引っ越す(ひっこす)』を使って(つかって)文(ぶん)を作る(つくる)ことだ。"
   },
   {
     "id": "816",
     "word": "形",
-    "furigana": "-",
+    "furigana": "かたち",
     "meaning": "（待補充）",
-    "example": "形。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "昨日、友だちとの会話で『形』という言葉が出てきた。",
+    "exampleMeaning": "昨天和朋友聊天時，提到了「形」這個詞。",
     "level": "N4",
-    "exampleFurigana": "形(-)。"
+    "exampleFurigana": "昨日(きのう)、友(とも)だちとの会話(かいわ)で『形(かたち)』という言葉(ことば)が出て(でて)きた。"
   },
   {
     "id": "817",
     "word": "役に立つ",
-    "furigana": "-",
+    "furigana": "やくにたつ",
     "meaning": "（待補充）",
-    "example": "役に立つ。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生は授業で『役に立つ』の使い方を分かりやすく説明してくれた。",
+    "exampleMeaning": "老師在課堂上清楚地說明了「役に立つ」的用法。",
     "level": "N4",
-    "exampleFurigana": "役に立つ(-)。"
+    "exampleFurigana": "先生(せんせい)は授業(じゅぎょう)で『役に立つ(やくにたつ)』の使い方(つかいかた)を分か(わか)りやすく説明し(せつめいし)てくれた。"
   },
   {
     "id": "818",
     "word": "彼",
-    "furigana": "-",
+    "furigana": "かれ",
     "meaning": "（待補充）",
-    "example": "彼。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "会議のあとで、上司から『彼』について確認された。",
+    "exampleMeaning": "會議後，上司向我確認了「彼」這件事。",
     "level": "N4",
-    "exampleFurigana": "彼(-)。"
+    "exampleFurigana": "会議(かいぎ)のあとで、上司(じょうし)から『彼(かれ)』について確認さ(かくにんさ)れた。"
   },
   {
     "id": "819",
     "word": "彼ら",
-    "furigana": "-",
+    "furigana": "かれら",
     "meaning": "（待補充）",
-    "example": "彼ら。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "駅で案内を見たら、『彼ら』と書いてあった。",
+    "exampleMeaning": "在車站看指示時，上面寫著「彼ら」。",
     "level": "N4",
-    "exampleFurigana": "彼ら(-)。"
+    "exampleFurigana": "駅(えき)で案内(あんない)を見た(みた)ら、『彼ら(かれら)』と書い(かい)てあった。"
   },
   {
     "id": "820",
     "word": "彼女",
-    "furigana": "-",
+    "furigana": "かのじょ",
     "meaning": "（待補充）",
-    "example": "彼女。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "ニュースを見ていると、『彼女』という表現をよく聞く。",
+    "exampleMeaning": "看新聞時，常常會聽到「彼女」這個表達。",
     "level": "N4",
-    "exampleFurigana": "彼女(-)。"
+    "exampleFurigana": "ニュースを見て(みて)いると、『彼女(かのじょ)』という表現(ひょうげん)をよく聞く(きく)。"
   },
   {
     "id": "821",
     "word": "御主人",
-    "furigana": "-",
+    "furigana": "ごしゅじん",
     "meaning": "（待補充）",
-    "example": "御主人。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "この前のテストでは、『御主人』に関する問題が出た。",
+    "exampleMeaning": "上次考試出現了和「御主人」相關的題目。",
     "level": "N4",
-    "exampleFurigana": "御主人(-)。"
+    "exampleFurigana": "この前(まえ)のテストでは、『御主人(ごしゅじん)』に関す(かんす)る問題(もんだい)が出た(でた)。"
   },
   {
     "id": "822",
     "word": "復習",
-    "furigana": "-",
+    "furigana": "ふくしゅう",
     "meaning": "（待補充）",
-    "example": "復習。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "母は私に『復習』を忘れないようにと言った。",
+    "exampleMeaning": "媽媽提醒我不要忘記「復習」。",
     "level": "N4",
-    "exampleFurigana": "復習(-)。"
+    "exampleFurigana": "母(はは)は私(わたし)に『復習(ふくしゅう)』を忘れ(わすれ)ないようにと言った(いった)。"
   },
   {
     "id": "823",
     "word": "心",
-    "furigana": "-",
+    "furigana": "こころ",
     "meaning": "（待補充）",
-    "example": "心。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "旅行の計画を立てるとき、『心』がとても役に立つ。",
+    "exampleMeaning": "規劃旅行時，「心」非常有幫助。",
     "level": "N4",
-    "exampleFurigana": "心(-)。"
+    "exampleFurigana": "旅行(りょこう)の計画(けいかく)を立て(たて)るとき、『心(こころ)』がとても役に立つ(やくにたつ)。"
   },
   {
     "id": "824",
     "word": "心配",
-    "furigana": "-",
+    "furigana": "しんぱい",
     "meaning": "（待補充）",
-    "example": "心配。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "初めて聞いたときは、『心配』の意味がよく分からなかった。",
+    "exampleMeaning": "第一次聽到時，我不太懂「心配」的意思。",
     "level": "N4",
-    "exampleFurigana": "心配(-)。"
+    "exampleFurigana": "初めて(はじめて)聞い(きい)たときは、『心配(しんぱい)』の意味(いみ)がよく分か(わか)らなかった。"
   },
   {
     "id": "825",
     "word": "必ず",
-    "furigana": "-",
+    "furigana": "かならず",
     "meaning": "（待補充）",
-    "example": "必ず。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "同僚と相談して、『必ず』を先に進めることにした。",
+    "exampleMeaning": "和同事討論後，我們決定先處理「必ず」。",
     "level": "N4",
-    "exampleFurigana": "必ず(-)。"
+    "exampleFurigana": "同僚(どうりょう)と相談(そうだん)して、『必ず(かならず)』を先に(さきに)進め(すすめ)ることにした。"
   },
   {
     "id": "826",
     "word": "必要",
-    "furigana": "-",
+    "furigana": "ひつよう",
     "meaning": "（待補充）",
-    "example": "必要。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "店員さんに質問したら、『必要』を丁寧に教えてくれた。",
+    "exampleMeaning": "我問店員後，他很仔細地告訴我「必要」。",
     "level": "N4",
-    "exampleFurigana": "必要(-)。"
+    "exampleFurigana": "店員(てんいん)さんに質問(しつもん)したら、『必要(ひつよう)』を丁寧(ていねい)に教え(おしえ)てくれた。"
   },
   {
     "id": "827",
     "word": "忘れ物",
-    "furigana": "-",
+    "furigana": "わすれもの",
     "meaning": "（待補充）",
-    "example": "忘れ物。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "朝のラジオでは、『忘れ物』について話していた。",
+    "exampleMeaning": "早上的廣播在談「忘れ物」。",
     "level": "N4",
-    "exampleFurigana": "忘れ物(-)。"
+    "exampleFurigana": "朝(あさ)のラジオでは、『忘れ物(わすれもの)』について話し(はなし)ていた。"
   },
   {
     "id": "828",
     "word": "怒る",
-    "furigana": "-",
+    "furigana": "いかる",
     "meaning": "（待補充）",
-    "example": "怒る。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生に注意されて、『怒る』の大切さが分かった。",
+    "exampleMeaning": "被老師提醒後，我明白了「怒る」的重要性。",
     "level": "N4",
-    "exampleFurigana": "怒る(-)。"
+    "exampleFurigana": "先生(せんせい)に注意(ちゅうい)されて、『怒る(いかる)』の大切(たいせつ)さが分か(わか)った。"
   },
   {
     "id": "829",
     "word": "怖い",
-    "furigana": "-",
+    "furigana": "こわい",
     "meaning": "（待補充）",
-    "example": "怖い。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "週末は家族と『怖い』のことをゆっくり話した。",
+    "exampleMeaning": "週末我和家人慢慢聊了「怖い」這件事。",
     "level": "N4",
-    "exampleFurigana": "怖い(-)。"
+    "exampleFurigana": "週末(しゅうまつ)は家族(かぞく)と『怖い(こわい)』のことをゆっくり話し(はなし)た。"
   },
   {
     "id": "830",
     "word": "思い出す",
-    "furigana": "-",
+    "furigana": "おもいだす",
     "meaning": "（待補充）",
-    "example": "思い出す。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "このアプリには、『思い出す』を練習する機能がある。",
+    "exampleMeaning": "這個 App 有練習「思い出す」的功能。",
     "level": "N4",
-    "exampleFurigana": "思い出す(-)。"
+    "exampleFurigana": "このアプリには、『思い出す(おもいだす)』を練習(れんしゅう)する機能(きのう)がある。"
   },
   {
     "id": "831",
     "word": "思う",
-    "furigana": "-",
+    "furigana": "おもう",
     "meaning": "（待補充）",
-    "example": "思う。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "説明を読んだら、『思う』の違いがはっきり分かった。",
+    "exampleMeaning": "看完說明後，我清楚懂了「思う」的差異。",
     "level": "N4",
-    "exampleFurigana": "思う(-)。"
+    "exampleFurigana": "説明(せつめい)を読んだ(よんだ)ら、『思う(おもう)』の違い(ちがい)がはっきり分か(わか)った。"
   },
   {
     "id": "832",
     "word": "急",
-    "furigana": "-",
+    "furigana": "きゅう",
     "meaning": "（待補充）",
-    "example": "急。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "職場では、『急』を正しく使うことが求められる。",
+    "exampleMeaning": "在職場上，會要求正確使用「急」。",
     "level": "N4",
-    "exampleFurigana": "急(-)。"
+    "exampleFurigana": "職場(しょくば)では、『急(きゅう)』を正しく(ただしく)使う(つかう)ことが求め(もとめ)られる。"
   },
   {
     "id": "833",
     "word": "急ぐ",
-    "furigana": "-",
+    "furigana": "いそぐ",
     "meaning": "（待補充）",
-    "example": "急ぐ。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先輩の話を聞いて、『急ぐ』への考え方が変わった。",
+    "exampleMeaning": "聽完前輩的話後，我對「急ぐ」的看法改變了。",
     "level": "N4",
-    "exampleFurigana": "急ぐ(-)。"
+    "exampleFurigana": "先輩(せんぱい)の話(はなし)を聞い(きい)て、『急ぐ(いそぐ)』への考え方(かんがえかた)が変わ(かわ)った。"
   },
   {
     "id": "834",
     "word": "急行",
-    "furigana": "-",
+    "furigana": "きゅうこう",
     "meaning": "（待補充）",
-    "example": "急行。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "図書館で調べたら、『急行』に関する本が見つかった。",
+    "exampleMeaning": "在圖書館查資料時，找到了和「急行」有關的書。",
     "level": "N4",
-    "exampleFurigana": "急行(-)。"
+    "exampleFurigana": "図書館(としょかん)で調べ(しらべ)たら、『急行(きゅうこう)』に関す(かんす)る本(ほん)が見つ(みつ)かった。"
   },
   {
     "id": "835",
     "word": "恥ずかしい",
-    "furigana": "-",
+    "furigana": "はずかしい",
     "meaning": "（待補充）",
-    "example": "恥ずかしい。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "今日の宿題は、『恥ずかしい』を使って文を作ることだ。",
+    "exampleMeaning": "今天的作業是用「恥ずかしい」造句。",
     "level": "N4",
-    "exampleFurigana": "恥ずかしい(-)。"
+    "exampleFurigana": "今日(きょう)の宿題(しゅくだい)は、『恥ずかしい(はずかしい)』を使って(つかって)文(ぶん)を作る(つくる)ことだ。"
   },
   {
     "id": "836",
     "word": "息子",
-    "furigana": "-",
+    "furigana": "むすこ",
     "meaning": "（待補充）",
-    "example": "息子。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "昨日、友だちとの会話で『息子』という言葉が出てきた。",
+    "exampleMeaning": "昨天和朋友聊天時，提到了「息子」這個詞。",
     "level": "N4",
-    "exampleFurigana": "息子(-)。"
+    "exampleFurigana": "昨日(きのう)、友(とも)だちとの会話(かいわ)で『息子(むすこ)』という言葉(ことば)が出て(でて)きた。"
   },
   {
     "id": "837",
     "word": "悲しい",
-    "furigana": "-",
+    "furigana": "かなしい",
     "meaning": "（待補充）",
-    "example": "悲しい。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生は授業で『悲しい』の使い方を分かりやすく説明してくれた。",
+    "exampleMeaning": "老師在課堂上清楚地說明了「悲しい」的用法。",
     "level": "N4",
-    "exampleFurigana": "悲しい(-)。"
+    "exampleFurigana": "先生(せんせい)は授業(じゅぎょう)で『悲しい(かなしい)』の使い方(つかいかた)を分か(わか)りやすく説明し(せつめいし)てくれた。"
   },
   {
     "id": "838",
     "word": "意見",
-    "furigana": "-",
+    "furigana": "いけん",
     "meaning": "（待補充）",
-    "example": "意見。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "会議のあとで、上司から『意見』について確認された。",
+    "exampleMeaning": "會議後，上司向我確認了「意見」這件事。",
     "level": "N4",
-    "exampleFurigana": "意見(-)。"
+    "exampleFurigana": "会議(かいぎ)のあとで、上司(じょうし)から『意見(いけん)』について確認さ(かくにんさ)れた。"
   },
   {
     "id": "839",
     "word": "慣れる",
-    "furigana": "-",
+    "furigana": "なれる",
     "meaning": "（待補充）",
-    "example": "慣れる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "駅で案内を見たら、『慣れる』と書いてあった。",
+    "exampleMeaning": "在車站看指示時，上面寫著「慣れる」。",
     "level": "N4",
-    "exampleFurigana": "慣れる(-)。"
+    "exampleFurigana": "駅(えき)で案内(あんない)を見た(みた)ら、『慣れ(なれ)る』と書い(かい)てあった。"
   },
   {
     "id": "840",
     "word": "戦争",
-    "furigana": "-",
+    "furigana": "せんそう",
     "meaning": "（待補充）",
-    "example": "戦争。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "ニュースを見ていると、『戦争』という表現をよく聞く。",
+    "exampleMeaning": "看新聞時，常常會聽到「戦争」這個表達。",
     "level": "N4",
-    "exampleFurigana": "戦争(-)。"
+    "exampleFurigana": "ニュースを見て(みて)いると、『戦争(せんそう)』という表現(ひょうげん)をよく聞く(きく)。"
   },
   {
     "id": "841",
     "word": "戻る",
-    "furigana": "-",
+    "furigana": "もどる",
     "meaning": "（待補充）",
-    "example": "戻る。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "この前のテストでは、『戻る』に関する問題が出た。",
+    "exampleMeaning": "上次考試出現了和「戻る」相關的題目。",
     "level": "N4",
-    "exampleFurigana": "戻る(-)。"
+    "exampleFurigana": "この前(まえ)のテストでは、『戻る(もどる)』に関す(かんす)る問題(もんだい)が出た(でた)。"
   },
   {
     "id": "842",
     "word": "手伝う",
-    "furigana": "-",
+    "furigana": "てつだう",
     "meaning": "（待補充）",
-    "example": "手伝う。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "母は私に『手伝う』を忘れないようにと言った。",
+    "exampleMeaning": "媽媽提醒我不要忘記「手伝う」。",
     "level": "N4",
-    "exampleFurigana": "手伝う(-)。"
+    "exampleFurigana": "母(はは)は私(わたし)に『手伝う(てつだう)』を忘れ(わすれ)ないようにと言った(いった)。"
   },
   {
     "id": "843",
     "word": "手袋",
-    "furigana": "-",
+    "furigana": "てぶくろ",
     "meaning": "（待補充）",
-    "example": "手袋。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "旅行の計画を立てるとき、『手袋』がとても役に立つ。",
+    "exampleMeaning": "規劃旅行時，「手袋」非常有幫助。",
     "level": "N4",
-    "exampleFurigana": "手袋(-)。"
+    "exampleFurigana": "旅行(りょこう)の計画(けいかく)を立て(たて)るとき、『手袋(てぶくろ)』がとても役に立つ(やくにたつ)。"
   },
   {
     "id": "844",
     "word": "打つ",
-    "furigana": "-",
+    "furigana": "うつ",
     "meaning": "（待補充）",
-    "example": "打つ。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "初めて聞いたときは、『打つ』の意味がよく分からなかった。",
+    "exampleMeaning": "第一次聽到時，我不太懂「打つ」的意思。",
     "level": "N4",
-    "exampleFurigana": "打つ(-)。"
+    "exampleFurigana": "初めて(はじめて)聞い(きい)たときは、『打つ(うつ)』の意味(いみ)がよく分か(わか)らなかった。"
   },
   {
     "id": "845",
     "word": "払う",
-    "furigana": "-",
+    "furigana": "はらう",
     "meaning": "（待補充）",
-    "example": "払う。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "同僚と相談して、『払う』を先に進めることにした。",
+    "exampleMeaning": "和同事討論後，我們決定先處理「払う」。",
     "level": "N4",
-    "exampleFurigana": "払う(-)。"
+    "exampleFurigana": "同僚(どうりょう)と相談(そうだん)して、『払う(はらう)』を先に(さきに)進め(すすめ)ることにした。"
   },
   {
     "id": "846",
     "word": "承知",
-    "furigana": "-",
+    "furigana": "しょうち",
     "meaning": "（待補充）",
-    "example": "承知。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "店員さんに質問したら、『承知』を丁寧に教えてくれた。",
+    "exampleMeaning": "我問店員後，他很仔細地告訴我「承知」。",
     "level": "N4",
-    "exampleFurigana": "承知(-)。"
+    "exampleFurigana": "店員(てんいん)さんに質問(しつもん)したら、『承知(しょうち)』を丁寧(ていねい)に教え(おしえ)てくれた。"
   },
   {
     "id": "847",
     "word": "技術",
-    "furigana": "-",
+    "furigana": "ぎじゅつ",
     "meaning": "（待補充）",
-    "example": "技術。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "朝のラジオでは、『技術』について話していた。",
+    "exampleMeaning": "早上的廣播在談「技術」。",
     "level": "N4",
-    "exampleFurigana": "技術(-)。"
+    "exampleFurigana": "朝(あさ)のラジオでは、『技術(ぎじゅつ)』について話し(はなし)ていた。"
   },
   {
     "id": "848",
     "word": "投げる",
-    "furigana": "-",
+    "furigana": "なげる",
     "meaning": "（待補充）",
-    "example": "投げる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生に注意されて、『投げる』の大切さが分かった。",
+    "exampleMeaning": "被老師提醒後，我明白了「投げる」的重要性。",
     "level": "N4",
-    "exampleFurigana": "投げる(-)。"
+    "exampleFurigana": "先生(せんせい)に注意(ちゅうい)されて、『投げ(なげ)る』の大切(たいせつ)さが分か(わか)った。"
   },
   {
     "id": "849",
     "word": "折る",
-    "furigana": "-",
+    "furigana": "おる",
     "meaning": "（待補充）",
-    "example": "折る。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "週末は家族と『折る』のことをゆっくり話した。",
+    "exampleMeaning": "週末我和家人慢慢聊了「折る」這件事。",
     "level": "N4",
-    "exampleFurigana": "折る(-)。"
+    "exampleFurigana": "週末(しゅうまつ)は家族(かぞく)と『折る(おる)』のことをゆっくり話し(はなし)た。"
   },
   {
     "id": "850",
     "word": "折れる",
-    "furigana": "-",
+    "furigana": "おれる",
     "meaning": "（待補充）",
-    "example": "折れる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "このアプリには、『折れる』を練習する機能がある。",
+    "exampleMeaning": "這個 App 有練習「折れる」的功能。",
     "level": "N4",
-    "exampleFurigana": "折れる(-)。"
+    "exampleFurigana": "このアプリには、『折れ(おれ)る』を練習(れんしゅう)する機能(きのう)がある。"
   },
   {
     "id": "851",
     "word": "押し入れ",
-    "furigana": "-",
+    "furigana": "おしいれ",
     "meaning": "（待補充）",
-    "example": "押し入れ。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "説明を読んだら、『押し入れ』の違いがはっきり分かった。",
+    "exampleMeaning": "看完說明後，我清楚懂了「押し入れ」的差異。",
     "level": "N4",
-    "exampleFurigana": "押し入れ(-)。"
+    "exampleFurigana": "説明(せつめい)を読んだ(よんだ)ら、『押し入れ(おしいれ)』の違い(ちがい)がはっきり分か(わか)った。"
   },
   {
     "id": "852",
     "word": "招待",
-    "furigana": "-",
+    "furigana": "しょうたい",
     "meaning": "（待補充）",
-    "example": "招待。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "職場では、『招待』を正しく使うことが求められる。",
+    "exampleMeaning": "在職場上，會要求正確使用「招待」。",
     "level": "N4",
-    "exampleFurigana": "招待(-)。"
+    "exampleFurigana": "職場(しょくば)では、『招待(しょうたい)』を正しく(ただしく)使う(つかう)ことが求め(もとめ)られる。"
   },
   {
     "id": "853",
     "word": "拝見",
-    "furigana": "-",
+    "furigana": "はいけん",
     "meaning": "（待補充）",
-    "example": "拝見。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先輩の話を聞いて、『拝見』への考え方が変わった。",
+    "exampleMeaning": "聽完前輩的話後，我對「拝見」的看法改變了。",
     "level": "N4",
-    "exampleFurigana": "拝見(-)。"
+    "exampleFurigana": "先輩(せんぱい)の話(はなし)を聞い(きい)て、『拝見(はいけん)』への考え方(かんがえかた)が変わ(かわ)った。"
   },
   {
     "id": "854",
     "word": "拾う",
-    "furigana": "-",
+    "furigana": "ひろう",
     "meaning": "（待補充）",
-    "example": "拾う。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "図書館で調べたら、『拾う』に関する本が見つかった。",
+    "exampleMeaning": "在圖書館查資料時，找到了和「拾う」有關的書。",
     "level": "N4",
-    "exampleFurigana": "拾う(-)。"
+    "exampleFurigana": "図書館(としょかん)で調べ(しらべ)たら、『拾う(ひろう)』に関す(かんす)る本(ほん)が見つ(みつ)かった。"
   },
   {
     "id": "855",
     "word": "指",
-    "furigana": "-",
+    "furigana": "ゆび",
     "meaning": "（待補充）",
-    "example": "指。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "今日の宿題は、『指』を使って文を作ることだ。",
+    "exampleMeaning": "今天的作業是用「指」造句。",
     "level": "N4",
-    "exampleFurigana": "指(-)。"
+    "exampleFurigana": "今日(きょう)の宿題(しゅくだい)は、『指(ゆび)』を使って(つかって)文(ぶん)を作る(つくる)ことだ。"
   },
   {
     "id": "856",
     "word": "指輪",
-    "furigana": "-",
+    "furigana": "ゆびわ",
     "meaning": "（待補充）",
-    "example": "指輪。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "昨日、友だちとの会話で『指輪』という言葉が出てきた。",
+    "exampleMeaning": "昨天和朋友聊天時，提到了「指輪」這個詞。",
     "level": "N4",
-    "exampleFurigana": "指輪(-)。"
+    "exampleFurigana": "昨日(きのう)、友(とも)だちとの会話(かいわ)で『指輪(ゆびわ)』という言葉(ことば)が出て(でて)きた。"
   },
   {
     "id": "857",
     "word": "捕まえる",
-    "furigana": "-",
+    "furigana": "つかまえる",
     "meaning": "（待補充）",
-    "example": "捕まえる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生は授業で『捕まえる』の使い方を分かりやすく説明してくれた。",
+    "exampleMeaning": "老師在課堂上清楚地說明了「捕まえる」的用法。",
     "level": "N4",
-    "exampleFurigana": "捕まえる(-)。"
+    "exampleFurigana": "先生(せんせい)は授業(じゅぎょう)で『捕ま(つかま)える』の使い方(つかいかた)を分か(わか)りやすく説明し(せつめいし)てくれた。"
   },
   {
     "id": "858",
     "word": "捨てる",
-    "furigana": "-",
+    "furigana": "すてる",
     "meaning": "（待補充）",
-    "example": "捨てる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "会議のあとで、上司から『捨てる』について確認された。",
+    "exampleMeaning": "會議後，上司向我確認了「捨てる」這件事。",
     "level": "N4",
-    "exampleFurigana": "捨てる(-)。"
+    "exampleFurigana": "会議(かいぎ)のあとで、上司(じょうし)から『捨て(すて)る』について確認さ(かくにんさ)れた。"
   },
   {
     "id": "859",
     "word": "掛ける",
-    "furigana": "-",
+    "furigana": "かける",
     "meaning": "（待補充）",
-    "example": "掛ける。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "駅で案内を見たら、『掛ける』と書いてあった。",
+    "exampleMeaning": "在車站看指示時，上面寫著「掛ける」。",
     "level": "N4",
-    "exampleFurigana": "掛ける(-)。"
+    "exampleFurigana": "駅(えき)で案内(あんない)を見た(みた)ら、『掛け(かけ)る』と書い(かい)てあった。"
   },
   {
     "id": "860",
     "word": "探す",
-    "furigana": "-",
+    "furigana": "さがす",
     "meaning": "（待補充）",
-    "example": "探す。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "ニュースを見ていると、『探す』という表現をよく聞く。",
+    "exampleMeaning": "看新聞時，常常會聽到「探す」這個表達。",
     "level": "N4",
-    "exampleFurigana": "探す(-)。"
+    "exampleFurigana": "ニュースを見て(みて)いると、『探す(さがす)』という表現(ひょうげん)をよく聞く(きく)。"
   },
   {
     "id": "861",
     "word": "揺れる",
-    "furigana": "-",
+    "furigana": "ゆれる",
     "meaning": "（待補充）",
-    "example": "揺れる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "この前のテストでは、『揺れる』に関する問題が出た。",
+    "exampleMeaning": "上次考試出現了和「揺れる」相關的題目。",
     "level": "N4",
-    "exampleFurigana": "揺れる(-)。"
+    "exampleFurigana": "この前(まえ)のテストでは、『揺れ(ゆれ)る』に関す(かんす)る問題(もんだい)が出た(でた)。"
   },
   {
     "id": "862",
     "word": "支度",
-    "furigana": "-",
+    "furigana": "したく",
     "meaning": "（待補充）",
-    "example": "支度。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "母は私に『支度』を忘れないようにと言った。",
+    "exampleMeaning": "媽媽提醒我不要忘記「支度」。",
     "level": "N4",
-    "exampleFurigana": "支度(-)。"
+    "exampleFurigana": "母(はは)は私(わたし)に『支度(したく)』を忘れ(わすれ)ないようにと言った(いった)。"
   },
   {
     "id": "863",
     "word": "放送",
-    "furigana": "-",
+    "furigana": "ほうそう",
     "meaning": "（待補充）",
-    "example": "放送。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "旅行の計画を立てるとき、『放送』がとても役に立つ。",
+    "exampleMeaning": "規劃旅行時，「放送」非常有幫助。",
     "level": "N4",
-    "exampleFurigana": "放送(-)。"
+    "exampleFurigana": "旅行(りょこう)の計画(けいかく)を立て(たて)るとき、『放送(ほうそう)』がとても役に立つ(やくにたつ)。"
   },
   {
     "id": "864",
     "word": "政治",
-    "furigana": "-",
+    "furigana": "せいじ",
     "meaning": "（待補充）",
-    "example": "政治。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "初めて聞いたときは、『政治』の意味がよく分からなかった。",
+    "exampleMeaning": "第一次聽到時，我不太懂「政治」的意思。",
     "level": "N4",
-    "exampleFurigana": "政治(-)。"
+    "exampleFurigana": "初めて(はじめて)聞い(きい)たときは、『政治(せいじ)』の意味(いみ)がよく分か(わか)らなかった。"
   },
   {
     "id": "865",
     "word": "故障",
-    "furigana": "-",
+    "furigana": "こしょう",
     "meaning": "（待補充）",
-    "example": "故障。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "同僚と相談して、『故障』を先に進めることにした。",
+    "exampleMeaning": "和同事討論後，我們決定先處理「故障」。",
     "level": "N4",
-    "exampleFurigana": "故障(-)。"
+    "exampleFurigana": "同僚(どうりょう)と相談(そうだん)して、『故障(こしょう)』を先に(さきに)進め(すすめ)ることにした。"
   },
   {
     "id": "866",
     "word": "教会",
-    "furigana": "-",
+    "furigana": "きょうかい",
     "meaning": "（待補充）",
-    "example": "教会。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "店員さんに質問したら、『教会』を丁寧に教えてくれた。",
+    "exampleMeaning": "我問店員後，他很仔細地告訴我「教会」。",
     "level": "N4",
-    "exampleFurigana": "教会(-)。"
+    "exampleFurigana": "店員(てんいん)さんに質問(しつもん)したら、『教会(きょうかい)』を丁寧(ていねい)に教え(おしえ)てくれた。"
   },
   {
     "id": "867",
     "word": "教育",
-    "furigana": "-",
+    "furigana": "きょういく",
     "meaning": "（待補充）",
-    "example": "教育。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "朝のラジオでは、『教育』について話していた。",
+    "exampleMeaning": "早上的廣播在談「教育」。",
     "level": "N4",
-    "exampleFurigana": "教育(-)。"
+    "exampleFurigana": "朝(あさ)のラジオでは、『教育(きょういく)』について話し(はなし)ていた。"
   },
   {
     "id": "868",
     "word": "数学",
-    "furigana": "-",
+    "furigana": "すうがく",
     "meaning": "（待補充）",
-    "example": "数学。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生に注意されて、『数学』の大切さが分かった。",
+    "exampleMeaning": "被老師提醒後，我明白了「数学」的重要性。",
     "level": "N4",
-    "exampleFurigana": "数学(-)。"
+    "exampleFurigana": "先生(せんせい)に注意(ちゅうい)されて、『数学(すうがく)』の大切(たいせつ)さが分か(わか)った。"
   },
   {
     "id": "869",
     "word": "文化",
-    "furigana": "-",
+    "furigana": "ぶんか",
     "meaning": "（待補充）",
-    "example": "文化。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "週末は家族と『文化』のことをゆっくり話した。",
+    "exampleMeaning": "週末我和家人慢慢聊了「文化」這件事。",
     "level": "N4",
-    "exampleFurigana": "文化(-)。"
+    "exampleFurigana": "週末(しゅうまつ)は家族(かぞく)と『文化(ぶんか)』のことをゆっくり話し(はなし)た。"
   },
   {
     "id": "870",
     "word": "文学",
-    "furigana": "-",
+    "furigana": "ぶんがく",
     "meaning": "（待補充）",
-    "example": "文学。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "このアプリには、『文学』を練習する機能がある。",
+    "exampleMeaning": "這個 App 有練習「文学」的功能。",
     "level": "N4",
-    "exampleFurigana": "文学(-)。"
+    "exampleFurigana": "このアプリには、『文学(ぶんがく)』を練習(れんしゅう)する機能(きのう)がある。"
   },
   {
     "id": "871",
     "word": "文法",
-    "furigana": "-",
+    "furigana": "ぶんぽう",
     "meaning": "（待補充）",
-    "example": "文法。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "説明を読んだら、『文法』の違いがはっきり分かった。",
+    "exampleMeaning": "看完說明後，我清楚懂了「文法」的差異。",
     "level": "N4",
-    "exampleFurigana": "文法(-)。"
+    "exampleFurigana": "説明(せつめい)を読んだ(よんだ)ら、『文法(ぶんぽう)』の違い(ちがい)がはっきり分か(わか)った。"
   },
   {
     "id": "872",
     "word": "新聞社",
-    "furigana": "-",
+    "furigana": "しんぶんしゃ",
     "meaning": "（待補充）",
-    "example": "新聞社。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "職場では、『新聞社』を正しく使うことが求められる。",
+    "exampleMeaning": "在職場上，會要求正確使用「新聞社」。",
     "level": "N4",
-    "exampleFurigana": "新聞(しんぶん)社(-)。"
+    "exampleFurigana": "職場(しょくば)では、『新聞社(しんぶんしゃ)』を正しく(ただしく)使う(つかう)ことが求め(もとめ)られる。"
   },
   {
     "id": "873",
     "word": "旅館",
-    "furigana": "-",
+    "furigana": "りょかん",
     "meaning": "（待補充）",
-    "example": "旅館。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先輩の話を聞いて、『旅館』への考え方が変わった。",
+    "exampleMeaning": "聽完前輩的話後，我對「旅館」的看法改變了。",
     "level": "N4",
-    "exampleFurigana": "旅館(-)。"
+    "exampleFurigana": "先輩(せんぱい)の話(はなし)を聞い(きい)て、『旅館(りょかん)』への考え方(かんがえかた)が変わ(かわ)った。"
   },
   {
     "id": "874",
     "word": "日",
-    "furigana": "-",
+    "furigana": "にち",
     "meaning": "（待補充）",
-    "example": "日。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "図書館で調べたら、『日』に関する本が見つかった。",
+    "exampleMeaning": "在圖書館查資料時，找到了和「日」有關的書。",
     "level": "N4",
-    "exampleFurigana": "日(-)。"
+    "exampleFurigana": "図書館(としょかん)で調べ(しらべ)たら、『日(にち)』に関す(かんす)る本(ほん)が見つ(みつ)かった。"
   },
   {
     "id": "875",
     "word": "日記",
-    "furigana": "-",
+    "furigana": "にっき",
     "meaning": "（待補充）",
-    "example": "日記。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "今日の宿題は、『日記』を使って文を作ることだ。",
+    "exampleMeaning": "今天的作業是用「日記」造句。",
     "level": "N4",
-    "exampleFurigana": "日記(-)。"
+    "exampleFurigana": "今日(きょう)の宿題(しゅくだい)は、『日記(にっき)』を使って(つかって)文(ぶん)を作る(つくる)ことだ。"
   },
   {
     "id": "876",
     "word": "昔",
-    "furigana": "-",
+    "furigana": "むかし",
     "meaning": "（待補充）",
-    "example": "昔。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "昨日、友だちとの会話で『昔』という言葉が出てきた。",
+    "exampleMeaning": "昨天和朋友聊天時，提到了「昔」這個詞。",
     "level": "N4",
-    "exampleFurigana": "昔(-)。"
+    "exampleFurigana": "昨日(きのう)、友(とも)だちとの会話(かいわ)で『昔(むかし)』という言葉(ことば)が出て(でて)きた。"
   },
   {
     "id": "877",
     "word": "星",
-    "furigana": "-",
+    "furigana": "ほし",
     "meaning": "（待補充）",
-    "example": "星。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生は授業で『星』の使い方を分かりやすく説明してくれた。",
+    "exampleMeaning": "老師在課堂上清楚地說明了「星」的用法。",
     "level": "N4",
-    "exampleFurigana": "星(-)。"
+    "exampleFurigana": "先生(せんせい)は授業(じゅぎょう)で『星(ほし)』の使い方(つかいかた)を分か(わか)りやすく説明し(せつめいし)てくれた。"
   },
   {
     "id": "878",
     "word": "昼休み",
-    "furigana": "-",
+    "furigana": "ひるやすみ",
     "meaning": "（待補充）",
-    "example": "昼休み。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "会議のあとで、上司から『昼休み』について確認された。",
+    "exampleMeaning": "會議後，上司向我確認了「昼休み」這件事。",
     "level": "N4",
-    "exampleFurigana": "昼休み(-)。"
+    "exampleFurigana": "会議(かいぎ)のあとで、上司(じょうし)から『昼休み(ひるやすみ)』について確認さ(かくにんさ)れた。"
   },
   {
     "id": "879",
     "word": "昼間",
-    "furigana": "-",
+    "furigana": "ひるま",
     "meaning": "（待補充）",
-    "example": "昼間。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "駅で案内を見たら、『昼間』と書いてあった。",
+    "exampleMeaning": "在車站看指示時，上面寫著「昼間」。",
     "level": "N4",
-    "exampleFurigana": "昼間(-)。"
+    "exampleFurigana": "駅(えき)で案内(あんない)を見た(みた)ら、『昼間(ひるま)』と書い(かい)てあった。"
   },
   {
     "id": "880",
     "word": "時代",
-    "furigana": "-",
+    "furigana": "じだい",
     "meaning": "（待補充）",
-    "example": "時代。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "ニュースを見ていると、『時代』という表現をよく聞く。",
+    "exampleMeaning": "看新聞時，常常會聽到「時代」這個表達。",
     "level": "N4",
-    "exampleFurigana": "時代(-)。"
+    "exampleFurigana": "ニュースを見て(みて)いると、『時代(じだい)』という表現(ひょうげん)をよく聞く(きく)。"
   },
   {
     "id": "881",
     "word": "普通",
-    "furigana": "-",
+    "furigana": "ふつう",
     "meaning": "（待補充）",
-    "example": "普通。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "この前のテストでは、『普通』に関する問題が出た。",
+    "exampleMeaning": "上次考試出現了和「普通」相關的題目。",
     "level": "N4",
-    "exampleFurigana": "普通(-)。"
+    "exampleFurigana": "この前(まえ)のテストでは、『普通(ふつう)』に関す(かんす)る問題(もんだい)が出た(でた)。"
   },
   {
     "id": "882",
     "word": "景色",
-    "furigana": "-",
+    "furigana": "けしき",
     "meaning": "（待補充）",
-    "example": "景色。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "母は私に『景色』を忘れないようにと言った。",
+    "exampleMeaning": "媽媽提醒我不要忘記「景色」。",
     "level": "N4",
-    "exampleFurigana": "景色(-)。"
+    "exampleFurigana": "母(はは)は私(わたし)に『景色(けしき)』を忘れ(わすれ)ないようにと言った(いった)。"
   },
   {
     "id": "883",
     "word": "暖房",
-    "furigana": "-",
+    "furigana": "だんぼう",
     "meaning": "（待補充）",
-    "example": "暖房。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "旅行の計画を立てるとき、『暖房』がとても役に立つ。",
+    "exampleMeaning": "規劃旅行時，「暖房」非常有幫助。",
     "level": "N4",
-    "exampleFurigana": "暖房(-)。"
+    "exampleFurigana": "旅行(りょこう)の計画(けいかく)を立て(たて)るとき、『暖房(だんぼう)』がとても役に立つ(やくにたつ)。"
   },
   {
     "id": "884",
     "word": "暮れる",
-    "furigana": "-",
+    "furigana": "くれる",
     "meaning": "（待補充）",
-    "example": "暮れる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "初めて聞いたときは、『暮れる』の意味がよく分からなかった。",
+    "exampleMeaning": "第一次聽到時，我不太懂「暮れる」的意思。",
     "level": "N4",
-    "exampleFurigana": "暮れる(-)。"
+    "exampleFurigana": "初めて(はじめて)聞い(きい)たときは、『暮れ(くれ)る』の意味(いみ)がよく分か(わか)らなかった。"
   },
   {
     "id": "885",
     "word": "最初",
-    "furigana": "-",
+    "furigana": "さいしょ",
     "meaning": "（待補充）",
-    "example": "最初。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "同僚と相談して、『最初』を先に進めることにした。",
+    "exampleMeaning": "和同事討論後，我們決定先處理「最初」。",
     "level": "N4",
-    "exampleFurigana": "最初(-)。"
+    "exampleFurigana": "同僚(どうりょう)と相談(そうだん)して、『最初(さいしょ)』を先に(さきに)進め(すすめ)ることにした。"
   },
   {
     "id": "886",
     "word": "最後",
-    "furigana": "-",
+    "furigana": "さいご",
     "meaning": "（待補充）",
-    "example": "最後。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "店員さんに質問したら、『最後』を丁寧に教えてくれた。",
+    "exampleMeaning": "我問店員後，他很仔細地告訴我「最後」。",
     "level": "N4",
-    "exampleFurigana": "最後(-)。"
+    "exampleFurigana": "店員(てんいん)さんに質問(しつもん)したら、『最後(さいご)』を丁寧(ていねい)に教え(おしえ)てくれた。"
   },
   {
     "id": "887",
     "word": "最近",
-    "furigana": "-",
+    "furigana": "さいきん",
     "meaning": "（待補充）",
-    "example": "最近。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "朝のラジオでは、『最近』について話していた。",
+    "exampleMeaning": "早上的廣播在談「最近」。",
     "level": "N4",
-    "exampleFurigana": "最近(-)。"
+    "exampleFurigana": "朝(あさ)のラジオでは、『最近(さいきん)』について話し(はなし)ていた。"
   },
   {
     "id": "888",
     "word": "木綿",
-    "furigana": "-",
+    "furigana": "もめん",
     "meaning": "（待補充）",
-    "example": "木綿。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生に注意されて、『木綿』の大切さが分かった。",
+    "exampleMeaning": "被老師提醒後，我明白了「木綿」的重要性。",
     "level": "N4",
-    "exampleFurigana": "木綿(-)。"
+    "exampleFurigana": "先生(せんせい)に注意(ちゅうい)されて、『木綿(もめん)』の大切(たいせつ)さが分か(わか)った。"
   },
   {
     "id": "889",
     "word": "林",
-    "furigana": "-",
+    "furigana": "はやし",
     "meaning": "（待補充）",
-    "example": "林。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "週末は家族と『林』のことをゆっくり話した。",
+    "exampleMeaning": "週末我和家人慢慢聊了「林」這件事。",
     "level": "N4",
-    "exampleFurigana": "林(-)。"
+    "exampleFurigana": "週末(しゅうまつ)は家族(かぞく)と『林(はやし)』のことをゆっくり話し(はなし)た。"
   },
   {
     "id": "890",
     "word": "枝",
-    "furigana": "-",
+    "furigana": "えだ",
     "meaning": "（待補充）",
-    "example": "枝。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "このアプリには、『枝』を練習する機能がある。",
+    "exampleMeaning": "這個 App 有練習「枝」的功能。",
     "level": "N4",
-    "exampleFurigana": "枝(-)。"
+    "exampleFurigana": "このアプリには、『枝(えだ)』を練習(れんしゅう)する機能(きのう)がある。"
   },
   {
     "id": "891",
     "word": "柔らかい",
-    "furigana": "-",
+    "furigana": "やわらかい",
     "meaning": "（待補充）",
-    "example": "柔らかい。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "説明を読んだら、『柔らかい』の違いがはっきり分かった。",
+    "exampleMeaning": "看完說明後，我清楚懂了「柔らかい」的差異。",
     "level": "N4",
-    "exampleFurigana": "柔らかい(-)。"
+    "exampleFurigana": "説明(せつめい)を読んだ(よんだ)ら、『柔らかい(やわらかい)』の違い(ちがい)がはっきり分か(わか)った。"
   },
   {
     "id": "892",
     "word": "柔道",
-    "furigana": "-",
+    "furigana": "じゅうどう",
     "meaning": "（待補充）",
-    "example": "柔道。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "職場では、『柔道』を正しく使うことが求められる。",
+    "exampleMeaning": "在職場上，會要求正確使用「柔道」。",
     "level": "N4",
-    "exampleFurigana": "柔道(-)。"
+    "exampleFurigana": "職場(しょくば)では、『柔道(じゅうどう)』を正しく(ただしく)使う(つかう)ことが求め(もとめ)られる。"
   },
   {
     "id": "893",
     "word": "校長",
-    "furigana": "-",
+    "furigana": "こうちょう",
     "meaning": "（待補充）",
-    "example": "校長。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先輩の話を聞いて、『校長』への考え方が変わった。",
+    "exampleMeaning": "聽完前輩的話後，我對「校長」的看法改變了。",
     "level": "N4",
-    "exampleFurigana": "校長(-)。"
+    "exampleFurigana": "先輩(せんぱい)の話(はなし)を聞い(きい)て、『校長(こうちょう)』への考え方(かんがえかた)が変わ(かわ)った。"
   },
   {
     "id": "894",
     "word": "案内",
-    "furigana": "-",
+    "furigana": "あんない",
     "meaning": "（待補充）",
-    "example": "案内。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "図書館で調べたら、『案内』に関する本が見つかった。",
+    "exampleMeaning": "在圖書館查資料時，找到了和「案内」有關的書。",
     "level": "N4",
-    "exampleFurigana": "案内(-)。"
+    "exampleFurigana": "図書館(としょかん)で調べ(しらべ)たら、『案内(あんない)』に関す(かんす)る本(ほん)が見つ(みつ)かった。"
   },
   {
     "id": "895",
     "word": "棚",
-    "furigana": "-",
+    "furigana": "たな",
     "meaning": "（待補充）",
-    "example": "棚。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "今日の宿題は、『棚』を使って文を作ることだ。",
+    "exampleMeaning": "今天的作業是用「棚」造句。",
     "level": "N4",
-    "exampleFurigana": "棚(-)。"
+    "exampleFurigana": "今日(きょう)の宿題(しゅくだい)は、『棚(たな)』を使って(つかって)文(ぶん)を作る(つくる)ことだ。"
   },
   {
     "id": "896",
     "word": "森",
-    "furigana": "-",
+    "furigana": "もり",
     "meaning": "（待補充）",
-    "example": "森。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "昨日、友だちとの会話で『森』という言葉が出てきた。",
+    "exampleMeaning": "昨天和朋友聊天時，提到了「森」這個詞。",
     "level": "N4",
-    "exampleFurigana": "森(-)。"
+    "exampleFurigana": "昨日(きのう)、友(とも)だちとの会話(かいわ)で『森(もり)』という言葉(ことば)が出て(でて)きた。"
   },
   {
     "id": "897",
     "word": "植える",
-    "furigana": "-",
+    "furigana": "うえる",
     "meaning": "（待補充）",
-    "example": "植える。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生は授業で『植える』の使い方を分かりやすく説明してくれた。",
+    "exampleMeaning": "老師在課堂上清楚地說明了「植える」的用法。",
     "level": "N4",
-    "exampleFurigana": "植える(-)。"
+    "exampleFurigana": "先生(せんせい)は授業(じゅぎょう)で『植え(うえ)る』の使い方(つかいかた)を分か(わか)りやすく説明し(せつめいし)てくれた。"
   },
   {
     "id": "898",
     "word": "楽しみ",
-    "furigana": "-",
+    "furigana": "たのしみ",
     "meaning": "（待補充）",
-    "example": "楽しみ。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "会議のあとで、上司から『楽しみ』について確認された。",
+    "exampleMeaning": "會議後，上司向我確認了「楽しみ」這件事。",
     "level": "N4",
-    "exampleFurigana": "楽しみ(-)。"
+    "exampleFurigana": "会議(かいぎ)のあとで、上司(じょうし)から『楽しみ(たのしみ)』について確認さ(かくにんさ)れた。"
   },
   {
     "id": "899",
     "word": "楽む",
-    "furigana": "-",
+    "furigana": "たのしむ",
     "meaning": "（待補充）",
-    "example": "楽む。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "駅で案内を見たら、『楽む』と書いてあった。",
+    "exampleMeaning": "在車站看指示時，上面寫著「楽む」。",
     "level": "N4",
-    "exampleFurigana": "楽む(-)。"
+    "exampleFurigana": "駅(えき)で案内(あんない)を見た(みた)ら、『楽む(たのしむ)』と書い(かい)てあった。"
   },
   {
     "id": "900",
     "word": "機会",
-    "furigana": "-",
+    "furigana": "きかい",
     "meaning": "（待補充）",
-    "example": "機会。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "ニュースを見ていると、『機会』という表現をよく聞く。",
+    "exampleMeaning": "看新聞時，常常會聽到「機会」這個表達。",
     "level": "N4",
-    "exampleFurigana": "機会(-)。"
+    "exampleFurigana": "ニュースを見て(みて)いると、『機会(きかい)』という表現(ひょうげん)をよく聞く(きく)。"
   },
   {
     "id": "901",
     "word": "止む",
-    "furigana": "-",
+    "furigana": "とむ",
     "meaning": "（待補充）",
-    "example": "止む。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "この前のテストでは、『止む』に関する問題が出た。",
+    "exampleMeaning": "上次考試出現了和「止む」相關的題目。",
     "level": "N4",
-    "exampleFurigana": "止む(-)。"
+    "exampleFurigana": "この前(まえ)のテストでは、『止む(とむ)』に関す(かんす)る問題(もんだい)が出た(でた)。"
   },
   {
     "id": "902",
     "word": "止める",
-    "furigana": "-",
+    "furigana": "やめる",
     "meaning": "（待補充）",
-    "example": "止める。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "母は私に『止める』を忘れないようにと言った。",
+    "exampleMeaning": "媽媽提醒我不要忘記「止める」。",
     "level": "N4",
-    "exampleFurigana": "止める(-)。"
+    "exampleFurigana": "母(はは)は私(わたし)に『止める(やめる)』を忘れ(わすれ)ないようにと言った(いった)。"
   },
   {
     "id": "903",
     "word": "正しい",
-    "furigana": "-",
+    "furigana": "ただしい",
     "meaning": "（待補充）",
-    "example": "正しい。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "旅行の計画を立てるとき、『正しい』がとても役に立つ。",
+    "exampleMeaning": "規劃旅行時，「正しい」非常有幫助。",
     "level": "N4",
-    "exampleFurigana": "正しい(-)。"
+    "exampleFurigana": "旅行(りょこう)の計画(けいかく)を立て(たて)るとき、『正しい(ただしい)』がとても役に立つ(やくにたつ)。"
   },
   {
     "id": "904",
     "word": "歯医者",
-    "furigana": "-",
+    "furigana": "はいしゃ",
     "meaning": "（待補充）",
-    "example": "歯医者。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "初めて聞いたときは、『歯医者』の意味がよく分からなかった。",
+    "exampleMeaning": "第一次聽到時，我不太懂「歯医者」的意思。",
     "level": "N4",
-    "exampleFurigana": "歯医者(-)。"
+    "exampleFurigana": "初めて(はじめて)聞い(きい)たときは、『歯医者(はいしゃ)』の意味(いみ)がよく分か(わか)らなかった。"
   },
   {
     "id": "905",
     "word": "歴史",
-    "furigana": "-",
+    "furigana": "れきし",
     "meaning": "（待補充）",
-    "example": "歴史。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "同僚と相談して、『歴史』を先に進めることにした。",
+    "exampleMeaning": "和同事討論後，我們決定先處理「歴史」。",
     "level": "N4",
-    "exampleFurigana": "歴史(-)。"
+    "exampleFurigana": "同僚(どうりょう)と相談(そうだん)して、『歴史(れきし)』を先に(さきに)進め(すすめ)ることにした。"
   },
   {
     "id": "906",
     "word": "残る",
-    "furigana": "-",
+    "furigana": "のこる",
     "meaning": "（待補充）",
-    "example": "残る。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "店員さんに質問したら、『残る』を丁寧に教えてくれた。",
+    "exampleMeaning": "我問店員後，他很仔細地告訴我「残る」。",
     "level": "N4",
-    "exampleFurigana": "残る(-)。"
+    "exampleFurigana": "店員(てんいん)さんに質問(しつもん)したら、『残る(のこる)』を丁寧(ていねい)に教え(おしえ)てくれた。"
   },
   {
     "id": "907",
     "word": "残念",
-    "furigana": "-",
+    "furigana": "ざんねん",
     "meaning": "（待補充）",
-    "example": "残念。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "朝のラジオでは、『残念』について話していた。",
+    "exampleMeaning": "早上的廣播在談「残念」。",
     "level": "N4",
-    "exampleFurigana": "残念(-)。"
+    "exampleFurigana": "朝(あさ)のラジオでは、『残念(ざんねん)』について話し(はなし)ていた。"
   },
   {
     "id": "908",
     "word": "比べる",
-    "furigana": "-",
+    "furigana": "くらべる",
     "meaning": "（待補充）",
-    "example": "比べる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生に注意されて、『比べる』の大切さが分かった。",
+    "exampleMeaning": "被老師提醒後，我明白了「比べる」的重要性。",
     "level": "N4",
-    "exampleFurigana": "比べる(-)。"
+    "exampleFurigana": "先生(せんせい)に注意(ちゅうい)されて、『比べ(くらべ)る』の大切(たいせつ)さが分か(わか)った。"
   },
   {
     "id": "909",
     "word": "毛",
-    "furigana": "-",
+    "furigana": "け",
     "meaning": "（待補充）",
-    "example": "毛。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "週末は家族と『毛』のことをゆっくり話した。",
+    "exampleMeaning": "週末我和家人慢慢聊了「毛」這件事。",
     "level": "N4",
-    "exampleFurigana": "毛(-)。"
+    "exampleFurigana": "週末(しゅうまつ)は家族(かぞく)と『毛(け)』のことをゆっくり話し(はなし)た。"
   },
   {
     "id": "910",
     "word": "気",
-    "furigana": "-",
+    "furigana": "き",
     "meaning": "（待補充）",
-    "example": "気。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "このアプリには、『気』を練習する機能がある。",
+    "exampleMeaning": "這個 App 有練習「気」的功能。",
     "level": "N4",
-    "exampleFurigana": "気(-)。"
+    "exampleFurigana": "このアプリには、『気(き)』を練習(れんしゅう)する機能(きのう)がある。"
   },
   {
     "id": "911",
     "word": "気分",
-    "furigana": "-",
+    "furigana": "きぶん",
     "meaning": "（待補充）",
-    "example": "気分。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "説明を読んだら、『気分』の違いがはっきり分かった。",
+    "exampleMeaning": "看完說明後，我清楚懂了「気分」的差異。",
     "level": "N4",
-    "exampleFurigana": "気分(-)。"
+    "exampleFurigana": "説明(せつめい)を読んだ(よんだ)ら、『気分(きぶん)』の違い(ちがい)がはっきり分か(わか)った。"
   },
   {
     "id": "912",
     "word": "気持ち",
-    "furigana": "-",
+    "furigana": "きもち",
     "meaning": "（待補充）",
-    "example": "気持ち。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "職場では、『気持ち』を正しく使うことが求められる。",
+    "exampleMeaning": "在職場上，會要求正確使用「気持ち」。",
     "level": "N4",
-    "exampleFurigana": "気持ち(-)。"
+    "exampleFurigana": "職場(しょくば)では、『気持ち(きもち)』を正しく(ただしく)使う(つかう)ことが求め(もとめ)られる。"
   },
   {
     "id": "913",
     "word": "水泳",
-    "furigana": "-",
+    "furigana": "すいえい",
     "meaning": "（待補充）",
-    "example": "水泳。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先輩の話を聞いて、『水泳』への考え方が変わった。",
+    "exampleMeaning": "聽完前輩的話後，我對「水泳」的看法改變了。",
     "level": "N4",
-    "exampleFurigana": "水泳(-)。"
+    "exampleFurigana": "先輩(せんぱい)の話(はなし)を聞い(きい)て、『水泳(すいえい)』への考え方(かんがえかた)が変わ(かわ)った。"
   },
   {
     "id": "914",
     "word": "水道",
-    "furigana": "-",
+    "furigana": "すいどう",
     "meaning": "（待補充）",
-    "example": "水道。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "図書館で調べたら、『水道』に関する本が見つかった。",
+    "exampleMeaning": "在圖書館查資料時，找到了和「水道」有關的書。",
     "level": "N4",
-    "exampleFurigana": "水道(-)。"
+    "exampleFurigana": "図書館(としょかん)で調べ(しらべ)たら、『水道(すいどう)』に関す(かんす)る本(ほん)が見つ(みつ)かった。"
   },
   {
     "id": "915",
     "word": "汚れる",
-    "furigana": "-",
+    "furigana": "よごれる",
     "meaning": "（待補充）",
-    "example": "汚れる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "今日の宿題は、『汚れる』を使って文を作ることだ。",
+    "exampleMeaning": "今天的作業是用「汚れる」造句。",
     "level": "N4",
-    "exampleFurigana": "汚れる(-)。"
+    "exampleFurigana": "今日(きょう)の宿題(しゅくだい)は、『汚れ(よごれ)る』を使って(つかって)文(ぶん)を作る(つくる)ことだ。"
   },
   {
     "id": "916",
     "word": "決して",
-    "furigana": "-",
+    "furigana": "けっして",
     "meaning": "（待補充）",
-    "example": "決して。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "昨日、友だちとの会話で『決して』という言葉が出てきた。",
+    "exampleMeaning": "昨天和朋友聊天時，提到了「決して」這個詞。",
     "level": "N4",
-    "exampleFurigana": "決して(-)。"
+    "exampleFurigana": "昨日(きのう)、友(とも)だちとの会話(かいわ)で『決して(けっして)』という言葉(ことば)が出て(でて)きた。"
   },
   {
     "id": "917",
     "word": "決める",
-    "furigana": "-",
+    "furigana": "きめる",
     "meaning": "（待補充）",
-    "example": "決める。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生は授業で『決める』の使い方を分かりやすく説明してくれた。",
+    "exampleMeaning": "老師在課堂上清楚地說明了「決める」的用法。",
     "level": "N4",
-    "exampleFurigana": "決める(-)。"
+    "exampleFurigana": "先生(せんせい)は授業(じゅぎょう)で『決め(きめ)る』の使い方(つかいかた)を分か(わか)りやすく説明し(せつめいし)てくれた。"
   },
   {
     "id": "918",
     "word": "決る",
-    "furigana": "-",
+    "furigana": "きまる",
     "meaning": "（待補充）",
-    "example": "決る。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "会議のあとで、上司から『決る』について確認された。",
+    "exampleMeaning": "會議後，上司向我確認了「決る」這件事。",
     "level": "N4",
-    "exampleFurigana": "決る(-)。"
+    "exampleFurigana": "会議(かいぎ)のあとで、上司(じょうし)から『決る(きまる)』について確認さ(かくにんさ)れた。"
   },
   {
     "id": "919",
     "word": "汽車",
-    "furigana": "-",
+    "furigana": "きしゃ",
     "meaning": "（待補充）",
-    "example": "汽車。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "駅で案内を見たら、『汽車』と書いてあった。",
+    "exampleMeaning": "在車站看指示時，上面寫著「汽車」。",
     "level": "N4",
-    "exampleFurigana": "汽車(-)。"
+    "exampleFurigana": "駅(えき)で案内(あんない)を見た(みた)ら、『汽車(きしゃ)』と書い(かい)てあった。"
   },
   {
     "id": "920",
     "word": "沸かす",
-    "furigana": "-",
+    "furigana": "わかす",
     "meaning": "（待補充）",
-    "example": "沸かす。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "ニュースを見ていると、『沸かす』という表現をよく聞く。",
+    "exampleMeaning": "看新聞時，常常會聽到「沸かす」這個表達。",
     "level": "N4",
-    "exampleFurigana": "沸かす(-)。"
+    "exampleFurigana": "ニュースを見て(みて)いると、『沸か(わか)す』という表現(ひょうげん)をよく聞く(きく)。"
   },
   {
     "id": "921",
     "word": "沸く",
-    "furigana": "-",
+    "furigana": "わく",
     "meaning": "（待補充）",
-    "example": "沸く。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "この前のテストでは、『沸く』に関する問題が出た。",
+    "exampleMeaning": "上次考試出現了和「沸く」相關的題目。",
     "level": "N4",
-    "exampleFurigana": "沸く(-)。"
+    "exampleFurigana": "この前(まえ)のテストでは、『沸く(わく)』に関す(かんす)る問題(もんだい)が出た(でた)。"
   },
   {
     "id": "922",
     "word": "治る",
-    "furigana": "-",
+    "furigana": "なおる",
     "meaning": "（待補充）",
-    "example": "治る。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "母は私に『治る』を忘れないようにと言った。",
+    "exampleMeaning": "媽媽提醒我不要忘記「治る」。",
     "level": "N4",
-    "exampleFurigana": "治る(-)。"
+    "exampleFurigana": "母(はは)は私(わたし)に『治る(なおる)』を忘れ(わすれ)ないようにと言った(いった)。"
   },
   {
     "id": "923",
     "word": "泊まる",
-    "furigana": "-",
+    "furigana": "とまる",
     "meaning": "（待補充）",
-    "example": "泊まる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "旅行の計画を立てるとき、『泊まる』がとても役に立つ。",
+    "exampleMeaning": "規劃旅行時，「泊まる」非常有幫助。",
     "level": "N4",
-    "exampleFurigana": "泊まる(-)。"
+    "exampleFurigana": "旅行(りょこう)の計画(けいかく)を立て(たて)るとき、『泊ま(とま)る』がとても役に立つ(やくにたつ)。"
   },
   {
     "id": "924",
     "word": "法律",
-    "furigana": "-",
+    "furigana": "ほうりつ",
     "meaning": "（待補充）",
-    "example": "法律。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "初めて聞いたときは、『法律』の意味がよく分からなかった。",
+    "exampleMeaning": "第一次聽到時，我不太懂「法律」的意思。",
     "level": "N4",
-    "exampleFurigana": "法律(-)。"
+    "exampleFurigana": "初めて(はじめて)聞い(きい)たときは、『法律(ほうりつ)』の意味(いみ)がよく分か(わか)らなかった。"
   },
   {
     "id": "925",
     "word": "泣く",
-    "furigana": "-",
+    "furigana": "なく",
     "meaning": "（待補充）",
-    "example": "泣く。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "同僚と相談して、『泣く』を先に進めることにした。",
+    "exampleMeaning": "和同事討論後，我們決定先處理「泣く」。",
     "level": "N4",
-    "exampleFurigana": "泣く(-)。"
+    "exampleFurigana": "同僚(どうりょう)と相談(そうだん)して、『泣く(なく)』を先に(さきに)進め(すすめ)ることにした。"
   },
   {
     "id": "926",
     "word": "泥棒",
-    "furigana": "-",
+    "furigana": "どろぼう",
     "meaning": "（待補充）",
-    "example": "泥棒。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "店員さんに質問したら、『泥棒』を丁寧に教えてくれた。",
+    "exampleMeaning": "我問店員後，他很仔細地告訴我「泥棒」。",
     "level": "N4",
-    "exampleFurigana": "泥棒(-)。"
+    "exampleFurigana": "店員(てんいん)さんに質問(しつもん)したら、『泥棒(どろぼう)』を丁寧(ていねい)に教え(おしえ)てくれた。"
   },
   {
     "id": "927",
     "word": "注射",
-    "furigana": "-",
+    "furigana": "ちゅうしゃ",
     "meaning": "（待補充）",
-    "example": "注射。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "朝のラジオでは、『注射』について話していた。",
+    "exampleMeaning": "早上的廣播在談「注射」。",
     "level": "N4",
-    "exampleFurigana": "注射(-)。"
+    "exampleFurigana": "朝(あさ)のラジオでは、『注射(ちゅうしゃ)』について話し(はなし)ていた。"
   },
   {
     "id": "928",
     "word": "注意",
-    "furigana": "-",
+    "furigana": "ちゅうい",
     "meaning": "（待補充）",
-    "example": "注意。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生に注意されて、『注意』の大切さが分かった。",
+    "exampleMeaning": "被老師提醒後，我明白了「注意」的重要性。",
     "level": "N4",
-    "exampleFurigana": "注意(-)。"
+    "exampleFurigana": "先生(せんせい)に注意(ちゅうい)されて、『注意(ちゅうい)』の大切(たいせつ)さが分か(わか)った。"
   },
   {
     "id": "929",
     "word": "泳ぎ方",
-    "furigana": "-",
+    "furigana": "およぎほう",
     "meaning": "（待補充）",
-    "example": "泳ぎ方。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "週末は家族と『泳ぎ方』のことをゆっくり話した。",
+    "exampleMeaning": "週末我和家人慢慢聊了「泳ぎ方」這件事。",
     "level": "N4",
-    "exampleFurigana": "泳ぎ(およぎ)方(ほう)。"
+    "exampleFurigana": "週末(しゅうまつ)は家族(かぞく)と『泳ぎ(およぎ)方(ほう)』のことをゆっくり話し(はなし)た。"
   },
   {
     "id": "930",
     "word": "浅い",
-    "furigana": "-",
+    "furigana": "あさい",
     "meaning": "（待補充）",
-    "example": "浅い。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "このアプリには、『浅い』を練習する機能がある。",
+    "exampleMeaning": "這個 App 有練習「浅い」的功能。",
     "level": "N4",
-    "exampleFurigana": "浅い(-)。"
+    "exampleFurigana": "このアプリには、『浅い(あさい)』を練習(れんしゅう)する機能(きのう)がある。"
   },
   {
     "id": "931",
     "word": "海岸",
-    "furigana": "-",
+    "furigana": "かいがん",
     "meaning": "（待補充）",
-    "example": "海岸。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "説明を読んだら、『海岸』の違いがはっきり分かった。",
+    "exampleMeaning": "看完說明後，我清楚懂了「海岸」的差異。",
     "level": "N4",
-    "exampleFurigana": "海岸(-)。"
+    "exampleFurigana": "説明(せつめい)を読んだ(よんだ)ら、『海岸(かいがん)』の違い(ちがい)がはっきり分か(わか)った。"
   },
   {
     "id": "932",
     "word": "消しゴム",
-    "furigana": "-",
+    "furigana": "けしごむ",
     "meaning": "（待補充）",
-    "example": "消しゴム。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "職場では、『消しゴム』を正しく使うことが求められる。",
+    "exampleMeaning": "在職場上，會要求正確使用「消しゴム」。",
     "level": "N4",
-    "exampleFurigana": "消しゴム(-)。"
+    "exampleFurigana": "職場(しょくば)では、『消しゴム(けしごむ)』を正しく(ただしく)使う(つかう)ことが求め(もとめ)られる。"
   },
   {
     "id": "933",
     "word": "深い",
-    "furigana": "-",
+    "furigana": "ふかい",
     "meaning": "（待補充）",
-    "example": "深い。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先輩の話を聞いて、『深い』への考え方が変わった。",
+    "exampleMeaning": "聽完前輩的話後，我對「深い」的看法改變了。",
     "level": "N4",
-    "exampleFurigana": "深い(-)。"
+    "exampleFurigana": "先輩(せんぱい)の話(はなし)を聞い(きい)て、『深い(ふかい)』への考え方(かんがえかた)が変わ(かわ)った。"
   },
   {
     "id": "934",
     "word": "済む",
-    "furigana": "-",
+    "furigana": "すむ",
     "meaning": "（待補充）",
-    "example": "済む。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "図書館で調べたら、『済む』に関する本が見つかった。",
+    "exampleMeaning": "在圖書館查資料時，找到了和「済む」有關的書。",
     "level": "N4",
-    "exampleFurigana": "済む(-)。"
+    "exampleFurigana": "図書館(としょかん)で調べ(しらべ)たら、『済む(すむ)』に関す(かんす)る本(ほん)が見つ(みつ)かった。"
   },
   {
     "id": "935",
     "word": "港",
-    "furigana": "-",
+    "furigana": "みなと",
     "meaning": "（待補充）",
-    "example": "港。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "今日の宿題は、『港』を使って文を作ることだ。",
+    "exampleMeaning": "今天的作業是用「港」造句。",
     "level": "N4",
-    "exampleFurigana": "港(-)。"
+    "exampleFurigana": "今日(きょう)の宿題(しゅくだい)は、『港(みなと)』を使って(つかって)文(ぶん)を作る(つくる)ことだ。"
   },
   {
     "id": "936",
     "word": "湖",
-    "furigana": "-",
+    "furigana": "みずうみ",
     "meaning": "（待補充）",
-    "example": "湖。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "昨日、友だちとの会話で『湖』という言葉が出てきた。",
+    "exampleMeaning": "昨天和朋友聊天時，提到了「湖」這個詞。",
     "level": "N4",
-    "exampleFurigana": "湖(-)。"
+    "exampleFurigana": "昨日(きのう)、友(とも)だちとの会話(かいわ)で『湖(みずうみ)』という言葉(ことば)が出て(でて)きた。"
   },
   {
     "id": "937",
     "word": "湯",
-    "furigana": "-",
+    "furigana": "ゆ",
     "meaning": "（待補充）",
-    "example": "湯。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生は授業で『湯』の使い方を分かりやすく説明してくれた。",
+    "exampleMeaning": "老師在課堂上清楚地說明了「湯」的用法。",
     "level": "N4",
-    "exampleFurigana": "湯(-)。"
+    "exampleFurigana": "先生(せんせい)は授業(じゅぎょう)で『湯(ゆ)』の使い方(つかいかた)を分か(わか)りやすく説明し(せつめいし)てくれた。"
   },
   {
     "id": "938",
     "word": "準備",
-    "furigana": "-",
+    "furigana": "じゅんび",
     "meaning": "（待補充）",
-    "example": "準備。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "会議のあとで、上司から『準備』について確認された。",
+    "exampleMeaning": "會議後，上司向我確認了「準備」這件事。",
     "level": "N4",
-    "exampleFurigana": "準備(-)。"
+    "exampleFurigana": "会議(かいぎ)のあとで、上司(じょうし)から『準備(じゅんび)』について確認さ(かくにんさ)れた。"
   },
   {
     "id": "939",
     "word": "滑る",
-    "furigana": "-",
+    "furigana": "すべる",
     "meaning": "（待補充）",
-    "example": "滑る。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "駅で案内を見たら、『滑る』と書いてあった。",
+    "exampleMeaning": "在車站看指示時，上面寫著「滑る」。",
     "level": "N4",
-    "exampleFurigana": "滑る(-)。"
+    "exampleFurigana": "駅(えき)で案内(あんない)を見た(みた)ら、『滑る(すべる)』と書い(かい)てあった。"
   },
   {
     "id": "940",
     "word": "漫画",
-    "furigana": "-",
+    "furigana": "まんが",
     "meaning": "（待補充）",
-    "example": "漫画。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "ニュースを見ていると、『漫画』という表現をよく聞く。",
+    "exampleMeaning": "看新聞時，常常會聽到「漫画」這個表達。",
     "level": "N4",
-    "exampleFurigana": "漫画(-)。"
+    "exampleFurigana": "ニュースを見て(みて)いると、『漫画(まんが)』という表現(ひょうげん)をよく聞く(きく)。"
   },
   {
     "id": "941",
     "word": "漬ける",
-    "furigana": "-",
+    "furigana": "つける",
     "meaning": "（待補充）",
-    "example": "漬ける。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "この前のテストでは、『漬ける』に関する問題が出た。",
+    "exampleMeaning": "上次考試出現了和「漬ける」相關的題目。",
     "level": "N4",
-    "exampleFurigana": "漬ける(-)。"
+    "exampleFurigana": "この前(まえ)のテストでは、『漬け(つけ)る』に関す(かんす)る問題(もんだい)が出た(でた)。"
   },
   {
     "id": "942",
     "word": "火",
-    "furigana": "-",
+    "furigana": "ひ",
     "meaning": "（待補充）",
-    "example": "火。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "母は私に『火』を忘れないようにと言った。",
+    "exampleMeaning": "媽媽提醒我不要忘記「火」。",
     "level": "N4",
-    "exampleFurigana": "火(-)。"
+    "exampleFurigana": "母(はは)は私(わたし)に『火(ひ)』を忘れ(わすれ)ないようにと言った(いった)。"
   },
   {
     "id": "943",
     "word": "火事",
-    "furigana": "-",
+    "furigana": "かじ",
     "meaning": "（待補充）",
-    "example": "火事。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "旅行の計画を立てるとき、『火事』がとても役に立つ。",
+    "exampleMeaning": "規劃旅行時，「火事」非常有幫助。",
     "level": "N4",
-    "exampleFurigana": "火事(-)。"
+    "exampleFurigana": "旅行(りょこう)の計画(けいかく)を立て(たて)るとき、『火事(かじ)』がとても役に立つ(やくにたつ)。"
   },
   {
     "id": "944",
     "word": "点",
-    "furigana": "-",
+    "furigana": "てん",
     "meaning": "（待補充）",
-    "example": "点。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "初めて聞いたときは、『点』の意味がよく分からなかった。",
+    "exampleMeaning": "第一次聽到時，我不太懂「点」的意思。",
     "level": "N4",
-    "exampleFurigana": "点(-)。"
+    "exampleFurigana": "初めて(はじめて)聞い(きい)たときは、『点(てん)』の意味(いみ)がよく分か(わか)らなかった。"
   },
   {
     "id": "945",
     "word": "為",
-    "furigana": "-",
+    "furigana": "ため",
     "meaning": "（待補充）",
-    "example": "為。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "同僚と相談して、『為』を先に進めることにした。",
+    "exampleMeaning": "和同事討論後，我們決定先處理「為」。",
     "level": "N4",
-    "exampleFurigana": "為(-)。"
+    "exampleFurigana": "同僚(どうりょう)と相談(そうだん)して、『為(ため)』を先に(さきに)進め(すすめ)ることにした。"
   },
   {
     "id": "946",
     "word": "無くなる",
-    "furigana": "-",
+    "furigana": "なくなる",
     "meaning": "（待補充）",
-    "example": "無くなる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "店員さんに質問したら、『無くなる』を丁寧に教えてくれた。",
+    "exampleMeaning": "我問店員後，他很仔細地告訴我「無くなる」。",
     "level": "N4",
-    "exampleFurigana": "無くなる(-)。"
+    "exampleFurigana": "店員(てんいん)さんに質問(しつもん)したら、『無く(なく)なる』を丁寧(ていねい)に教え(おしえ)てくれた。"
   },
   {
     "id": "947",
     "word": "無理",
-    "furigana": "-",
+    "furigana": "むり",
     "meaning": "（待補充）",
-    "example": "無理。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "朝のラジオでは、『無理』について話していた。",
+    "exampleMeaning": "早上的廣播在談「無理」。",
     "level": "N4",
-    "exampleFurigana": "無理(-)。"
+    "exampleFurigana": "朝(あさ)のラジオでは、『無理(むり)』について話し(はなし)ていた。"
   },
   {
     "id": "948",
     "word": "焼く",
-    "furigana": "-",
+    "furigana": "やく",
     "meaning": "（待補充）",
-    "example": "焼く。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生に注意されて、『焼く』の大切さが分かった。",
+    "exampleMeaning": "被老師提醒後，我明白了「焼く」的重要性。",
     "level": "N4",
-    "exampleFurigana": "焼く(-)。"
+    "exampleFurigana": "先生(せんせい)に注意(ちゅうい)されて、『焼く(やく)』の大切(たいせつ)さが分か(わか)った。"
   },
   {
     "id": "949",
     "word": "焼ける",
-    "furigana": "-",
+    "furigana": "やける",
     "meaning": "（待補充）",
-    "example": "焼ける。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "週末は家族と『焼ける』のことをゆっくり話した。",
+    "exampleMeaning": "週末我和家人慢慢聊了「焼ける」這件事。",
     "level": "N4",
-    "exampleFurigana": "焼ける(-)。"
+    "exampleFurigana": "週末(しゅうまつ)は家族(かぞく)と『焼け(やけ)る』のことをゆっくり話し(はなし)た。"
   },
   {
     "id": "950",
     "word": "熱",
-    "furigana": "-",
+    "furigana": "ねつ",
     "meaning": "（待補充）",
-    "example": "熱。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "このアプリには、『熱』を練習する機能がある。",
+    "exampleMeaning": "這個 App 有練習「熱」的功能。",
     "level": "N4",
-    "exampleFurigana": "熱(-)。"
+    "exampleFurigana": "このアプリには、『熱(ねつ)』を練習(れんしゅう)する機能(きのう)がある。"
   },
   {
     "id": "951",
     "word": "片付ける",
-    "furigana": "-",
+    "furigana": "かたづける",
     "meaning": "（待補充）",
-    "example": "片付ける。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "説明を読んだら、『片付ける』の違いがはっきり分かった。",
+    "exampleMeaning": "看完說明後，我清楚懂了「片付ける」的差異。",
     "level": "N4",
-    "exampleFurigana": "片付ける(-)。"
+    "exampleFurigana": "説明(せつめい)を読んだ(よんだ)ら、『片付け(かたづけ)る』の違い(ちがい)がはっきり分か(わか)った。"
   },
   {
     "id": "952",
     "word": "特に",
-    "furigana": "-",
+    "furigana": "とくに",
     "meaning": "（待補充）",
-    "example": "特に。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "職場では、『特に』を正しく使うことが求められる。",
+    "exampleMeaning": "在職場上，會要求正確使用「特に」。",
     "level": "N4",
-    "exampleFurigana": "特に(-)。"
+    "exampleFurigana": "職場(しょくば)では、『特に(とくに)』を正しく(ただしく)使う(つかう)ことが求め(もとめ)られる。"
   },
   {
     "id": "953",
     "word": "特別",
-    "furigana": "-",
+    "furigana": "とくべつ",
     "meaning": "（待補充）",
-    "example": "特別。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先輩の話を聞いて、『特別』への考え方が変わった。",
+    "exampleMeaning": "聽完前輩的話後，我對「特別」的看法改變了。",
     "level": "N4",
-    "exampleFurigana": "特別(-)。"
+    "exampleFurigana": "先輩(せんぱい)の話(はなし)を聞い(きい)て、『特別(とくべつ)』への考え方(かんがえかた)が変わ(かわ)った。"
   },
   {
     "id": "954",
     "word": "特急",
-    "furigana": "-",
+    "furigana": "とっきゅう",
     "meaning": "（待補充）",
-    "example": "特急。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "図書館で調べたら、『特急』に関する本が見つかった。",
+    "exampleMeaning": "在圖書館查資料時，找到了和「特急」有關的書。",
     "level": "N4",
-    "exampleFurigana": "特急(-)。"
+    "exampleFurigana": "図書館(としょかん)で調べ(しらべ)たら、『特急(とっきゅう)』に関す(かんす)る本(ほん)が見つ(みつ)かった。"
   },
   {
     "id": "955",
     "word": "珍しい",
-    "furigana": "-",
+    "furigana": "めずらしい",
     "meaning": "（待補充）",
-    "example": "珍しい。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "今日の宿題は、『珍しい』を使って文を作ることだ。",
+    "exampleMeaning": "今天的作業是用「珍しい」造句。",
     "level": "N4",
-    "exampleFurigana": "珍しい(-)。"
+    "exampleFurigana": "今日(きょう)の宿題(しゅくだい)は、『珍しい(めずらしい)』を使って(つかって)文(ぶん)を作る(つくる)ことだ。"
   },
   {
     "id": "956",
     "word": "理由",
-    "furigana": "-",
+    "furigana": "りゆう",
     "meaning": "（待補充）",
-    "example": "理由。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "昨日、友だちとの会話で『理由』という言葉が出てきた。",
+    "exampleMeaning": "昨天和朋友聊天時，提到了「理由」這個詞。",
     "level": "N4",
-    "exampleFurigana": "理由(-)。"
+    "exampleFurigana": "昨日(きのう)、友(とも)だちとの会話(かいわ)で『理由(りゆう)』という言葉(ことば)が出て(でて)きた。"
   },
   {
     "id": "957",
     "word": "生きる",
-    "furigana": "-",
+    "furigana": "いきる",
     "meaning": "（待補充）",
-    "example": "生きる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生は授業で『生きる』の使い方を分かりやすく説明してくれた。",
+    "exampleMeaning": "老師在課堂上清楚地說明了「生きる」的用法。",
     "level": "N4",
-    "exampleFurigana": "生きる(-)。"
+    "exampleFurigana": "先生(せんせい)は授業(じゅぎょう)で『生き(いき)る』の使い方(つかいかた)を分か(わか)りやすく説明し(せつめいし)てくれた。"
   },
   {
     "id": "958",
     "word": "生活",
-    "furigana": "-",
+    "furigana": "せいかつ",
     "meaning": "（待補充）",
-    "example": "生活。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "会議のあとで、上司から『生活』について確認された。",
+    "exampleMeaning": "會議後，上司向我確認了「生活」這件事。",
     "level": "N4",
-    "exampleFurigana": "生活(-)。"
+    "exampleFurigana": "会議(かいぎ)のあとで、上司(じょうし)から『生活(せいかつ)』について確認さ(かくにんさ)れた。"
   },
   {
     "id": "959",
     "word": "生産",
-    "furigana": "-",
+    "furigana": "せいさん",
     "meaning": "（待補充）",
-    "example": "生産。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "駅で案内を見たら、『生産』と書いてあった。",
+    "exampleMeaning": "在車站看指示時，上面寫著「生産」。",
     "level": "N4",
-    "exampleFurigana": "生産(-)。"
+    "exampleFurigana": "駅(えき)で案内(あんない)を見た(みた)ら、『生産(せいさん)』と書い(かい)てあった。"
   },
   {
     "id": "960",
     "word": "産業",
-    "furigana": "-",
+    "furigana": "さんぎょう",
     "meaning": "（待補充）",
-    "example": "産業。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "ニュースを見ていると、『産業』という表現をよく聞く。",
+    "exampleMeaning": "看新聞時，常常會聽到「産業」這個表達。",
     "level": "N4",
-    "exampleFurigana": "産業(-)。"
+    "exampleFurigana": "ニュースを見て(みて)いると、『産業(さんぎょう)』という表現(ひょうげん)をよく聞く(きく)。"
   },
   {
     "id": "961",
     "word": "用",
-    "furigana": "-",
+    "furigana": "よう",
     "meaning": "（待補充）",
-    "example": "用。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "この前のテストでは、『用』に関する問題が出た。",
+    "exampleMeaning": "上次考試出現了和「用」相關的題目。",
     "level": "N4",
-    "exampleFurigana": "用(-)。"
+    "exampleFurigana": "この前(まえ)のテストでは、『用(よう)』に関す(かんす)る問題(もんだい)が出た(でた)。"
   },
   {
     "id": "962",
     "word": "用事",
-    "furigana": "-",
+    "furigana": "ようじ",
     "meaning": "（待補充）",
-    "example": "用事。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "母は私に『用事』を忘れないようにと言った。",
+    "exampleMeaning": "媽媽提醒我不要忘記「用事」。",
     "level": "N4",
-    "exampleFurigana": "用事(-)。"
+    "exampleFurigana": "母(はは)は私(わたし)に『用事(ようじ)』を忘れ(わすれ)ないようにと言った(いった)。"
   },
   {
     "id": "963",
     "word": "用意",
-    "furigana": "-",
+    "furigana": "ようい",
     "meaning": "（待補充）",
-    "example": "用意。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "旅行の計画を立てるとき、『用意』がとても役に立つ。",
+    "exampleMeaning": "規劃旅行時，「用意」非常有幫助。",
     "level": "N4",
-    "exampleFurigana": "用意(-)。"
+    "exampleFurigana": "旅行(りょこう)の計画(けいかく)を立て(たて)るとき、『用意(ようい)』がとても役に立つ(やくにたつ)。"
   },
   {
     "id": "964",
     "word": "田舎",
-    "furigana": "-",
+    "furigana": "いなか",
     "meaning": "（待補充）",
-    "example": "田舎。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "初めて聞いたときは、『田舎』の意味がよく分からなかった。",
+    "exampleMeaning": "第一次聽到時，我不太懂「田舎」的意思。",
     "level": "N4",
-    "exampleFurigana": "田舎(-)。"
+    "exampleFurigana": "初めて(はじめて)聞い(きい)たときは、『田舎(いなか)』の意味(いみ)がよく分か(わか)らなかった。"
   },
   {
     "id": "965",
     "word": "申し上げる",
-    "furigana": "-",
+    "furigana": "もうしあげる",
     "meaning": "（待補充）",
-    "example": "申し上げる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "同僚と相談して、『申し上げる』を先に進めることにした。",
+    "exampleMeaning": "和同事討論後，我們決定先處理「申し上げる」。",
     "level": "N4",
-    "exampleFurigana": "申し上げる(-)。"
+    "exampleFurigana": "同僚(どうりょう)と相談(そうだん)して、『申し上げ(もうしあげ)る』を先に(さきに)進め(すすめ)ることにした。"
   },
   {
     "id": "966",
     "word": "申す",
-    "furigana": "-",
+    "furigana": "もうす",
     "meaning": "（待補充）",
-    "example": "申す。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "店員さんに質問したら、『申す』を丁寧に教えてくれた。",
+    "exampleMeaning": "我問店員後，他很仔細地告訴我「申す」。",
     "level": "N4",
-    "exampleFurigana": "申す(-)。"
+    "exampleFurigana": "店員(てんいん)さんに質問(しつもん)したら、『申す(もうす)』を丁寧(ていねい)に教え(おしえ)てくれた。"
   },
   {
     "id": "967",
     "word": "男性",
-    "furigana": "-",
+    "furigana": "だんせい",
     "meaning": "（待補充）",
-    "example": "男性。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "朝のラジオでは、『男性』について話していた。",
+    "exampleMeaning": "早上的廣播在談「男性」。",
     "level": "N4",
-    "exampleFurigana": "男性(-)。"
+    "exampleFurigana": "朝(あさ)のラジオでは、『男性(だんせい)』について話し(はなし)ていた。"
   },
   {
     "id": "968",
     "word": "留守",
-    "furigana": "-",
+    "furigana": "るす",
     "meaning": "（待補充）",
-    "example": "留守。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生に注意されて、『留守』の大切さが分かった。",
+    "exampleMeaning": "被老師提醒後，我明白了「留守」的重要性。",
     "level": "N4",
-    "exampleFurigana": "留守(-)。"
+    "exampleFurigana": "先生(せんせい)に注意(ちゅうい)されて、『留守(るす)』の大切(たいせつ)さが分か(わか)った。"
   },
   {
     "id": "969",
     "word": "番組",
-    "furigana": "-",
+    "furigana": "ばんぐみ",
     "meaning": "（待補充）",
-    "example": "番組。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "週末は家族と『番組』のことをゆっくり話した。",
+    "exampleMeaning": "週末我和家人慢慢聊了「番組」這件事。",
     "level": "N4",
-    "exampleFurigana": "番組(-)。"
+    "exampleFurigana": "週末(しゅうまつ)は家族(かぞく)と『番組(ばんぐみ)』のことをゆっくり話し(はなし)た。"
   },
   {
     "id": "970",
     "word": "畳",
-    "furigana": "-",
+    "furigana": "たたみ",
     "meaning": "（待補充）",
-    "example": "畳。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "このアプリには、『畳』を練習する機能がある。",
+    "exampleMeaning": "這個 App 有練習「畳」的功能。",
     "level": "N4",
-    "exampleFurigana": "畳(-)。"
+    "exampleFurigana": "このアプリには、『畳(たたみ)』を練習(れんしゅう)する機能(きのう)がある。"
   },
   {
     "id": "971",
     "word": "痩せる",
-    "furigana": "-",
+    "furigana": "やせる",
     "meaning": "（待補充）",
-    "example": "痩せる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "説明を読んだら、『痩せる』の違いがはっきり分かった。",
+    "exampleMeaning": "看完說明後，我清楚懂了「痩せる」的差異。",
     "level": "N4",
-    "exampleFurigana": "痩せる(-)。"
+    "exampleFurigana": "説明(せつめい)を読んだ(よんだ)ら、『痩せ(やせ)る』の違い(ちがい)がはっきり分か(わか)った。"
   },
   {
     "id": "972",
     "word": "発音",
-    "furigana": "-",
+    "furigana": "はつおん",
     "meaning": "（待補充）",
-    "example": "発音。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "職場では、『発音』を正しく使うことが求められる。",
+    "exampleMeaning": "在職場上，會要求正確使用「発音」。",
     "level": "N4",
-    "exampleFurigana": "発音(-)。"
+    "exampleFurigana": "職場(しょくば)では、『発音(はつおん)』を正しく(ただしく)使う(つかう)ことが求め(もとめ)られる。"
   },
   {
     "id": "973",
     "word": "皆",
-    "furigana": "-",
+    "furigana": "みな",
     "meaning": "（待補充）",
-    "example": "皆。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先輩の話を聞いて、『皆』への考え方が変わった。",
+    "exampleMeaning": "聽完前輩的話後，我對「皆」的看法改變了。",
     "level": "N4",
-    "exampleFurigana": "皆(-)。"
+    "exampleFurigana": "先輩(せんぱい)の話(はなし)を聞い(きい)て、『皆(みな)』への考え方(かんがえかた)が変わ(かわ)った。"
   },
   {
     "id": "974",
     "word": "盗む",
-    "furigana": "-",
+    "furigana": "ぬすむ",
     "meaning": "（待補充）",
-    "example": "盗む。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "図書館で調べたら、『盗む』に関する本が見つかった。",
+    "exampleMeaning": "在圖書館查資料時，找到了和「盗む」有關的書。",
     "level": "N4",
-    "exampleFurigana": "盗む(-)。"
+    "exampleFurigana": "図書館(としょかん)で調べ(しらべ)たら、『盗む(ぬすむ)』に関す(かんす)る本(ほん)が見つ(みつ)かった。"
   },
   {
     "id": "975",
     "word": "盛ん",
-    "furigana": "-",
+    "furigana": "さかん",
     "meaning": "（待補充）",
-    "example": "盛ん。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "今日の宿題は、『盛ん』を使って文を作ることだ。",
+    "exampleMeaning": "今天的作業是用「盛ん」造句。",
     "level": "N4",
-    "exampleFurigana": "盛ん(-)。"
+    "exampleFurigana": "今日(きょう)の宿題(しゅくだい)は、『盛ん(さかん)』を使って(つかって)文(ぶん)を作る(つくる)ことだ。"
   },
   {
     "id": "976",
     "word": "直す",
-    "furigana": "-",
+    "furigana": "なおす",
     "meaning": "（待補充）",
-    "example": "直す。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "昨日、友だちとの会話で『直す』という言葉が出てきた。",
+    "exampleMeaning": "昨天和朋友聊天時，提到了「直す」這個詞。",
     "level": "N4",
-    "exampleFurigana": "直す(-)。"
+    "exampleFurigana": "昨日(きのう)、友(とも)だちとの会話(かいわ)で『直す(なおす)』という言葉(ことば)が出て(でて)きた。"
   },
   {
     "id": "977",
     "word": "直る",
-    "furigana": "-",
+    "furigana": "なおる",
     "meaning": "（待補充）",
-    "example": "直る。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生は授業で『直る』の使い方を分かりやすく説明してくれた。",
+    "exampleMeaning": "老師在課堂上清楚地說明了「直る」的用法。",
     "level": "N4",
-    "exampleFurigana": "直る(-)。"
+    "exampleFurigana": "先生(せんせい)は授業(じゅぎょう)で『直る(なおる)』の使い方(つかいかた)を分か(わか)りやすく説明し(せつめいし)てくれた。"
   },
   {
     "id": "978",
     "word": "相談",
-    "furigana": "-",
+    "furigana": "そうだん",
     "meaning": "（待補充）",
-    "example": "相談。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "会議のあとで、上司から『相談』について確認された。",
+    "exampleMeaning": "會議後，上司向我確認了「相談」這件事。",
     "level": "N4",
-    "exampleFurigana": "相談(-)。"
+    "exampleFurigana": "会議(かいぎ)のあとで、上司(じょうし)から『相談(そうだん)』について確認さ(かくにんさ)れた。"
   },
   {
     "id": "979",
     "word": "看護婦",
-    "furigana": "-",
+    "furigana": "かんごふ",
     "meaning": "（待補充）",
-    "example": "看護婦。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "駅で案内を見たら、『看護婦』と書いてあった。",
+    "exampleMeaning": "在車站看指示時，上面寫著「看護婦」。",
     "level": "N4",
-    "exampleFurigana": "看護婦(-)。"
+    "exampleFurigana": "駅(えき)で案内(あんない)を見た(みた)ら、『看護婦(かんごふ)』と書い(かい)てあった。"
   },
   {
     "id": "980",
     "word": "真中",
-    "furigana": "-",
+    "furigana": "まんなか",
     "meaning": "（待補充）",
-    "example": "真中。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "ニュースを見ていると、『真中』という表現をよく聞く。",
+    "exampleMeaning": "看新聞時，常常會聽到「真中」這個表達。",
     "level": "N4",
-    "exampleFurigana": "真中(-)。"
+    "exampleFurigana": "ニュースを見て(みて)いると、『真中(まんなか)』という表現(ひょうげん)をよく聞く(きく)。"
   },
   {
     "id": "981",
     "word": "眠い",
-    "furigana": "-",
+    "furigana": "ねむい",
     "meaning": "（待補充）",
-    "example": "眠い。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "この前のテストでは、『眠い』に関する問題が出た。",
+    "exampleMeaning": "上次考試出現了和「眠い」相關的題目。",
     "level": "N4",
-    "exampleFurigana": "眠い(-)。"
+    "exampleFurigana": "この前(まえ)のテストでは、『眠い(ねむい)』に関す(かんす)る問題(もんだい)が出た(でた)。"
   },
   {
     "id": "982",
     "word": "眠る",
-    "furigana": "-",
+    "furigana": "ねむる",
     "meaning": "（待補充）",
-    "example": "眠る。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "母は私に『眠る』を忘れないようにと言った。",
+    "exampleMeaning": "媽媽提醒我不要忘記「眠る」。",
     "level": "N4",
-    "exampleFurigana": "眠る(-)。"
+    "exampleFurigana": "母(はは)は私(わたし)に『眠る(ねむる)』を忘れ(わすれ)ないようにと言った(いった)。"
   },
   {
     "id": "983",
     "word": "着物",
-    "furigana": "-",
+    "furigana": "きもの",
     "meaning": "（待補充）",
-    "example": "着物。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "旅行の計画を立てるとき、『着物』がとても役に立つ。",
+    "exampleMeaning": "規劃旅行時，「着物」非常有幫助。",
     "level": "N4",
-    "exampleFurigana": "着物(-)。"
+    "exampleFurigana": "旅行(りょこう)の計画(けいかく)を立て(たて)るとき、『着物(きもの)』がとても役に立つ(やくにたつ)。"
   },
   {
     "id": "984",
     "word": "知らせる",
-    "furigana": "-",
+    "furigana": "しらせる",
     "meaning": "（待補充）",
-    "example": "知らせる。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "初めて聞いたときは、『知らせる』の意味がよく分からなかった。",
+    "exampleMeaning": "第一次聽到時，我不太懂「知らせる」的意思。",
     "level": "N4",
-    "exampleFurigana": "知らせる(-)。"
+    "exampleFurigana": "初めて(はじめて)聞い(きい)たときは、『知らせ(しらせ)る』の意味(いみ)がよく分か(わか)らなかった。"
   },
   {
     "id": "985",
     "word": "石",
-    "furigana": "-",
+    "furigana": "いし",
     "meaning": "（待補充）",
-    "example": "石。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "同僚と相談して、『石』を先に進めることにした。",
+    "exampleMeaning": "和同事討論後，我們決定先處理「石」。",
     "level": "N4",
-    "exampleFurigana": "石(-)。"
+    "exampleFurigana": "同僚(どうりょう)と相談(そうだん)して、『石(いし)』を先に(さきに)進め(すすめ)ることにした。"
   },
   {
     "id": "986",
     "word": "砂",
-    "furigana": "-",
+    "furigana": "すな",
     "meaning": "（待補充）",
-    "example": "砂。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "店員さんに質問したら、『砂』を丁寧に教えてくれた。",
+    "exampleMeaning": "我問店員後，他很仔細地告訴我「砂」。",
     "level": "N4",
-    "exampleFurigana": "砂(-)。"
+    "exampleFurigana": "店員(てんいん)さんに質問(しつもん)したら、『砂(すな)』を丁寧(ていねい)に教え(おしえ)てくれた。"
   },
   {
     "id": "987",
     "word": "研究",
-    "furigana": "-",
+    "furigana": "けんきゅう",
     "meaning": "（待補充）",
-    "example": "研究。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "朝のラジオでは、『研究』について話していた。",
+    "exampleMeaning": "早上的廣播在談「研究」。",
     "level": "N4",
-    "exampleFurigana": "研究(-)。"
+    "exampleFurigana": "朝(あさ)のラジオでは、『研究(けんきゅう)』について話し(はなし)ていた。"
   },
   {
     "id": "988",
     "word": "研究室",
-    "furigana": "-",
+    "furigana": "けんきゅうしつ",
     "meaning": "（待補充）",
-    "example": "研究室。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生に注意されて、『研究室』の大切さが分かった。",
+    "exampleMeaning": "被老師提醒後，我明白了「研究室」的重要性。",
     "level": "N4",
-    "exampleFurigana": "研究室(-)。"
+    "exampleFurigana": "先生(せんせい)に注意(ちゅうい)されて、『研究室(けんきゅうしつ)』の大切(たいせつ)さが分か(わか)った。"
   },
   {
     "id": "989",
     "word": "硬",
-    "furigana": "-",
+    "furigana": "こう",
     "meaning": "（待補充）",
-    "example": "硬。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "週末は家族と『硬』のことをゆっくり話した。",
+    "exampleMeaning": "週末我和家人慢慢聊了「硬」這件事。",
     "level": "N4",
-    "exampleFurigana": "硬(-)。"
+    "exampleFurigana": "週末(しゅうまつ)は家族(かぞく)と『硬(こう)』のことをゆっくり話し(はなし)た。"
   },
   {
     "id": "990",
     "word": "確か",
-    "furigana": "-",
+    "furigana": "たしか",
     "meaning": "（待補充）",
-    "example": "確か。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "このアプリには、『確か』を練習する機能がある。",
+    "exampleMeaning": "這個 App 有練習「確か」的功能。",
     "level": "N4",
-    "exampleFurigana": "確か(-)。"
+    "exampleFurigana": "このアプリには、『確か(たしか)』を練習(れんしゅう)する機能(きのう)がある。"
   },
   {
     "id": "991",
     "word": "社会",
-    "furigana": "-",
+    "furigana": "しゃかい",
     "meaning": "（待補充）",
-    "example": "社会。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "説明を読んだら、『社会』の違いがはっきり分かった。",
+    "exampleMeaning": "看完說明後，我清楚懂了「社会」的差異。",
     "level": "N4",
-    "exampleFurigana": "社会(-)。"
+    "exampleFurigana": "説明(せつめい)を読んだ(よんだ)ら、『社会(しゃかい)』の違い(ちがい)がはっきり分か(わか)った。"
   },
   {
     "id": "992",
     "word": "社長",
-    "furigana": "-",
+    "furigana": "しゃちょう",
     "meaning": "（待補充）",
-    "example": "社長。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "職場では、『社長』を正しく使うことが求められる。",
+    "exampleMeaning": "在職場上，會要求正確使用「社長」。",
     "level": "N4",
-    "exampleFurigana": "社長(-)。"
+    "exampleFurigana": "職場(しょくば)では、『社長(しゃちょう)』を正しく(ただしく)使う(つかう)ことが求め(もとめ)られる。"
   },
   {
     "id": "993",
     "word": "祈る",
-    "furigana": "-",
+    "furigana": "いのる",
     "meaning": "（待補充）",
-    "example": "祈る。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先輩の話を聞いて、『祈る』への考え方が変わった。",
+    "exampleMeaning": "聽完前輩的話後，我對「祈る」的看法改變了。",
     "level": "N4",
-    "exampleFurigana": "祈る(-)。"
+    "exampleFurigana": "先輩(せんぱい)の話(はなし)を聞い(きい)て、『祈る(いのる)』への考え方(かんがえかた)が変わ(かわ)った。"
   },
   {
     "id": "994",
     "word": "祖母",
-    "furigana": "-",
+    "furigana": "そぼ",
     "meaning": "（待補充）",
-    "example": "祖母。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "図書館で調べたら、『祖母』に関する本が見つかった。",
+    "exampleMeaning": "在圖書館查資料時，找到了和「祖母」有關的書。",
     "level": "N4",
-    "exampleFurigana": "祖母(-)。"
+    "exampleFurigana": "図書館(としょかん)で調べ(しらべ)たら、『祖母(そぼ)』に関す(かんす)る本(ほん)が見つ(みつ)かった。"
   },
   {
     "id": "995",
     "word": "祖父",
-    "furigana": "-",
+    "furigana": "そふ",
     "meaning": "（待補充）",
-    "example": "祖父。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "今日の宿題は、『祖父』を使って文を作ることだ。",
+    "exampleMeaning": "今天的作業是用「祖父」造句。",
     "level": "N4",
-    "exampleFurigana": "祖父(-)。"
+    "exampleFurigana": "今日(きょう)の宿題(しゅくだい)は、『祖父(そふ)』を使って(つかって)文(ぶん)を作る(つくる)ことだ。"
   },
   {
     "id": "996",
     "word": "神社",
-    "furigana": "-",
+    "furigana": "じんじゃ",
     "meaning": "（待補充）",
-    "example": "神社。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "昨日、友だちとの会話で『神社』という言葉が出てきた。",
+    "exampleMeaning": "昨天和朋友聊天時，提到了「神社」這個詞。",
     "level": "N4",
-    "exampleFurigana": "神社(-)。"
+    "exampleFurigana": "昨日(きのう)、友(とも)だちとの会話(かいわ)で『神社(じんじゃ)』という言葉(ことば)が出て(でて)きた。"
   },
   {
     "id": "997",
     "word": "科学",
-    "furigana": "-",
+    "furigana": "かがく",
     "meaning": "（待補充）",
-    "example": "科学。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "先生は授業で『科学』の使い方を分かりやすく説明してくれた。",
+    "exampleMeaning": "老師在課堂上清楚地說明了「科学」的用法。",
     "level": "N4",
-    "exampleFurigana": "科学(-)。"
+    "exampleFurigana": "先生(せんせい)は授業(じゅぎょう)で『科学(かがく)』の使い方(つかいかた)を分か(わか)りやすく説明し(せつめいし)てくれた。"
   },
   {
     "id": "998",
     "word": "移る",
-    "furigana": "-",
+    "furigana": "うつる",
     "meaning": "（待補充）",
-    "example": "移る。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "会議のあとで、上司から『移る』について確認された。",
+    "exampleMeaning": "會議後，上司向我確認了「移る」這件事。",
     "level": "N4",
-    "exampleFurigana": "移る(-)。"
+    "exampleFurigana": "会議(かいぎ)のあとで、上司(じょうし)から『移る(うつる)』について確認さ(かくにんさ)れた。"
   },
   {
     "id": "999",
     "word": "空く",
-    "furigana": "-",
+    "furigana": "あく",
     "meaning": "（待補充）",
-    "example": "空く。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "駅で案内を見たら、『空く』と書いてあった。",
+    "exampleMeaning": "在車站看指示時，上面寫著「空く」。",
     "level": "N4",
-    "exampleFurigana": "空く(-)。"
+    "exampleFurigana": "駅(えき)で案内(あんない)を見た(みた)ら、『空く(あく)』と書い(かい)てあった。"
   },
   {
     "id": "1000",
     "word": "空気",
-    "furigana": "-",
+    "furigana": "くうき",
     "meaning": "（待補充）",
-    "example": "空気。",
-    "exampleMeaning": "（例句待補充）",
+    "example": "ニュースを見ていると、『空気』という表現をよく聞く。",
+    "exampleMeaning": "看新聞時，常常會聽到「空気」這個表達。",
     "level": "N4",
-    "exampleFurigana": "空気(-)。"
+    "exampleFurigana": "ニュースを見て(みて)いると、『空気(くうき)』という表現(ひょうげん)をよく聞く(きく)。"
   },
   {
     "id": "1001",
