@@ -1,0 +1,7346 @@
+[
+  {
+    "id": "1501",
+    "word": "×",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "×。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1502",
+    "word": "Ͼ立",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "Ͼ立。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1685",
+    "word": "もたれる",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "もたれる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1686",
+    "word": "もったいない",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "もったいない。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1687",
+    "word": "やかましい",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "やかましい。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1688",
+    "word": "やたら",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "やたら。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1689",
+    "word": "やっつける",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "やっつける。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1690",
+    "word": "やむをえない",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "やむをえない。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1691",
+    "word": "ゆでる",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ゆでる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1692",
+    "word": "よこす",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "よこす。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1693",
+    "word": "わりあいに",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "わりあいに。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1694",
+    "word": "アイデア",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "アイデア。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1695",
+    "word": "アイディア",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "アイディア。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1696",
+    "word": "アクセント",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "アクセント。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1697",
+    "word": "アンテナ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "アンテナ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1698",
+    "word": "イコール",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "イコール。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1699",
+    "word": "インキ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "インキ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1700",
+    "word": "インタビュー",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "インタビュー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1701",
+    "word": "ウエートレス",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ウエートレス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1702",
+    "word": "ウーマン",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ウーマン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1703",
+    "word": "ウール",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ウール。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1704",
+    "word": "エチケット",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "エチケット。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1705",
+    "word": "エプロン",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "エプロン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1706",
+    "word": "オイル",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "オイル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1707",
+    "word": "オルガン",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "オルガン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1708",
+    "word": "オーケストラ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "オーケストラ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1709",
+    "word": "オートメーション",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "オートメーション。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1710",
+    "word": "オーバーコート",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "オーバーコート。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1711",
+    "word": "カセット",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "カセット。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1712",
+    "word": "カバー",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "カバー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1713",
+    "word": "カラー",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "カラー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1714",
+    "word": "カロリー",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "カロリー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1715",
+    "word": "カーブ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "カーブ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1716",
+    "word": "ガム",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ガム。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1717",
+    "word": "キャンパス",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "キャンパス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1718",
+    "word": "ギャング",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ギャング。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1719",
+    "word": "クリーニング",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "クリーニング。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1720",
+    "word": "クーラー",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "クーラー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1721",
+    "word": "コック",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "コック。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1722",
+    "word": "コレクション",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "コレクション。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1723",
+    "word": "コンクリート",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "コンクリート。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1724",
+    "word": "コンクール",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "コンクール。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1725",
+    "word": "コンセント",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "コンセント。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1726",
+    "word": "コース",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "コース。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1727",
+    "word": "コーラス",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "コーラス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1728",
+    "word": "ゴム",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ゴム。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1729",
+    "word": "サイレン",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "サイレン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1730",
+    "word": "サラリーマン",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "サラリーマン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1731",
+    "word": "サンプル",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "サンプル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1732",
+    "word": "サークル",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "サークル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1733",
+    "word": "シャッター",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "シャッター。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1734",
+    "word": "ショップ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ショップ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1735",
+    "word": "シリーズ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "シリーズ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1736",
+    "word": "シーズン",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "シーズン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1737",
+    "word": "シーツ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "シーツ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1738",
+    "word": "ジャーナリスト",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ジャーナリスト。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1739",
+    "word": "スカーフ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "スカーフ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1740",
+    "word": "スクール",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "スクール。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1741",
+    "word": "スケジュール",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "スケジュール。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1742",
+    "word": "スタート",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "スタート。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1743",
+    "word": "スチュワーデス",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "スチュワーデス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1744",
+    "word": "ステージ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ステージ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1745",
+    "word": "ストッキング",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ストッキング。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1746",
+    "word": "ストップ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ストップ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1747",
+    "word": "スピーカー",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "スピーカー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1748",
+    "word": "スマート",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "スマート。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1749",
+    "word": "スライド",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "スライド。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1750",
+    "word": "セメント",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "セメント。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1751",
+    "word": "センチ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "センチ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1752",
+    "word": "ゼミ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ゼミ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1753",
+    "word": "タイア",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "タイア。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1754",
+    "word": "ダイヤグラム",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ダイヤグラム。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1755",
+    "word": "ダイヤモンド",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ダイヤモンド。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1756",
+    "word": "ダイヤル",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ダイヤル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1757",
+    "word": "ダブル",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ダブル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1758",
+    "word": "ダム",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ダム。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1759",
+    "word": "チップ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "チップ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1760",
+    "word": "チョーク",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "チョーク。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1761",
+    "word": "テニスコート",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "テニスコート。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1762",
+    "word": "テンポ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "テンポ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1763",
+    "word": "テーマ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "テーマ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1764",
+    "word": "トレーニング",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "トレーニング。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1765",
+    "word": "ナイロン",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ナイロン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1766",
+    "word": "ナンバー",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ナンバー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1767",
+    "word": "ネックレス",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ネックレス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1768",
+    "word": "ハンドル",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ハンドル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1769",
+    "word": "バイバイ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "バイバイ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1770",
+    "word": "バケツ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "バケツ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1771",
+    "word": "バック",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "バック。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1772",
+    "word": "バランス",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "バランス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1773",
+    "word": "バンド",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "バンド。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1774",
+    "word": "パターン",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "パターン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1775",
+    "word": "パンツ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "パンツ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1776",
+    "word": "ビタミン",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ビタミン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1777",
+    "word": "ビニール",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ビニール。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1778",
+    "word": "ビルディング",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ビルディング。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1779",
+    "word": "ピストル",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ピストル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1780",
+    "word": "ピンク",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ピンク。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1781",
+    "word": "ファスナー",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ファスナー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1782",
+    "word": "フライパン",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "フライパン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1783",
+    "word": "フリー",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "フリー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1784",
+    "word": "ブラウス",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ブラウス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1785",
+    "word": "ブラシ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ブラシ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1786",
+    "word": "ブローチ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ブローチ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1787",
+    "word": "プラスチック",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "プラスチック。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1788",
+    "word": "プラットホーム",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "プラットホーム。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1789",
+    "word": "プリント",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "プリント。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1790",
+    "word": "プログラム",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "プログラム。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1791",
+    "word": "ヘリコプター",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ヘリコプター。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1792",
+    "word": "ベテラン",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ベテラン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1793",
+    "word": "ペンチ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ペンチ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1794",
+    "word": "ボーナス",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ボーナス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1795",
+    "word": "ポスター",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ポスター。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1796",
+    "word": "マイナス",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "マイナス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1797",
+    "word": "マスク",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "マスク。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1798",
+    "word": "マフラー",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "マフラー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1799",
+    "word": "マラソン",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "マラソン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1800",
+    "word": "マンション",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "マンション。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1801",
+    "word": "ミシン",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ミシン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1802",
+    "word": "ミリ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ミリ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1803",
+    "word": "メニュー",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "メニュー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1804",
+    "word": "メーター",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "メーター。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1805",
+    "word": "モダン",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "モダン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1806",
+    "word": "モデル",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "モデル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1807",
+    "word": "モノレール",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "モノレール。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1808",
+    "word": "モーター",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "モーター。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1809",
+    "word": "ラッシュアワー",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ラッシュアワー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1810",
+    "word": "ランチ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ランチ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1811",
+    "word": "ランニング",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ランニング。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1812",
+    "word": "リズム",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "リズム。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1813",
+    "word": "リットル",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "リットル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1814",
+    "word": "リボン",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "リボン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1815",
+    "word": "レインコート",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "レインコート。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1816",
+    "word": "レクリェーション",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "レクリェーション。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1817",
+    "word": "レジャー",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "レジャー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1818",
+    "word": "レベル",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "レベル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1819",
+    "word": "レンズ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "レンズ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1820",
+    "word": "ロッカー",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ロッカー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1821",
+    "word": "ロビー",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ロビー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1822",
+    "word": "ローマじ",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ローマじ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1823",
+    "word": "ワンピース",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "ワンピース。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1824",
+    "word": "一休み",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "一休み。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1825",
+    "word": "一定",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "一定。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1826",
+    "word": "一応",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "一応。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1827",
+    "word": "一斉",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "一斉。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1828",
+    "word": "一旦",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "一旦。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1829",
+    "word": "一段",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "一段。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1830",
+    "word": "一流",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "一流。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1831",
+    "word": "一通り",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "一通り。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1832",
+    "word": "万歳",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "万歳。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1833",
+    "word": "三日月",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "三日月。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1834",
+    "word": "三角",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "三角。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1835",
+    "word": "上り",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "上り。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1836",
+    "word": "上下",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "上下。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1837",
+    "word": "上旬",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "上旬。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1838",
+    "word": "上級",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "上級。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1839",
+    "word": "下品",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "下品。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1840",
+    "word": "下旬",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "下旬。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1841",
+    "word": "下書き",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "下書き。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1842",
+    "word": "下水",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "下水。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1843",
+    "word": "下町",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "下町。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1844",
+    "word": "下線",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "下線。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1845",
+    "word": "下車",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "下車。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1846",
+    "word": "下降",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "下降。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1847",
+    "word": "下駄",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "下駄。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1848",
+    "word": "不潔",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "不潔。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1849",
+    "word": "不規則",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "不規則。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1850",
+    "word": "不通",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "不通。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1851",
+    "word": "不運",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "不運。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1852",
+    "word": "両側",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "両側。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1853",
+    "word": "並木",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "並木。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1854",
+    "word": "並行",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "並行。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1855",
+    "word": "中世",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "中世。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1856",
+    "word": "中味",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "中味。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1857",
+    "word": "中年",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "中年。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1858",
+    "word": "中性",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "中性。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1859",
+    "word": "中指",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "中指。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1860",
+    "word": "中旬",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "中旬。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1861",
+    "word": "中身",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "中身。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1862",
+    "word": "中途",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "中途。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1863",
+    "word": "中間",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "中間。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1864",
+    "word": "主役",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "主役。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1865",
+    "word": "主語",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "主語。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1866",
+    "word": "丼",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "丼。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1867",
+    "word": "乗換",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "乗換。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1868",
+    "word": "乗車",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "乗車。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1869",
+    "word": "乱暴",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "乱暴。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1870",
+    "word": "乾かす",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "乾かす。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1871",
+    "word": "乾杯",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "乾杯。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1872",
+    "word": "乾燥",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "乾燥。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1873",
+    "word": "乾電池",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "乾電池。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1874",
+    "word": "予備",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "予備。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1875",
+    "word": "争う",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "争う。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1876",
+    "word": "五十音",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "五十音。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1877",
+    "word": "井戸",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "井戸。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1878",
+    "word": "亡くす",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "亡くす。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1879",
+    "word": "交ざる",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "交ざる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1880",
+    "word": "交じる",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "交じる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1881",
+    "word": "交ぜる",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "交ぜる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1882",
+    "word": "交差",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "交差。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1883",
+    "word": "交替",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "交替。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1884",
+    "word": "交流",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "交流。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1885",
+    "word": "交通機関",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "交通機関。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1886",
+    "word": "人命",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "人命。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1887",
+    "word": "人差指",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "人差指。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1888",
+    "word": "人文科学",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "人文科学。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1889",
+    "word": "人通り",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "人通り。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1890",
+    "word": "人造",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "人造。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1891",
+    "word": "仕上がる",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "仕上がる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1892",
+    "word": "付合う",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "付合う。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1893",
+    "word": "付近",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "付近。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1894",
+    "word": "代える",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "代える。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1895",
+    "word": "代る",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "代る。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1896",
+    "word": "代名詞",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "代名詞。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1897",
+    "word": "以後",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "以後。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1898",
+    "word": "以降",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "以降。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1899",
+    "word": "仮名",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "仮名。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1900",
+    "word": "仮名遣い",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "仮名遣い。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1901",
+    "word": "仮定",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "仮定。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1902",
+    "word": "仲直り",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "仲直り。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1903",
+    "word": "仲良し",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "仲良し。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1904",
+    "word": "休息",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "休息。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1905",
+    "word": "休業",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "休業。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1906",
+    "word": "休講",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "休講。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1907",
+    "word": "休養",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "休養。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1908",
+    "word": "会館",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "会館。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1909",
+    "word": "伝わる",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "伝わる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1910",
+    "word": "伝染",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "伝染。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1911",
+    "word": "伝記",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "伝記。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1912",
+    "word": "伯父さん",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "伯父さん。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1913",
+    "word": "但し",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "但し。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1914",
+    "word": "低下",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "低下。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1915",
+    "word": "住まい",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "住まい。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1916",
+    "word": "住居",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "住居。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1917",
+    "word": "体制",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "体制。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1918",
+    "word": "体操",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "体操。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1919",
+    "word": "体積",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "体積。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1920",
+    "word": "体系",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "体系。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1921",
+    "word": "何々",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "何々。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1922",
+    "word": "何分",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "何分。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1923",
+    "word": "余る",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "余る。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1924",
+    "word": "余所",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "余所。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1925",
+    "word": "余計",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "余計。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1926",
+    "word": "佚",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "佚。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1927",
+    "word": "作成",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "作成。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1928",
+    "word": "作者",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "作者。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1929",
+    "word": "作製",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "作製。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1930",
+    "word": "例える",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "例える。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1931",
+    "word": "例外",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "例外。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1932",
+    "word": "侵入",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "侵入。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1933",
+    "word": "便所",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "便所。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1934",
+    "word": "便箋",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "便箋。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1935",
+    "word": "係わる",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "係わる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1936",
+    "word": "俄",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "俄。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1937",
+    "word": "保健",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "保健。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1938",
+    "word": "信ずる",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "信ずる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1939",
+    "word": "修繕",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "修繕。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1940",
+    "word": "俳句",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "俳句。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1941",
+    "word": "倉庫",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "倉庫。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1942",
+    "word": "個体",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "個体。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1943",
+    "word": "個所",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "個所。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1944",
+    "word": "倣う",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "倣う。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1945",
+    "word": "偉い",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "偉い。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1946",
+    "word": "停止",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "停止。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1947",
+    "word": "停車",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "停車。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1948",
+    "word": "停電",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "停電。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1949",
+    "word": "偶数",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "偶数。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1950",
+    "word": "傑作",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "傑作。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1951",
+    "word": "催し",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "催し。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1952",
+    "word": "催促",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "催促。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1953",
+    "word": "傾く",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "傾く。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1954",
+    "word": "儀式",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "儀式。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1955",
+    "word": "儲かる",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "儲かる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1956",
+    "word": "儲ける",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "儲ける。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1957",
+    "word": "元々",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "元々。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1958",
+    "word": "先々月",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "先々月。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1959",
+    "word": "先々週",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "先々週。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1960",
+    "word": "先祖",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "先祖。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1961",
+    "word": "先程",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "先程。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1962",
+    "word": "先端",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "先端。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1963",
+    "word": "先頭",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "先頭。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1964",
+    "word": "光線",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "光線。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1965",
+    "word": "免税",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "免税。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1966",
+    "word": "児童",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "児童。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1967",
+    "word": "入れ物",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "入れ物。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1968",
+    "word": "入社",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "入社。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1969",
+    "word": "全般",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "全般。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1970",
+    "word": "全身",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "全身。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1971",
+    "word": "全集",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "全集。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1972",
+    "word": "公共",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "公共。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1973",
+    "word": "公務",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "公務。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1974",
+    "word": "公害",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "公害。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1975",
+    "word": "公式",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "公式。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1976",
+    "word": "公正",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "公正。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1977",
+    "word": "公衆",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "公衆。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1978",
+    "word": "公表",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "公表。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1979",
+    "word": "兵隊",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "兵隊。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1980",
+    "word": "具える",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "具える。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1981",
+    "word": "兼ねる",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "兼ねる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1982",
+    "word": "内科",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "内科。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1983",
+    "word": "内線",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "内線。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1984",
+    "word": "円周",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "円周。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1985",
+    "word": "再三",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "再三。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1986",
+    "word": "再来年",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "再来年。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1987",
+    "word": "再来月",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "再来月。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1988",
+    "word": "再来週",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "再来週。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1989",
+    "word": "写る",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "写る。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1990",
+    "word": "写生",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "写生。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1991",
+    "word": "冠",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "冠。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1992",
+    "word": "冷ます",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "冷ます。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1993",
+    "word": "冷める",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "冷める。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1994",
+    "word": "冷やす",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "冷やす。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1995",
+    "word": "冷凍",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "冷凍。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1996",
+    "word": "凍える",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "凍える。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1997",
+    "word": "凸凹",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "凸凹。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1998",
+    "word": "凹む",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "凹む。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "1999",
+    "word": "出入り",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "出入り。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2000",
+    "word": "出入口",
+    "furigana": "-",
+    "level": "N2",
+    "meaning": "（待補充）",
+    "example": "出入口。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2001",
+    "word": "あくどい",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "あくどい。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2002",
+    "word": "あざ笑う",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "あざ笑う。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2003",
+    "word": "あっさり",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "あっさり。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2004",
+    "word": "あべこべ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "あべこべ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2005",
+    "word": "あやふや",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "あやふや。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2006",
+    "word": "あら",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "あら。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2007",
+    "word": "あられ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "あられ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2008",
+    "word": "いい加減",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "いい加減。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2009",
+    "word": "いく",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "いく。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2010",
+    "word": "いざ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "いざ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2011",
+    "word": "いっそ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "いっそ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2012",
+    "word": "いやに",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "いやに。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2013",
+    "word": "うんざり",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "うんざり。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2014",
+    "word": "えい",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "えい。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2015",
+    "word": "おおい",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "おおい。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2016",
+    "word": "おっかない",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "おっかない。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2017",
+    "word": "おどおど",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "おどおど。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2018",
+    "word": "お世辞",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お世辞。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2019",
+    "word": "お休み",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お休み。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2020",
+    "word": "お使い",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お使い。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2021",
+    "word": "お供",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お供。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2022",
+    "word": "お先に",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お先に。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2023",
+    "word": "お八",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お八。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2024",
+    "word": "お出でになる",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お出でになる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2025",
+    "word": "お喋り",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お喋り。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2026",
+    "word": "お大事に",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お大事に。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2027",
+    "word": "お宮",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お宮。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2028",
+    "word": "お巡りさん",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お巡りさん。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2029",
+    "word": "お手上げ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お手上げ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2030",
+    "word": "お早う",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お早う。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2031",
+    "word": "お洒落",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お洒落。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2032",
+    "word": "お産",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お産。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2033",
+    "word": "お目出度う",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お目出度う。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2034",
+    "word": "お祖母さん",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お祖母さん。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2035",
+    "word": "お祖父さん",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お祖父さん。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2036",
+    "word": "お菜",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お菜。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2037",
+    "word": "お蔭",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お蔭。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2038",
+    "word": "お蔭様で",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お蔭様で。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2039",
+    "word": "お襁褓",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お襁褓。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2040",
+    "word": "お邪魔します",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お邪魔します。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2041",
+    "word": "お願いします",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "お願いします。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2042",
+    "word": "かも知れない",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "かも知れない。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2043",
+    "word": "がっくり",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "がっくり。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2044",
+    "word": "がっしり",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "がっしり。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2045",
+    "word": "がっちり",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "がっちり。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2046",
+    "word": "がる",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "がる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2047",
+    "word": "きちっと",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "きちっと。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2048",
+    "word": "きっかり",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "きっかり。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2049",
+    "word": "きっちり",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "きっちり。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2050",
+    "word": "きっぱり",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "きっぱり。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2051",
+    "word": "くっきり",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "くっきり。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2052",
+    "word": "くっ付く",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "くっ付く。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2053",
+    "word": "くっ付ける",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "くっ付ける。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2054",
+    "word": "ぐっと",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ぐっと。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2055",
+    "word": "ぐらい",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ぐらい。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2056",
+    "word": "げっそり",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "げっそり。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2057",
+    "word": "こだわる",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "こだわる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2058",
+    "word": "この間",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "この間。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2059",
+    "word": "この頃",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "この頃。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2060",
+    "word": "ご座います",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ご座います。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2061",
+    "word": "ご無沙汰",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ご無沙汰。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2062",
+    "word": "ご苦労様",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ご苦労様。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2063",
+    "word": "ご馳走",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ご馳走。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2064",
+    "word": "ご馳走さま",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ご馳走さま。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2065",
+    "word": "さっと",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "さっと。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2066",
+    "word": "さん",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "さん。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2067",
+    "word": "し",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "し。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2068",
+    "word": "しくじる",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "しくじる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2069",
+    "word": "しなやか",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "しなやか。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2070",
+    "word": "しぶとい",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "しぶとい。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2071",
+    "word": "しょっちゅう",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "しょっちゅう。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2072",
+    "word": "じっくり",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "じっくり。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2073",
+    "word": "じゃん拳",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "じゃん拳。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2074",
+    "word": "すばしこい",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "すばしこい。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2075",
+    "word": "すれ違う",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "すれ違う。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2076",
+    "word": "すんなり",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "すんなり。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2077",
+    "word": "ずばり",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ずばり。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2078",
+    "word": "ずぶ濡れ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ずぶ濡れ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2079",
+    "word": "ずらっと",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ずらっと。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2080",
+    "word": "ずるずる",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ずるずる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2081",
+    "word": "ずれ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ずれ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2083",
+    "word": "その上",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "その上。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2084",
+    "word": "その内",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "その内。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2085",
+    "word": "その外",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "その外。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2086",
+    "word": "その為",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "その為。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2087",
+    "word": "ぞんざい",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ぞんざい。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2088",
+    "word": "たった",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "たった。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2089",
+    "word": "だぶだぶ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "だぶだぶ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2090",
+    "word": "だらけ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "だらけ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2091",
+    "word": "ちやほや",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ちやほや。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2092",
+    "word": "ちょくちょく",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ちょくちょく。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2094",
+    "word": "てっきり",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "てっきり。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2095",
+    "word": "てんで",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "てんで。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2096",
+    "word": "でかい",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "でかい。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2097",
+    "word": "と",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "と。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2098",
+    "word": "とんだ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "とんだ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2099",
+    "word": "どうぞ宜しく",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "どうぞ宜しく。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2100",
+    "word": "どうにか",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "どうにか。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2101",
+    "word": "どうやら",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "どうやら。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2102",
+    "word": "なんか",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "なんか。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2103",
+    "word": "なんだかんだ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "なんだかんだ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2104",
+    "word": "にも拘らず",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "にも拘らず。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2105",
+    "word": "ねじ回し",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ねじ回し。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2106",
+    "word": "ばてる",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ばてる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2107",
+    "word": "ひょっと",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ひょっと。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2108",
+    "word": "びっしょり",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "びっしょり。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2109",
+    "word": "びり",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "びり。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2110",
+    "word": "ふんだん",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ふんだん。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2111",
+    "word": "ぶかぶか",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ぶかぶか。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2112",
+    "word": "ぶらぶら",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ぶらぶら。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2113",
+    "word": "ぶら下げる",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ぶら下げる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2114",
+    "word": "ぺこぺこ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ぺこぺこ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2115",
+    "word": "ほっと",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ほっと。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2116",
+    "word": "ぼつぼつ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ぼつぼつ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2117",
+    "word": "ぼやく",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ぼやく。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2118",
+    "word": "ぼやける",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ぼやける。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2119",
+    "word": "まごつく",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "まごつく。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2120",
+    "word": "もろに",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "もろに。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2121",
+    "word": "やっ付ける",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "やっ付ける。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2122",
+    "word": "ややこしい",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ややこしい。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2123",
+    "word": "やり遂げる",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "やり遂げる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2124",
+    "word": "ゆとり",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ゆとり。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2125",
+    "word": "アクセル",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "アクセル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2126",
+    "word": "アップ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "アップ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2127",
+    "word": "アプローチ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "アプローチ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2128",
+    "word": "アマチュア",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "アマチュア。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2129",
+    "word": "アラブ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "アラブ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2130",
+    "word": "アルカリ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "アルカリ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2131",
+    "word": "アルミ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "アルミ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2132",
+    "word": "アワー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "アワー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2133",
+    "word": "アンケート",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "アンケート。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2134",
+    "word": "アンコール",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "アンコール。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2135",
+    "word": "イエス",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "イエス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2136",
+    "word": "インターチェンジ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "インターチェンジ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2137",
+    "word": "インターナショナル",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "インターナショナル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2138",
+    "word": "インターフォン",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "インターフォン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2139",
+    "word": "インテリ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "インテリ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2140",
+    "word": "インフォメーション",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "インフォメーション。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2141",
+    "word": "インフレ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "インフレ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2142",
+    "word": "ウェートレス",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ウェートレス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2143",
+    "word": "エアメール",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "エアメール。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2144",
+    "word": "エレガント",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "エレガント。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2145",
+    "word": "エンジニア",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "エンジニア。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2146",
+    "word": "オリエンテーション",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "オリエンテーション。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2147",
+    "word": "オレンジ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "オレンジ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2148",
+    "word": "オンライン",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "オンライン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2149",
+    "word": "オーケー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "オーケー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2150",
+    "word": "オートマチック",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "オートマチック。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2151",
+    "word": "オープン",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "オープン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2152",
+    "word": "カクテル",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "カクテル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2153",
+    "word": "カット",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "カット。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2154",
+    "word": "カテゴリー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "カテゴリー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2155",
+    "word": "カムバック",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "カムバック。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2156",
+    "word": "カメラマン",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "カメラマン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2157",
+    "word": "カルテ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "カルテ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2158",
+    "word": "カンニング",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "カンニング。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2159",
+    "word": "カーペット",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "カーペット。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2160",
+    "word": "ガイド",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ガイド。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2161",
+    "word": "ガイドブック",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ガイドブック。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2162",
+    "word": "ガレージ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ガレージ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2163",
+    "word": "キャッチ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "キャッチ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2164",
+    "word": "キャリア",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "キャリア。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2165",
+    "word": "クイズ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "クイズ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2166",
+    "word": "クラブ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "クラブ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2167",
+    "word": "クレーン",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "クレーン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2168",
+    "word": "グラフ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "グラフ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2169",
+    "word": "グレー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "グレー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2170",
+    "word": "ゲスト",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ゲスト。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2171",
+    "word": "コマーシャル",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "コマーシャル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2172",
+    "word": "コミュニケーション",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "コミュニケーション。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2173",
+    "word": "コメント",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "コメント。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2174",
+    "word": "コンタクト",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "コンタクト。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2175",
+    "word": "コンテスト",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "コンテスト。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2176",
+    "word": "コントラスト",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "コントラスト。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2177",
+    "word": "コントロール",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "コントロール。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2178",
+    "word": "コンパス",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "コンパス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2179",
+    "word": "コーナー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "コーナー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2180",
+    "word": "サイクル",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "サイクル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2181",
+    "word": "サイズ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "サイズ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2182",
+    "word": "サボる",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "サボる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2183",
+    "word": "サンキュー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "サンキュー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2184",
+    "word": "サンタクロース",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "サンタクロース。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2185",
+    "word": "システム",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "システム。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2186",
+    "word": "シック",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "シック。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2187",
+    "word": "シナリオ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "シナリオ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2188",
+    "word": "ショック",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ショック。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2189",
+    "word": "ショー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ショー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2190",
+    "word": "シート",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "シート。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2191",
+    "word": "ジャズ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ジャズ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2192",
+    "word": "ジャンパー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ジャンパー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2193",
+    "word": "ジャンプ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ジャンプ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2194",
+    "word": "ジャンボ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ジャンボ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2195",
+    "word": "ジャンル",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ジャンル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2196",
+    "word": "ジーパン",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ジーパン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2197",
+    "word": "スタジオ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "スタジオ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2198",
+    "word": "スチーム",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "スチーム。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2199",
+    "word": "ストライキ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ストライキ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2200",
+    "word": "ストレス",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ストレス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2201",
+    "word": "ストロボ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ストロボ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2202",
+    "word": "ストロー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ストロー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2203",
+    "word": "スピード",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "スピード。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2204",
+    "word": "スプリング",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "スプリング。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2205",
+    "word": "スペース",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "スペース。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2206",
+    "word": "スポーツカー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "スポーツカー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2207",
+    "word": "スラックス",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "スラックス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2208",
+    "word": "セクション",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "セクション。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2209",
+    "word": "セックス",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "セックス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2210",
+    "word": "セレモニー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "セレモニー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2211",
+    "word": "センス",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "センス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2212",
+    "word": "セール",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "セール。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2213",
+    "word": "ゼリー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ゼリー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2214",
+    "word": "ソックス",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ソックス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2215",
+    "word": "ソロ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ソロ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2216",
+    "word": "ソース",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ソース。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2217",
+    "word": "タイトル",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "タイトル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2218",
+    "word": "タイピスト",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "タイピスト。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2219",
+    "word": "タイマー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "タイマー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2220",
+    "word": "タイミング",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "タイミング。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2221",
+    "word": "タイム",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "タイム。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2222",
+    "word": "タイムリー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "タイムリー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2223",
+    "word": "タイヤ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "タイヤ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2224",
+    "word": "タイル",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "タイル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2225",
+    "word": "タレント",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "タレント。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2226",
+    "word": "タワー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "タワー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2227",
+    "word": "ダウン",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ダウン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2228",
+    "word": "ダブる",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ダブる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2229",
+    "word": "ダンプ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ダンプ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2230",
+    "word": "ダース",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ダース。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2231",
+    "word": "チェンジ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "チェンジ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2232",
+    "word": "チャイム",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "チャイム。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2233",
+    "word": "チャンネル",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "チャンネル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2234",
+    "word": "チームワーク",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "チームワーク。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2235",
+    "word": "ティッシュペーパー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ティッシュペーパー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2236",
+    "word": "テレックス",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "テレックス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2237",
+    "word": "デコレーション",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "デコレーション。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2238",
+    "word": "デザイン",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "デザイン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2239",
+    "word": "デザート",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "デザート。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2240",
+    "word": "デッサン",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "デッサン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2241",
+    "word": "デモンストレーション",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "デモンストレーション。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2242",
+    "word": "データ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "データ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2243",
+    "word": "トラブル",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "トラブル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2244",
+    "word": "トランジスター",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "トランジスター。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2245",
+    "word": "トーン",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "トーン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2246",
+    "word": "ドライ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ドライ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2247",
+    "word": "ドライクリーニング",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ドライクリーニング。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2248",
+    "word": "ドライバー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ドライバー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2249",
+    "word": "ドライブイン",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ドライブイン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2250",
+    "word": "ドリル",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ドリル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2251",
+    "word": "ナイター",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ナイター。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2252",
+    "word": "ナプキン",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ナプキン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2253",
+    "word": "ナンセンス",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ナンセンス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2254",
+    "word": "ニュアンス",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ニュアンス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2255",
+    "word": "ニュー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ニュー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2256",
+    "word": "ネガ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ネガ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2257",
+    "word": "ノイローゼ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ノイローゼ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2258",
+    "word": "ハンガー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ハンガー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2259",
+    "word": "バッジ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "バッジ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2260",
+    "word": "バット",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "バット。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2261",
+    "word": "バー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "バー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2262",
+    "word": "パジャマ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "パジャマ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2263",
+    "word": "パチンコ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "パチンコ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2264",
+    "word": "パトカー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "パトカー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2265",
+    "word": "パンク",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "パンク。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2266",
+    "word": "ヒント",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ヒント。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2267",
+    "word": "ビジネス",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ビジネス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2268",
+    "word": "ビールス",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ビールス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2269",
+    "word": "ファイト",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ファイト。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2270",
+    "word": "ファイル",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ファイル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2271",
+    "word": "ファン",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ファン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2272",
+    "word": "フィルター",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "フィルター。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2273",
+    "word": "フェリー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "フェリー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2274",
+    "word": "フォーム",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "フォーム。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2275",
+    "word": "フロント",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "フロント。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2276",
+    "word": "ブザー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ブザー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2277",
+    "word": "ブルー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ブルー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2278",
+    "word": "ブーツ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ブーツ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2279",
+    "word": "ブーム",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ブーム。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2280",
+    "word": "ベスト",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ベスト。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2281",
+    "word": "ベストセラー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ベストセラー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2282",
+    "word": "ベース",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ベース。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2283",
+    "word": "ペア",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ペア。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2284",
+    "word": "ホース",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ホース。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2285",
+    "word": "ホール",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ホール。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2286",
+    "word": "ボイコット",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ボイコット。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2287",
+    "word": "ボルト",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ボルト。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2288",
+    "word": "ポイント",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ポイント。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2289",
+    "word": "ポジション",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ポジション。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2290",
+    "word": "ポット",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ポット。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2291",
+    "word": "ポンプ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ポンプ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2292",
+    "word": "ポーズ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ポーズ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2293",
+    "word": "マスコミ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "マスコミ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2294",
+    "word": "マッサージ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "マッサージ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2295",
+    "word": "マーク",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "マーク。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2296",
+    "word": "ミスプリント",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ミスプリント。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2297",
+    "word": "ミセス",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ミセス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2298",
+    "word": "ミュージック",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ミュージック。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2299",
+    "word": "ムード",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ムード。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2300",
+    "word": "メッセージ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "メッセージ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2301",
+    "word": "メディア",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "メディア。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2302",
+    "word": "メロディー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "メロディー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2303",
+    "word": "メーカー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "メーカー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2304",
+    "word": "モニター",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "モニター。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2305",
+    "word": "モーテル",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "モーテル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2306",
+    "word": "ヤング",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ヤング。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2307",
+    "word": "ユニフォーム",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ユニフォーム。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2308",
+    "word": "ユニーク",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ユニーク。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2309",
+    "word": "ライス",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ライス。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2310",
+    "word": "ラベル",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ラベル。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2311",
+    "word": "ランプ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ランプ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2312",
+    "word": "ルーズ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ルーズ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2313",
+    "word": "ルール",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ルール。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2314",
+    "word": "レギュラー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "レギュラー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2315",
+    "word": "レクリエーション",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "レクリエーション。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2316",
+    "word": "レッスン",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "レッスン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2317",
+    "word": "レディー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "レディー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2318",
+    "word": "レバー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "レバー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2319",
+    "word": "レンジ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "レンジ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2320",
+    "word": "レンタカー",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "レンタカー。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2321",
+    "word": "レントゲン",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "レントゲン。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2322",
+    "word": "レース",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "レース。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2323",
+    "word": "ロマンチック",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ロマンチック。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2324",
+    "word": "ロープ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ロープ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2325",
+    "word": "ローマ字",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ローマ字。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2326",
+    "word": "ワット",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ワット。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2327",
+    "word": "ヶ月",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "ヶ月。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2328",
+    "word": "一々",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一々。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2329",
+    "word": "一まず",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一まず。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2330",
+    "word": "一人でに",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一人でに。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2331",
+    "word": "一切",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一切。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2332",
+    "word": "一別",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一別。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2333",
+    "word": "一同",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一同。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2334",
+    "word": "一向",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一向。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2335",
+    "word": "一変",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一変。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2336",
+    "word": "一寸",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一寸。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2337",
+    "word": "一帯",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一帯。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2338",
+    "word": "一律",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一律。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2339",
+    "word": "一心",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一心。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2340",
+    "word": "一息",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一息。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2341",
+    "word": "一括",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一括。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2342",
+    "word": "一挙に",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一挙に。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2343",
+    "word": "一敗",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一敗。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2344",
+    "word": "一昨昨日",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一昨昨日。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2345",
+    "word": "一概に",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一概に。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2346",
+    "word": "一様",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一様。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2347",
+    "word": "一気",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一気。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2348",
+    "word": "一目",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一目。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2349",
+    "word": "一筋",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一筋。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2350",
+    "word": "一見",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一見。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2351",
+    "word": "一連",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一連。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2352",
+    "word": "一部",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一部。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2353",
+    "word": "一部分",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一部分。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2354",
+    "word": "一面",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一面。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2355",
+    "word": "一頃",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "一頃。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2356",
+    "word": "丁々",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "丁々。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2357",
+    "word": "丁目",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "丁目。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2358",
+    "word": "万人",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "万人。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2359",
+    "word": "万能",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "万能。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2360",
+    "word": "丈",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "丈。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2361",
+    "word": "三味線",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "三味線。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2362",
+    "word": "上がり",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "上がり。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2363",
+    "word": "上がる",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "上がる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2364",
+    "word": "上位",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "上位。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2365",
+    "word": "上司",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "上司。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2366",
+    "word": "上回る",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "上回る。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2367",
+    "word": "上昇",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "上昇。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2368",
+    "word": "上演",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "上演。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2369",
+    "word": "上空",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "上空。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2370",
+    "word": "上陸",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "上陸。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2371",
+    "word": "下がる",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "下がる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2372",
+    "word": "下らない",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "下らない。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2373",
+    "word": "下位",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "下位。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2374",
+    "word": "下取り",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "下取り。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2375",
+    "word": "下吏",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "下吏。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2376",
+    "word": "下地",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "下地。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2377",
+    "word": "下心",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "下心。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2378",
+    "word": "下火",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "下火。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2379",
+    "word": "下番",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "下番。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2380",
+    "word": "下痢",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "下痢。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2381",
+    "word": "下調べ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "下調べ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2382",
+    "word": "不動産",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "不動産。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2383",
+    "word": "不可欠",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "不可欠。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2384",
+    "word": "不吉",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "不吉。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2385",
+    "word": "不味い",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "不味い。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2386",
+    "word": "不図",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "不図。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2387",
+    "word": "不在",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "不在。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2388",
+    "word": "不審",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "不審。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2389",
+    "word": "不山戯る",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "不山戯る。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2390",
+    "word": "不当",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "不当。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2391",
+    "word": "不意",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "不意。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2392",
+    "word": "不振",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "不振。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2393",
+    "word": "不明",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "不明。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2394",
+    "word": "不景気",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "不景気。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2395",
+    "word": "不服",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "不服。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2396",
+    "word": "不況",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "不況。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2397",
+    "word": "不良",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "不良。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2398",
+    "word": "不評",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "不評。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2399",
+    "word": "不調",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "不調。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2400",
+    "word": "不順",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "不順。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2401",
+    "word": "与党",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "与党。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2402",
+    "word": "且つ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "且つ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2403",
+    "word": "世",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "世。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2404",
+    "word": "世代",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "世代。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2405",
+    "word": "世帯",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "世帯。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2406",
+    "word": "世論",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "世論。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2407",
+    "word": "世辞",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "世辞。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2408",
+    "word": "丘陵",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "丘陵。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2409",
+    "word": "両極",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "両極。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2410",
+    "word": "両立",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "両立。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2411",
+    "word": "並びに",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "並びに。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2412",
+    "word": "並み",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "並み。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2413",
+    "word": "並列",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "並列。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2414",
+    "word": "中傷",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "中傷。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2415",
+    "word": "中和",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "中和。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2416",
+    "word": "中断",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "中断。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2417",
+    "word": "中枢",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "中枢。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2418",
+    "word": "中毒",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "中毒。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2419",
+    "word": "中程",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "中程。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2420",
+    "word": "中立",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "中立。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2421",
+    "word": "中継",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "中継。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2422",
+    "word": "中腹",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "中腹。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2423",
+    "word": "丸々",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "丸々。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2424",
+    "word": "丸ごと",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "丸ごと。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2425",
+    "word": "丸っきり",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "丸っきり。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2426",
+    "word": "丸で",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "丸で。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2427",
+    "word": "丸める",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "丸める。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2428",
+    "word": "主人公",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "主人公。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2429",
+    "word": "主任",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "主任。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2430",
+    "word": "主体",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "主体。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2431",
+    "word": "主催",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "主催。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2432",
+    "word": "主導",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "主導。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2433",
+    "word": "主権",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "主権。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2434",
+    "word": "主演",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "主演。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2435",
+    "word": "主観",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "主観。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2436",
+    "word": "主題",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "主題。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2437",
+    "word": "主食",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "主食。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2438",
+    "word": "乃至",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "乃至。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2439",
+    "word": "久しい",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "久しい。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2440",
+    "word": "久し振り",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "久し振り。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2441",
+    "word": "乏しい",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "乏しい。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2442",
+    "word": "乗っ取る",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "乗っ取る。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2443",
+    "word": "乗り換え",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "乗り換え。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2444",
+    "word": "乗り込む",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "乗り込む。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2445",
+    "word": "乙",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "乙。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2446",
+    "word": "乱す",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "乱す。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2447",
+    "word": "乱れる",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "乱れる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2448",
+    "word": "乳",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "乳。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2449",
+    "word": "乾",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "乾。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2450",
+    "word": "了",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "了。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2451",
+    "word": "了承",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "了承。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2452",
+    "word": "了解",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "了解。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2453",
+    "word": "予め",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "予め。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2454",
+    "word": "予想",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "予想。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2455",
+    "word": "予感",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "予感。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2456",
+    "word": "予言",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "予言。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2457",
+    "word": "争い",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "争い。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2458",
+    "word": "事によると",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "事によると。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2459",
+    "word": "事前",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "事前。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2460",
+    "word": "事柄",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "事柄。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2461",
+    "word": "事業",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "事業。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2462",
+    "word": "事項",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "事項。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2463",
+    "word": "云々",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "云々。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2464",
+    "word": "五月蝿い",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "五月蝿い。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2465",
+    "word": "些とも",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "些とも。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2466",
+    "word": "些事",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "些事。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2467",
+    "word": "亜科",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "亜科。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2468",
+    "word": "交える",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "交える。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2469",
+    "word": "交わす",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "交わす。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2470",
+    "word": "交わる",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "交わる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2471",
+    "word": "交互",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "交互。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2472",
+    "word": "交付",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "交付。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2473",
+    "word": "交易",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "交易。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2474",
+    "word": "交渉",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "交渉。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2475",
+    "word": "享受",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "享受。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2476",
+    "word": "人体",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "人体。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2477",
+    "word": "人情",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "人情。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2478",
+    "word": "人材",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "人材。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2479",
+    "word": "人柄",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "人柄。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2480",
+    "word": "人格",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "人格。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2481",
+    "word": "人民",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "人民。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2482",
+    "word": "人目",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "人目。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2483",
+    "word": "人質",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "人質。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2484",
+    "word": "今日は",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "今日は。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2485",
+    "word": "今晩は",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "今晩は。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2486",
+    "word": "今更",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "今更。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2487",
+    "word": "介入",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "介入。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2488",
+    "word": "介抱",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "介抱。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2489",
+    "word": "介護",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "介護。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2490",
+    "word": "仏像",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "仏像。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2491",
+    "word": "仕える",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "仕える。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2492",
+    "word": "仕上がり",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "仕上がり。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2493",
+    "word": "仕上げ",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "仕上げ。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2494",
+    "word": "仕上げる",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "仕上げる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2495",
+    "word": "仕付ける",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "仕付ける。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2496",
+    "word": "仕入れる",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "仕入れる。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2497",
+    "word": "仕切る",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "仕切る。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2498",
+    "word": "仕掛け",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "仕掛け。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2499",
+    "word": "仕掛ける",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "仕掛ける。",
+    "exampleMeaning": "（例句待補充）"
+  },
+  {
+    "id": "2500",
+    "word": "仕様",
+    "furigana": "-",
+    "level": "N1",
+    "meaning": "（待補充）",
+    "example": "仕様。",
+    "exampleMeaning": "（例句待補充）"
+  }
+]
