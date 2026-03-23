@@ -22,6 +22,7 @@ export interface ConversationScenario {
   contextCn: string;
   roles: { id: string; name: string; nameCn: string }[];
   phrases: { text: string; meaning: string }[];
+  grammarPoints?: { pattern: string; explanation: string }[];
   dialogues: { role: string; text: string; textCn?: string }[];
 }
 

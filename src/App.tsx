@@ -511,6 +511,36 @@ const ChatPractice: React.FC<{ scenario: typeof initialScenarios[0]; onBack: () 
               <button className="chip" onClick={replayStarter}>A/B 重播</button>
             </div>
           )}
+
+          <div className="phrase-bank-title" style={{ marginTop: 14 }}>重點詞彙</div>
+          <div className="phrase-bank-chips">
+            {scenario.phrases.map((phrase) => (
+              <button
+                key={phrase.text}
+                type="button"
+                className="phrase-chip"
+                onClick={() => triggerBubbleSpeech(phrase.text)}
+                title="點擊播放詞彙發音"
+              >
+                <strong>{phrase.text}</strong>
+                <span>{phrase.meaning}</span>
+              </button>
+            ))}
+          </div>
+
+          {scenario.grammarPoints && scenario.grammarPoints.length > 0 && (
+            <>
+              <div className="phrase-bank-title" style={{ marginTop: 14 }}>文法重點</div>
+              <div className="grammar-notes-list">
+                {scenario.grammarPoints.map((point) => (
+                  <div key={point.pattern} className="grammar-note-item">
+                    <div className="grammar-note-label">{point.pattern}</div>
+                    <div className="grammar-note-detail">{point.explanation}</div>
+                  </div>
+                ))}
+              </div>
+            </>
+          )}
         </div>
       </div>
     </div>
