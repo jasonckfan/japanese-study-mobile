@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>振り仮名表示測試</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Noto+Serif+JP:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --primary-dark: #0A1628;
+      --secondary-dark: #1A2744;
+      --accent-gold: #F5C842;
+      --text-primary: #FFFFFF;
+      --text-secondary: #A8B4C4;
+      --border-radius: 16px;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Noto Sans JP', sans-serif;
+      background: var(--primary-dark);
+      color: var(--text-primary);
+      padding: 20px;
+      line-height: 1.6;
+    }
+
+    .test-container {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+      color: var(--accent-gold);
+    }
+
+    .test-case {
+      background: var(--secondary-dark);
+      border-radius: var(--border-radius);
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+
+    .test-title {
+      font-size: 0.9rem;
+      color: var(--text-secondary);
+      margin-bottom: 10px;
+    }
+
+    /* 修復後的樣式 */
+    .flashcard-example-jp {
+      font-size: 1.2rem;
+      margin-bottom: 8px;
+      line-height: 1.9;
+      text-align: center;
+    }
+
+    .flashcard-example-jp ruby {
+      ruby-position: over;
+      ruby-align: center;
+      display: ruby;
+      -webkit-ruby-position: over;
+    }
+
+    .flashcard-example-jp rt {
+      font-size: 0.55em;
+      color: var(--accent-gold);
+      font-weight: 600;
+      letter-spacing: 0.01em;
+      opacity: 0.95;
+      line-height: 1;
+      text-align: center;
+      display: ruby-text;
+    }
+
+    /* 備援方案 */
+    .flashcard-example-jp .ruby-wrapper {
+      display: inline-flex;
+      flex-direction: column;
+      align-items: center;
+      vertical-align: bottom;
+      line-height: 1.2;
+    }
+
+    .flashcard-example-jp .ruby-base {
+      font-size: 1rem;
+    }
+
+    .flashcard-example-jp .ruby-text-fallback {
+      font-size: 0.55em;
+      color: var(--accent-gold);
+      font-weight: 600;
+      line-height: 1;
+      text-align: center;
+      margin-bottom: 0.1em;
+    }
+
+    .info {
+      margin-top: 20px;
+      padding: 15px;
+      background: rgba(245, 200, 66, 0.1);
+      border-radius: var(--border-radius);
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+    }
+
+    .info strong {
+      color: var(--accent-gold);
+    }
+  </style>
+</head>
+<body>
+  <div class="test-container">
+    <h1>振り仮名（ふりがな）顯示測試</h1>
+
+    <div class="test-case">
+      <div class="test-title">測試 1: 標準 Ruby 標籤</div>
+      <div class="flashcard-example-jp">
+        <ruby>私<rt>わたし</rt></ruby>の<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>書類<rt>しょるい</rt></ruby>があります
+      </div>
+    </div>
+
+    <div class="test-case">
+      <div class="test-title">測試 2: 複雜例句</div>
+      <div class="flashcard-example-jp">
+        <ruby>明日<rt>あした</rt></ruby>は<ruby>日曜日<rt>にちようび</rt></ruby>だ
+      </div>
+    </div>
+
+    <div class="test-case">
+      <div class="test-title">測試 3: 混合文本</div>
+      <div class="flashcard-example-jp">
+        あそこに<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>があります
+      </div>
+    </div>
+
+    <div class="info">
+      <strong>修復說明：</strong><br>
+      1. 添加了 <code>display: ruby</code> 和 <code>-webkit-ruby-position: over</code> 以增強瀏覽器兼容性<br>
+      2. 調整了 <code>rt</code> 的字體大小為 0.55em 以確保更好的顯示比例<br>
+      3. 添加了 <code>line-height: 1</code> 和 <code>text-align: center</code> 以確保假名居中對齊<br>
+      4. 添加了備援方案的 CSS 類（.ruby-wrapper, .ruby-base, .ruby-text-fallback）以備不時之需
+    </div>
+  </div>
+</body>
+</html>
