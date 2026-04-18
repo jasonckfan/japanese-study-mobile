@@ -276,8 +276,11 @@ const VocabularyView: React.FC = () => {
 
     const currentPos = filteredIndices.indexOf(currentIndex);
     const hasFilteredCards = filteredIndices.length > 0;
+    // 修復：當只有一張卡片時，保持位置為0，否則正常計算下一個位置
     const nextPos = hasFilteredCards
-      ? ((currentPos >= 0 ? currentPos : 0) + 1) % filteredIndices.length
+      ? filteredIndices.length <= 1
+        ? 0
+        : ((currentPos >= 0 ? currentPos : 0) + 1) % filteredIndices.length
       : 0;
     const nextIndex = hasFilteredCards ? filteredIndices[nextPos] : undefined;
 

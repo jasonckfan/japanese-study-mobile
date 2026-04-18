@@ -145,7 +145,8 @@ export function useVocab() {
     setIsFlipped(false);
     setTimeout(() => {
       if (typeof nextIndex === 'number' && Number.isFinite(nextIndex)) {
-        const bounded = ((Math.floor(nextIndex) % cards.length) + cards.length) % cards.length;
+        // 簡化邊界檢查，確保索引在有效範圍內
+        const bounded = Math.max(0, Math.min(Math.floor(nextIndex), cards.length - 1));
         setCurrentIndex(bounded);
       } else {
         setCurrentIndex((prev) => (prev + 1) % cards.length);
