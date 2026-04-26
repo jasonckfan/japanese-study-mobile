@@ -770,6 +770,71 @@ html, body, #root {
   color: var(--text-secondary);
 }
 
+.scenario-subcount {
+  margin-top: 8px;
+  font-size: 0.75rem;
+  color: var(--accent-gold);
+  background: rgba(245, 200, 66, 0.15);
+  padding: 2px 8px;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.subscenario-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.subscenario-card {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 16px;
+  background: var(--secondary-dark);
+  border-radius: var(--border-radius);
+  box-shadow: var(--card-shadow);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.subscenario-card:active {
+  transform: scale(0.98);
+}
+
+.subscenario-icon {
+  font-size: 1.8rem;
+  flex-shrink: 0;
+}
+
+.subscenario-info {
+  flex: 1;
+}
+
+.subscenario-title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 2px;
+}
+
+.subscenario-title-cn {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  margin-bottom: 4px;
+}
+
+.subscenario-context {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  opacity: 0.8;
+}
+
+.subscenario-arrow {
+  font-size: 1.2rem;
+  color: var(--accent-gold);
+  flex-shrink: 0;
+}
+
 .chat-container {
   display: flex;
   flex-direction: column;

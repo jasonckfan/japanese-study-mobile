@@ -442,11 +442,39 @@ const ScenarioCard: React.FC<{
     <div className="scenario-icon">{scenario.icon}</div>
     <div className="scenario-title">{scenario.title}</div>
     <div className="scenario-title-cn">{scenario.titleCn}</div>
+    {scenario.subScenarios && scenario.subScenarios.length > 0 && (
+      <div className="scenario-subcount">{scenario.subScenarios.length} 個情境</div>
+    )}
   </div>
 );
 
-const ChatPractice: React.FC<{ scenario: typeof initialScenarios[0]; onBack: () => void }> = ({ scenario, onBack }) => {
-  const [messages] = useState(scenario.dialogues);
+const SubScenarioCard: React.FC<{
+  subScenario: typeof initialScenarios[0]['subScenarios'][0];
+  icon: string;
+  onClick: () => void;
+}> = ({ subScenario, icon, onClick }) => (
+  <div className="subscenario-card" onClick={onClick}>
+    <div className="subscenario-icon">{icon}</div>
+    <div className="subscenario-info">
+      <div className="subscenario-title">{subScenario.title}</div>
+      <div className="subscenario-title-cn">{subScenario.titleCn}</div>
+      <div className="subscenario-context">{subScenario.contextCn}</div>
+    </div>
+    <div className="subscenario-arrow">→</div>
+  </div>
+);
+
+const ChatPractice: React.FC<{ 
+  scenario: typeof initialScenarios[0]; 
+  subScenario?: typeof initialScenarios[0]['subScenarios'][0];
+  onBack: () => void;
+}> = ({ scenario, subScenario, onBack }) => {
+  // 使用子場景的對話，如果冇子場景就使用主場景的對話
+  const messages = subScenario ? subScenario.dialogues : scenario.dialogues;
+  const displayRoles = subScenario ? subScenario.roles : scenario.roles;
+  const displayContext = subScenario ? subScenario.contextCn : scenario.contextCn;
+  const displayTitle = subScenario ? subScenario.title : scenario.title;
+  
   const [speechRate, setSpeechRate] = useState(0.9);
   const { supported, speak } = useSpeech();
   const lastSpeakTsRef = useRef(0);
@@ -473,16 +501,16 @@ const ChatPractice: React.FC<{ scenario: typeof initialScenarios[0]; onBack: () 
         <div className="chat-header">
           <div className="chat-header-icon">{scenario.icon}</div>
           <div className="chat-header-info">
-            <h3>{scenario.title}</h3>
-            <p>{scenario.contextCn}</p>
+            <h3>{displayTitle}</h3>
+            <p>{displayContext}</p>
           </div>
         </div>
         
         <div className="chat-tap-hint">👆 直接點對話氣泡即可發音（整個氣泡都可點）</div>
         <div className="chat-messages">
           {messages.map((msg, idx) => {
-            const isFirstRole = msg.role === scenario.roles[0].id;
-            const roleLabel = isFirstRole ? scenario.roles[0].nameCn : scenario.roles[1].nameCn;
+            const isFirstRole = msg.role === displayRoles[0].id;
+            const roleLabel = isFirstRole ? displayRoles[0].nameCn : displayRoles[1].nameCn;
             const speechText = `${roleLabel}：${msg.text}`;
 
             return (
@@ -552,11 +580,53 @@ const ChatPractice: React.FC<{ scenario: typeof initialScenarios[0]; onBack: () 
 
 const ConversationView: React.FC = () => {
   const [selectedScenario, setSelectedScenario] = useState<typeof initialScenarios[0] | null>(null);
+  const [selectedSubScenario, setSelectedSubScenario] = useState<typeof initialScenarios[0]['subScenarios'][0] | null>(null);
   
-  if (selectedScenario) {
-    return <ChatPractice scenario={selectedScenario} onBack={() => setSelectedScenario(null)} />;
+  // 如果有選擇子場景，顯示對話練習
+  if (selectedSubScenario && selectedScenario) {
+    return <ChatPractice 
+      scenario={selectedScenario} 
+      subScenario={selectedSubScenario}
+      onBack={() => setSelectedSubScenario(null)} 
+    />;
   }
   
+  // 如果有選擇主場景且有子場景，顯示子場景列表
+  if (selectedScenario && selectedScenario.subScenarios && selectedScenario.subScenarios.length > 0) {
+    return (
+      <div className="fade-in">
+        <button className="back-btn" onClick={() => setSelectedScenario(null)}>← 戻る</button>
+        <div className="chat-header" style={{ marginBottom: 16 }}>
+          <div className="chat-header-icon">{selectedScenario.icon}</div>
+          <div className="chat-header-info">
+            <h3>{selectedScenario.title}</h3>
+            <p>{selectedScenario.titleCn}</p>
+          </div>
+        </div>
+        <h2 style={{ marginBottom: 16, fontSize: '1.1rem' }}>選擇情境</h2>
+        <div className="subscenario-list">
+          {selectedScenario.subScenarios.map((sub) => (
+            <SubScenarioCard 
+              key={sub.id} 
+              subScenario={sub} 
+              icon={selectedScenario.icon}
+              onClick={() => setSelectedSubScenario(sub)} 
+            />
+          ))}
+        </div>
+      </div>
+    );
+  }
+  
+  // 如果有選擇主場景但冇子場景，直接顯示對話練習（向後兼容）
+  if (selectedScenario) {
+    return <ChatPractice 
+      scenario={selectedScenario} 
+      onBack={() => setSelectedScenario(null)} 
+    />;
+  }
+  
+  // 顯示主場景列表
   return (
     <div className="fade-in">
       <HeroSection />
