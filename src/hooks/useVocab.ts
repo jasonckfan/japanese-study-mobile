@@ -145,7 +145,8 @@ export function useVocab() {
     setIsFlipped(false);
     setTimeout(() => {
       if (typeof nextIndex === 'number' && Number.isFinite(nextIndex)) {
-        const bounded = ((Math.floor(nextIndex) % cards.length) + cards.length) % cards.length;
+        // Ensure the nextIndex is within valid bounds
+        const bounded = Math.max(0, Math.min(nextIndex, cards.length - 1));
         setCurrentIndex(bounded);
       } else {
         setCurrentIndex((prev) => (prev + 1) % cards.length);

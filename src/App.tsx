@@ -276,9 +276,16 @@ const VocabularyView: React.FC = () => {
 
     const currentPos = filteredIndices.indexOf(currentIndex);
     const hasFilteredCards = filteredIndices.length > 0;
-    const nextPos = hasFilteredCards
-      ? ((currentPos >= 0 ? currentPos : 0) + 1) % filteredIndices.length
-      : 0;
+    
+    // Calculate next position: if there's only one card, stay at 0
+    // Otherwise, move to the next card (wrapping around if necessary)
+    let nextPos: number;
+    if (filteredIndices.length <= 1) {
+      nextPos = 0;
+    } else {
+      nextPos = ((currentPos >= 0 ? currentPos : 0) + 1) % filteredIndices.length;
+    }
+    
     const nextIndex = hasFilteredCards ? filteredIndices[nextPos] : undefined;
 
     if (autoPlay && typeof nextIndex === 'number') {
@@ -492,7 +499,7 @@ const ChatPractice: React.FC<{ scenario: typeof initialScenarios[0]; onBack: () 
                 title="點擊對話框播放發音"
               >
                 <div className="chat-role">{roleLabel}</div>
-                <span>{msg.text}</span>
+                <span>{renderRubyText((msg.textFurigana && msg.textFurigana.trim()) ? msg.textFurigana : msg.text)}</span>
                 {msg.textCn && <div className="chat-translation">{msg.textCn}</div>}
               </button>
             );
