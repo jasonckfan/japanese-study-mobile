@@ -276,16 +276,12 @@ const VocabularyView: React.FC = () => {
 
     const currentPos = filteredIndices.indexOf(currentIndex);
     const hasFilteredCards = filteredIndices.length > 0;
-    
-    // Calculate next position: if there's only one card, stay at 0
-    // Otherwise, move to the next card (wrapping around if necessary)
-    let nextPos: number;
-    if (filteredIndices.length <= 1) {
-      nextPos = 0;
-    } else {
-      nextPos = ((currentPos >= 0 ? currentPos : 0) + 1) % filteredIndices.length;
-    }
-    
+    // 修復：當只有一張卡片時，保持位置為0，否則正常計算下一個位置
+    const nextPos = hasFilteredCards
+      ? filteredIndices.length <= 1
+        ? 0
+        : ((currentPos >= 0 ? currentPos : 0) + 1) % filteredIndices.length
+      : 0;
     const nextIndex = hasFilteredCards ? filteredIndices[nextPos] : undefined;
 
     if (autoPlay && typeof nextIndex === 'number') {
