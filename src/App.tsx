@@ -562,7 +562,7 @@ const ChatPractice: React.FC<{
               <button className={`chip ${speechRate === 0.9 ? 'active' : ''}`} onClick={() => setSpeechRate(0.9)}>正常</button>
               <button className={`chip ${speechRate === 1 ? 'active' : ''}`} onClick={() => setSpeechRate(1)}>偏快</button>
               <button className="chip" onClick={replayStarter}>A/B 重播</button>
-              <button className="chip primary" onClick={handleOpenAudioPlayer} style={{ background: '#3b82f6', color: 'white' }}>
+              <button className="chip" onClick={handleOpenAudioPlayer} style={{ background: '#3b82f6', color: 'white', borderColor: '#3b82f6' }}>
                 ▶️ 全篇播放
               </button>
             </div>
