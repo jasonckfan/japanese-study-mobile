@@ -1,6 +1,8 @@
 import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { useVocab } from './hooks/useVocab';
 import { useSpeech } from './hooks/useSpeech';
+import { useScenarioAudio } from './hooks/useScenarioAudio';
+import AudioPlayer from './components/AudioPlayer';
 import { initialScenarios } from './data/vocab';
 import { sigureResources } from './data/sigure';
 import './styles/App.css';
@@ -478,6 +480,26 @@ const ChatPractice: React.FC<{
   const [speechRate, setSpeechRate] = useState(0.9);
   const { supported, speak } = useSpeech();
   const lastSpeakTsRef = useRef(0);
+  
+  // 全篇播放功能
+  const {
+    isPlayerOpen,
+    currentScenarioTitle,
+    audioSegments,
+    isPlaying,
+    currentIndex,
+    openScenarioAudio,
+    closePlayer,
+    play,
+    pause,
+    next,
+    previous,
+    seekTo,
+  } = useScenarioAudio();
+
+  const handleOpenAudioPlayer = () => {
+    openScenarioAudio(scenario, subScenario);
+  };
 
   const replayStarter = () => {
     const starter = messages.slice(0, 2);
@@ -540,6 +562,9 @@ const ChatPractice: React.FC<{
               <button className={`chip ${speechRate === 0.9 ? 'active' : ''}`} onClick={() => setSpeechRate(0.9)}>正常</button>
               <button className={`chip ${speechRate === 1 ? 'active' : ''}`} onClick={() => setSpeechRate(1)}>偏快</button>
               <button className="chip" onClick={replayStarter}>A/B 重播</button>
+              <button className="chip primary" onClick={handleOpenAudioPlayer} style={{ background: '#3b82f6', color: 'white' }}>
+                ▶️ 全篇播放
+              </button>
             </div>
           )}
 
@@ -574,6 +599,21 @@ const ChatPractice: React.FC<{
           )}
         </div>
       </div>
+      
+      {/* Audio Player */}
+      <AudioPlayer
+        isOpen={isPlayerOpen}
+        scenarioTitle={currentScenarioTitle}
+        segments={audioSegments}
+        isPlaying={isPlaying}
+        currentIndex={currentIndex}
+        onClose={closePlayer}
+        onPlay={play}
+        onPause={pause}
+        onNext={next}
+        onPrevious={previous}
+        onSeek={seekTo}
+      />
     </div>
   );
 };
